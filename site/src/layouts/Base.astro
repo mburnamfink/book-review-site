@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { getCollection } from 'astro:content';
 
 interface Props {
   title: string;
@@ -8,6 +9,9 @@ interface Props {
 }
 
 const { title, description, ogImage } = Astro.props;
+
+const latestBoty = (await getCollection('booksOfYear'))
+  .sort((a, b) => b.data.year - a.data.year)[0];
 const siteTitle = 'Book Reviews';
 const pageTitle = title === siteTitle ? siteTitle : `${title} — ${siteTitle}`;
 ---
@@ -30,7 +34,10 @@ const pageTitle = title === siteTitle ? siteTitle : `${title} — ${siteTitle}`;
   <body>
     <header class="site-header">
       <a href="/" class="site-title">{siteTitle}</a>
-      <nav>Plain-text reviews, no algorithms.</nav>
+      <nav class="site-nav">
+        {latestBoty && <a href={`/books-of-year/${latestBoty.id}/`}>Books of the Year</a>}
+        <a href="/about/">About</a>
+      </nav>
     </header>
     <main>
       <slot />

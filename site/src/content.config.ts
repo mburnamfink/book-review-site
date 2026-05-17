@@ -43,4 +43,13 @@ const reviews = defineCollection({
   }),
 });
 
-export const collections = { reviews };
+const booksOfYear = defineCollection({
+  loader: glob({ pattern: '*.md', base: './src/content/books-of-year' }),
+  schema: z.object({
+    title: z.string(),
+    year: z.number(),
+    description: z.string().optional(),
+  }),
+});
+
+export const collections = { reviews, booksOfYear };

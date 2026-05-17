@@ -46,11 +46,19 @@ a:hover { text-decoration: underline; }
 
 .site-header .site-title:hover { text-decoration: none; color: var(--accent); }
 
-.site-header nav {
-  font-family: var(--sans);
-  font-size: 0.8rem;
+.site-nav {
+  display: flex;
+  gap: 1.5rem;
+  font-size: 0.85rem;
+}
+
+.site-nav a {
   color: var(--muted);
-  font-style: italic;
+}
+
+.site-nav a:hover {
+  color: var(--text);
+  text-decoration: none;
 }
 
 /* ── Main ── */
@@ -371,6 +379,17 @@ main {
 }
 
 .list-pill:hover { background: #d1d5db; color: var(--text); }
+
+/* ── Prose pages (About, Books of the Year, etc.) ── */
+.prose-page { max-width: 70ch; }
+
+.prose-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin: 0 0 2rem;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
 
 /* ── Review detail page ── */
 .review-title {
