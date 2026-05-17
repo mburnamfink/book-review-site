@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
   // Serve content/reviews/ as static files so cover.jpg paths like
   // /book/going-after-cacciato-obrien/cover.jpg resolve correctly.
-  publicDir: '../content/reviews',
+  publicDir: '../../book-review-content/reviews',
   vite: {
     server: {
       fs: {

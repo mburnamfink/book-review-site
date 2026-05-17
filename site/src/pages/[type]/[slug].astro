@@ -15,7 +15,13 @@ export async function getStaticPaths() {
 
 const { review } = Astro.props;
 const { type, slug } = Astro.params;
-const { Content } = await render(review);
+let Content: any;
+try {
+  ({ Content } = await render(review));
+} catch (e) {
+  console.error(`Failed to render review ${review.id}:`, e);
+  Content = () => null;
+}
 const d = review.data;
 
 function authorLine(authors: typeof d.authors) {
@@ -44,8 +50,10 @@ const description = d.authors.length
 ---
 
 <Base title={d.title} description={description} ogImage={d.og_cover ? ogCoverUrl : undefined}>
-  <div class="review-layout">
-    <!-- Cover -->
+  <h1 class="review-title">{d.title}</h1>
+  <p class="review-byline">by {authorLine(d.authors)}</p>
+
+  <div class="review-sidebar">
     <div class="review-cover-wrap">
       {d.cover
         ? <img class="review-cover-img" src={coverUrl} alt={`Cover of ${d.title}`} />
@@ -53,65 +61,59 @@ const description = d.authors.length
       }
     </div>
 
-    <!-- Meta + body -->
-    <div>
-      <div class="review-meta">
-        <h1>{d.title}</h1>
-        <p class="review-byline">by {authorLine(d.authors)}</p>
+    <div class="review-meta">
+      {d.rating !== undefined && (
+        <p class="rating-display">{stars(d.rating)} <span class="rating-num">({d.rating} / 5)</span></p>
+      )}
 
-        {d.rating !== undefined && (
-          <p class="rating-display">{stars(d.rating)} <span style="font-size:0.9rem; color: var(--muted);">({d.rating} / 5)</span></p>
-        )}
+      {d.tags.length > 0 && (
+        <div class="tags">
+          {d.tags.map(tag => <a href={`/?tag=${encodeURIComponent(tag)}`} class="tag">{tag}</a>)}
+        </div>
+      )}
 
-        {d.tags.length > 0 && (
-          <div class="tags">
-            {d.tags.map(tag => <span class="tag">{tag}</span>)}
-          </div>
-        )}
+      <table class="meta-table">
+        <tbody>
+          {d.publication_year && (
+            <tr><th>Published</th><td>{d.publication_year}{d.publisher ? ` · ${d.publisher}` : ''}</td></tr>
+          )}
+          {d.type === 'book' && d.page_count && (
+            <tr><th>Pages</th><td>{d.page_count}</td></tr>
+          )}
+          {d.type === 'audiobook' && d.narrator && (
+            <tr><th>Narrator</th><td>{[d.narrator.first, d.narrator.last].filter(Boolean).join(' ')}</td></tr>
+          )}
+          {d.type === 'audiobook' && d.runtime_hours && (
+            <tr><th>Runtime</th><td>{d.runtime_hours}h{d.abridged ? ' (abridged)' : ''}</td></tr>
+          )}
+          {d.type === 'rpg' && d.system && (
+            <tr><th>System</th><td>{d.system}</td></tr>
+          )}
+          {d.isbn && (
+            <tr><th>ISBN</th><td>{d.isbn}</td></tr>
+          )}
+          <tr><th>Reviewed</th><td>{formatDate(d.date_reviewed)}</td></tr>
+        </tbody>
+      </table>
 
-        <table class="meta-table">
-          <tbody>
-            {d.publication_year && (
-              <tr><th>Published</th><td>{d.publication_year}{d.publisher ? ` · ${d.publisher}` : ''}</td></tr>
-            )}
-            {d.type === 'book' && d.page_count && (
-              <tr><th>Pages</th><td>{d.page_count}</td></tr>
-            )}
-            {d.type === 'audiobook' && d.narrator && (
-              <tr><th>Narrator</th><td>{[d.narrator.first, d.narrator.last].filter(Boolean).join(' ')}</td></tr>
-            )}
-            {d.type === 'audiobook' && d.runtime_hours && (
-              <tr><th>Runtime</th><td>{d.runtime_hours}h{d.abridged ? ' (abridged)' : ''}</td></tr>
-            )}
-            {d.type === 'rpg' && d.system && (
-              <tr><th>System</th><td>{d.system}</td></tr>
-            )}
-            {d.isbn && (
-              <tr><th>ISBN</th><td>{d.isbn}</td></tr>
-            )}
-            <tr><th>Reviewed</th><td>{formatDate(d.date_reviewed)}</td></tr>
-          </tbody>
-        </table>
-
-        {d.reads.length > 0 && (
-          <ul class="reads-list">
-            {d.reads.map(r => (
-              <li>
-                {r.dnf ? 'DNF' : 'Read'} {r.year}
-                {r.date_started && r.date_finished && (
-                  <> · {formatDate(r.date_started)} – {formatDate(r.date_finished)}</>
-                )}
-              </li>
-            ))}
-          </ul>
-        )}
-      </div>
-
-      <hr class="divider" />
-
-      <div class="review-body">
-        <Content />
-      </div>
+      {d.reads.length > 0 && (
+        <ul class="reads-list">
+          {d.reads.map(r => (
+            <li>
+              {r.dnf ? 'DNF' : 'Read'} <a href={`/?year=${r.year}`}>{r.year}</a>
+              {r.date_started && r.date_finished && (
+                <> · {formatDate(r.date_started)} – {formatDate(r.date_finished)}</>
+              )}
+            </li>
+          ))}
+        </ul>
+      )}
     </div>
+  </div>
+
+  <hr class="divider" />
+
+  <div class="review-body">
+    <Content />
   </div>
 </Base>

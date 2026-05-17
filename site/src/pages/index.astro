@@ -2,62 +2,331 @@
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 
-const allReviews = await getCollection('reviews');
+const raw = (await getCollection('reviews')).filter(r => {
+  try { return r.data.date_reviewed instanceof Date && !isNaN(r.data.date_reviewed.getTime()); }
+  catch { return false; }
+});
 
-// Sort newest-reviewed first
-allReviews.sort((a, b) => b.data.date_reviewed.getTime() - a.data.date_reviewed.getTime());
-
-function authorLine(authors: typeof allReviews[0]['data']['authors']) {
-  return authors
-    .map(a => [a.first, a.last].filter(Boolean).join(' '))
-    .join(', ');
+function serverSlugify(str: string): string {
+  return str.toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 }
 
-function stars(rating: number): string {
-  const full = Math.floor(rating);
-  const half = rating % 1 >= 0.5;
-  const empty = 5 - full - (half ? 1 : 0);
-  return '★'.repeat(full) + (half ? '⯨' : '') + '☆'.repeat(empty);
+const reviewData = raw.map(r => {
+  const parts = r.id.split('/');
+  const type = parts[0];
+  const slug = parts[1];
+  const primaryAuthors = r.data.authors.filter(
+    a => a.role === 'author' || a.role === 'editor'
+  );
+  return {
+    type,
+    slug,
+    title: r.data.title,
+    authors: primaryAuthors.map(a => ({
+      first: a.first ?? '',
+      last: a.last,
+      slug: serverSlugify([a.first ?? '', a.last].filter(Boolean).join(' ')),
+    })),
+    rating: r.data.rating ?? null,
+    tags: r.data.tags,
+    readYears: [...new Set(r.data.reads.map(rd => rd.year))].sort((a, b) => b - a),
+    hasCover: !!r.data.cover,
+    dateReviewed: r.data.date_reviewed.toISOString().slice(0, 10),
+  };
+});
+
+const tagCounts: Record<string, number> = {};
+const yearCounts: Record<number, number> = {};
+for (const r of reviewData) {
+  for (const tag of r.tags) tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+  for (const y of r.readYears) yearCounts[y] = (yearCounts[y] || 0) + 1;
 }
 
-function formatYear(date: Date): string {
-  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' });
-}
+const allTags = Object.entries(tagCounts)
+  .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+  .map(([tag, count]) => ({ tag, count }));
 
-// Derive URL-friendly type/slug from the content entry id.
-// id looks like: "book/going-after-cacciato-obrien/index"
-function entryParts(id: string) {
-  const parts = id.split('/');
-  return { type: parts[0], slug: parts[1] };
-}
+const allYears = Object.entries(yearCounts)
+  .map(([y, count]) => ({ year: parseInt(y), count }))
+  .sort((a, b) => b.year - a.year);
 ---
 
 <Base title="Book Reviews">
   <h1 class="page-heading">Book Reviews</h1>
-  <p class="page-subheading">{allReviews.length} review{allReviews.length !== 1 ? 's' : ''}</p>
+  <input type="search" id="search-input" class="search-input" placeholder="Search by title or author…" autocomplete="off" />
 
-  <div class="review-grid">
-    {allReviews.map(review => {
-      const { type, slug } = entryParts(review.id);
-      const href = `/${type}/${slug}/`;
-      const coverUrl = `/${type}/${slug}/cover.jpg`;
+  <div class="index-layout">
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <div class="sidebar-heading">Year</div>
+        <ul class="sidebar-links">
+          <li><button class="sidebar-link" data-filter-year="">All years</button></li>
+          {allYears.map(({ year, count }) => (
+            <li>
+              <button class="sidebar-link" data-filter-year={String(year)}>
+                {year}<span class="sidebar-count">{count}</span>
+              </button>
+            </li>
+          ))}
+        </ul>
+      </div>
 
-      return (
-        <div class="review-card">
-          <a href={href}>
-            {review.data.cover
-              ? <img class="card-cover" src={coverUrl} alt={`Cover of ${review.data.title}`} loading="lazy" />
-              : <div class="cover-placeholder">{review.data.title}</div>
-            }
-            <p class="card-title">{review.data.title}</p>
-            <p class="card-author">{authorLine(review.data.authors)}</p>
-            {review.data.rating !== undefined && (
-              <p class="card-rating">{stars(review.data.rating)}</p>
-            )}
-            <p class="card-date">{formatYear(review.data.date_reviewed)}</p>
-          </a>
+      <div class="sidebar-section">
+        <div class="sidebar-heading">Tags</div>
+        <ul class="sidebar-links">
+          <li><button class="sidebar-link" data-filter-tag="">All tags</button></li>
+          {allTags.map(({ tag, count }) => (
+            <li>
+              <button class="sidebar-link" data-filter-tag={tag}>
+                {tag}<span class="sidebar-count">{count}</span>
+              </button>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </aside>
+
+    <div class="index-main">
+      <div class="index-toolbar">
+        <span id="review-count" class="review-count-label"></span>
+        <div class="sort-bar">
+          <span class="sort-label">Sort:</span>
+          <button class="sort-btn" data-sort="date">Date</button>
+          <button class="sort-btn" data-sort="rating">Rating</button>
+          <button class="sort-btn" data-sort="title">Title</button>
+          <button class="sort-btn" data-sort="author">Author</button>
         </div>
-      );
-    })}
+      </div>
+      <div id="review-list" class="review-list"></div>
+    </div>
   </div>
 </Base>
+
+<script define:vars={{ reviewData }}>
+const reviews = reviewData;
+
+function getParams() {
+  const p = new URLSearchParams(location.search);
+  return {
+    tag:    p.get('tag')    || '',
+    year:   p.get('year')   || '',
+    author: p.get('author') || '',
+    sort:   p.get('sort')   || 'date',
+    dir:    p.get('dir')    || '',
+    search: p.get('q')      || '',
+  };
+}
+
+function setParam(key, value) {
+  const p = new URLSearchParams(location.search);
+  if (value) p.set(key, value); else p.delete(key);
+  const qs = p.toString();
+  history.pushState({}, '', qs ? '?' + qs : location.pathname);
+}
+
+function setParams(updates) {
+  const p = new URLSearchParams(location.search);
+  for (const [key, value] of Object.entries(updates)) {
+    if (value) p.set(key, value); else p.delete(key);
+  }
+  const qs = p.toString();
+  history.pushState({}, '', qs ? '?' + qs : location.pathname);
+}
+
+function filterReviews(list, { tag, year, author, search }) {
+  const q = search.toLowerCase();
+  return list.filter(r => {
+    if (tag    && !r.tags.includes(tag))                               return false;
+    if (year   && !r.readYears.includes(parseInt(year)))               return false;
+    if (author && !r.authors.some(a => a.slug === author))             return false;
+    if (q) {
+      const titleMatch  = r.title.toLowerCase().includes(q);
+      const authorMatch = r.authors.some(a =>
+        `${a.first} ${a.last}`.toLowerCase().includes(q)
+      );
+      if (!titleMatch && !authorMatch) return false;
+    }
+    return true;
+  });
+}
+
+function sortReviews(list, by, dir) {
+  const s = [...list];
+  if (by === 'rating') {
+    s.sort((a, b) => (b.rating ?? -1) - (a.rating ?? -1) || a.title.localeCompare(b.title));
+    return dir === 'rev' ? s.reverse() : s;
+  }
+  if (by === 'title') {
+    s.sort((a, b) => a.title.localeCompare(b.title));
+    return dir === 'rev' ? s.reverse() : s;
+  }
+  if (by === 'author') {
+    s.sort((a, b) => {
+      const al = a.authors[0]?.last || '', bl = b.authors[0]?.last || '';
+      return al.localeCompare(bl) || a.title.localeCompare(b.title);
+    });
+    return dir === 'rev' ? s.reverse() : s;
+  }
+  // default: date (most recent read year, then dateReviewed)
+  s.sort((a, b) => {
+    const ay = a.readYears[0] ?? 0, by_ = b.readYears[0] ?? 0;
+    return by_ - ay || b.dateReviewed.localeCompare(a.dateReviewed);
+  });
+  return dir === 'rev' ? s.reverse() : s;
+}
+
+function stars(rating) {
+  if (rating == null) return '';
+  const full = Math.floor(rating);
+  const half = rating % 1 >= 0.5;
+  return '★'.repeat(full) + (half ? '⯨' : '') + '☆'.repeat(5 - full - (half ? 1 : 0));
+}
+
+function esc(str) {
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function renderItem(r) {
+  const href      = `/${r.type}/${r.slug}/`;
+  const coverUrl  = `/${r.type}/${r.slug}/cover.jpg`;
+
+  const coverHtml = r.hasCover
+    ? `<img class="list-cover" src="${esc(coverUrl)}" alt="" loading="lazy">`
+    : `<div class="list-cover list-cover--placeholder"></div>`;
+
+  const authorHtml = r.authors.map(a => {
+    const name = [a.first, a.last].filter(Boolean).join(' ');
+    return `<button class="author-link" data-filter-author="${esc(a.slug)}">${esc(name)}</button>`;
+  }).join(', ');
+
+  const starsHtml = r.rating != null
+    ? `<span class="list-rating">${stars(r.rating)}</span>`
+    : `<span class="list-rating list-rating--dnf">DNF</span>`;
+
+  const yearsHtml = r.readYears
+    .map(y => `<button class="list-pill" data-filter-year="${y}">${y}</button>`)
+    .join('');
+
+  const tagsHtml = r.tags.slice(0, 3)
+    .map(t => `<button class="list-pill" data-filter-tag="${esc(t)}">${esc(t)}</button>`)
+    .join('');
+
+  return `
+    <div class="list-item">
+      <a href="${esc(href)}" class="list-cover-link" tabindex="-1">${coverHtml}</a>
+      <div class="list-body">
+        <a href="${esc(href)}" class="list-title">${esc(r.title)}</a>
+        <div class="list-author">${authorHtml}</div>
+        <div class="list-meta">${starsHtml}${yearsHtml}${tagsHtml}</div>
+      </div>
+    </div>`;
+}
+
+function updateUI(params) {
+  // sidebar active states
+  document.querySelectorAll('.sidebar-link[data-filter-tag]').forEach(el => {
+    el.classList.toggle('active', el.dataset.filterTag === params.tag);
+  });
+  document.querySelectorAll('.sidebar-link[data-filter-year]').forEach(el => {
+    el.classList.toggle('active', el.dataset.filterYear === params.year);
+  });
+  document.querySelectorAll('.sort-btn').forEach(el => {
+    const isActive = el.dataset.sort === params.sort;
+    el.classList.toggle('active',     isActive && params.dir !== 'rev');
+    el.classList.toggle('active-rev', isActive && params.dir === 'rev');
+  });
+}
+
+function attachListHandlers() {
+  document.querySelectorAll('#review-list [data-filter-tag]').forEach(el => {
+    el.addEventListener('click', () => {
+      const cur = getParams();
+      setParam('tag', cur.tag === el.dataset.filterTag ? '' : el.dataset.filterTag);
+      render();
+    });
+  });
+  document.querySelectorAll('#review-list [data-filter-year]').forEach(el => {
+    el.addEventListener('click', () => {
+      const cur = getParams();
+      setParam('year', cur.year === el.dataset.filterYear ? '' : el.dataset.filterYear);
+      render();
+    });
+  });
+  document.querySelectorAll('#review-list [data-filter-author]').forEach(el => {
+    el.addEventListener('click', () => {
+      const cur = getParams();
+      setParam('author', cur.author === el.dataset.filterAuthor ? '' : el.dataset.filterAuthor);
+      render();
+    });
+  });
+}
+
+function render() {
+  const params   = getParams();
+  const filtered = filterReviews(reviews, params);
+  const sorted   = sortReviews(filtered, params.sort, params.dir);
+
+  document.getElementById('review-list').innerHTML = sorted.map(renderItem).join('');
+
+  const countEl = document.getElementById('review-count');
+  if (countEl) {
+    const total = reviews.length;
+    countEl.textContent = filtered.length < total
+      ? `${filtered.length.toLocaleString()} of ${total.toLocaleString()} reviews`
+      : `${total.toLocaleString()} reviews`;
+  }
+
+  updateUI(params);
+  attachListHandlers();
+
+  // Sync search input without stealing focus
+  const searchEl = document.getElementById('search-input');
+  if (searchEl && searchEl !== document.activeElement) {
+    searchEl.value = params.search;
+  }
+}
+
+// Sidebar filter buttons
+document.querySelectorAll('.sidebar-link[data-filter-tag]').forEach(el => {
+  el.addEventListener('click', () => {
+    const cur = getParams();
+    setParam('tag', cur.tag === el.dataset.filterTag ? '' : el.dataset.filterTag);
+    render();
+  });
+});
+document.querySelectorAll('.sidebar-link[data-filter-year]').forEach(el => {
+  el.addEventListener('click', () => {
+    const cur = getParams();
+    setParam('year', cur.year === el.dataset.filterYear ? '' : el.dataset.filterYear);
+    render();
+  });
+});
+
+// Sort buttons
+document.querySelectorAll('.sort-btn').forEach(el => {
+  el.addEventListener('click', () => {
+    const params = getParams();
+    if (el.dataset.sort === params.sort) {
+      setParams({ dir: params.dir === 'rev' ? '' : 'rev' });
+    } else {
+      setParams({ sort: el.dataset.sort, dir: '' });
+    }
+    render();
+  });
+});
+
+// Search input
+let searchTimer;
+document.getElementById('search-input').addEventListener('input', e => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    setParam('q', e.target.value.trim());
+    render();
+  }, 180);
+});
+
+window.addEventListener('popstate', render);
+render();
+</script>

@@ -15,15 +15,15 @@ const readRecord = z.object({
 });
 
 const reviews = defineCollection({
-  loader: glob({ pattern: '**/index.md', base: '../content/reviews' }),
+  loader: glob({ pattern: '**/index.md', base: '../../book-review-content/reviews' }),
   schema: z.object({
     title: z.string(),
     authors: z.array(contributor),
     type: z.enum(['book', 'audiobook', 'rpg', 'other']),
-    isbn: z.string().optional(),
-    publication_year: z.number().optional(),
-    publisher: z.string().optional(),
-    rating: z.number().min(1).max(5).optional(),
+    isbn: z.preprocess(v => v ?? undefined, z.coerce.string().optional()),
+    publication_year: z.preprocess(v => v ?? undefined, z.number().optional()),
+    publisher: z.preprocess(v => v ?? undefined, z.string().optional()),
+    rating: z.preprocess(v => v ?? undefined, z.number().min(1).max(5).optional()),
     date_reviewed: z.coerce.date(),
     reads: z.array(readRecord).min(1),
     tags: z.array(z.string()).default([]),
