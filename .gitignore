@@ -1,0 +1,11 @@
+# Astro
+site/node_modules/
+site/.astro/
+site/dist/
+site/.env
+.claude/*
+package-lock.json
+
+# Covers and images — use Git LFS or omit until you decide on image hosting
+# content/reviews/**/*.jpg
+# content/reviews/**/*.png

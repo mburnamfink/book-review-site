@@ -1,0 +1,63 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const allReviews = await getCollection('reviews');
+
+// Sort newest-reviewed first
+allReviews.sort((a, b) => b.data.date_reviewed.getTime() - a.data.date_reviewed.getTime());
+
+function authorLine(authors: typeof allReviews[0]['data']['authors']) {
+  return authors
+    .map(a => [a.first, a.last].filter(Boolean).join(' '))
+    .join(', ');
+}
+
+function stars(rating: number): string {
+  const full = Math.floor(rating);
+  const half = rating % 1 >= 0.5;
+  const empty = 5 - full - (half ? 1 : 0);
+  return '★'.repeat(full) + (half ? '⯨' : '') + '☆'.repeat(empty);
+}
+
+function formatYear(date: Date): string {
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'short' });
+}
+
+// Derive URL-friendly type/slug from the content entry id.
+// id looks like: "book/going-after-cacciato-obrien/index"
+function entryParts(id: string) {
+  const parts = id.split('/');
+  return { type: parts[0], slug: parts[1] };
+}
+---
+
+<Base title="Book Reviews">
+  <h1 class="page-heading">Book Reviews</h1>
+  <p class="page-subheading">{allReviews.length} review{allReviews.length !== 1 ? 's' : ''}</p>
+
+  <div class="review-grid">
+    {allReviews.map(review => {
+      const { type, slug } = entryParts(review.id);
+      const href = `/${type}/${slug}/`;
+      const coverUrl = `/${type}/${slug}/cover.jpg`;
+
+      return (
+        <div class="review-card">
+          <a href={href}>
+            {review.data.cover
+              ? <img class="card-cover" src={coverUrl} alt={`Cover of ${review.data.title}`} loading="lazy" />
+              : <div class="cover-placeholder">{review.data.title}</div>
+            }
+            <p class="card-title">{review.data.title}</p>
+            <p class="card-author">{authorLine(review.data.authors)}</p>
+            {review.data.rating !== undefined && (
+              <p class="card-rating">{stars(review.data.rating)}</p>
+            )}
+            <p class="card-date">{formatYear(review.data.date_reviewed)}</p>
+          </a>
+        </div>
+      );
+    })}
+  </div>
+</Base>
