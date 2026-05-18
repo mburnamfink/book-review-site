@@ -116,4 +116,121 @@ const description = d.authors.length
   <div class="review-body">
     <Content />
   </div>
+
+  <hr class="divider" />
+
+  <section class="bsky-section">
+    <h2 class="bsky-heading">Discussion</h2>
+    {d.bsky_post
+      ? <div id="bsky-comments" data-uri={d.bsky_post}><p class="bsky-muted">Loading discussion…</p></div>
+      : <a id="bsky-share-btn" href="#" target="_blank" rel="noopener noreferrer" class="bsky-share-btn">Post about this on Bluesky</a>
+    }
+  </section>
 </Base>
+
+<script>
+// Share button — build intent URL client-side so it picks up the live page URL
+const shareBtn = document.getElementById('bsky-share-btn');
+if (shareBtn) {
+  const title = document.querySelector('.review-title')?.textContent?.trim() ?? document.title;
+  shareBtn.href =
+    'https://bsky.app/intent/compose?text=' +
+    encodeURIComponent(title + '\n' + location.href);
+}
+
+// Comment section
+const commentsEl = document.getElementById('bsky-comments');
+if (commentsEl) loadThread(toAtUri(commentsEl.dataset.uri), commentsEl);
+
+function toAtUri(raw) {
+  // Accept either a web URL or an AT URI
+  if (raw.startsWith('at://')) return raw;
+  // https://bsky.app/profile/{handle}/post/{rkey}
+  const m = raw.match(/bsky\.app\/profile\/([^/]+)\/post\/([^/?#]+)/);
+  if (m) return `at://${m[1]}/app.bsky.feed.post/${m[2]}`;
+  return raw;
+}
+
+function atToUrl(uri) {
+  const [did, , rkey] = uri.replace('at://', '').split('/');
+  return `https://bsky.app/profile/${did}/post/${rkey}`;
+}
+
+function esc(s) {
+  return String(s ?? '')
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function fmtDate(iso) {
+  return new Date(iso).toLocaleDateString('en-US', {
+    year: 'numeric', month: 'short', day: 'numeric',
+  });
+}
+
+function renderReply(tp, depth = 0) {
+  if (tp?.$type !== 'app.bsky.feed.defs#threadViewPost' || !tp.post) return '';
+  const { post, replies = [] } = tp;
+  const a = post.author;
+  const indent = depth > 0 ? ` style="margin-left:${depth * 1.5}rem"` : '';
+
+  const nested = replies
+    .filter(r => r.$type === 'app.bsky.feed.defs#threadViewPost')
+    .sort((a, b) => (b.post?.likeCount ?? 0) - (a.post?.likeCount ?? 0))
+    .slice(0, depth === 0 ? 50 : 5)
+    .map(r => renderReply(r, depth + 1))
+    .join('');
+
+  return `
+    <div class="bsky-comment"${indent}>
+      <div class="bsky-comment-header">
+        ${a.avatar
+          ? `<img class="bsky-avatar" src="${esc(a.avatar)}" alt="" loading="lazy">`
+          : '<div class="bsky-avatar bsky-avatar--empty"></div>'}
+        <div class="bsky-author">
+          <span class="bsky-display-name">${esc(a.displayName || a.handle)}</span>
+          <a href="https://bsky.app/profile/${esc(a.handle)}" class="bsky-handle" target="_blank" rel="noopener">@${esc(a.handle)}</a>
+        </div>
+        <a href="${esc(atToUrl(post.uri))}" class="bsky-date" target="_blank" rel="noopener">${fmtDate(post.record?.createdAt)}</a>
+      </div>
+      <p class="bsky-text">${esc(post.record?.text ?? '')}</p>
+      ${post.likeCount ? `<span class="bsky-likes">♥ ${post.likeCount}</span>` : ''}
+      ${nested}
+    </div>`;
+}
+
+async function loadThread(uri, el) {
+  try {
+    const res = await fetch(
+      `https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread` +
+      `?uri=${encodeURIComponent(uri)}&depth=6&parentHeight=0`
+    );
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const { thread } = await res.json();
+
+    if (thread.$type !== 'app.bsky.feed.defs#threadViewPost') {
+      el.innerHTML = '<p class="bsky-muted">Post not found or unavailable.</p>';
+      return;
+    }
+
+    const { post, replies = [] } = thread;
+    const validReplies = replies
+      .filter(r => r.$type === 'app.bsky.feed.defs#threadViewPost')
+      .sort((a, b) => (b.post?.likeCount ?? 0) - (a.post?.likeCount ?? 0));
+
+    el.innerHTML = `
+      <div class="bsky-stats">
+        <a href="${esc(atToUrl(uri))}" target="_blank" rel="noopener" class="bsky-thread-link">View on Bluesky</a>
+        <span>♥ ${post.likeCount ?? 0} likes</span>
+        <span>${post.repostCount ?? 0} reposts</span>
+        <span>${post.replyCount ?? 0} replies</span>
+      </div>
+      ${validReplies.length
+        ? `<div class="bsky-comment-list">${validReplies.map(r => renderReply(r)).join('')}</div>`
+        : '<p class="bsky-muted">No replies yet.</p>'
+      }`;
+  } catch (e) {
+    el.innerHTML = `<p class="bsky-muted">Could not load discussion: ${esc(e.message)}</p>`;
+  }
+}
+</script>

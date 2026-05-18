@@ -40,6 +40,8 @@ const reviews = defineCollection({
     format: z.string().optional(),
     // other
     medium: z.string().optional(),
+    // bluesky
+    bsky_post: z.preprocess(v => v ?? undefined, z.string().optional()),
   }),
 });
 
