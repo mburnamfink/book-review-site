@@ -1,0 +1,37 @@
+---
+authors:
+- first: Emily
+  last: Guendelsberger
+  role: author
+cover: ./cover.jpg
+date_reviewed: 2021-03-24
+isbn: '9780316509008'
+og_cover: ./og-cover.jpg
+page_count: 335
+publication_year: 2019
+publisher: Little, Brown and Company
+rating: 5.0
+reads:
+- year: 2021
+- year: 2021
+tags:
+- non-fiction
+title: 'On the Clock: What Low-Wage Work Did to Me and How It Drives America Insane'
+type: book
+---
+
+Emily Guendelsberger was a moderately successful journalist when her alt-weekly newspaper shuttered in 2015, and she launched a project taking and writing some of the most common and most stressful jobs in America: Amazon warehouse picker, call center representative, and McDonald's cashier. Guendelsberger describes these as "cyborg jobs", a human being filling in for the messy interstices of an imperfect automated system, and blends her personal experiences of how utter exhausting and alienating these jobs are with a history of how it got this way.  If you're in the 50% of Americans who don't work one of these jobs, who's time isn't tracked minute by minute, you have to read this book.
+
+The primary enemy in Guendelsberger's story is leanness in staffing.  Payroll is an expense, and businesses like to cut that to the absolute bone.  So to make sure that work gets done, they institute a system of arbitrary controls and punishments, second by second analysis of action, backed up metrics, points systems, and rapid firings.
+
+Each of the workplaces is horrific in its own way.  Amazon is notorious for its physically strenuous warehouse work, with pickers walking 15 miles a day, bending over and grabbing items thousands of times, warehouses that are boiling or freezing depending on the season, and vending machines filled with free painkillers. But the real horror of Amazon is isolation. The Algorithm (and as a data scientist, I feel comfortable using caps here) which guides pickers to their targets seems to route them around each other.  You're effectively alone in a cyclopean logistics space, occasionally glimpsing other people a few hundred feet away. Conversation is impossible, thanks to the constant thrum of machinery, and workers are also forbidden from listening to their own music or podcasts, for reasonable safety concerns. Amazon work is carefully designed to be just at the limits of human physical endurance. Sanity is a different matter.
+
+Next up is a Convergys call center, doing customer service for AT&T.  While most of the time is spent explaining to people data overages on their bill, the actual job is sales, trying to convince people to switch to DirecTV.  Call center work is a matter of juggling balls, as doing anything requires navigating through eight different shoddy backend apps, holding personal information in short term memory, selling more AT&T products, and of course trying to actually solve issue whatever brought the person there in the first place.  But any call could flip from 'okay' to a terrible Screamer, a torrent of unending abuse that sent Guendelsberger into a panic. After a Screamer, there was no way to pause, just a few seconds until the next call, and it seems like the people on the other end of the phone could sense the weakness like a shark and continue the abuse.  Guendelsberger was homeless for this stretch (she stayed with relatives for the Amazon gig), and living out of her car in a North Carolina summer took it own toll. She began spending 105% of her daily paycheck on hotel rooms to maintain a semblance of sanity until a coworker took pity and offered her a cheap spare room. And while this is pre-COVID, another coworker caught MRSA at the same call center and almost died. Good times!
+
+The last job was at a downtown San Francisco McDonalds.  Guendelsberger worked the cash register, where her white skin and impeccable English skills served as an asset. McDonalds allowed better human interaction, but was physically dangerous in a way that other jobs weren't. A customer threw mustard at her, she was injured by a broken coffee machine, and she had to kick the homeless out of the store at times. There's open respect for her shift managers at McDonalds, preternaturally fast and efficient women, while immediate superiors at the other jobs are merely fortunate or tyrannical, but in many ways McDonalds was the worst job of them all.
+
+Guendelsberger breaks up her workplace ethnography with delves into the history of Taylorism and scientific management, Henry Ford and mass production, and finally the physiology of stress and how these environments drive you insane and slowly kill you. And as a former *The Onion* writer, it's pretty funny too. Except for the part where it is utterly horrifying.  The history of Capital and Labor has been defined by Capital's belief that Labor is stealing from it by not working as hard as possible at all times, and now with panopticonic workplace surveillance systems, they can finally prove it.  Amazon has the glossiest version, with a slick backend and a palpable lust [to replace its humans with robots as soon as the tech gets worked out](https://www.youtube.com/watch?v=tMpsMt7ETi8). Convergys is just throwing humans into the a gap of terrible backend systems that won't get reengineered because there's no clear profit in it. McDonalds probably needs humans the most, though they are focusing on eliminating human cashiers in favor of automated kiosks, but they want as few as possible.
+
+All companies have common practices. Time management is draconian, with breaks starting as soon as you clock out even if the bathrooms and smoking areas are ten minutes away, and harsh penalties for being a minute late showing up to work. This was particularly bad with the McDonalds job, with Guendelsberger arriving 20 to 30 minutes early to deal with the unreliability of BART.  Convergys wound up editing worker timesheets after the fact, which is illegal, not that wage theft is ever prosecuted. Guendelsberger describes being utterly exhausted day after day, and while she could bail; she needed the paychecks, but not like her coworkers with local ties, kids, health conditions, and no other skills. It's easy to see how these jobs are traps.  Almost everything that's gone wrong in America in the past fifty years can be laid at the feet of jobs like these: the decline of families and communities, mental illness, obesity, opiate abuse, politics which are simultaneously disengaged and insane.
+
+Individually, if you ever abuse or shout at a customer service worker **you are human trash and should be abandoned in the Great Pacific Garbage Gyre**, but systematically what is to be done?  It's real bad, Labor is groaning and dying while Capital records the highest profits yet.  Off-shoring, union-breaking, and the general abandonment of the working class by the Democrats are all to blame, but financialization and the pursuit of ever high share prices is at the root of this mistreatment of employees, the idea that a corporation is a device for maximizing quarterly returns and not fulfilling a common need. It's self-defeating for these workplaces. Training is a major source of inefficiency, and yet they won't do anything to drop turnover below 100% because the environment is bad everywhere. Guendelsberger ends on an optimistic note, that something will break and an alternative will arise, but I'm less sure about the political weaknesses of Transhumanist Cyborg Capital Hyper-Fascism.

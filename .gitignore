@@ -1,3 +1,6 @@
+# Content repo nested git dir (content/ was merged in from a separate repo)
+content/.git
+
 # Astro
 site/node_modules/
 site/.astro/

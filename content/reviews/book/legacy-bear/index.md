@@ -1,0 +1,31 @@
+---
+authors:
+- first: Greg
+  last: Bear
+  role: author
+cover: ./cover.jpg
+date_reviewed: 2019-01-12
+isbn: '9781857238860'
+og_cover: ./og-cover.jpg
+page_count: 416
+publication_year: 1996
+publisher: Orbit
+rating: 3.0
+reads:
+- date_finished: 2019-01-12
+  year: 2019
+tags:
+- sci-fi
+title: Legacy
+type: book
+---
+
+"The gate will only open somewhere interesting."
+
+Or so I paraphrase the keywarden, as he opens a path from the artificial axis universe stored within the generation ship Thistledown to the planet Lamarckia, and ushers our protagonist, Olmy, on a secret mission to scout a renegade colony of anti-technology utopians.  The problem is that the keywarden lies, or at least only partially tells the truth. 
+
+Greg Bear's whole thing is a kind of Ultra-Orthodox Hard SciFi, a dazzling display of ideas where the characters and plot take a back seat, and this book delivers. Lamarckia, the centerpiece of the book, is a planet dominated by the ecoi, continental scale organisms that express themselves as scions, sub-organs ranging from tree-analogous to mobile tenders and spies to stranger creatures that influence whole weather systems.  The renegade utopians were 5000 colonists under the leader Able Lenk, but his community has fractured politically, and is riven by famine, war, and threatened by the ecoi, which they lack the scientific base to understand. 
+
+Olmy's ostensible mission is to find a clavicle, a device which would open a gate back to Thistledown, but instead he arrives in the middle of a war between Lenk and the renegade Brion, and then signs up on a scientific voyage to circumnavigate the world. The book takes on a tinge of Moby Dick, with a captain obsessed with finding a queen of the ecoi, a mythical self-aware center to the landscape. The actual plot wanders, and Olmy is a cipher as a protagonist.
+
+I read this book because it came first in my Eon collection, which probably was a mistake.  I'm looking forward to Thistledown as a setting.
