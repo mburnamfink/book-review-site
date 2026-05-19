@@ -8,6 +8,32 @@
   --border: #e5e7eb;
   --card-bg: #ffffff;
   --sans: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --wave-teal: #7bbfb0;
+  --wave-pink: #d4919a;
+  --wave-opacity: 0.45;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #111111;
+    --text: #e8e8e8;
+    --muted: #888;
+    --accent: #60a5fa;
+    --border: #2a2a2a;
+    --card-bg: #1a1a1a;
+    --wave-teal: #5db8a8;
+    --wave-pink: #d47882;
+    --wave-opacity: 0.55;
+  }
+
+  .card-cover,
+  .review-cover-img {
+    box-shadow: 2px 4px 14px rgba(0, 0, 0, 0.5);
+  }
+
+  .list-cover {
+    box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.4);
+  }
 }
 
 html { scroll-behavior: smooth; }
@@ -30,30 +56,67 @@ a:hover { text-decoration: underline; }
 .site-header {
   background: var(--card-bg);
   border-bottom: 1px solid var(--border);
-  padding: 1.25rem 2.5rem;
+  padding: 0 2.5rem 0.85rem;
   display: flex;
-  align-items: baseline;
+  align-items: center;
   gap: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.site-header__waveform {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.waveform-svg {
+  width: 100%;
+  height: 100%;
+}
+
+
+.site-header__identity {
+  display: flex;
+  flex-direction: column;
+  gap: 0.05rem;
+  padding-top: 0.85rem;
+  position: relative;
 }
 
 .site-header .site-title {
   font-family: var(--sans);
   font-size: 1.35rem;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--text);
-  letter-spacing: -0.01em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 1;
 }
 
 .site-header .site-title:hover { text-decoration: none; color: var(--accent); }
 
+.site-tagline {
+  font-size: 0.72rem;
+  color: var(--muted);
+  letter-spacing: 0.06em;
+  font-style: italic;
+}
+
 .site-nav {
   display: flex;
-  gap: 1.5rem;
+  flex-direction: column;
+  gap: 0.6rem;
   font-size: 0.85rem;
+  margin-left: auto;
+  position: relative;
+  padding-top: 0.85rem;
+  text-align: right;
 }
 
 .site-nav a {
   color: var(--muted);
+  line-height: 1;
 }
 
 .site-nav a:hover {
@@ -173,7 +236,7 @@ main {
   font-size: 0.9rem;
   font-family: var(--sans);
   color: var(--text);
-  background: #fff;
+  background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: 6px;
   outline: none;
@@ -181,7 +244,7 @@ main {
 
 .search-input:focus {
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px rgba(37,99,235,0.12);
+  box-shadow: 0 0 0 3px rgba(96,165,250,0.15);
 }
 
 /* ── Index layout ── */
@@ -288,8 +351,8 @@ main {
 }
 
 .sort-btn:hover { border-color: var(--text); color: var(--text); }
-.sort-btn.active     { background: var(--text); border-color: var(--text); color: #fff; }
-.sort-btn.active-rev { background: var(--border); border-color: #d1d5db; color: var(--muted); }
+.sort-btn.active     { background: var(--text); border-color: var(--text); color: var(--bg); }
+.sort-btn.active-rev { background: var(--border); border-color: var(--border); color: var(--muted); }
 
 /* ── Review list ── */
 .review-list { display: flex; flex-direction: column; }
@@ -379,6 +442,32 @@ main {
 }
 
 .list-pill:hover { background: #d1d5db; color: var(--text); }
+
+/* ── Footer ── */
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 1.25rem 2.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-family: var(--sans);
+}
+
+.site-footer a {
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.site-footer a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.site-footer span:last-child {
+  margin-left: auto;
+}
 
 /* ── Prose pages (About, Books of the Year, etc.) ── */
 .prose-page { max-width: 70ch; }

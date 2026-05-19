@@ -54,7 +54,6 @@ const allYears = Object.entries(yearCounts)
 ---
 
 <Base title="Book Reviews">
-  <h1 class="page-heading">Book Reviews</h1>
   <input type="search" id="search-input" class="search-input" placeholder="Search by title or author…" autocomplete="off" />
 
   <div class="index-layout">
@@ -99,7 +98,7 @@ const allYears = Object.entries(yearCounts)
           <button class="sort-btn" data-sort="author">Author</button>
         </div>
       </div>
-      <div id="review-list" class="review-list"></div>
+      <div id="review-list" class="review-grid"></div>
     </div>
   </div>
 </Base>
@@ -189,38 +188,26 @@ function esc(str) {
 }
 
 function renderItem(r) {
-  const href      = `/${r.type}/${r.slug}/`;
-  const coverUrl  = `/${r.type}/${r.slug}/cover.jpg`;
+  const href     = `/${r.type}/${r.slug}/`;
+  const coverUrl = `/${r.type}/${r.slug}/cover.jpg`;
 
   const coverHtml = r.hasCover
-    ? `<img class="list-cover" src="${esc(coverUrl)}" alt="" loading="lazy">`
-    : `<div class="list-cover list-cover--placeholder"></div>`;
+    ? `<img class="card-cover" src="${esc(coverUrl)}" alt="" loading="lazy">`
+    : `<div class="cover-placeholder">${esc(r.title)}</div>`;
 
   const authorHtml = r.authors.map(a => {
     const name = [a.first, a.last].filter(Boolean).join(' ');
     return `<button class="author-link" data-filter-author="${esc(a.slug)}">${esc(name)}</button>`;
   }).join(', ');
 
-  const starsHtml = r.rating != null
-    ? `<span class="list-rating">${stars(r.rating)}</span>`
-    : `<span class="list-rating list-rating--dnf">DNF</span>`;
-
-  const yearsHtml = r.readYears
-    .map(y => `<button class="list-pill" data-filter-year="${y}">${y}</button>`)
-    .join('');
-
-  const tagsHtml = r.tags.slice(0, 3)
-    .map(t => `<button class="list-pill" data-filter-tag="${esc(t)}">${esc(t)}</button>`)
-    .join('');
+  const starsHtml = r.rating != null ? stars(r.rating) : 'DNF';
 
   return `
-    <div class="list-item">
-      <a href="${esc(href)}" class="list-cover-link" tabindex="-1">${coverHtml}</a>
-      <div class="list-body">
-        <a href="${esc(href)}" class="list-title">${esc(r.title)}</a>
-        <div class="list-author">${authorHtml}</div>
-        <div class="list-meta">${starsHtml}${yearsHtml}${tagsHtml}</div>
-      </div>
+    <div class="review-card">
+      <a href="${esc(href)}">${coverHtml}</a>
+      <p class="card-title"><a href="${esc(href)}">${esc(r.title)}</a></p>
+      <p class="card-author">${authorHtml}</p>
+      <p class="card-rating">${starsHtml}</p>
     </div>`;
 }
 

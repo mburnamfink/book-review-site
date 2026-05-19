@@ -4,10 +4,12 @@ title: About
 description: About this book review site.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Reading without incorporating the words is empty consumption. Writing book reviews is a way to recall what I have learned and share the books that stand out.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I used to say that writing book reviews was my discipline, but a better word for an activity that structures your life is *devotion*. It's my pleasure to share that devotion with you.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+I previously put my book reviews on Goodreads, but have been looking for a non-Amazon alternative for a while. There are many social book review site, but none of them have the full set of features I wanted.
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+Which is why I made my own. [Site](https://github.com/mburnamfink/book-review-site) [CLI tool](https://github.com/mburnamfink/review_cli) for building reviews. And as an AI professional who knows nothing about web dev, I used Claude for the code, but every bit of content is 100% human generate.
+
+I'm interested in your thoughts. I'm available on [Bluesky](https://bsky.app/profile/mburnamfink.bsky.social) and as mburnamfink and mburnamfink at gmail dot com.

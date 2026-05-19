@@ -15,7 +15,7 @@ const readRecord = z.object({
 });
 
 const reviews = defineCollection({
-  loader: glob({ pattern: '**/index.md', base: '../../book-review-content/reviews' }),
+  loader: glob({ pattern: '**/index.md', base: '../../content/reviews' }),
   schema: z.object({
     title: z.string(),
     authors: z.array(contributor),

@@ -12,7 +12,7 @@ const { title, description, ogImage } = Astro.props;
 
 const latestBoty = (await getCollection('booksOfYear'))
   .sort((a, b) => b.data.year - a.data.year)[0];
-const siteTitle = 'Book Reviews';
+const siteTitle = 'Spectral Apparatus';
 const pageTitle = title === siteTitle ? siteTitle : `${title} — ${siteTitle}`;
 ---
 
@@ -33,14 +33,109 @@ const pageTitle = title === siteTitle ? siteTitle : `${title} — ${siteTitle}`;
   </head>
   <body>
     <header class="site-header">
-      <a href="/" class="site-title">{siteTitle}</a>
+      <div class="site-header__waveform" aria-hidden="true">
+        <svg class="waveform-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" preserveAspectRatio="none">
+        </svg>
+      </div>
+      <div class="site-header__identity">
+        <a href="/" class="site-title">{siteTitle}</a>
+        <span class="site-tagline">Book reviews that resonate.</span>
+      </div>
       <nav class="site-nav">
         {latestBoty && <a href={`/books-of-year/${latestBoty.id}/`}>Books of the Year</a>}
         <a href="/about/">About</a>
       </nav>
     </header>
+
+    <script>
+    (function () {
+      const svg = document.querySelector('.waveform-svg');
+      if (!svg) return;
+
+      const W = 1200, H = 80, CY = H / 2;
+      const N = 12;        // number of lines
+      const STEPS = 220;   // points per path
+      const DURATION = 1800;
+      const MAX_AMP = CY * 0.95;
+
+      // Envelope: active only in middle 60%, sharp fade at edges
+      function envelope(nx) {
+        const t = (nx - 0.04) / 0.92;
+        if (t <= 0 || t >= 1) return 0;
+        return Math.pow(Math.sin(t * Math.PI), 2.5);
+      }
+
+      function wave(nx, phase) {
+        return envelope(nx) * (
+          Math.sin(nx * Math.PI * 9.0  + phase) * 0.42 +
+          Math.sin(nx * Math.PI * 12.5 + phase) * 0.28 +
+          Math.sin(nx * Math.PI * 6.8  + phase) * 0.20 +
+          Math.sin(nx * Math.PI * 15.3 + phase) * 0.10
+        );
+      }
+
+      // Read CSS variables for colours so dark mode works
+      function hexToRgb(hex) {
+        const h = hex.trim().replace('#', '');
+        return [parseInt(h.slice(0,2),16), parseInt(h.slice(2,4),16), parseInt(h.slice(4,6),16)];
+      }
+      function lerp(a, b, t) {
+        return `rgb(${Math.round(a[0]+(b[0]-a[0])*t)},${Math.round(a[1]+(b[1]-a[1])*t)},${Math.round(a[2]+(b[2]-a[2])*t)})`;
+      }
+
+      const cs = getComputedStyle(document.documentElement);
+      const teal = hexToRgb(cs.getPropertyValue('--wave-teal').trim() || '#7bbfb0');
+      const pink = hexToRgb(cs.getPropertyValue('--wave-pink').trim() || '#d4919a');
+
+      // Build N paths: each line has a unique amplitude and phase
+      const paths = [];
+      for (let i = 0; i < N; i++) {
+        const t = i / (N - 1);
+        // Amplitude: spread from narrow centre lines to wider outer lines
+        const amp = 0.5 + t * 0.5; // 0.5 → 1.0
+        const phase = (i / N) * Math.PI * 0.4;
+
+        const el = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+        el.setAttribute('fill', 'none');
+        el.setAttribute('stroke', lerp(pink, teal, t));
+        el.setAttribute('stroke-width', '1');
+        el.setAttribute('opacity', '0.55');
+        svg.appendChild(el);
+        paths.push({ el, amp, phase });
+      }
+
+      function buildD(ampFactor, amp, phase) {
+        const pts = [];
+        for (let i = 0; i <= STEPS; i++) {
+          const nx = i / STEPS;
+          const x  = nx * W;
+          const y  = CY + amp * ampFactor * MAX_AMP * wave(nx, phase);
+          pts.push(i === 0 ? `M${x.toFixed(1)},${y.toFixed(2)}` : `L${x.toFixed(1)},${y.toFixed(2)}`);
+        }
+        return pts.join(' ');
+      }
+
+      function ease(t) { return t < 0.5 ? 2*t*t : -1+(4-2*t)*t; }
+
+      // Set initial flat state
+      paths.forEach(({ el, amp, phase }) => el.setAttribute('d', buildD(0, amp, phase)));
+
+      const startTime = performance.now();
+      function animate(now) {
+        const progress = ease(Math.min((now - startTime) / DURATION, 1));
+        paths.forEach(({ el, amp, phase }) => el.setAttribute('d', buildD(progress, amp, phase)));
+        if (progress < 1) requestAnimationFrame(animate);
+      }
+      requestAnimationFrame(animate);
+    })();
+    </script>
     <main>
       <slot />
     </main>
+    <footer class="site-footer">
+      <a href="/">Spectral Apparatus</a>
+      <span>Michael Burnam-Fink</span>
+      <span>&copy; {new Date().getFullYear()} Michael Burnam-Fink. All rights reserved.</span>
+    </footer>
   </body>
 </html>
