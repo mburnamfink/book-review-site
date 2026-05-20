@@ -38,8 +38,18 @@ function stars(rating: number): string {
 }
 
 function formatDate(date: Date): string {
-  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
 }
+
+function formatRuntime(decimalHours: number): string {
+  const h = Math.floor(decimalHours);
+  const m = Math.round((decimalHours - h) * 60);
+  return m > 0 ? `${h}h ${m}m` : `${h}h`;
+}
+
+const sortedReads = [...d.reads].sort((a, b) => b.year - a.year);
+const latestRead = sortedReads[0];
+const readYears = sortedReads.map(r => r.year).join(', ');
 
 const coverUrl = `/${type}/${slug}/cover.jpg`;
 const ogCoverUrl = `/${type}/${slug}/og-cover.jpg`;
@@ -84,7 +94,7 @@ const description = d.authors.length
             <tr><th>Narrator</th><td>{[d.narrator.first, d.narrator.last].filter(Boolean).join(' ')}</td></tr>
           )}
           {d.type === 'audiobook' && d.runtime_hours && (
-            <tr><th>Runtime</th><td>{d.runtime_hours}h{d.abridged ? ' (abridged)' : ''}</td></tr>
+            <tr><th>Runtime</th><td>{formatRuntime(d.runtime_hours!)}{d.abridged ? ' (abridged)' : ''}</td></tr>
           )}
           {d.type === 'rpg' && d.system && (
             <tr><th>System</th><td>{d.system}</td></tr>
@@ -92,22 +102,18 @@ const description = d.authors.length
           {d.isbn && (
             <tr><th>ISBN</th><td>{d.isbn}</td></tr>
           )}
+          {latestRead?.date_started && (
+            <tr><th>Date Started</th><td>{formatDate(latestRead.date_started)}</td></tr>
+          )}
+          {latestRead?.date_finished && (
+            <tr><th>Date Finished</th><td>{formatDate(latestRead.date_finished)}</td></tr>
+          )}
+          {d.reads.length > 0 && (
+            <tr><th>Read</th><td>{readYears}</td></tr>
+          )}
           <tr><th>Reviewed</th><td>{formatDate(d.date_reviewed)}</td></tr>
         </tbody>
       </table>
-
-      {d.reads.length > 0 && (
-        <ul class="reads-list">
-          {d.reads.map(r => (
-            <li>
-              {r.dnf ? 'DNF' : 'Read'} <a href={`/?year=${r.year}`}>{r.year}</a>
-              {r.date_started && r.date_finished && (
-                <> · {formatDate(r.date_started)} – {formatDate(r.date_finished)}</>
-              )}
-            </li>
-          ))}
-        </ul>
-      )}
     </div>
   </div>
 

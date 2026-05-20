@@ -3,8 +3,10 @@ authors:
 - first: Amir
   last: Alexander
   role: author
+cover: ./cover.jpg
 date_reviewed: 2025-06-27
 isbn: '9781429953924'
+og_cover: ./og-cover.jpg
 page_count: 352
 publication_year: 2014
 publisher: Scientific American

@@ -3,8 +3,10 @@ authors:
 - first: Jordan
   last: Shiveley
   role: author
+cover: ./cover.jpg
 date_reviewed: 2025-05-08
 isbn: '9781800183414'
+og_cover: ./og-cover.jpg
 page_count: 208
 publication_year: 2025
 publisher: Unbound

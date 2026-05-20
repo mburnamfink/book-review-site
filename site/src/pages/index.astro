@@ -34,6 +34,11 @@ const reviewData = raw.map(r => {
     readYears: [...new Set(r.data.reads.map(rd => rd.year))].sort((a, b) => b - a),
     hasCover: !!r.data.cover,
     dateReviewed: r.data.date_reviewed.toISOString().slice(0, 10),
+    lastReadDate: (() => {
+      const sorted = [...r.data.reads].sort((a, b) => b.year - a.year);
+      const d = sorted[0]?.date_finished ?? sorted[0]?.date_started ?? null;
+      return d ? (d as Date).toISOString().slice(0, 10) : String(sorted[0]?.year ?? 0);
+    })(),
   };
 });
 
@@ -168,11 +173,8 @@ function sortReviews(list, by, dir) {
     });
     return dir === 'rev' ? s.reverse() : s;
   }
-  // default: date (most recent read year, then dateReviewed)
-  s.sort((a, b) => {
-    const ay = a.readYears[0] ?? 0, by_ = b.readYears[0] ?? 0;
-    return by_ - ay || b.dateReviewed.localeCompare(a.dateReviewed);
-  });
+  // default: date (most recent read date, then dateReviewed as tiebreak)
+  s.sort((a, b) => b.lastReadDate.localeCompare(a.lastReadDate) || b.dateReviewed.localeCompare(a.dateReviewed));
   return dir === 'rev' ? s.reverse() : s;
 }
 
