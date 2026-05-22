@@ -12,7 +12,7 @@ publication_year: 2017
 publisher: Tor Books
 rating: 2.0
 reads:
-- year: 2020
+- year: 2022
 - date_finished: 2020-04-29
   year: 2020
 tags:

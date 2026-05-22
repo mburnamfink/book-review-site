@@ -197,10 +197,11 @@ function renderItem(r) {
     ? `<img class="card-cover" src="${esc(coverUrl)}" alt="" loading="lazy">`
     : `<div class="cover-placeholder">${esc(r.title)}</div>`;
 
-  const authorHtml = r.authors.map(a => {
+  const displayAuthors = r.authors.slice(0, 3);
+  const authorHtml = displayAuthors.map(a => {
     const name = [a.first, a.last].filter(Boolean).join(' ');
     return `<button class="author-link" data-filter-author="${esc(a.slug)}">${esc(name)}</button>`;
-  }).join(', ');
+  }).join(', ') + (r.authors.length > 3 ? ', et al.' : '');
 
   const starsHtml = r.rating != null ? stars(r.rating) : 'DNF';
 

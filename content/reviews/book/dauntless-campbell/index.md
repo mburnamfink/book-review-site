@@ -14,7 +14,7 @@ rating: 4.0
 reads:
 - year: 2015
 - date_finished: 2015-09-07
-  year: 2015
+  year: 2022
 tags:
 - sci-fi
 - war
