@@ -7,7 +7,6 @@ authors:
   last: Val
   role: author
 date_reviewed: '2026-05-21'
-format: null
 publication_year: 2022
 publisher: Radmad
 rating: 5.0

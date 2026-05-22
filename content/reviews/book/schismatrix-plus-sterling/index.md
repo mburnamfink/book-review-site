@@ -12,10 +12,10 @@ publication_year: 1996
 publisher: Penguin Publishing Group
 rating: 5.0
 reads:
-- year: 2013
-- year: 2013
 - date_finished: 2013-11-29
   year: 2013
+- year: 2020
+- year: 2017
 tags:
 - sci-fi
 - futurism

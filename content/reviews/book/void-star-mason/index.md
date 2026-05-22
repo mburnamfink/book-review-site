@@ -13,7 +13,6 @@ publisher: Farrar, Straus and Giroux
 rating: 5.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - sci-fi
 title: Void Star

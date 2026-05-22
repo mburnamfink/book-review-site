@@ -13,7 +13,6 @@ publisher: Crown
 rating: 4.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - history
 - ww2

@@ -13,7 +13,6 @@ publisher: RAND Corporation
 rating: 3.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - academic
 - war

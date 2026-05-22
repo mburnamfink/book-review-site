@@ -13,7 +13,6 @@ publisher: William Morrow Paperbacks
 rating: 3.0
 reads:
 - year: 2020
-- year: 2020
 tags:
 - sci-fi
 title: The Praxis

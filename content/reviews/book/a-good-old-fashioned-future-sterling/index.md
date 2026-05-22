@@ -14,6 +14,7 @@ rating: 5.0
 reads:
 - date_finished: 2024-05-11
   year: 2024
+- year: 2011
 tags:
 - sci-fi
 title: A Good Old-Fashioned Future

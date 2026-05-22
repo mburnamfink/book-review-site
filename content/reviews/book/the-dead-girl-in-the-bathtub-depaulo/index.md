@@ -10,7 +10,6 @@ publisher: Philadelphia Magazine
 rating: 3.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - non-fiction
 title: The Dead Girl in the Bathtub

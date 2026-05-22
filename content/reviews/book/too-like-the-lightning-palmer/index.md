@@ -12,9 +12,9 @@ publication_year: 2016
 publisher: Tor Books
 rating: 4.0
 reads:
-- year: 2018
 - date_finished: 2018-02-20
   year: 2018
+-year : 2021
 tags:
 - sci-fi
 title: Too Like the Lightning

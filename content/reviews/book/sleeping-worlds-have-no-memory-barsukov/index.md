@@ -11,7 +11,6 @@ publisher: CAEZIK SF & Fantasy
 rating: 5.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - fantasy
 title: Sleeping Worlds Have No Memory

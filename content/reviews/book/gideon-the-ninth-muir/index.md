@@ -12,9 +12,9 @@ publication_year: 2019
 publisher: Tor
 rating: 5.0
 reads:
-- year: 2020
 - date_finished: 2020-05-02
   year: 2020
+- year: 2024
 tags:
 - sci-fi
 - fantasy

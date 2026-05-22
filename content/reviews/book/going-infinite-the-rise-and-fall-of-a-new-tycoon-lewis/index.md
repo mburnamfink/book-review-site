@@ -13,7 +13,6 @@ publisher: W. W. Norton & Company
 rating: 4.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - biography
 - innovation

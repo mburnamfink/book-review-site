@@ -13,7 +13,6 @@ publisher: Mariner Books
 rating: 2.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - non-fiction
 title: 'Inspired : Understanding Creativity: A Journey Through Art, Science, and the

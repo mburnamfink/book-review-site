@@ -67,7 +67,6 @@ publisher: Solaris
 rating: 5.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - sci-fi
 title: 'New Suns: Original Speculative Fiction by People of Color'

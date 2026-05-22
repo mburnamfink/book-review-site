@@ -11,7 +11,6 @@ publisher: O'Reilly
 rating: 4.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - data-science
 title: Designing Data-Intensive Applications

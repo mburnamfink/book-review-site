@@ -12,7 +12,6 @@ publication_year: 2022
 rating: 4.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - fantasy
 - rpg

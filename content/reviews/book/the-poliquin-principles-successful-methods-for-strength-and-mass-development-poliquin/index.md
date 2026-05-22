@@ -13,7 +13,6 @@ publisher: Dayton Pubns & Writers Group
 rating: 3.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - self-help
 - athletics

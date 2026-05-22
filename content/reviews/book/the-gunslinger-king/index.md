@@ -12,7 +12,6 @@ publisher: Plume
 rating: 4.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - fantasy
 title: The Gunslinger

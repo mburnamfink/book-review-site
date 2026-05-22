@@ -13,7 +13,6 @@ publisher: Meisha Merlin Publishing, Inc.
 rating: 3.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - sci-fi
 title: Tuf Voyaging

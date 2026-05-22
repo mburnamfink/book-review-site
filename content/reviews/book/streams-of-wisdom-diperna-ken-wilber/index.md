@@ -16,7 +16,6 @@ publisher: Integral Publishing House
 rating: 2.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - self-help
 title: Streams of Wisdom

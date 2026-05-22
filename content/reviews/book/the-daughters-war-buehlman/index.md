@@ -13,7 +13,6 @@ publisher: Tor Books
 rating: 5.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - fantasy
 title: The Daughters' War

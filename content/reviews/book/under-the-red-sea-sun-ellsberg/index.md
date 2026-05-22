@@ -13,7 +13,6 @@ publisher: Greenwood Press
 rating: 5.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - war
 - ww2

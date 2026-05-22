@@ -10,7 +10,6 @@ publication_year: 2022
 publisher: Citadel
 rating: 3.0
 reads:
-- year: 2022
 - date_finished: 2022-12-20
   year: 2022
 tags:

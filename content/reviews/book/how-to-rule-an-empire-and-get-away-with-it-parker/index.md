@@ -13,7 +13,6 @@ publisher: Orbit
 rating: 5.0
 reads:
 - year: 2021
-- year: 2021
 tags: []
 title: How to Rule an Empire and Get Away with It
 type: book

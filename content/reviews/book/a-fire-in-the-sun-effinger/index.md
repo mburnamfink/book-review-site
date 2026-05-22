@@ -12,9 +12,9 @@ publication_year: 2006
 publisher: St. Martins Press
 rating: 4.0
 reads:
-- year: 2011
 - date_finished: 2011-01-17
   year: 2011
+- year: 2018
 tags:
 - sci-fi
 title: A Fire in the Sun

@@ -13,7 +13,6 @@ publisher: Jessica Kingsley
 rating: 2.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - parenting
 - psychology

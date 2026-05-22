@@ -13,7 +13,6 @@ publisher: Watkins Publishing
 rating: 4.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - self-help
 title: 'Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful

@@ -16,7 +16,6 @@ publisher: Farrar, Straus and Giroux (BYR)
 rating: 5.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - sci-fi
 - young-adult

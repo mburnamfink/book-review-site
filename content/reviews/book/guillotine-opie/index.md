@@ -13,7 +13,6 @@ publisher: Sutton Pub Ltd
 rating: 2.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - non-fiction
 - history

@@ -11,7 +11,6 @@ publisher: New American Library
 rating: 3.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - sci-fi
 title: A Circus of Hells (Flandry)

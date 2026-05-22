@@ -13,7 +13,6 @@ publisher: Riverhead Books
 rating: 4.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - self-help
 title: 'Breath: The New Science of a Lost Art'

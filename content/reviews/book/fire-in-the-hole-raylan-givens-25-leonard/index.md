@@ -11,7 +11,6 @@ publisher: Contentville Press
 rating: 5.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - fiction
 title: 'Fire in the Hole (Raylan Givens, #2.5)'

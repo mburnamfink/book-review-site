@@ -7,12 +7,12 @@ cover: ./cover.jpg
 date_reviewed: 2018-01-08
 og_cover: ./og-cover.jpg
 page_count: 183
-publication_year: 2004
+publication_year: 1968
 rating: 5.0
 reads:
-- year: 2018
 - date_finished: 2018-01-06
   year: 2018
+- year: 2024
 tags:
 - young-adult
 - fantasy

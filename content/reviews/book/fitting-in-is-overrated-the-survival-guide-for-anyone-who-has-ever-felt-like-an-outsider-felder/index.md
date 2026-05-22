@@ -11,7 +11,6 @@ publisher: Sterling
 rating: 2.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - self-help
 title: 'Fitting In Is Overrated: The Survival Guide for Anyone Who Has Ever Felt Like

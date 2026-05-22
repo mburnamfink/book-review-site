@@ -13,7 +13,6 @@ publisher: Tor Books
 rating: 5.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - fantasy
 title: The Blacktongue Thief

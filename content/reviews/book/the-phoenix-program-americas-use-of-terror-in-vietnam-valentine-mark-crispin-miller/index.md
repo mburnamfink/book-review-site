@@ -15,7 +15,6 @@ publication_year: 2014
 publisher: Open Road Media
 rating: 5.0
 reads:
-- year: 2020
 - date_finished: 2020-10-13
   year: 2020
 tags:

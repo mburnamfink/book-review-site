@@ -25,7 +25,6 @@ publisher: The Guilford Press
 rating: 3.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - parenting
 title: 'Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture

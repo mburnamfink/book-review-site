@@ -16,7 +16,6 @@ publisher: Somatica
 rating: 4.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - self-help
 title: 'Cockfidence: The Definitive Guide to Being The Man You Want To Be And Driving

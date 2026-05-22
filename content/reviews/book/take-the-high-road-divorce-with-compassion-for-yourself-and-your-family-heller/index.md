@@ -11,7 +11,6 @@ publisher: Independently published
 rating: 4.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - parenting
 - non-fiction

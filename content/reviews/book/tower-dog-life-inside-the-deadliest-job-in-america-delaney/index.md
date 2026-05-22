@@ -13,7 +13,6 @@ publisher: Catapult
 rating: 4.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - non-fiction
 title: 'Tower Dog: Life Inside the Deadliest Job in America'

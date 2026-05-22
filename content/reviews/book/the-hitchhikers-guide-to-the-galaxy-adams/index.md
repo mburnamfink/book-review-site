@@ -13,6 +13,7 @@ rating: 5.0
 reads:
 - date_finished: 2012-11-23
   year: 2012
+- year: 2019
 tags:
 - sci-fi
 title: The Hitchhiker’s Guide to the Galaxy

@@ -13,7 +13,6 @@ publisher: MCD
 rating: 5.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - sci-fi
 title: The Mountain in the Sea

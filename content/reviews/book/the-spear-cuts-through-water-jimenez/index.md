@@ -13,7 +13,6 @@ publisher: Del Rey
 rating: 5.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - fantasy
 title: The Spear Cuts Through Water

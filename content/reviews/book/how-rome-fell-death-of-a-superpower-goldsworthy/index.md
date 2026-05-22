@@ -13,7 +13,6 @@ publisher: Yale University Press
 rating: 5.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - history
 title: 'How Rome Fell: Death of a Superpower'

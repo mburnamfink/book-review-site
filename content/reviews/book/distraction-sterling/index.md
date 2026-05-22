@@ -12,10 +12,10 @@ publication_year: 1998
 publisher: Spectra
 rating: 5.0
 reads:
-- year: 2013
-- year: 2013
 - date_finished: 2013-04-20
   year: 2013
+- year: 2018
+- year: 2017
 tags:
 - futurism
 - sci-fi

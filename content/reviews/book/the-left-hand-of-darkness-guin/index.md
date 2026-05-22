@@ -11,7 +11,6 @@ publication_year: 2010
 publisher: Ace
 rating: 5.0
 reads:
-- year: 2015
 - date_finished: 2015-10-11
   year: 2015
 tags:

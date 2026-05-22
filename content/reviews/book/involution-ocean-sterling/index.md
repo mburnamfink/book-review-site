@@ -12,9 +12,9 @@ publication_year: 1988
 publisher: Ace
 rating: 4.0
 reads:
-- year: 2012
 - date_finished: 2012-06-24
   year: 2012
+- year: 2021
 tags:
 - sci-fi
 title: Involution Ocean

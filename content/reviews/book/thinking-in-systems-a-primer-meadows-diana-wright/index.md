@@ -16,7 +16,6 @@ publisher: Chelsea Green Publishing
 rating: 4.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - academic
 title: 'Thinking In Systems: A Primer'

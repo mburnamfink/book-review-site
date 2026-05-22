@@ -13,7 +13,6 @@ publisher: Tordotcom
 rating: 3.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - sci-fi
 title: 'Escape from Yokai Land (Laundry Files, #6.5)'

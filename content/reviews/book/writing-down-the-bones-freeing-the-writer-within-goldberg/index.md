@@ -13,7 +13,6 @@ publisher: Shambhala Publications
 rating: 4.0
 reads:
 - year: 2019
-- year: 2019
 tags:
 - non-fiction
 title: 'Writing Down the Bones: Freeing the Writer Within'

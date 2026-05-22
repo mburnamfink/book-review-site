@@ -11,9 +11,9 @@ publication_year: 2017
 publisher: Tor.com
 rating: 4.0
 reads:
-- year: 2018
 - date_finished: 2018-05-27
   year: 2018
+- year: 2021
 tags:
 - sci-fi
 title: All Systems Red

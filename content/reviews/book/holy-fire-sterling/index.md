@@ -12,9 +12,9 @@ publication_year: 1997
 publisher: Spectra
 rating: 5.0
 reads:
-- year: 2012
 - date_finished: 2012-03-10
   year: 2012
+- year: 2023
 tags:
 - sci-fi
 title: Holy Fire

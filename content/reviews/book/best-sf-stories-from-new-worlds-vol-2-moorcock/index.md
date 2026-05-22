@@ -10,7 +10,6 @@ publication_year: 1968
 publisher: Panther
 rating: 3.0
 reads:
-- year: 2018
 - date_finished: 2018-09-21
   year: 2018
 tags:

@@ -13,7 +13,6 @@ publisher: HarperCollins Publishers
 rating: 5.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - fiction
 title: Ice Station Zebra

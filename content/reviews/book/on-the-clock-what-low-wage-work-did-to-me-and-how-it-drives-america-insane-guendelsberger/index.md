@@ -13,7 +13,6 @@ publisher: Little, Brown and Company
 rating: 5.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - non-fiction
 title: 'On the Clock: What Low-Wage Work Did to Me and How It Drives America Insane'

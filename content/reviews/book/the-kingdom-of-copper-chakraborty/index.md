@@ -13,7 +13,6 @@ publisher: Harper Voyager
 rating: 4.0
 reads:
 - year: 2019
-- year: 2019
 tags:
 - fantasy
 title: The Kingdom of Copper

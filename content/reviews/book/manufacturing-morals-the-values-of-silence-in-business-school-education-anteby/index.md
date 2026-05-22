@@ -13,7 +13,6 @@ publisher: University of Chicago Press
 rating: 2.0
 reads:
 - year: 2019
-- year: 2019
 tags:
 - academic
 title: 'Manufacturing Morals: The Values of Silence in Business School Education'

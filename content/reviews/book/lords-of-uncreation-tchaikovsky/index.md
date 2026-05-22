@@ -13,7 +13,6 @@ publisher: Orbit
 rating: 3.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - sci-fi
 title: Lords of Uncreation

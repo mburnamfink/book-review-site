@@ -18,9 +18,9 @@ publication_year: 1986
 publisher: Vintage
 rating: 5.0
 reads:
-- year: 2014
 - date_finished: 2014-04-20
   year: 2014
+- year: 2020
 tags:
 - biography
 - history

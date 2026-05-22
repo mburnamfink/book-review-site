@@ -12,7 +12,6 @@ publisher: Thought Catalog Books
 rating: 2.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - self-help
 title: 'The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery'

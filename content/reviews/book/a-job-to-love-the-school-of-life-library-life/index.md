@@ -12,7 +12,6 @@ publisher: The School of Life
 rating: 4.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - self-help
 title: A Job to Love (The School of Life Library)

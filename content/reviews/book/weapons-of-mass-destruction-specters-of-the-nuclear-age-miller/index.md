@@ -11,7 +11,6 @@ publisher: Schiffer Military History
 rating: 3.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - war
 title: 'Weapons of Mass Destruction: Specters of the Nuclear Age'

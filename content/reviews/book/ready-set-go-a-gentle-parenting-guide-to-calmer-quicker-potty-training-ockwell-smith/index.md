@@ -11,7 +11,6 @@ publisher: Tarcher
 rating: 3.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - parenting
 title: 'Ready, Set, Go!: A Gentle Parenting Guide to Calmer, Quicker Potty Training'

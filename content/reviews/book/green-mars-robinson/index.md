@@ -14,6 +14,7 @@ rating: 3.0
 reads:
 - date_finished: 2016-06-04
   year: 2016
+- year: 2012
 tags:
 - sci-fi
 - hugo-award

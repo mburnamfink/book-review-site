@@ -10,7 +10,6 @@ publisher: Damien Lutz
 rating: 3.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - futurism
 title: 'Future Scouting: How to design future inventions to change today by combining

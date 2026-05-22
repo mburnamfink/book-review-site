@@ -11,7 +11,6 @@ publisher: William Morrow
 rating: 4.0
 reads:
 - year: 2020
-- year: 2020
 tags:
 - non-fiction
 - history

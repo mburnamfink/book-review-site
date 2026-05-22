@@ -12,7 +12,6 @@ publication_year: 1998
 publisher: Broadway
 rating: 5.0
 reads:
-- year: 2017
 - date_finished: 2017-09-24
   year: 2017
 tags:

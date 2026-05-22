@@ -13,7 +13,6 @@ publisher: Solaris
 rating: 4.0
 reads:
 - year: 2019
-- year: 2019
 tags:
 - sci-fi
 title: The Quantum Magician

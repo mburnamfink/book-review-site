@@ -16,7 +16,6 @@ publisher: Scribner
 rating: 4.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - parenting
 title: 'How to Talk So Little Kids Will Listen: A Survival Guide to Life with Children

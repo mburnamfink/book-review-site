@@ -16,7 +16,6 @@ publisher: Bantam
 rating: 4.0
 reads:
 - year: 2020
-- year: 2020
 tags:
 - war
 - ww2

@@ -13,7 +13,6 @@ publisher: Vintage
 rating: 4.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - self-help
 title: 'The Three Pillars of Zen: Teaching, Practice, and Enlightenment'

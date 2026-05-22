@@ -13,7 +13,6 @@ publisher: Michael J. Losier
 rating: 3.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - self-help
 title: 'Law of Attraction: The Science of Attracting More of What You Want and Less

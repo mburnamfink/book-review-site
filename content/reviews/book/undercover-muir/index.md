@@ -13,7 +13,6 @@ publisher: Amazon Original Stories
 rating: 5.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - horror
 - sci-fi

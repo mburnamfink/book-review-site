@@ -13,7 +13,6 @@ publisher: Metaphorosis Publishing
 rating: 4.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - fantasy
 title: Tower of Mud and Straw

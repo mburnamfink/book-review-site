@@ -11,7 +11,6 @@ publisher: Princeton Architectural Press
 rating: 3.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - war
 - history

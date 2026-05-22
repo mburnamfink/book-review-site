@@ -13,7 +13,6 @@ publisher: Ace Books
 rating: 4.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - sci-fi
 title: Planet of Exile

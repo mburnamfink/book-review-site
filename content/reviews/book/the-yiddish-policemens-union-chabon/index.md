@@ -14,6 +14,7 @@ rating: 5.0
 reads:
 - date_finished: 2016-12-04
   year: 2016
+- year: 2012
 tags:
 - fiction
 - hugo-award

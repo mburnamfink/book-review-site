@@ -13,7 +13,6 @@ publisher: Allen Lane
 rating: 4.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - war
 - biography

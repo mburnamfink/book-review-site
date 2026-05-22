@@ -13,7 +13,6 @@ publisher: W. W. Norton & Company, Inc.
 rating: 5.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - history
 - politics

@@ -12,7 +12,6 @@ publisher: W. W. Norton & Company
 rating: 5.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - fiction
 title: Desolation Island

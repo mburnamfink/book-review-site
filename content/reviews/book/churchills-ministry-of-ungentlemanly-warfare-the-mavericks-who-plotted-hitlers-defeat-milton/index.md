@@ -10,7 +10,6 @@ publication_year: 2017
 publisher: Picador
 rating: 4.0
 reads:
-- year: 2017
 - date_finished: 2017-11-12
   year: 2017
 tags:

@@ -11,9 +11,9 @@ publication_year: 2012
 publisher: Tor Books
 rating: 5.0
 reads:
-- year: 2014
 - date_finished: 2014-05-12
   year: 2014
+- year: 2018
 tags:
 - sci-fi
 title: The Fractal Prince

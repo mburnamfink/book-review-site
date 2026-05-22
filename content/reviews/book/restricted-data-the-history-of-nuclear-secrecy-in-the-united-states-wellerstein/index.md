@@ -13,7 +13,6 @@ publisher: University of Chicago Press
 rating: 4.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - academic
 - sts

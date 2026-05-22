@@ -13,7 +13,6 @@ publisher: Harpercollins
 rating: 3.0
 reads:
 - year: 2020
-- year: 2020
 tags:
 - history
 - war

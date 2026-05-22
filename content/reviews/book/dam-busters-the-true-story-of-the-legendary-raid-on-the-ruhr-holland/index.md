@@ -11,7 +11,6 @@ publisher: Bantam Press
 rating: 5.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - history
 - war

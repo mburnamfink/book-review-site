@@ -13,7 +13,6 @@ publisher: W. W. Norton & Company
 rating: 5.0
 reads:
 - year: 2019
-- year: 2019
 tags:
 - history
 - war

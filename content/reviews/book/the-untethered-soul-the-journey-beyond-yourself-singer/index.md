@@ -12,7 +12,6 @@ publisher: New Harbinger Publications
 rating: 3.0
 reads:
 - year: 2025
-- year: 2025
 tags: []
 title: 'The Untethered Soul: The Journey Beyond Yourself'
 type: book

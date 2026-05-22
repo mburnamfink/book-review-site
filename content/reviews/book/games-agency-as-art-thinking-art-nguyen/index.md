@@ -13,7 +13,6 @@ publisher: Oxford University Press
 rating: 5.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - games
 - academic

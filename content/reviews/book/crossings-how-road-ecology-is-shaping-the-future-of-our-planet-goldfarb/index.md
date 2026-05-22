@@ -13,7 +13,6 @@ publisher: W. W. Norton & Company
 rating: 4.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - science
 title: 'Crossings: How Road Ecology Is Shaping the Future of Our Planet'

@@ -13,7 +13,6 @@ publisher: The P-47 Press
 rating: 5.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - war
 title: The Far Shore

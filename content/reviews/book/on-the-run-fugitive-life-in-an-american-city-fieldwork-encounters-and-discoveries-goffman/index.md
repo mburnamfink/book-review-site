@@ -13,7 +13,6 @@ publisher: University of Chicago Press
 rating: 5.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - academic
 title: 'On the Run: Fugitive Life in an American City (Fieldwork Encounters and Discoveries)'

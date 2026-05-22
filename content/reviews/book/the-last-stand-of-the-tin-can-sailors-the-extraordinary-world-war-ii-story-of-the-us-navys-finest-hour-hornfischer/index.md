@@ -12,9 +12,9 @@ publication_year: 2005
 publisher: Bantam Books
 rating: 5.0
 reads:
-- year: 2014
 - date_finished: 2014-04-07
   year: 2014
+- year: 2020
 tags:
 - history
 - war

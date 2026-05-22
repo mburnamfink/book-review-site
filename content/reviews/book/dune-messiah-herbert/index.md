@@ -12,9 +12,9 @@ publication_year: 1987
 publisher: Ace Books
 rating: 3.0
 reads:
-- year: 2016
 - date_finished: 2016-03-16
   year: 2016
+- year: 2019
 tags:
 - sci-fi
 title: Dune Messiah

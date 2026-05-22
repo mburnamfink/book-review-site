@@ -13,7 +13,6 @@ publisher: Harper
 rating: 5.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - history
 - war

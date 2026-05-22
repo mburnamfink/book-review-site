@@ -13,7 +13,6 @@ publisher: Bantam Doubleday Dell Publishing Group
 rating: 3.0
 reads:
 - year: 2019
-- year: 2019
 tags:
 - sci-fi
 title: Mona Lisa Overdrive

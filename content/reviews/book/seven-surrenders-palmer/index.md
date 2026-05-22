@@ -12,7 +12,6 @@ publication_year: 2017
 publisher: Tor Books
 rating: 5.0
 reads:
-- year: 2018
 - date_finished: 2018-02-26
   year: 2018
 tags:

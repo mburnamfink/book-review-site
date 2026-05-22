@@ -12,9 +12,9 @@ publication_year: 2013
 publisher: Ace
 rating: 4.0
 reads:
-- year: 2013
 - date_finished: 2013-08-03
   year: 2013
+- year: 2024
 tags:
 - sci-fi
 title: Neptune's Brood

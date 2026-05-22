@@ -12,8 +12,6 @@ publication_year: 2010
 publisher: Blue Hole Press
 rating: 3.0
 reads:
-- year: 2018
-- year: 2018
 - date_finished: 2018-05-31
   year: 2018
 tags:

@@ -13,7 +13,6 @@ publisher: Collins
 rating: 4.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - innovation
 title: Innovation and Entrepreneurship

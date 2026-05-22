@@ -13,7 +13,6 @@ publisher: Yale University Press
 rating: 3.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - academic
 title: 'Weapons of the Weak: Everyday Forms of Peasant Resistance'

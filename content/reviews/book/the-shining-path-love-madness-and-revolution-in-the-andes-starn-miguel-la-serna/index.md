@@ -16,7 +16,6 @@ publisher: W. W. Norton & Company
 rating: 4.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - history
 - war

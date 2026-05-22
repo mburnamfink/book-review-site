@@ -15,7 +15,6 @@ publication_year: 2019
 publisher: Somatica Press
 rating: 5.0
 reads:
-- year: 2024
 - date_finished: 2024-02-04
   year: 2024
 tags:

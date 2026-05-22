@@ -12,9 +12,9 @@ publication_year: 1973
 publisher: Signet (New American Library)
 rating: 4.0
 reads:
-- year: 2017
 - date_finished: 2017-06-05
   year: 2017
+- year: 2023
 tags:
 - sci-fi
 title: The Rebel Worlds

@@ -13,7 +13,6 @@ publisher: William Morrow
 rating: 3.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - non-fiction
 title: 'The Art of Making Memories: How to Create and Remember Happy Moments'

@@ -13,7 +13,6 @@ publisher: Tor Books
 rating: 3.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - sci-fi
 title: Time for the Stars

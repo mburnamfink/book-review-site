@@ -16,7 +16,6 @@ publisher: Lulu Press, Inc.
 rating: 3.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - data-science
 title: Domain-Driven Design Quickly

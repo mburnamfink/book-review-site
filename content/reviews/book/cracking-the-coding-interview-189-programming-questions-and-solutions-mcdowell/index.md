@@ -11,7 +11,6 @@ publication_year: 2020
 rating: 4.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - data-science
 title: 'Cracking the Coding Interview: 189 Programming Questions and Solutions'

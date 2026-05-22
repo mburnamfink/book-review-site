@@ -12,7 +12,6 @@ publisher: Harper
 rating: 3.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - war
 - ww2

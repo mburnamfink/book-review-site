@@ -13,7 +13,6 @@ publisher: Harper Business
 rating: 5.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - innovation
 - non-fiction

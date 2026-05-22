@@ -13,7 +13,6 @@ publisher: Contemporary Books
 rating: 4.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - self-help
 title: 'How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships'

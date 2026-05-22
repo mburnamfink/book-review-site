@@ -11,9 +11,9 @@ publication_year: 2005
 publisher: Del Rey
 rating: 5.0
 reads:
-- year: 2012
 - date_finished: 2012-11-23
   year: 2012
+- year: 2020
 tags:
 - sci-fi
 title: The Restaurant at the End of the Universe

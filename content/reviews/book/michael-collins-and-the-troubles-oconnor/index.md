@@ -13,7 +13,6 @@ publisher: W. W. Norton  Company
 rating: 3.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - history
 title: Michael Collins and the Troubles

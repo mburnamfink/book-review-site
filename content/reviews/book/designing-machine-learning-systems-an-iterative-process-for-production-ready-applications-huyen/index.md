@@ -13,7 +13,6 @@ publisher: O'Reilly
 rating: 4.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - data-science
 title: 'Designing Machine Learning Systems: An Iterative Process for Production-Ready

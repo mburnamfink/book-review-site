@@ -12,9 +12,9 @@ publication_year: 2010
 publisher: Gollancz
 rating: 5.0
 reads:
-- year: 2013
 - date_finished: 2013-09-26
   year: 2013
+- year: 2018
 tags:
 - sci-fi
 title: The Quantum Thief

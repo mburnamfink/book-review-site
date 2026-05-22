@@ -16,7 +16,6 @@ publisher: Crown Currency
 rating: 3.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - self-help
 title: 'Connect: Building Exceptional Relationships with Family, Friends, and Colleagues'

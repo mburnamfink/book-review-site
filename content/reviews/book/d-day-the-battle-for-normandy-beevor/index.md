@@ -13,7 +13,6 @@ publisher: Viking
 rating: 4.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - war
 - ww2

@@ -13,7 +13,6 @@ publisher: Castle Books
 rating: 3.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - ww2
 title: 'Fighter: The True Story of the Battle of Britain'

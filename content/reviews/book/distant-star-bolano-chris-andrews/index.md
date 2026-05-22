@@ -16,7 +16,6 @@ publisher: New Directions
 rating: 3.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - fiction
 title: Distant Star

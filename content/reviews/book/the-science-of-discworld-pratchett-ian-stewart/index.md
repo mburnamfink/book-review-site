@@ -18,9 +18,9 @@ publication_year: 2002
 publisher: Ebury Press
 rating: 4.0
 reads:
-- year: 2011
 - date_finished: 2011-09-16
   year: 2011
+- year: 2020
 tags:
 - fantasy
 - science

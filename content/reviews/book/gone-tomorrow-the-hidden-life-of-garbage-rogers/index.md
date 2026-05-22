@@ -13,7 +13,6 @@ publisher: The New Press
 rating: 3.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - history
 - non-fiction

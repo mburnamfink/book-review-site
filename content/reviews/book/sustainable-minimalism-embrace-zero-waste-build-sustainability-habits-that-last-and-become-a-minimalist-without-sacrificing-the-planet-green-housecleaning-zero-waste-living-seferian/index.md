@@ -13,7 +13,6 @@ publisher: TMA Press
 rating: 3.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - non-fiction
 - self-help

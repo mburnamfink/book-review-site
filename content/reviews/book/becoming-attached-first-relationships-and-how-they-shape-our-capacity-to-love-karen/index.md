@@ -13,7 +13,6 @@ publisher: Oxford University Press
 rating: 4.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - psychology
 title: 'Becoming Attached: First Relationships and How They Shape Our Capacity to

@@ -12,9 +12,10 @@ publication_year: 2005
 publisher: Ace
 rating: 5.0
 reads:
-- year: 2019
 - date_finished: 2019-03-31
   year: 2019
+- year: 2015
+- year: 2014
 tags: []
 title: Dune
 type: book

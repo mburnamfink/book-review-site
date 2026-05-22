@@ -13,7 +13,6 @@ publisher: Robinson
 rating: 5.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - fiction
 title: The Friends of Eddie Coyle

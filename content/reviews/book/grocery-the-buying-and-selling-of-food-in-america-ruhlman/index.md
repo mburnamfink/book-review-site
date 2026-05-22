@@ -13,7 +13,6 @@ publisher: Abrams Press
 rating: 4.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - non-fiction
 title: 'Grocery: The Buying and Selling of Food in America'

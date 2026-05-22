@@ -16,7 +16,6 @@ publisher: Scribner
 rating: 5.0
 reads:
 - year: 2025
-- year: 2025
 tags: []
 title: 'An Everlasting Meal: Cooking with Economy and Grace'
 type: book

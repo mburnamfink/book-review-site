@@ -12,7 +12,6 @@ publication_year: 2017
 publisher: Solaris
 rating: 4.0
 reads:
-- year: 2017
 - date_finished: 2017-06-18
   year: 2017
 tags:

@@ -12,7 +12,6 @@ publication_year: 2020
 publisher: Tor.com
 rating: 4.0
 reads:
-- year: 2021
 - date_finished: 2021-08-07
   year: 2021
 tags:

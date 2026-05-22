@@ -13,7 +13,6 @@ publisher: W.W. Norton
 rating: 5.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - fiction
 title: H.M.S. Surprise

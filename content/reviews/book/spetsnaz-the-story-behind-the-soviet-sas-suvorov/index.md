@@ -13,7 +13,6 @@ publisher: H. Hamilton
 rating: 3.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - war
 title: 'Spetsnaz: The story behind the Soviet SAS'

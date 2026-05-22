@@ -13,7 +13,6 @@ publisher: Osprey Publishing
 rating: 3.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - war
 - vietnam-war

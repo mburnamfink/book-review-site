@@ -16,7 +16,6 @@ publisher: Heyday
 rating: 3.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - history
 title: 'BART: The Dramatic History of the Bay Area Rapid Transit System'

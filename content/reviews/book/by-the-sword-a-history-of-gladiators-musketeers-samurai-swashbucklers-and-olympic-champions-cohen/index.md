@@ -13,7 +13,6 @@ publisher: Random House Publishing Group
 rating: 4.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - history
 title: 'By the Sword: A History of Gladiators, Musketeers, Samurai, Swashbucklers,

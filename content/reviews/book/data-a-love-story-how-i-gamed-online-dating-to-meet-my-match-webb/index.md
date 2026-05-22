@@ -13,7 +13,6 @@ publisher: Dutton
 rating: 5.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - non-fiction
 - self-help

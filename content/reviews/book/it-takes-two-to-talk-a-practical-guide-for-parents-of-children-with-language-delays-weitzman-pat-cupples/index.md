@@ -16,7 +16,6 @@ publisher: Hanen Centre
 rating: 4.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - parenting
 title: 'It Takes Two to Talk: A Practical Guide For Parents of Children With Language

@@ -13,7 +13,6 @@ publisher: Warner Books
 rating: 3.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - sci-fi
 title: Wild Seed

@@ -13,7 +13,6 @@ publisher: Running Press Adult
 rating: 5.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - self-help
 title: No More Mr. Nice Guy

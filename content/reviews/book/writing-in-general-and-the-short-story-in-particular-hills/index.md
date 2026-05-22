@@ -12,9 +12,9 @@ publication_year: 2000
 publisher: Collins Reference
 rating: 5.0
 reads:
-- year: 2012
 - date_finished: 2012-03-08
   year: 2012
+- year: 2017
 tags:
 - fiction
 title: Writing In General And The Short Story In Particular

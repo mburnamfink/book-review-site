@@ -12,9 +12,9 @@ publication_year: 2014
 publisher: Gollancz
 rating: 4.0
 reads:
-- year: 2014
 - date_finished: 2014-07-19
   year: 2014
+- year: 2018
 tags:
 - sci-fi
 title: The Causal Angel

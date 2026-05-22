@@ -12,7 +12,6 @@ publisher: Morgan James Publishing
 rating: 4.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - self-help
 title: 'Running on Empty No More: Transform Your Relationships with Your Partner,

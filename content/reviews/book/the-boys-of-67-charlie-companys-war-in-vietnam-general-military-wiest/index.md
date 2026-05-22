@@ -13,7 +13,6 @@ publisher: Osprey Publishing
 rating: 5.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - war
 - vietnam-war

@@ -13,7 +13,6 @@ publisher: Gallup Press
 rating: 3.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - psychology
 title: Strengths Finder 2.0

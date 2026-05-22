@@ -13,7 +13,6 @@ publisher: TarcherPerigee
 rating: 2.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - non-fiction
 title: 'Season of the Witch: How the Occult Saved Rock and Roll'

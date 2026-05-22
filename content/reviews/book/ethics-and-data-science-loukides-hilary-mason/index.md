@@ -17,7 +17,6 @@ publisher: O'Reilly Media
 rating: 4.0
 reads:
 - year: 2019
-- year: 2019
 tags:
 - data-science
 title: Ethics and Data Science

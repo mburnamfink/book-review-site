@@ -19,7 +19,6 @@ publisher: Tor Books
 rating: 5.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - sci-fi
 title: 'Intersections: The Sycamore Hill Anthology'

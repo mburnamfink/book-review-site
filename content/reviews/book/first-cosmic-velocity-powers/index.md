@@ -13,7 +13,6 @@ publisher: G.P. Putnam's Sons
 rating: 3.0
 reads:
 - year: 2019
-- year: 2019
 tags:
 - fiction
 title: First Cosmic Velocity

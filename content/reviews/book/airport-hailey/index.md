@@ -13,7 +13,6 @@ publisher: Berkley
 rating: 3.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - fiction
 title: Airport

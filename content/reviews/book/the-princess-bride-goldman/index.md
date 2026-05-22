@@ -13,7 +13,6 @@ publisher: Ballantine Books
 rating: 4.0
 reads:
 - year: 2018
-- year: 2018
 tags:
 - fantasy
 title: The Princess Bride

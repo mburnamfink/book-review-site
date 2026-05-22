@@ -13,7 +13,6 @@ publisher: Grove Press
 rating: 3.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - fiction
 - vietnam

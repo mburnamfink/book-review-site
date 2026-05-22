@@ -13,7 +13,6 @@ publisher: Riverhead Books
 rating: 3.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - fiction
 title: The Heaven & Earth Grocery Store

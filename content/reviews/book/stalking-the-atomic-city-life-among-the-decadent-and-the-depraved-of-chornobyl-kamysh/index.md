@@ -12,7 +12,6 @@ publisher: Astra House
 rating: 2.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - non-fiction
 title: 'Stalking the Atomic City: Life Among the Decadent and the Depraved of Chornobyl'

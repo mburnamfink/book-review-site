@@ -13,7 +13,6 @@ publisher: Harvard University Press
 rating: 4.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - academic
 - history

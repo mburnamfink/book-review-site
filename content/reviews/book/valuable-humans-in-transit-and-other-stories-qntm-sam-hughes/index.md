@@ -14,7 +14,6 @@ publication_year: 2022
 rating: 5.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - sci-fi
 title: Valuable Humans in Transit and Other Stories

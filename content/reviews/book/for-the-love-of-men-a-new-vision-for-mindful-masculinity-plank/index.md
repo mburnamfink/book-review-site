@@ -13,7 +13,6 @@ publisher: St. Martin's Press
 rating: 4.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - psychology
 title: 'For the Love of Men: A New Vision for Mindful Masculinity'

@@ -16,7 +16,6 @@ publisher: Potomac Books Inc
 rating: 5.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - sts
 - war

@@ -12,9 +12,9 @@ publication_year: 2014
 publisher: Del Rey
 rating: 5.0
 reads:
-- year: 2017
 - date_finished: 2017-03-03
   year: 2017
+- year: 2018
 tags:
 - sci-fi
 title: Red Rising

@@ -8,7 +8,6 @@ publication_year: 2019
 rating: 5.0
 reads:
 - year: 2021
-- year: 2021
 tags:
 - rpg
 - sci-fi

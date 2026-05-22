@@ -11,7 +11,6 @@ publisher: Tall Woods Books
 rating: 4.0
 reads:
 - year: 2025
-- year: 2025
 tags:
 - fantasy
 title: Under One Banner

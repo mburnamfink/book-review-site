@@ -13,7 +13,6 @@ publisher: Free Press
 rating: 5.0
 reads:
 - year: 2023
-- year: 2023
 tags:
 - parenting
 title: The Emotional Life of the Toddler

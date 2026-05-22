@@ -14,6 +14,7 @@ rating: 4.0
 reads:
 - date_finished: 2016-12-16
   year: 2016
+- year: 2012
 tags:
 - mystery
 - hugo-award

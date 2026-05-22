@@ -13,7 +13,6 @@ publisher: Little, Brown Book Group
 rating: 3.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - fantasy
 title: Devices and Desires

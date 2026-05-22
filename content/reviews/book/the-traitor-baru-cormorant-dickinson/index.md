@@ -12,9 +12,9 @@ publication_year: 2015
 publisher: Tor Books / Tom Doherty Associates
 rating: 5.0
 reads:
-- year: 2017
 - date_finished: 2017-08-30
   year: 2017
+- year: 2019
 tags:
 - fantasy
 title: The Traitor Baru Cormorant

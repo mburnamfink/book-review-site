@@ -13,7 +13,6 @@ publisher: Mit Pr
 rating: 4.0
 reads:
 - year: 2022
-- year: 2022
 tags:
 - data-science
 title: 'Turing''s Vision: The Birth of Computer Science'

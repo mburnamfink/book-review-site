@@ -13,7 +13,6 @@ publisher: List Paul Verlag
 rating: 4.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - history
 - war

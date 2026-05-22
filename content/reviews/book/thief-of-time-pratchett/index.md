@@ -12,9 +12,9 @@ publication_year: 2008
 publisher: HarperTorch
 rating: 4.0
 reads:
-- year: 2015
 - date_finished: 2015-03-15
   year: 2015
+- year: 2020
 tags:
 - fantasy
 title: Thief of Time

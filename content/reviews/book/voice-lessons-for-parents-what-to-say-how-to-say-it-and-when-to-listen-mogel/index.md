@@ -13,7 +13,6 @@ publisher: Scribner
 rating: 3.0
 reads:
 - year: 2024
-- year: 2024
 tags:
 - parenting
 title: 'Voice Lessons for Parents: What to Say, How to Say it, and When to Listen'
