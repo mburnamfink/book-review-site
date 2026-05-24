@@ -13,11 +13,22 @@
 * What is Scientific About Data Science
 * Factorio?
 
+## Reviews
+* Oath of Moment
+* Careless People
+* The Surrender Experiment
+* Thunder Below!
+* A Nocturne
+
+  [  ] [SG]  Oath of Moment: An Astartes Roleplaying Game
+
 ## actually a book
 * C:\Users\michael\dev\book-review-site\site\content\reviews\audiobook\the-bridge-at-dong-ha-miller
 * C:\Users\michael\dev\book-review-site\site\content\reviews\audiobook\second-variety-dick
 * C:\Users\michael\dev\book-review-site\site\content\reviews\audiobook\hell-divers-smith
 * C:\Users\michael\dev\book-review-site\site\content\reviews\audiobook\children-of-ruin-tchaikovsky
+
+
 ## Actually Audiobooks
 * The Achilles Trap
 * Small Things Like These

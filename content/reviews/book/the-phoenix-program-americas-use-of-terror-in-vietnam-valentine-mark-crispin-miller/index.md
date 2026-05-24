@@ -17,6 +17,7 @@ rating: 5.0
 reads:
 - date_finished: 2020-10-13
   year: 2020
+- year: 2025
 tags:
 - vietnam-war
 - war

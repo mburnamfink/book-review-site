@@ -19,7 +19,7 @@ title: City of Illusions
 type: book
 ---
 
-City of Illusion is where Le Guin both gets her teeth into the live high voltage wire of science fiction (to steal a phrase from Bruce Sterling) and fully comes into herself, and the major themes that will drive the rest of her fiction.
+*City of Illusion* is where Le Guin both gets her teeth into the live high voltage wire of science fiction (to steal a phrase from Bruce Sterling) and fully comes into herself, and the major themes that will drive the rest of her fiction.
 
 On Terra, in the far future, a man with golden eyes and no memories wanders into the Forest House. The people there take him in, introduce him to their elegant appropriate technology way of life, teach him to speak and hunt, and warn him of the terrible fate that has befallen man.  Centuries ago, alien invaders calling themselves the Shing arrived with the power to mind-lie, to deceive while in telepathic communication which is otherwise impossible.  The Shing broke human power and erased human history in a web of lies, leaving only their ultimate law: Reverence for life.
 

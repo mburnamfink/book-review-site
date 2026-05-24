@@ -13,6 +13,7 @@ rating: 5.0
 reads:
 - date_finished: 2015-10-11
   year: 2015
+- year: 2025
 tags:
 - sci-fi
 - feminist

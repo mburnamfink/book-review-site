@@ -13,6 +13,7 @@ rating: 5.0
 reads:
 - date_finished: 2020-05-19
   year: 2020
+- year: 2025
 tags:
 - fantasy
 title: The Empress of Salt and Fortune
