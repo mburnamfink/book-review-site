@@ -56,10 +56,23 @@ const allTags = Object.entries(tagCounts)
 const allYears = Object.entries(yearCounts)
   .map(([y, count]) => ({ year: parseInt(y), count }))
   .sort((a, b) => b.year - a.year);
+
+const currentYear = new Date().getFullYear();
+const currentYearEntries = allYears.filter(y => y.year === currentYear);
+const pastYears = allYears.filter(y => y.year !== currentYear);
+
+const decadeMap = new Map<number, typeof pastYears>();
+for (const y of pastYears) {
+  const decade = Math.floor(y.year / 10) * 10;
+  if (!decadeMap.has(decade)) decadeMap.set(decade, []);
+  decadeMap.get(decade)!.push(y);
+}
+const decades = [...decadeMap.entries()]
+  .sort(([a], [b]) => b - a)
+  .map(([decade, years]) => ({ decade, years }));
 ---
 
 <Base title="Book Reviews">
-  <input type="search" id="search-input" class="search-input" placeholder="Search by title or author…" autocomplete="off" />
 
   <div class="index-layout">
     <aside class="sidebar">
@@ -67,11 +80,29 @@ const allYears = Object.entries(yearCounts)
         <div class="sidebar-heading">Year</div>
         <ul class="sidebar-links">
           <li><button class="sidebar-link" data-filter-year="">All years</button></li>
-          {allYears.map(({ year, count }) => (
+          {currentYearEntries.map(({ year, count }) => (
             <li>
               <button class="sidebar-link" data-filter-year={String(year)}>
                 {year}<span class="sidebar-count">{count}</span>
               </button>
+            </li>
+          ))}
+          {decades.map(({ decade, years }) => (
+            <li class="decade-item">
+              <details class="decade-details">
+                <summary class="sidebar-link decade-summary">
+                  {decade}s<span class="sidebar-count">{years.reduce((s, y) => s + y.count, 0)}</span>
+                </summary>
+                <ul class="sidebar-links decade-years">
+                  {years.map(({ year, count }) => (
+                    <li>
+                      <button class="sidebar-link" data-filter-year={String(year)}>
+                        {year}<span class="sidebar-count">{count}</span>
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              </details>
             </li>
           ))}
         </ul>
@@ -178,11 +209,23 @@ function sortReviews(list, by, dir) {
   return dir === 'rev' ? s.reverse() : s;
 }
 
+const STAR_PATH = 'M10,1 L12.06,7.17 L18.56,7.22 L13.33,11.08 L15.29,17.28 L10,13.5 L4.71,17.28 L6.67,11.08 L1.44,7.22 L7.94,7.17 Z';
+let _sid = 0;
+
+function starSvg(fraction) {
+  const id = 'sr' + (_sid++);
+  const w = (fraction * 20).toFixed(2);
+  return `<svg viewBox="0 0 20 20" width="13" height="13" aria-hidden="true" focusable="false" style="display:inline-block;vertical-align:-1px"><defs><clipPath id="${id}"><rect x="0" y="0" width="${w}" height="20"/></clipPath></defs><path d="${STAR_PATH}" fill="var(--star-empty)"/><path d="${STAR_PATH}" fill="var(--star-fill)" clip-path="url(#${id})"/><path d="${STAR_PATH}" fill="none" stroke="var(--star-stroke)" stroke-width="1.5"/></svg>`;
+}
+
 function stars(rating) {
   if (rating == null) return '';
-  const full = Math.floor(rating);
-  const half = rating % 1 >= 0.5;
-  return '★'.repeat(full) + (half ? '⯨' : '') + '☆'.repeat(5 - full - (half ? 1 : 0));
+  let html = `<span class="star-row" aria-label="${rating} out of 5 stars">`;
+  for (let i = 1; i <= 5; i++) {
+    const fraction = Math.min(1, Math.max(0, rating - (i - 1)));
+    html += starSvg(fraction);
+  }
+  return html + '</span>';
 }
 
 function esc(str) {
@@ -222,6 +265,17 @@ function updateUI(params) {
   document.querySelectorAll('.sidebar-link[data-filter-year]').forEach(el => {
     el.classList.toggle('active', el.dataset.filterYear === params.year);
   });
+  document.querySelectorAll('.decade-details').forEach(el => {
+    el.querySelector('.decade-summary')?.classList.remove('has-active');
+  });
+  if (params.year) {
+    const activeYearBtn = document.querySelector(`.sidebar-link[data-filter-year="${params.year}"]`);
+    const details = activeYearBtn?.closest('details');
+    if (details) {
+      details.open = true;
+      details.querySelector('.decade-summary')?.classList.add('has-active');
+    }
+  }
   document.querySelectorAll('.sort-btn').forEach(el => {
     const isActive = el.dataset.sort === params.sort;
     el.classList.toggle('active',     isActive && params.dir !== 'rev');
@@ -318,5 +372,9 @@ document.getElementById('search-input').addEventListener('input', e => {
 });
 
 window.addEventListener('popstate', render);
+
+// The search input lives in the header form — prevent full-page submit on this page
+document.querySelector('.header-search')?.addEventListener('submit', e => e.preventDefault());
+
 render();
 </script>

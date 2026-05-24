@@ -14,7 +14,7 @@ reads:
   date_started: '2026-04-24'
   year: 2026
 tags:
-- fictionm
+- fiction
 title: Antarctica
 type: book
 ---

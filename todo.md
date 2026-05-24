@@ -15,12 +15,6 @@
 
 ## Reviews
 * Oath of Moment
-* Careless People
-* The Surrender Experiment
-* Thunder Below!
-* A Nocturne
-
-  [  ] [SG]  Oath of Moment: An Astartes Roleplaying Game
 
 ## actually a book
 * C:\Users\michael\dev\book-review-site\site\content\reviews\audiobook\the-bridge-at-dong-ha-miller
@@ -60,8 +54,7 @@
 
 # Add RPG Reviews
 * Realis Ashcan
-* Blood Neon
-* A Nocture
 
 # Fix Covers
 
+# Fix typos and typology
