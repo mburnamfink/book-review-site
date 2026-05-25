@@ -20,6 +20,7 @@ tags:
 - self-help
 title: 'The Middle Passage: From Misery to Meaning in Midlife'
 type: book
+bsky_post: https://bsky.app/profile/mburnamfink.bsky.social/post/3mmnbuclu6s24
 ---
 *The Middle Passage* is a Jungian analysis of midlife angst. Hollis frames the initial part of adulthood as in fact an extended childhood, a heroic journey into careers, marriage, family, and other achievements. This path is based on fundamentally illusory premises, and its no wonder that there is nothing at then end.  People who've reach its limits find an interior depression and exterior chaos: quitting stable jobs, starting affairs, and other ill-conceived life choices.  This pain is the sign that real adulthood approaches.
 
