@@ -3,7 +3,9 @@ authors:
 - first: Steve
   last: Coll
   role: author
+cover: ./cover.jpg
 date_reviewed: '2026-05-24'
+og_cover: ./og-cover.jpg
 page_count: 576
 publication_year: 2024
 publisher: Penguin Press
@@ -21,6 +23,7 @@ title: 'The Achilles Trap: Saddam Hussein, the C.I.A., and the Origins of Americ
   Invasion of Iraq'
 type: book
 ---
+
 At this point in The End of The End of History, Saddam Hussein has ceased to be a political figure and become a meme.  Here's Saddam shaking hands with Donald Rumsfeld. Here's a disheveled Saddam being pulled from his spider hole. Here's Saddam casting a shadow over the future.
 
 ![Saddam in Plato's cave](https://i.kym-cdn.com/photos/images/original/002/135/336/da6)

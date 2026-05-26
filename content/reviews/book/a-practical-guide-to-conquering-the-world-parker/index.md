@@ -3,7 +3,9 @@ authors:
 - first: K. J.
   last: Parker
   role: author
+cover: ./cover.jpg
 date_reviewed: '2026-05-22'
+og_cover: ./og-cover.jpg
 page_count: 384
 publication_year: 2022
 rating: 3.5
@@ -15,6 +17,7 @@ tags:
 title: A Practical Guide to Conquering the World
 type: book
 ---
+
 *A Practical Guide to Conquering the World* is light and diverting and moves easily, but lacks a lot of the charm of the earlier books.  Our narrator is Felix, a translator in the diplomatic corps of The City posted to the great empire of Echman. When news arrives that the The City has fallen, the rest of his mission loses its diplomatic status and dies. Felix had previously saved the lives of a princess/hostage with the charming name She Tramples Flat The World (and a personality to match) and joins her little group.
 
 The basic theme of the story, to quote some anonymous Ukrainian soldier, is "we are lucky they are so fucking stupid".  Echman decides to enslave the princesses' people to build a great wall, so Felix and Tramples make a daring escape from their palace, liberate the encampment, and forge an alliance of nomads. Felix, who's spent years in the great library reading history, teaches the nomad a combination of pike and composite bow archery which is a hard counter to the heavy cavalry of the Echman.

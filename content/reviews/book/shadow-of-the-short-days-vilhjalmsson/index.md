@@ -3,7 +3,9 @@ authors:
 - first: Alexander Dan
   last: Vilhjálmsson
   role: author
+cover: ./cover.jpg
 date_reviewed: '2026-05-23'
+og_cover: ./og-cover.jpg
 page_count: 528
 publication_year: 2019
 rating: 4.0
@@ -12,9 +14,10 @@ reads:
   year: 2025
 tags:
 - fantasy
-title: Shadow of the Short Days
+title: Shadows of the Short Days
 type: book
 ---
+
 Welcome to Iceland, though not quite our Iceland.  Magic is real, and the tradition has been made scientific and industrial by colonial oppressors. Parahumans of various sort share the streets with humans.  The city teeters on the edge of catastrophe, and our two characters are going to push it over the brink.
 
 Gárun is a revolutionary, a graffiti artist who's half-human and half-huldufólk parentage marks her as an outcaste and illegal to both communities. She sprays sigils on businesses that she despises, and tries to organize the people against the regime.  Sæmundur is a sorcerer, expelled from university for his radical theories about galdur, a dangerous kind of demonology, and uncompromising in his quest for understanding and power. The two of them used to be lovers, but broke up over Sæmundur's shame about  Gárun's race.

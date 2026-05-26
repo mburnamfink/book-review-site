@@ -6,7 +6,9 @@ authors:
 - first: Lexie
   last: ''
   role: author
+cover: ./cover.jpg
 date_reviewed: '2026-05-24'
+og_cover: ./og-cover.jpg
 publication_year: 2025
 publisher: Newstand Press
 rating: 5.0
@@ -20,6 +22,7 @@ tags:
 title: Oath of Moment
 type: rpg
 ---
+
 Erika Chappell (and Lexie, sorry Lexie. Don't know your last name so no author credit this time) is an absolutely madwoman.  Somehow in the midst of everything she just goes and makes the best Warhammer 40k RPG ever put to page and releases it for free on BlueSky. Just writes 200 pages, drops a link, flips a double bird to a certain very litigious miniatures company, and (presumably) jetpacks into the sunset.
 
 *Oath of Moment* is about the complexities of being a Space Marine from Warhammer 40k. They're objectively super-human supersoldiers capable of laying waste to entire armies, sworn warriors of honor. And they go renegade and start fucking everything up at the slightest provocation because the Emperor of Man sucks that much and being a Space Marine is riven with contradictions.

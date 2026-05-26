@@ -7,11 +7,13 @@ authors:
 - first: Michael
   last: Singer
   role: narrator
+cover: ./cover.jpg
 date_reviewed: '2026-05-23'
 narrator:
   first: Michael
   last: Singer
   role: narrator
+og_cover: ./og-cover.jpg
 publication_year: 2015
 rating: 5.0
 reads:
@@ -23,6 +25,7 @@ tags:
 title: 'The Surrender Experiment: My Journey Into Life''s Perfection'
 type: audiobook
 ---
+
 *The Surrender Experiment* is one of the most fantastic biographies I've ever read.
 
 Mickey Singer was a pretty typically late-60s dude, a grad student in economics in Florida with the usual grad student problems. One day, hanging out with some friends, he noticed that there was this annoying voice in his head that was just spilling out an unending stream of gibberish, and wouldn't SHUT UP.  Like a lot of people at the time, he decided to try meditation, starting with Three Pillars of Zen and Autobiography of a Yogi. Uncommonly, he stuck with it.
@@ -37,4 +40,4 @@ That software, Medical Manager, turned into one of the premier electronic medica
 
 Which was important, because between 2006 and 2012, WebMD and it's entire executive staff were embroiled in a massive legal fiasco. A lower level employee had been taking kickbacks from doctors, and in an effort to save his hide, went to the government as a whistle-blower alleging the entire company was involved in this corruption. The FBI and DOJ went through everything, a multiyear white-collar crime case that ending the Feds dropping the charges first against all the ancillary defendants, then against Singer, and while two executives were convicted, the judge overturned the conviction because the statue of limitations had run out.  Singer decided to take the time to retire and write some books, including this one.
 
-Part of me is absolutely impressed at the dedication to the experiment, and to meditating as someone who can do so for about 45 seconds.  Maybe I'm fighting my own life too hard.  And another part of me is like "Ok boomer", because it's absolutely impossible than anyone these days could bounce around in a VW van for years, become a spiritual guru, and then a business-owner and major executive, without having to do a bunch of shady #hustle bullshit. 
+Part of me is absolutely impressed at the dedication to the experiment, and to meditating as someone who can do so for about 45 seconds.  Maybe I'm fighting my own life too hard.  And another part of me is like "Ok boomer", because it's absolutely impossible than anyone these days could bounce around in a VW van for years, become a spiritual guru, and then a business-owner and major executive, without having to do a bunch of shady #hustle bullshit.
