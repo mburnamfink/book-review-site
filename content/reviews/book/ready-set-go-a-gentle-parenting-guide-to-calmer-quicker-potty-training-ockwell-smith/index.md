@@ -3,8 +3,10 @@ authors:
 - first: Sarah
   last: Ockwell-Smith
   role: author
+cover: ./cover.jpg
 date_reviewed: 2025-04-03
 isbn: '9780143131908'
+og_cover: ./og-cover.jpg
 page_count: 208
 publication_year: 2018
 publisher: Tarcher

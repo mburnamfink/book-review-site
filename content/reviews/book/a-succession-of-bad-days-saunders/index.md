@@ -3,8 +3,10 @@ authors:
 - first: Graydon
   last: Saunders
   role: author
+cover: ./cover.jpg
 date_reviewed: 2025-03-26
 isbn: '9780993712616'
+og_cover: ./og-cover.jpg
 page_count: 529
 publication_year: 2015
 publisher: Tallwoods Books

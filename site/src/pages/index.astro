@@ -76,51 +76,56 @@ const decades = [...decadeMap.entries()]
 
   <div class="index-layout">
     <aside class="sidebar">
-      <div class="sidebar-section">
-        <div class="sidebar-heading">Year</div>
-        <ul class="sidebar-links">
-          <li><button class="sidebar-link" data-filter-year="">All years</button></li>
-          {currentYearEntries.map(({ year, count }) => (
-            <li>
-              <button class="sidebar-link" data-filter-year={String(year)}>
-                {year}<span class="sidebar-count">{count}</span>
-              </button>
-            </li>
-          ))}
-          {decades.map(({ decade, years }) => (
-            <li class="decade-item">
-              <details class="decade-details">
-                <summary class="sidebar-link decade-summary">
-                  {decade}s<span class="sidebar-count">{years.reduce((s, y) => s + y.count, 0)}</span>
-                </summary>
-                <ul class="sidebar-links decade-years">
-                  {years.map(({ year, count }) => (
-                    <li>
-                      <button class="sidebar-link" data-filter-year={String(year)}>
-                        {year}<span class="sidebar-count">{count}</span>
-                      </button>
-                    </li>
-                  ))}
-                </ul>
-              </details>
-            </li>
-          ))}
-        </ul>
-      </div>
+      <details class="sidebar-details" open>
+        <summary class="sidebar-toggle">Filters</summary>
+        <div class="sidebar-contents">
+          <div class="sidebar-section">
+            <div class="sidebar-heading">Year</div>
+            <ul class="sidebar-links">
+              <li><button class="sidebar-link" data-filter-year="">All years</button></li>
+              {currentYearEntries.map(({ year, count }) => (
+                <li>
+                  <button class="sidebar-link" data-filter-year={String(year)}>
+                    {year}<span class="sidebar-count">{count}</span>
+                  </button>
+                </li>
+              ))}
+              {decades.map(({ decade, years }) => (
+                <li class="decade-item">
+                  <details class="decade-details">
+                    <summary class="sidebar-link decade-summary">
+                      {decade}s<span class="sidebar-count">{years.reduce((s, y) => s + y.count, 0)}</span>
+                    </summary>
+                    <ul class="sidebar-links decade-years">
+                      {years.map(({ year, count }) => (
+                        <li>
+                          <button class="sidebar-link" data-filter-year={String(year)}>
+                            {year}<span class="sidebar-count">{count}</span>
+                          </button>
+                        </li>
+                      ))}
+                    </ul>
+                  </details>
+                </li>
+              ))}
+            </ul>
+          </div>
 
-      <div class="sidebar-section">
-        <div class="sidebar-heading">Tags</div>
-        <ul class="sidebar-links">
-          <li><button class="sidebar-link" data-filter-tag="">All tags</button></li>
-          {allTags.map(({ tag, count }) => (
-            <li>
-              <button class="sidebar-link" data-filter-tag={tag}>
-                {tag}<span class="sidebar-count">{count}</span>
-              </button>
-            </li>
-          ))}
-        </ul>
-      </div>
+          <div class="sidebar-section">
+            <div class="sidebar-heading">Tags</div>
+            <ul class="sidebar-links">
+              <li><button class="sidebar-link" data-filter-tag="">All tags</button></li>
+              {allTags.map(({ tag, count }) => (
+                <li>
+                  <button class="sidebar-link" data-filter-tag={tag}>
+                    {tag}<span class="sidebar-count">{count}</span>
+                  </button>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      </details>
     </aside>
 
     <div class="index-main">
@@ -377,4 +382,10 @@ window.addEventListener('popstate', render);
 document.querySelector('.header-search')?.addEventListener('submit', e => e.preventDefault());
 
 render();
+
+// Collapse sidebar filters by default on mobile
+const sidebarDetails = document.querySelector('.sidebar-details');
+if (sidebarDetails && window.innerWidth < 721) {
+  sidebarDetails.removeAttribute('open');
+}
 </script>

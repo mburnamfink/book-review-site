@@ -3,8 +3,10 @@ authors:
 - first: Peter L.W.
   last: Osnos
   role: author
+cover: ./cover.jpg
 date_reviewed: 2025-05-30
 isbn: '9781953943576'
+og_cover: ./og-cover.jpg
 page_count: 134
 publication_year: 2024
 publisher: Rivertowns Books

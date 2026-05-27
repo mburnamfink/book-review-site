@@ -7,11 +7,13 @@ authors:
 - first: David
   last: Thorpe
   role: narrator
+cover: ./cover.jpg
 date_reviewed: '2026-05-23'
 narrator:
   first: David
   last: Thorpe
   role: narrator
+og_cover: ./og-cover.jpg
 publication_year: 2023
 rating: 5.0
 reads:
@@ -23,6 +25,7 @@ tags:
 title: City of Last Chances
 type: audiobook
 ---
+
 *City of Last Chances* is dark fantasy that delivers. Ilmar, the titular city, is a place of grime, crime, oppression, and magic. The usual forces of capitalist exploitation (with demons driving the mills) and a rampant criminal underworld have a special master, the imperial Pallaseen occupiers, who's ideology of "perfecting the world" is an excuse for ongoing conquest and then erasure of local cultures. It's been three years since Ilmar was conquered, and the city is a tinderbox waiting to explode.
 
 The story dances through multiple points of view. And while this complexity is a common failure of epic fantasy, Tchaikovsky never loses the thread, using each distinct character to show a different part of the city, and different angle on ambition, intrigue, violence, and idealism.

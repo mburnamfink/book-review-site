@@ -3,8 +3,10 @@ authors:
 - first: Michael J.
   last: Martineck
   role: author
+cover: ./cover.jpg
 date_reviewed: 2025-05-08
 isbn: '9781770532397'
+og_cover: ./og-cover.jpg
 page_count: 179
 publication_year: 2024
 publisher: EDGE-Lite

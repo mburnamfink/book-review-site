@@ -3,8 +3,10 @@ authors:
 - first: Sarah
   last: Wynn-Williams
   role: author
+cover: ./cover.jpg
 date_reviewed: 2025-03-26
-isbn: "9781250391230"
+isbn: '9781250391230'
+og_cover: ./og-cover.jpg
 page_count: 382
 publication_year: 2025
 publisher: Flatiron Books
@@ -12,10 +14,14 @@ rating: 5
 reads:
 - date_finished: 2025-03-19
   year: 2025
-tags: [non-fiction, horror, data-science]
+tags:
+- non-fiction
+- horror
+- data-science
 title: 'Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism'
 type: book
 ---
+
 When Sarah Wynn-Williams was a young girl in New Zealand, she was attacked by a shark. She made it out of the water fine, but the doctor who treated her missed internal lacerations and she went into septic shock, unable to convince her parents that she was actually sick until almost died.
 
 That story is also a pretty good metaphor for Wynn-William’s career at Facebook, and this subsequent memoir, which is a dishy expose of several senior executives, notably Chief Operating Officer Sheryl Sandberg, former VP of Global Communications and Public Policy Elliot Schrage, current President of Global Affairs Joel Kaplan, and of course, Mark “Emperor AuZuccus” Zuckerberg.

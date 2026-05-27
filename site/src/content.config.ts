@@ -1,10 +1,11 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
+import { z } from 'zod';
 import { glob } from 'astro/loaders';
 
 const contributor = z.object({
   first: z.string().optional(),
   last: z.string(),
-  role: z.enum(['author', 'editor', 'contributor', 'narrator']).default('author'),
+  role: z.enum(['author', 'editor', 'contributor', 'narrator', 'illustrator']).default('author'),
 });
 
 const readRecord = z.object({

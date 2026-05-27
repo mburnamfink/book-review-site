@@ -3,8 +3,10 @@ authors:
 - first: Will
   last: Greatwich
   role: author
+cover: ./cover.jpg
 date_reviewed: 2025-02-23
 isbn: '9781763878709'
+og_cover: ./og-cover.jpg
 page_count: 486
 publication_year: 2025
 rating: 4.0

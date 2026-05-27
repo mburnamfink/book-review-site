@@ -3,14 +3,16 @@ authors:
 - first: Avalyn
   last: Ramsay
   role: author
+cover: ./cover.jpg
 date_reviewed: 2025-02-17
 isbn: '9781777314606'
+og_cover: ./og-cover.jpg
 publication_year: 2025
 publisher: Avalyn Ramsay Games
 rating: 4.0
 reads:
-- year: 2025
-  date_finished: 2025-02-17
+- date_finished: 2025-02-17
+  year: 2025
 tags:
 - rpg
 - sci-fi

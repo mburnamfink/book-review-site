@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Lawrence J. Cohen Ph.D.
   role: author
+cover: ./cover.jpg
 date_reviewed: 2025-04-03
 isbn: '9781683693499'
+og_cover: ./og-cover.jpg
 page_count: 192
 publication_year: 2023
 publisher: Quirk Books

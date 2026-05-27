@@ -7,11 +7,13 @@ authors:
 - first: Corey
   last: Snow
   role: narrator
+cover: ./cover.jpg
 date_reviewed: '2026-05-23'
 narrator:
   first: Corey
   last: Snow
   role: narrator
+og_cover: ./og-cover.jpg
 publication_year: 2013
 rating: 5.0
 reads:
@@ -26,6 +28,7 @@ title: 'Thunder Below!: The USS Barb Revolutionizes Submarine Warfare in World W
   II'
 type: audiobook
 ---
+
 *Thunder Below* is Eugene "Lucky" Fluckey memoir of commanding five patrols in the *USS Barb* against Japan in 1944 and 45. Four of those patrols earned Fluckey the Navy Cross, the second highest US Navy award for valor. The remain earned him the Medal of Honor. This is truly an astounding military memoir.
 
 Fluckey's basic principal of command was attack, attack, and attack!  The *Barb* spent as much time on the surface as possible, giving it a 10 mile search radius as opposed to the 5 miles available to a submarine at periscope depth. The extra 5 miles of radius means another 235 square miles of search area at any time, a 300% increased chance to encounter the enemy.

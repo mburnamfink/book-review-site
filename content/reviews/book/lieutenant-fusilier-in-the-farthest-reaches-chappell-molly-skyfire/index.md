@@ -3,11 +3,13 @@ authors:
 - first: Erika
   last: Chappell
   role: author
-- first: ''
-  last: Molly Skyfire
-  role: author
+- first: Molly
+  last: Skyfire
+  role: illustrator
+cover: ./cover.jpg
 date_reviewed: 2025-02-05
 isbn: '9781738312412'
+og_cover: ./og-cover.jpg
 page_count: 482
 publication_year: 2024
 rating: 5.0
