@@ -28,4 +28,4 @@ Hollis admonishes again and again to sit with solitude and the question "What do
 
 The Shadow is not evil, but is fundamentally what we fear and repress, and also where the wellspring of creativity of power lie. The middle passage is about connecting with the Shadow, and finding true meaning on the other side.
 
-Hollis rights beautifully. I underlined a sentence on nearly every page of this book. As for actually implementing it? We'll see.
+Hollis writes beautifully. I underlined a sentence on nearly every page of this book. As for actually implementing it? We'll see.
