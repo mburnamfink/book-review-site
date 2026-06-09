@@ -9,8 +9,10 @@ authors:
 - first: ''
   last: Matt Lubchansky
   role: author
+cover: ./cover.jpg
 date_reviewed: 2015-11-15
 isbn: '9780988927124'
+og_cover: ./og-cover.jpg
 page_count: 300
 publication_year: 2015
 rating: 4.0

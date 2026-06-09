@@ -3,8 +3,10 @@ authors:
 - first: John Stryker
   last: Meyer
   role: author
+cover: ./cover.jpg
 date_reviewed: 2018-11-26
 isbn: '9780983256717'
+og_cover: ./og-cover.jpg
 page_count: 370
 rating: 4.0
 reads:

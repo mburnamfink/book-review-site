@@ -3,8 +3,10 @@ authors:
 - first: Thomas A.
   last: Mays
   role: author
+cover: ./cover.jpg
 date_reviewed: 2014-09-22
 isbn: '9781939398130'
+og_cover: ./og-cover.jpg
 page_count: 302
 publication_year: 2014
 publisher: Stealth Books

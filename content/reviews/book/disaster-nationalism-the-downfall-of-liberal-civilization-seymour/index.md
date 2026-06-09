@@ -3,8 +3,10 @@ authors:
 - first: Richard
   last: Seymour
   role: author
+cover: ./cover.jpg
 date_reviewed: 2024-12-25
 isbn: '9781804294253'
+og_cover: ./og-cover.jpg
 page_count: 288
 publication_year: 2024
 publisher: Verso

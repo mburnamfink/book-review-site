@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Kenneth L. Mossman
   role: author
+cover: ./cover.jpg
 date_reviewed: 2013-01-04
 isbn: '9783653018240'
+og_cover: ./og-cover.jpg
 page_count: 520
 publication_year: 2012
 publisher: Peter Lang Gmbh, Internationaler Verlag Der Wissenschaften

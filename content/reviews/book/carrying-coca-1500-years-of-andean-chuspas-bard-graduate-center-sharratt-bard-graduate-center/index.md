@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Bard Graduate Center
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-12-24
 isbn: '9780300200720'
+og_cover: ./og-cover.jpg
 page_count: 128
 publication_year: 2014
 publisher: Bard Graduate Center

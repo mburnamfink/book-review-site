@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Angel L. Callanaupa Alvarez
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-09-01
 isbn: '9780983886051'
+og_cover: ./og-cover.jpg
 page_count: 114
 publication_year: 2013
 publisher: Schiffer Craft

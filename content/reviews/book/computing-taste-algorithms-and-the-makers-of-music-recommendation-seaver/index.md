@@ -3,8 +3,10 @@ authors:
 - first: Nick
   last: Seaver
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-04-10
 isbn: '9780226702261'
+og_cover: ./og-cover.jpg
 page_count: 216
 publication_year: 2022
 publisher: University of Chicago Press

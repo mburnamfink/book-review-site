@@ -3,7 +3,9 @@ authors:
 - first: Richard
   last: Freeman
   role: author
+cover: ./cover.jpg
 date_reviewed: 2020-12-06
+og_cover: ./og-cover.jpg
 page_count: 392
 publication_year: 2019
 publisher: Lume Books

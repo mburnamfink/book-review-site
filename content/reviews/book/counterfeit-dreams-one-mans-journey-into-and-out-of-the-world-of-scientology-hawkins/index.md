@@ -3,8 +3,10 @@ authors:
 - first: Jefferson
   last: Hawkins
   role: author
+cover: ./cover.jpg
 date_reviewed: 2011-08-24
 isbn: '9780615375649'
+og_cover: ./og-cover.jpg
 page_count: 336
 publication_year: 2010
 publisher: Hawkeye Publishing Co.

@@ -9,8 +9,10 @@ authors:
 - first: ''
   last: DJ Patil
   role: author
+cover: ./cover.jpg
 date_reviewed: 2019-08-01
 isbn: '9781492045366'
+og_cover: ./og-cover.jpg
 page_count: 46
 publication_year: 2018
 publisher: O'Reilly Media

@@ -3,7 +3,9 @@ authors:
 - first: Anthony P.
   last: Tully
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-01-04
+og_cover: ./og-cover.jpg
 page_count: 352
 publication_year: 2009
 publisher: Indiana University Press

@@ -3,8 +3,10 @@ authors:
 - first: Gail V.
   last: Barrington
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-08-17
 isbn: '9781412987097'
+og_cover: ./og-cover.jpg
 page_count: 320
 publication_year: 2011
 publisher: SAGE Publications, Inc

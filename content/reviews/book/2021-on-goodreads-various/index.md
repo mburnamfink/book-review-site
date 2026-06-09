@@ -3,7 +3,9 @@ authors:
 - first: Various
   last: Various
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-01-03
+og_cover: ./og-cover.jpg
 publication_year: 2021
 rating: 5.0
 reads:

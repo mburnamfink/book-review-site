@@ -3,7 +3,9 @@ authors:
 - first: Daniel
   last: Ford
   role: author
+cover: ./cover.jpg
 date_reviewed: 2012-05-09
+og_cover: ./og-cover.jpg
 page_count: 74
 publication_year: 2010
 publisher: Warbird Books

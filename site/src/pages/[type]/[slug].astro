@@ -98,6 +98,9 @@ const description = d.authors.length
           {d.publication_year && (
             <tr><th>Published</th><td>{d.publication_year}{d.publisher ? ` · ${d.publisher}` : ''}</td></tr>
           )}
+          {d.series && (
+            <tr><th>Series</th><td>{d.series}{d.series_number != null ? ` #${d.series_number}` : ''}</td></tr>
+          )}
           {d.type === 'book' && d.page_count && (
             <tr><th>Pages</th><td>{d.page_count}</td></tr>
           )}

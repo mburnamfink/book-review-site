@@ -3,7 +3,9 @@ authors:
 - first: G.J.
   last: Ogden
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-01-02
+og_cover: ./og-cover.jpg
 page_count: 316
 publication_year: 2021
 publisher: Ogden Media Ltd

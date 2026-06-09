@@ -3,8 +3,10 @@ authors:
 - first: Allen
   last: Buchanan
   role: author
+cover: ./cover.jpg
 date_reviewed: 2013-05-28
 isbn: '9780199671496'
+og_cover: ./og-cover.jpg
 page_count: 300
 publication_year: 2013
 publisher: Oxford University Press

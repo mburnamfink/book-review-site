@@ -3,8 +3,10 @@ authors:
 - first: Charles
   last: Stross
   role: author
+cover: ./cover.jpg
 date_reviewed: 2013-10-04
 isbn: '9781466855472'
+og_cover: ./og-cover.jpg
 page_count: 65
 publication_year: 2013
 publisher: Tor Books

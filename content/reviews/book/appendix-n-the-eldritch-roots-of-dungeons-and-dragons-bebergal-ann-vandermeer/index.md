@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Ann VanderMeer
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-07-29
 isbn: '9781907222740'
+og_cover: ./og-cover.jpg
 page_count: 337
 publication_year: 2021
 publisher: Strange Attractor Press

@@ -3,8 +3,10 @@ authors:
 - first: Poul
   last: Anderson
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-10-31
 isbn: '9780451042507'
+og_cover: ./og-cover.jpg
 page_count: 160
 publication_year: 1970
 publisher: New American Library

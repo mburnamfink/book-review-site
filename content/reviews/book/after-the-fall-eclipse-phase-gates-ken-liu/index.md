@@ -45,8 +45,10 @@ authors:
 - first: ''
   last: Kim May
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-01-11
 isbn: '9780984583591'
+og_cover: ./og-cover.jpg
 page_count: 264
 publication_year: 2016
 publisher: Posthuman Studios

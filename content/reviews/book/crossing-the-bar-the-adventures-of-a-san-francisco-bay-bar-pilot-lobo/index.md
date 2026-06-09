@@ -3,7 +3,9 @@ authors:
 - first: Paul
   last: Lobo
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-02-08
+og_cover: ./og-cover.jpg
 page_count: 357
 publication_year: 2016
 publisher: Seahorse

@@ -3,7 +3,9 @@ authors:
 - first: Peter
   last: Townsend
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-05-18
+og_cover: ./og-cover.jpg
 page_count: 577
 publication_year: 2021
 publisher: Silvertail Books

@@ -3,8 +3,10 @@ authors:
 - first: Max
   last: Evry
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-10-02
 isbn: '9781948221290'
+og_cover: ./og-cover.jpg
 page_count: 520
 publication_year: 2023
 publisher: 1984 Publishing

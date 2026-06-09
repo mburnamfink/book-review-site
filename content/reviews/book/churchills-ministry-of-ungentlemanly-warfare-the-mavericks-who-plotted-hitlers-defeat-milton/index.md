@@ -3,8 +3,10 @@ authors:
 - first: Giles
   last: Milton
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-11-12
 isbn: '9781250119049'
+og_cover: ./og-cover.jpg
 page_count: 368
 publication_year: 2017
 publisher: Picador

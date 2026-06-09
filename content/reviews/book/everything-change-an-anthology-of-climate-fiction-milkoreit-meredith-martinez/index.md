@@ -57,8 +57,10 @@ authors:
 - first: ''
   last: Paolo Bacigalupi
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-12-09
 isbn: '9781536577143'
+og_cover: ./og-cover.jpg
 page_count: 217
 publication_year: 2016
 publisher: ASU Imagination and Climate Futures Initiative

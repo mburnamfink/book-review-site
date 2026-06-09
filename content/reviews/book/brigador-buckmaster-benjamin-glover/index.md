@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Benjamin Glover
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-04-13
 isbn: '9780997616606'
+og_cover: ./og-cover.jpg
 page_count: 312
 publication_year: 2016
 publisher: Stellar Jockeys

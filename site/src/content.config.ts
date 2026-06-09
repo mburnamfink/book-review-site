@@ -24,6 +24,8 @@ const reviews = defineCollection({
     isbn: z.preprocess(v => v ?? undefined, z.coerce.string().optional()),
     publication_year: z.preprocess(v => v ?? undefined, z.number().optional()),
     publisher: z.preprocess(v => v ?? undefined, z.string().optional()),
+    series: z.preprocess(v => v ?? undefined, z.string().optional()),
+    series_number: z.preprocess(v => v ?? undefined, z.number().optional()),
     rating: z.preprocess(v => v ?? undefined, z.number().min(1).max(5).optional()),
     date_reviewed: z.coerce.date(),
     reads: z.array(readRecord).min(1),

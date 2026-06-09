@@ -3,8 +3,10 @@ authors:
 - first: Robert
   last: Evans
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-12-04
 isbn: '9780147517609'
+og_cover: ./og-cover.jpg
 page_count: 260
 publication_year: 2016
 publisher: Plume

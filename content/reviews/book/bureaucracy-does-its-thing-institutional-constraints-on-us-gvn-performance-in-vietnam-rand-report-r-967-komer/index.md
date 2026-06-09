@@ -3,7 +3,9 @@ authors:
 - first: Robert W.
   last: Komer
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-08-04
+og_cover: ./og-cover.jpg
 page_count: 199
 publication_year: 1972
 publisher: RAND Corporation

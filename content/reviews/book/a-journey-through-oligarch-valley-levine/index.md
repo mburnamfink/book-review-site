@@ -3,7 +3,9 @@ authors:
 - first: Yasha
   last: Levine
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-07-21
+og_cover: ./og-cover.jpg
 page_count: 60
 publication_year: 2013
 publisher: Not Safe For Work Corporation

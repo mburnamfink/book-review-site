@@ -3,8 +3,10 @@ authors:
 - first: Michael
   last: Moorcock
   role: author
+cover: ./cover.jpg
 date_reviewed: 2018-09-21
 isbn: '9780586023693'
+og_cover: ./og-cover.jpg
 page_count: 157
 publication_year: 1968
 publisher: Panther

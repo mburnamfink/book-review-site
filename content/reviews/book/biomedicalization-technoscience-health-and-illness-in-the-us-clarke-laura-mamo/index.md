@@ -15,8 +15,10 @@ authors:
 - first: ''
   last: Janet K. Shim
   role: author
+cover: ./cover.jpg
 date_reviewed: 2014-05-27
 isbn: '9780822345701'
+og_cover: ./og-cover.jpg
 page_count: 512
 publication_year: 2010
 publisher: Duke University Press

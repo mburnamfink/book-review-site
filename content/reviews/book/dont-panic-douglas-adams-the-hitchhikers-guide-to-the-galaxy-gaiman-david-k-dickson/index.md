@@ -12,7 +12,9 @@ authors:
 - first: ''
   last: Guy Adams
   role: author
+cover: ./cover.jpg
 date_reviewed: 2019-09-30
+og_cover: ./og-cover.jpg
 page_count: 287
 publication_year: 2018
 publisher: Open Road Media Sci-Fi & Fantasy

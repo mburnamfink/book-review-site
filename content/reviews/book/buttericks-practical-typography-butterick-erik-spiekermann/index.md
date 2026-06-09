@@ -6,7 +6,9 @@ authors:
 - first: ''
   last: Erik Spiekermann
   role: author
+cover: ./cover.jpg
 date_reviewed: 2015-08-06
+og_cover: ./og-cover.jpg
 page_count: 200
 publication_year: 2013
 publisher: Matthew Butterick

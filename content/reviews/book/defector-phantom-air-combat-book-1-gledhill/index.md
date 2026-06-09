@@ -3,8 +3,10 @@ authors:
 - first: David
   last: Gledhill
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-09-04
 isbn: '9781913267087'
+og_cover: ./og-cover.jpg
 page_count: 345
 publication_year: 2013
 publisher: DeeGee Media

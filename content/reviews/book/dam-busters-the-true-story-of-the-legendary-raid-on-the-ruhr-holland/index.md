@@ -3,8 +3,10 @@ authors:
 - first: James
   last: Holland
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-06-03
 isbn: '9780593066768'
+og_cover: ./og-cover.jpg
 page_count: 437
 publication_year: 2012
 publisher: Bantam Press
