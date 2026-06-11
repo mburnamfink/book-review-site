@@ -6,7 +6,9 @@ authors:
 - first: ''
   last: Victor Costa
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-02-05
+og_cover: ./og-cover.jpg
 publication_year: 2020
 publisher: Bandit Camp
 rating: 5.0

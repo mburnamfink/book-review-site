@@ -3,7 +3,9 @@ authors:
 - first: Erika
   last: Chappell
   role: author
+cover: ./cover.jpg
 date_reviewed: 2018-06-03
+og_cover: ./og-cover.jpg
 publisher: Newstand Press
 rating: 4.0
 reads:

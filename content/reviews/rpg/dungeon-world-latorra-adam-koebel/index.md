@@ -6,7 +6,9 @@ authors:
 - first: ''
   last: Adam Koebel
   role: author
+cover: ./cover.jpg
 date_reviewed: 2014-11-26
+og_cover: ./og-cover.jpg
 publication_year: 2012
 publisher: Sage Kobold Productions
 rating: 3.0

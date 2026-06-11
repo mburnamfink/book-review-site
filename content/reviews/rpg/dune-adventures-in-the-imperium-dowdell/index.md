@@ -3,8 +3,10 @@ authors:
 - first: Nathan
   last: Dowdell
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-07-19
 isbn: '9781912743599'
+og_cover: ./og-cover.jpg
 publication_year: 2021
 publisher: Modiphius
 rating: 4.0

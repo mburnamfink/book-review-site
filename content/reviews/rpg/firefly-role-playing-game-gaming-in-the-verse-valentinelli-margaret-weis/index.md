@@ -42,8 +42,10 @@ authors:
 - first: ''
   last: Jennifer Rodger
   role: author
+cover: ./cover.jpg
 date_reviewed: 2015-07-23
 isbn: '9781936685318'
+og_cover: ./og-cover.jpg
 publication_year: 2013
 publisher: Margaret Weis Productions, LTD
 rating: 5.0

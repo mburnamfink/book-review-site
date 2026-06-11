@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Sean Nittner
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-10-05
 isbn: '9781613171752'
+og_cover: ./og-cover.jpg
 publication_year: 2020
 publisher: Evil Hat Productions
 rating: 3.0

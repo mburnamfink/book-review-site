@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Navi C Drake
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-05-24
 isbn: '9798985113402'
+og_cover: ./og-cover.jpg
 publication_year: 2022
 rating: 4.0
 reads:

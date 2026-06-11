@@ -3,7 +3,9 @@ authors:
 - first: Kenneth
   last: Hite
   role: author
+cover: ./cover.jpg
 date_reviewed: 2020-05-11
+og_cover: ./og-cover.jpg
 publication_year: 2012
 publisher: Pelgrane Press
 rating: 4.0

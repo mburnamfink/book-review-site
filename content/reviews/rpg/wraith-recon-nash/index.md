@@ -3,8 +3,10 @@ authors:
 - first: Pete
   last: Nash
   role: author
+cover: ./cover.jpg
 date_reviewed: 2011-08-19
 isbn: '9781907218958'
+og_cover: ./og-cover.jpg
 publication_year: 2010
 publisher: Mongoose Publishing
 rating: 2.0

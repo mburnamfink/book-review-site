@@ -69,7 +69,9 @@ authors:
 - first: ''
   last: Filamena Young
   role: author
+cover: ./cover.jpg
 date_reviewed: 2014-08-24
+og_cover: ./og-cover.jpg
 publication_year: 2014
 publisher: Engine Publishing
 rating: 4.0

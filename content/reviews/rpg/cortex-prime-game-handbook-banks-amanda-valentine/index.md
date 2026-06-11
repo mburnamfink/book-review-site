@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Amanda Valentine
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-01-09
 isbn: '9781648530012'
+og_cover: ./og-cover.jpg
 publication_year: 2020
 publisher: Fandom Inc
 rating: 4.0

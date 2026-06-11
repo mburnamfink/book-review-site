@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Marcin Kuczyński
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-01-05
 isbn: '9788389765161'
+og_cover: ./og-cover.jpg
 publication_year: 2020
 rating: 5.0
 reads:

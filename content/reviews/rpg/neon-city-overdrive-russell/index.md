@@ -3,7 +3,9 @@ authors:
 - first: Nathan
   last: Russell
   role: author
+cover: ./cover.jpg
 date_reviewed: 2020-04-23
+og_cover: ./og-cover.jpg
 publication_year: 2020
 publisher: Peril Planet
 rating: 4.0

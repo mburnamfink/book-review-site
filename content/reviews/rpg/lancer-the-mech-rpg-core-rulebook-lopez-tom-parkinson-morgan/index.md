@@ -6,7 +6,9 @@ authors:
 - first: ''
   last: Tom Parkinson-Morgan
   role: author
+cover: ./cover.jpg
 date_reviewed: 2019-12-06
+og_cover: ./og-cover.jpg
 publication_year: 2019
 rating: 5.0
 reads:

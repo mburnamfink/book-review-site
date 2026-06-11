@@ -24,8 +24,10 @@ authors:
 - first: ''
   last: Fred Hicks
   role: author
+cover: ./cover.jpg
 date_reviewed: 2014-10-26
 isbn: '9781931567862'
+og_cover: ./og-cover.jpg
 publication_year: 2014
 publisher: Margaret Weis Productions
 rating: 4.0

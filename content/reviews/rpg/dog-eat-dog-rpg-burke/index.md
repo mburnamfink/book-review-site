@@ -3,7 +3,9 @@ authors:
 - first: Liam Liwanag
   last: Burke
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-05-11
+og_cover: ./og-cover.jpg
 publication_year: 2013
 publisher: Liwanag Press
 rating: 5.0

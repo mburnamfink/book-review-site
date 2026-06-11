@@ -9,7 +9,9 @@ authors:
 - first: ''
   last: Minerva McJanda
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-10-26
+og_cover: ./og-cover.jpg
 publication_year: 2021
 publisher: Weird Age Games
 rating: 4.0

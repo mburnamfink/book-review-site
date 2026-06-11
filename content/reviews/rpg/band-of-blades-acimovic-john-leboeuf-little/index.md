@@ -6,7 +6,9 @@ authors:
 - first: ''
   last: John LeBoeuf-Little
   role: author
+cover: ./cover.jpg
 date_reviewed: 2020-12-13
+og_cover: ./og-cover.jpg
 publication_year: 2019
 publisher: Evil Hat Productions
 rating: 5.0

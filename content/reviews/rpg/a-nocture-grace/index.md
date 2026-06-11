@@ -3,7 +3,9 @@ authors:
 - first: Calum
   last: Grace
   role: author
+cover: ./cover.jpg
 date_reviewed: '2026-05-23'
+og_cover: ./og-cover.jpg
 publication_year: 2022
 publisher: Calum Grace
 rating: 5.0
@@ -17,6 +19,7 @@ tags:
 title: A Nocturne
 type: rpg
 ---
+
 *A Nocturne* is a Forged in the Dark (FitD) game inspired by the dark cosmological sci-fi of Alistair Reynolds, among other touchstones. You’re a crew of exiles, bad people who’s past crimes range from ordinary theft and assault up to planet-killing war crimes and making ontological threats to reality itself. You have a spitter ship, a massive slower-than-light craft with a hold full of forgotten assets and weapons, warped by time and the uncanny evolution of semi-autonomous technology. Can you score enough profit to keep the lights on before a system collapses into chaos and you have to flee into parsecs of distance and decades of cold sleep?
 
 *A Nocturne* shines in the character playbooks. They feel perfectly fit to the implied fiction of the setting, and the special abilities are notably potent. You’re not some guttersnipe with a knife, you’re an ancient survivor of the interstellar void and you have powers beyond human ken at your command.

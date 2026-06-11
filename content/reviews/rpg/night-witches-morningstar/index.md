@@ -3,8 +3,10 @@ authors:
 - first: Jason
   last: Morningstar
   role: author
+cover: ./cover.jpg
 date_reviewed: 2015-03-20
 isbn: '9780988390928'
+og_cover: ./og-cover.jpg
 publication_year: 2015
 publisher: Bully Pulpit Games
 rating: 5.0

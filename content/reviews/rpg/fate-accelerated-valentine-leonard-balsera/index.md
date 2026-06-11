@@ -15,7 +15,9 @@ authors:
 - first: ''
   last: Amanda Valentine
   role: author
+cover: ./cover.jpg
 date_reviewed: 2018-03-10
+og_cover: ./og-cover.jpg
 publication_year: 2013
 publisher: Evil Hat Productions, LLC.
 rating: 4.0

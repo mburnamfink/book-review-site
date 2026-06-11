@@ -6,7 +6,9 @@ authors:
 - first: R.
   last: Val
   role: author
+cover: ./cover.jpg
 date_reviewed: '2026-05-21'
+og_cover: ./og-cover.jpg
 publication_year: 2022
 publisher: Radmad
 rating: 5.0
@@ -21,6 +23,7 @@ tags:
 title: Blood Neon
 type: rpg
 ---
+
 I love tactical RPGs. *D&D4e* and *Lancer* are two of my very favorite games. I love crunch, and I live for that moment when a plan comes together and the villain falls under the weight of superior firepower and superior tactics.
 
 But tactical RPGs are often deeply flawed as games. I first noticed this running *D&D4e* for my grad school group, where there were more advanced degrees than people at the table, and these very bright individuals had trouble understanding how to use their characters, let alone synergize their abilities as a party. The cognitive load of *D&D4e* was simply too high, too many numbers and powers and things to pay attention to, even leaving roleplaying aside.

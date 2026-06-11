@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Steve Segedy
   role: author
+cover: ./cover.jpg
 date_reviewed: 2012-08-30
 isbn: '9781934859407'
+og_cover: ./og-cover.jpg
 publication_year: 2011
 publisher: Bully Pulpit Games
 rating: 4.0

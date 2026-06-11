@@ -3,7 +3,9 @@ authors:
 - first: W.M.
   last: Akers
   role: author
+cover: ./cover.jpg
 date_reviewed: 2019-05-20
+og_cover: ./og-cover.jpg
 publication_year: 2019
 publisher: W.M. Akers
 rating: 5.0

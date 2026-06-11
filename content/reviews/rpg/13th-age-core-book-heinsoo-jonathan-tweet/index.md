@@ -6,7 +6,9 @@ authors:
 - first: ''
   last: Jonathan Tweet
   role: author
+cover: ./cover.jpg
 date_reviewed: 2013-08-30
+og_cover: ./og-cover.jpg
 publication_year: 2013
 publisher: Pelgrane Press Ltd.
 rating: 5.0

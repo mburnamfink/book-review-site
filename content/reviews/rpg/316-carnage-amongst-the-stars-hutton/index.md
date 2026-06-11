@@ -3,8 +3,10 @@ authors:
 - first: Gregor
   last: Hutton
   role: author
+cover: ./cover.jpg
 date_reviewed: 2012-07-20
 isbn: '9781907204104'
+og_cover: ./og-cover.jpg
 publication_year: 1602
 publisher: Cubicle 7 Entertainment Ltd
 rating: 3.0

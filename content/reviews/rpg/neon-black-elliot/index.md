@@ -3,7 +3,9 @@ authors:
 - first: Michael
   last: Elliot
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-11-15
+og_cover: ./og-cover.jpg
 publication_year: 2019
 rating: 5.0
 reads:

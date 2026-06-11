@@ -15,8 +15,10 @@ authors:
 - first: ''
   last: Aaron McConnell
   role: author
+cover: ./cover.jpg
 date_reviewed: 2018-03-03
 isbn: '9781908983626'
+og_cover: ./og-cover.jpg
 publication_year: 2014
 publisher: Palgrane Press
 rating: 3.0
