@@ -15,8 +15,10 @@ authors:
 - first: ''
   last: Carl Mitcham
   role: author
+cover: ./cover.jpg
 date_reviewed: 2014-12-07
 isbn: '9780615886701'
+og_cover: ./og-cover.jpg
 page_count: 126
 publication_year: 2013
 publisher: Consortium for Science, Policy and Outcomes

@@ -3,8 +3,10 @@ authors:
 - first: Yaroslav
   last: Barsukov
   role: author
+cover: ./cover.jpg
 date_reviewed: 2024-08-15
 isbn: '9781647101367'
+og_cover: ./og-cover.jpg
 page_count: 342
 publication_year: 2024
 publisher: CAEZIK SF & Fantasy

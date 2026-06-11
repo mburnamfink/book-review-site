@@ -3,8 +3,10 @@ authors:
 - first: Brandon M.
   last: Schechter
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-01-26
 isbn: '9781501739804'
+og_cover: ./og-cover.jpg
 publication_year: 2019
 publisher: Cornell University Press
 rating: 4.0

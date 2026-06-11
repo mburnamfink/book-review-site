@@ -3,7 +3,9 @@ authors:
 - first: Judith M.
   last: Blohm
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-11-29
+og_cover: ./og-cover.jpg
 page_count: 386
 publication_year: 2012
 publisher: Pfeiffer

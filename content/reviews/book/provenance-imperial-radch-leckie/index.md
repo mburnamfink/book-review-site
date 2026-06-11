@@ -3,7 +3,9 @@ authors:
 - first: Ann
   last: Leckie
   role: author
+cover: ./cover.jpg
 date_reviewed: 2024-08-23
+og_cover: ./og-cover.jpg
 page_count: 481
 publication_year: 2017
 publisher: Orbit

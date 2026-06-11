@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Natalie Sidner
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-04-11
 isbn: '9780998997605'
+og_cover: ./og-cover.jpg
 page_count: 225
 publication_year: 2017
 rating: 5.0

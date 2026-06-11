@@ -3,8 +3,10 @@ authors:
 - first: Judson
   last: Brewer
   role: author
+cover: ./cover.jpg
 date_reviewed: 2024-08-15
 isbn: '9780593543276'
+og_cover: ./og-cover.jpg
 page_count: 302
 publication_year: 2024
 publisher: Avery

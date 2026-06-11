@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Kermit
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-01-03
 isbn: '9780990661467'
+og_cover: ./og-cover.jpg
 page_count: 375
 publication_year: 2015
 publisher: Tayen Lane Publishing

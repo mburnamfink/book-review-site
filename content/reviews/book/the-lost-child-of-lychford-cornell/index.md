@@ -3,8 +3,10 @@ authors:
 - first: Paul
   last: Cornell
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-05-24
 isbn: '9780765389763'
+og_cover: ./og-cover.jpg
 page_count: 144
 publication_year: 2016
 publisher: Tordotcom

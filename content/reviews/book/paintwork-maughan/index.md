@@ -3,7 +3,9 @@ authors:
 - first: Tim
   last: Maughan
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-08-27
+og_cover: ./og-cover.jpg
 page_count: 108
 publication_year: 2011
 rating: 4.0

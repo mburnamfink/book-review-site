@@ -3,8 +3,10 @@ authors:
 - first: Duane
   last: Evans
   role: author
+cover: ./cover.jpg
 date_reviewed: 2019-10-07
 isbn: '9781611213577'
+og_cover: ./og-cover.jpg
 page_count: 200
 publication_year: 2017
 publisher: Savas Beatie

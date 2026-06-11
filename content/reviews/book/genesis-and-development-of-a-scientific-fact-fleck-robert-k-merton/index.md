@@ -15,8 +15,10 @@ authors:
 - first: ''
   last: Thomas S. Kuhn
   role: author
+cover: ./cover.jpg
 date_reviewed: 2012-09-10
 isbn: '9780226253251'
+og_cover: ./og-cover.jpg
 page_count: 222
 publication_year: 1981
 publisher: University of Chicago Press

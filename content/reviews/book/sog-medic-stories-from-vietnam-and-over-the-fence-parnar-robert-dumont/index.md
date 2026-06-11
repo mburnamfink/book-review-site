@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Robert Dumont
   role: author
+cover: ./cover.jpg
 date_reviewed: 2020-04-02
 isbn: '9781612006345'
+og_cover: ./og-cover.jpg
 page_count: 280
 publication_year: 2018
 publisher: Casemate

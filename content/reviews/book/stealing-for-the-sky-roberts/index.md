@@ -3,7 +3,9 @@ authors:
 - first: Adam
   last: Roberts
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-11-28
+og_cover: ./og-cover.jpg
 page_count: 138
 publication_year: 2022
 publisher: NeoText

@@ -3,8 +3,10 @@ authors:
 - first: Jim
   last: Crossley
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-08-10
 isbn: '9781781597910'
+og_cover: ./og-cover.jpg
 page_count: 171
 publication_year: 2020
 publisher: Pen & Sword Maritime

@@ -3,8 +3,10 @@ authors:
 - first: Terence
   last: Robertson
   role: author
+cover: ./cover.jpg
 date_reviewed: 2024-08-23
 isbn: '9781800558205'
+og_cover: ./og-cover.jpg
 page_count: 262
 publication_year: 2023
 publisher: Sapere Books

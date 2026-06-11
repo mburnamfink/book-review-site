@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Jeffrey Young
   role: author
+cover: ./cover.jpg
 date_reviewed: 2013-06-12
 isbn: '9780985818302'
+og_cover: ./og-cover.jpg
 page_count: 114
 publication_year: 2012
 publisher: The Chronicle of Higher Education

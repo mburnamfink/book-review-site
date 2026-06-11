@@ -3,8 +3,10 @@ authors:
 - first: Richard
   last: Matheson
   role: author
+cover: ./cover.jpg
 date_reviewed: 2015-01-25
 isbn: '9780425020418'
+og_cover: ./og-cover.jpg
 page_count: 174
 publication_year: 1971
 publisher: Berkley Books

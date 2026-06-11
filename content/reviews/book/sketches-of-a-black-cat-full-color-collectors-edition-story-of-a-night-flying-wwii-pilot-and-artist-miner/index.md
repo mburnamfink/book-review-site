@@ -3,7 +3,9 @@ authors:
 - first: Ron
   last: Miner
   role: author
+cover: ./cover.jpg
 date_reviewed: 2020-08-29
+og_cover: ./og-cover.jpg
 page_count: 316
 publication_year: 2017
 publisher: Riverdale Press

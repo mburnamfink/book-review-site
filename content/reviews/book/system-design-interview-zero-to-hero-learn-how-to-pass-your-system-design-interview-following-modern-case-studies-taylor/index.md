@@ -3,7 +3,9 @@ authors:
 - first: Liam
   last: Taylor
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-04-21
+og_cover: ./og-cover.jpg
 page_count: 124
 publication_year: 2022
 rating: 4.0

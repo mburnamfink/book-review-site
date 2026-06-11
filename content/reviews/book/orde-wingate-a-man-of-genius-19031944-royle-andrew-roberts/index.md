@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Andrew Roberts
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-03-11
 isbn: '9781473807327'
+og_cover: ./og-cover.jpg
 page_count: 549
 publication_year: 2014
 publisher: Pen & Sword Military

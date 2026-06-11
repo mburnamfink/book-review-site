@@ -6,7 +6,9 @@ authors:
 - first: ''
   last: Maxwell Geismar
   role: author
+cover: ./cover.jpg
 date_reviewed: 2014-01-20
+og_cover: ./og-cover.jpg
 page_count: 210
 publication_year: 1968
 publisher: Dell Publishing (NY)

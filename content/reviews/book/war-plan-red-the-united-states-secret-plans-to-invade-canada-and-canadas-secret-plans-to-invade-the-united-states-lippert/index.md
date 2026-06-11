@@ -3,8 +3,10 @@ authors:
 - first: Kevin
   last: Lippert
   role: author
+cover: ./cover.jpg
 date_reviewed: 2024-12-15
 isbn: '9781616893521'
+og_cover: ./og-cover.jpg
 page_count: 144
 publication_year: 2015
 publisher: Princeton Architectural Press

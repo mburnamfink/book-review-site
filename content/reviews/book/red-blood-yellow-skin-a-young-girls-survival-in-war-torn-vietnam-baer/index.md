@@ -3,8 +3,10 @@ authors:
 - first: Linda L.T.
   last: Baer
   role: author
+cover: ./cover.jpg
 date_reviewed: 2020-11-14
 isbn: '9781632990280'
+og_cover: ./og-cover.jpg
 page_count: 342
 publication_year: 2015
 publisher: River Grove Books

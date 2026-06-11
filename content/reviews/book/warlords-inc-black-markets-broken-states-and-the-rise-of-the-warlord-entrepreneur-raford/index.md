@@ -3,8 +3,10 @@ authors:
 - first: Noah
   last: Raford
   role: author
+cover: ./cover.jpg
 date_reviewed: 2015-12-20
 isbn: '9781583949023'
+og_cover: ./og-cover.jpg
 page_count: 257
 publication_year: 2015
 publisher: North Atlantic Books

@@ -3,7 +3,9 @@ authors:
 - first: Scott
   last: Lynch
   role: author
+cover: ./cover.jpg
 date_reviewed: 2019-09-23
+og_cover: ./og-cover.jpg
 page_count: 49
 publication_year: 2018
 publisher: Scott Lynch

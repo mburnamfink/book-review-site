@@ -3,8 +3,10 @@ authors:
 - first: Armin A.
   last: Brott
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-11-21
 isbn: '9780789210852'
+og_cover: ./og-cover.jpg
 page_count: 291
 publication_year: 2005
 publisher: Abbeville Press

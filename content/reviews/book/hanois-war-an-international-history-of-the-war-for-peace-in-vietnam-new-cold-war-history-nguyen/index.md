@@ -3,7 +3,9 @@ authors:
 - first: Lien-Hang T.
   last: Nguyen
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-05-05
+og_cover: ./og-cover.jpg
 page_count: 461
 publication_year: 2012
 publisher: The University of North Carolina Press

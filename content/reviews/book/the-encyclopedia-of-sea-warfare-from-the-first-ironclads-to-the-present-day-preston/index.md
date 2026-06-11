@@ -3,8 +3,10 @@ authors:
 - first: Capt Donald MacIntyre D.S.O D.S.C. &Antony
   last: Preston
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-02-13
 isbn: '9780600331117'
+og_cover: ./og-cover.jpg
 page_count: 256
 publication_year: 1976
 publisher: Salamander Books Ltd

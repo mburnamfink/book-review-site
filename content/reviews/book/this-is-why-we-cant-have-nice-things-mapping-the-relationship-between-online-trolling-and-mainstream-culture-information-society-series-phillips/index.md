@@ -3,8 +3,10 @@ authors:
 - first: Whitney
   last: Phillips
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-06-29
 isbn: '9780262028943'
+og_cover: ./og-cover.jpg
 page_count: 237
 publication_year: 2015
 publisher: MIT Press

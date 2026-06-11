@@ -3,7 +3,9 @@ authors:
 - first: Lois McMaster
   last: Bujold
   role: author
+cover: ./cover.jpg
 date_reviewed: 2014-10-12
+og_cover: ./og-cover.jpg
 page_count: 84
 publication_year: 2011
 publisher: Fictionwise

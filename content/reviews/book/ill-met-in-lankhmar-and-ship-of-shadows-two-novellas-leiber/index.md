@@ -3,8 +3,10 @@ authors:
 - first: Fritz
   last: Leiber
   role: author
+cover: ./cover.jpg
 date_reviewed: 2018-05-26
 isbn: '9781504034449'
+og_cover: ./og-cover.jpg
 page_count: 116
 publication_year: 2016
 publisher: Open Road Media Sci-Fi & Fantasy

@@ -3,8 +3,10 @@ authors:
 - first: Nick
   last: Hunt
   role: author
+cover: ./cover.jpg
 date_reviewed: 2024-06-08
 isbn: '9781800753228'
+og_cover: ./og-cover.jpg
 page_count: 237
 publication_year: 2023
 publisher: Swift Press

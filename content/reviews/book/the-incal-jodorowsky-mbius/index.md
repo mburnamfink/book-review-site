@@ -18,8 +18,10 @@ authors:
 - first: ''
   last: Brian Michael Bendis
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-12-24
 isbn: '9781594650154'
+og_cover: ./og-cover.jpg
 page_count: 307
 publication_year: 2011
 publisher: Humanoids

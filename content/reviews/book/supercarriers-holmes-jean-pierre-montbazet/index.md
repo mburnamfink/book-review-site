@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Jean-Pierre Montbazet
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-04-25
 isbn: '9780850459791'
+og_cover: ./og-cover.jpg
 page_count: 240
 publication_year: 1990
 publisher: Osprey Publishing

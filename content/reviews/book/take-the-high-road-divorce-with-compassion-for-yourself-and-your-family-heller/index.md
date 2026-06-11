@@ -3,8 +3,10 @@ authors:
 - first: Andy H
   last: Heller
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-05-21
 isbn: '9798387121296'
+og_cover: ./og-cover.jpg
 page_count: 378
 publication_year: 2023
 publisher: Independently published

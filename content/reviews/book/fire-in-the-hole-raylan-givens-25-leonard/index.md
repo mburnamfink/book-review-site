@@ -3,8 +3,10 @@ authors:
 - first: Elmore
   last: Leonard
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-05-26
 isbn: '5551096602'
+og_cover: ./og-cover.jpg
 page_count: 240
 publication_year: 2001
 publisher: Contentville Press

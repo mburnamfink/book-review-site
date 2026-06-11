@@ -9,8 +9,10 @@ authors:
 - first: ''
   last: Martin Caidin
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-11-19
 isbn: '9780553246643'
+og_cover: ./og-cover.jpg
 page_count: 315
 publication_year: 1985
 publisher: Bantam Books

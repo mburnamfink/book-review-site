@@ -3,8 +3,10 @@ authors:
 - first: Robert K.
   last: Brigham
   role: author
+cover: ./cover.jpg
 date_reviewed: 2018-09-08
 isbn: '9781610397025'
+og_cover: ./og-cover.jpg
 page_count: 304
 publication_year: 2018
 publisher: PublicAffairs

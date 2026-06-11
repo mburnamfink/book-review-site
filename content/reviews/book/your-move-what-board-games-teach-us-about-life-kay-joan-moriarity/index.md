@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Joan Moriarity
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-05-02
 isbn: '9781999439545'
+og_cover: ./og-cover.jpg
 page_count: 166
 publication_year: 2019
 publisher: Sutherland House

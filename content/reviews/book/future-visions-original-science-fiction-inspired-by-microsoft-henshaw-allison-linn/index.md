@@ -36,7 +36,9 @@ authors:
 - first: ''
   last: Robert J. Sawyer
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-08-27
+og_cover: ./og-cover.jpg
 page_count: 224
 publication_year: 2015
 publisher: Melcher Media Inc

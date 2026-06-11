@@ -3,7 +3,9 @@ authors:
 - first: Lisa
   last: DePaulo
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-05-13
+og_cover: ./og-cover.jpg
 page_count: 40
 publication_year: 2013
 publisher: Philadelphia Magazine

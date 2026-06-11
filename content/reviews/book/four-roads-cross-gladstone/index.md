@@ -3,8 +3,10 @@ authors:
 - first: Max
   last: Gladstone
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-05-09
 isbn: '9780765379429'
+og_cover: ./og-cover.jpg
 page_count: 416
 publication_year: 2016
 publisher: Tor Books

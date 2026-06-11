@@ -3,8 +3,10 @@ authors:
 - first: Dan
   last: Daly
   role: author
+cover: ./cover.jpg
 date_reviewed: 2019-05-08
 isbn: '9781612004785'
+og_cover: ./og-cover.jpg
 page_count: 360
 publication_year: 2017
 publisher: Casemate Publishers and Book Distributors LLC

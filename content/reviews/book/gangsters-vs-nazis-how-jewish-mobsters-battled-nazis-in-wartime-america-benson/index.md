@@ -3,8 +3,10 @@ authors:
 - first: Michael
   last: Benson
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-12-20
 isbn: '9780806541792'
+og_cover: ./og-cover.jpg
 page_count: 287
 publication_year: 2022
 publisher: Citadel

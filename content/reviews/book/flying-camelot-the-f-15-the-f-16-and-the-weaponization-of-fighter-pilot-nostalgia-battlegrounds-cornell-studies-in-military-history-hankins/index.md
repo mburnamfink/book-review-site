@@ -3,8 +3,10 @@ authors:
 - first: Michael W.
   last: Hankins
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-11-24
 isbn: '9781501760679'
+og_cover: ./og-cover.jpg
 page_count: 402
 publication_year: 2021
 publisher: Cornell University Press

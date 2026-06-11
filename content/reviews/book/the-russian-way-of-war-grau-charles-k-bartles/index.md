@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Charles K. Bartles
   role: author
+cover: ./cover.jpg
 date_reviewed: 2018-09-06
 isbn: '9781940370194'
+og_cover: ./og-cover.jpg
 page_count: 416
 publication_year: 2017
 publisher: Mentor Military

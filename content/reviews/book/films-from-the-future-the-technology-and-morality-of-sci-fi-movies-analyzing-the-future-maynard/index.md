@@ -3,8 +3,10 @@ authors:
 - first: Andrew
   last: Maynard
   role: author
+cover: ./cover.jpg
 date_reviewed: 2018-11-20
 isbn: '9781633539068'
+og_cover: ./og-cover.jpg
 page_count: 291
 publication_year: 2018
 publisher: Mango Media

@@ -3,8 +3,10 @@ authors:
 - first: David
   last: Barrie
   role: author
+cover: ./cover.jpg
 date_reviewed: 2020-12-28
 isbn: '9780062279361'
+og_cover: ./og-cover.jpg
 page_count: 288
 publication_year: 2014
 publisher: William Morrow

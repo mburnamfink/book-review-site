@@ -3,8 +3,10 @@ authors:
 - first: John Hough
   last: Jr.
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-06-09
 isbn: '9781621534495'
+og_cover: ./og-cover.jpg
 page_count: 165
 publication_year: 2015
 publisher: Allworth

@@ -6,7 +6,9 @@ authors:
 - first: ''
   last: James Warhola
   role: author
+cover: ./cover.jpg
 date_reviewed: 2015-07-19
+og_cover: ./og-cover.jpg
 page_count: 525
 publication_year: 1991
 publisher: Ace

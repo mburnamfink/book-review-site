@@ -9,7 +9,9 @@ authors:
 - first: ''
   last: Sabine Marić
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-07-29
+og_cover: ./og-cover.jpg
 page_count: 448
 publication_year: 2010
 publisher: AmazonCrossing

@@ -3,8 +3,10 @@ authors:
 - first: Bruce W.
   last: Bennett
   role: author
+cover: ./cover.jpg
 date_reviewed: 2013-09-29
 isbn: '9780833081728'
+og_cover: ./og-cover.jpg
 page_count: 342
 publication_year: 2013
 publisher: RAND Corporation

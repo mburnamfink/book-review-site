@@ -3,8 +3,10 @@ authors:
 - first: Osama A.
   last: Hashmi
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-03-25
 isbn: '9780997358711'
+og_cover: ./og-cover.jpg
 page_count: 150
 publication_year: 2016
 publisher: Next Thirty Press

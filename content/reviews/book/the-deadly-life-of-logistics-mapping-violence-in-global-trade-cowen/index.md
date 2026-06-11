@@ -3,8 +3,10 @@ authors:
 - first: Deborah
   last: Cowen
   role: author
+cover: ./cover.jpg
 date_reviewed: 2020-10-22
 isbn: '9780816680887'
+og_cover: ./og-cover.jpg
 page_count: 328
 publication_year: 2014
 publisher: University of Minnesota Press

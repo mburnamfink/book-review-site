@@ -3,8 +3,10 @@ authors:
 - first: Rob
   last: Burgon
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-12-14
 isbn: '9780998413204'
+og_cover: ./og-cover.jpg
 page_count: 167
 publication_year: 2016
 publisher: Slipstream Publishing

@@ -33,7 +33,9 @@ authors:
 - first: ''
   last: RJ Edwards
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-03-21
+og_cover: ./og-cover.jpg
 page_count: 432
 publication_year: 2015
 publisher: John Joseph Adams

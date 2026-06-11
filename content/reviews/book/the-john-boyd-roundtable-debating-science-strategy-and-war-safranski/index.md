@@ -3,8 +3,10 @@ authors:
 - first: Mark
   last: Safranski
   role: author
+cover: ./cover.jpg
 date_reviewed: 2012-04-28
 isbn: '9781934840467'
+og_cover: ./og-cover.jpg
 page_count: 68
 publication_year: 2008
 publisher: Nimble Books

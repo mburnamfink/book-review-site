@@ -63,8 +63,10 @@ authors:
 - first: ''
   last: Geoffrey A. Landis
   role: author
+cover: ./cover.jpg
 date_reviewed: 2014-09-12
 isbn: '9780062204707'
+og_cover: ./og-cover.jpg
 page_count: 560
 publication_year: 2014
 publisher: William Morrow

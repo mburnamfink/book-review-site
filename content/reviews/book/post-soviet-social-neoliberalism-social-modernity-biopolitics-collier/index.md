@@ -3,8 +3,10 @@ authors:
 - first: Stephen J.
   last: Collier
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-01-25
 isbn: '9780691148311'
+og_cover: ./og-cover.jpg
 page_count: 312
 publication_year: 2011
 publisher: Princeton University Press

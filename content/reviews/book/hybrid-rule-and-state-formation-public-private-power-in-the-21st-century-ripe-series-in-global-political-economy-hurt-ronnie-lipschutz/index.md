@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Ronnie Lipschutz
   role: author
+cover: ./cover.jpg
 date_reviewed: 2016-08-08
 isbn: '9781138799110'
+og_cover: ./og-cover.jpg
 page_count: 258
 publication_year: 2015
 publisher: Routledge

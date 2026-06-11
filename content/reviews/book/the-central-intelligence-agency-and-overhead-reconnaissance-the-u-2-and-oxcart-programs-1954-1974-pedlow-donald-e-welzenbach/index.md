@@ -9,8 +9,10 @@ authors:
 - first: ''
   last: Cia History Office
   role: author
+cover: ./cover.jpg
 date_reviewed: 2015-02-07
 isbn: '9781782664581'
+og_cover: ./og-cover.jpg
 page_count: 400
 publication_year: 2013
 publisher: Military Bookshop

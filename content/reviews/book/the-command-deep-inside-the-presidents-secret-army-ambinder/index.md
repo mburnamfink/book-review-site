@@ -3,7 +3,9 @@ authors:
 - first: Marc
   last: Ambinder
   role: author
+cover: ./cover.jpg
 date_reviewed: 2012-02-21
+og_cover: ./og-cover.jpg
 page_count: 71
 publication_year: 2012
 publisher: Wiley and Sons

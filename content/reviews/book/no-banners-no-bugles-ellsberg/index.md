@@ -3,8 +3,10 @@ authors:
 - first: Edward
   last: Ellsberg
   role: author
+cover: ./cover.jpg
 date_reviewed: 2024-12-01
 isbn: '9781480493773'
+og_cover: ./og-cover.jpg
 page_count: 381
 publication_year: 2014
 publisher: Open Road Media

@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Walter Watson
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-01-02
 isbn: '9780972268219'
+og_cover: ./og-cover.jpg
 page_count: 184
 publication_year: 2006
 publisher: Gallery One Arts Inc.

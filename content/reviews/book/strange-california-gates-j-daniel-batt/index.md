@@ -78,8 +78,10 @@ authors:
 - first: ''
   last: Richard Dansky
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-09-13
 isbn: '9780990638575'
+og_cover: ./og-cover.jpg
 page_count: 454
 publication_year: 2017
 publisher: Falstaff Books

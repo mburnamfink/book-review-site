@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Theodore Sturgeon
   role: author
+cover: ./cover.jpg
 date_reviewed: 2018-07-09
 isbn: '9780441363957'
+og_cover: ./og-cover.jpg
 page_count: 134
 publication_year: 1967
 publisher: Ace

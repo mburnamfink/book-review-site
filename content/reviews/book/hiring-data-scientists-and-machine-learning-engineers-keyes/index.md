@@ -3,7 +3,9 @@ authors:
 - first: Roy
   last: Keyes
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-02-19
+og_cover: ./og-cover.jpg
 page_count: 195
 publication_year: 2021
 publisher: Leanpub

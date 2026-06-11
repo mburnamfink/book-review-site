@@ -3,8 +3,10 @@ authors:
 - first: Leonard
   last: Felder
   role: author
+cover: ./cover.jpg
 date_reviewed: 2024-01-04
 isbn: '9781402748844'
+og_cover: ./og-cover.jpg
 page_count: 224
 publication_year: 2008
 publisher: Sterling

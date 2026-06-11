@@ -3,7 +3,9 @@ authors:
 - first: A.J.
   last: Baime
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-05-08
+og_cover: ./og-cover.jpg
 page_count: 389
 publication_year: 2014
 publisher: Mariner Books; Reprint edition

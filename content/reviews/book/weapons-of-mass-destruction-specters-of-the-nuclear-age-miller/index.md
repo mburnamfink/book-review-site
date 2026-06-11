@@ -3,8 +3,10 @@ authors:
 - first: Martin
   last: Miller
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-10-30
 isbn: '9780764354403'
+og_cover: ./og-cover.jpg
 page_count: 224
 publication_year: 2017
 publisher: Schiffer Military History

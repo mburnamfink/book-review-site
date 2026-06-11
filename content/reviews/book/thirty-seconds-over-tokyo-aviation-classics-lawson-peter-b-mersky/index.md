@@ -6,7 +6,9 @@ authors:
 - first: ''
   last: Peter B. Mersky
   role: author
+cover: ./cover.jpg
 date_reviewed: 2019-07-03
+og_cover: ./og-cover.jpg
 page_count: 246
 rating: 4.0
 reads:

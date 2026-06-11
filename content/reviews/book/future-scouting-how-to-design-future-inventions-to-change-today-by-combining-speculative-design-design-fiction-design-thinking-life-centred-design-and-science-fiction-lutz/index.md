@@ -3,7 +3,9 @@ authors:
 - first: Damien
   last: Lutz
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-04-11
+og_cover: ./og-cover.jpg
 page_count: 156
 publication_year: 2021
 publisher: Damien Lutz

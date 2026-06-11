@@ -3,8 +3,10 @@ authors:
 - first: Stella
   last: Harris
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-06-17
 isbn: '9781627782661'
+og_cover: ./og-cover.jpg
 page_count: 285
 publication_year: 2018
 publisher: Cleis Press

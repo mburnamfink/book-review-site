@@ -3,8 +3,10 @@ authors:
 - first: William
   last: Thomas
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-04-18
 isbn: '9780262028509'
+og_cover: ./og-cover.jpg
 page_count: 416
 publication_year: 2015
 publisher: The MIT Press

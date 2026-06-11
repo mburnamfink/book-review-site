@@ -3,8 +3,10 @@ authors:
 - first: Trent
   last: Hone
   role: author
+cover: ./cover.jpg
 date_reviewed: 2023-03-27
 isbn: '9781682472934'
+og_cover: ./og-cover.jpg
 page_count: 432
 publication_year: 2018
 publisher: Naval Institute Press

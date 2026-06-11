@@ -3,8 +3,10 @@ authors:
 - first: William Illsey
   last: Atkinson
   role: author
+cover: ./cover.jpg
 date_reviewed: 2012-06-17
 isbn: '9781449546601'
+og_cover: ./og-cover.jpg
 page_count: 590
 publication_year: 2009
 publisher: CreateSpace Independent Publishing Platform

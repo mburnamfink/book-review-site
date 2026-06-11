@@ -75,7 +75,9 @@ authors:
 - first: ''
   last: Sidney Carroll
   role: author
+cover: ./cover.jpg
 date_reviewed: 2015-02-02
+og_cover: ./og-cover.jpg
 page_count: 258
 publication_year: 1967
 publisher: Bantam Books

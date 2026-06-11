@@ -3,8 +3,10 @@ authors:
 - first: Peter
   last: Schrijvers
   role: author
+cover: ./cover.jpg
 date_reviewed: 2024-02-19
 isbn: '9780300179026'
+og_cover: ./og-cover.jpg
 page_count: 328
 publication_year: 2014
 publisher: Yale University Press

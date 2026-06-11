@@ -24,8 +24,10 @@ authors:
 - first: ''
   last: Erle Ellis
   role: author
+cover: ./cover.jpg
 date_reviewed: 2012-02-17
 isbn: '9780615572208'
+og_cover: ./og-cover.jpg
 page_count: 102
 publication_year: 2011
 publisher: Breakthrough Institute

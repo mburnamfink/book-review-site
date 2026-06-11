@@ -3,8 +3,10 @@ authors:
 - first: M. Shane
   last: Riza
   role: author
+cover: ./cover.jpg
 date_reviewed: 2014-05-27
 isbn: '9781612346137'
+og_cover: ./og-cover.jpg
 page_count: 256
 publication_year: 2013
 publisher: POTOMAC BOOKS

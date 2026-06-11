@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: Jeffrey Ford
   role: author
+cover: ./cover.jpg
 date_reviewed: 2019-03-11
 isbn: '9781616963002'
+og_cover: ./og-cover.jpg
 page_count: 336
 publication_year: 2018
 publisher: Tachyon Publications

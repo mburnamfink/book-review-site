@@ -69,8 +69,10 @@ authors:
 - first: ''
   last: Maciej Rebisz
   role: author
+cover: ./cover.jpg
 date_reviewed: 2017-12-13
 isbn: '9780999590218'
+og_cover: ./og-cover.jpg
 page_count: 347
 publication_year: 2017
 publisher: Center for Science and the Imagination, Arizona State University

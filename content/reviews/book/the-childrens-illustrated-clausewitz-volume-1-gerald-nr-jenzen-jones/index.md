@@ -6,8 +6,10 @@ authors:
 - first: ''
   last: N.R. Jenzen-Jones
   role: author
+cover: ./cover.jpg
 date_reviewed: 2021-10-15
 isbn: '9781911683001'
+og_cover: ./og-cover.jpg
 page_count: 136
 publication_year: 2021
 publisher: Helios House Press

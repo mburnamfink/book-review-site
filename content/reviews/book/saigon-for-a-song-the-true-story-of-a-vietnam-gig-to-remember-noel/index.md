@@ -3,8 +3,10 @@ authors:
 - first: Reuben
   last: Noel
   role: author
+cover: ./cover.jpg
 date_reviewed: 2015-09-30
 isbn: '9780943247021'
+og_cover: ./og-cover.jpg
 publication_year: 1987
 publisher: Ucs Pr
 rating: 3.0
