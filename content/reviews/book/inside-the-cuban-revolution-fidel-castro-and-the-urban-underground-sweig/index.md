@@ -1,6 +1,6 @@
 ---
 authors:
-- first: Sweig
+- first: Julia
   last: Sweig
   role: author
 cover: ./cover.jpg
