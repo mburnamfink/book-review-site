@@ -3,7 +3,9 @@ authors:
 - first: Joaquin Kyle
   last: Saavedra
   role: author
+cover: ./cover.jpg
 date_reviewed: 2022-01-05
+og_cover: ./og-cover.jpg
 publication_year: 2022
 publisher: Makapatag
 rating: 4.0
