@@ -13,6 +13,8 @@ publisher: Tall Woods Books
 rating: 3.0
 reads:
 - year: 2025
+series: The Commonweal
+series_number: 3
 tags:
 - fantasy
 title: Safely You Deliver

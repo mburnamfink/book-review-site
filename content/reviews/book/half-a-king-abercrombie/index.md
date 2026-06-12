@@ -13,6 +13,8 @@ publisher: HarperVoyager
 rating: 4.0
 reads:
 - year: 2025
+series: Shattered Sea
+series_number: 1
 tags:
 - fantasy
 - young-adult

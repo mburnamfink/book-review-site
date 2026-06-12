@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2025-09-01
   year: 2025
+series: Shadow of the Leviathan
+series_number: 1
 tags:
 - mystery
 - fantasy

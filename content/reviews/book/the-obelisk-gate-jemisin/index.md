@@ -13,6 +13,8 @@ rating: 4.0
 reads:
 - date_finished: 2016-10-05
   year: 2016
+series: The Broken Earth
+series_number: 2
 tags:
 - sci-fi
 title: The Obelisk Gate

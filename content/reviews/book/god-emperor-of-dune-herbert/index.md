@@ -13,6 +13,8 @@ rating: 4.0
 reads:
 - date_finished: 2019-04-23
   year: 2019
+series: Dune
+series_number: 4
 tags:
 - sci-fi
 title: God Emperor of Dune

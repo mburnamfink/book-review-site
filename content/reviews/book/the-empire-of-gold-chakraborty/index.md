@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2020-12-02
   year: 2020
+series: The Daevabad Trilogy
+series_number: 3
 tags:
 - fantasy
 title: The Empire of Gold

@@ -20,6 +20,8 @@ rating: 3.0
 reads:
 - date_finished: 2016-04-12
   year: 2016
+series: Vorkosigan Saga
+series_number: 4
 tags:
 - sci-fi
 title: Falling Free

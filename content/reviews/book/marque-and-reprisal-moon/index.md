@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2019-07-27
   year: 2019
+series: Vatta’s War
+series_number: 2
 tags:
 - sci-fi
 title: Marque and Reprisal

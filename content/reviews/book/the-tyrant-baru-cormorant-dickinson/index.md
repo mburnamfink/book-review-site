@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2020-10-31
   year: 2020
+series: The Masquerade
+series_number: 3
 tags:
 - fantasy
 title: The Tyrant Baru Cormorant

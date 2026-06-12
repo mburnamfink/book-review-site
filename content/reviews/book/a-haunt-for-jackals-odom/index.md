@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2025-07-05
   year: 2025
+series: Land of Exiles
+series_number: 2
 tags:
 - fantasy
 title: A Haunt for Jackals

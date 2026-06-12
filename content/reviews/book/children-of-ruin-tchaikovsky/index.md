@@ -17,6 +17,8 @@ rating: 4.0
 reads:
 - date_finished: 2025-06-19
   year: 2025
+series: Children of Time
+series_number: 2
 tags:
 - sci-fi
 title: Children of Ruin

@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2025-05-09
   year: 2025
+series: The Commonweal
+series_number: 5
 tags:
 - fantasy
 title: A Mist of Grit and Splinters

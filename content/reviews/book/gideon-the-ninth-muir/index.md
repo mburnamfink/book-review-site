@@ -15,6 +15,8 @@ reads:
 - date_finished: 2020-05-02
   year: 2020
 - year: 2024
+series: The Locked Tomb
+series_number: 1
 tags:
 - sci-fi
 - fantasy

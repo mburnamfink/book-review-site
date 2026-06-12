@@ -17,6 +17,8 @@ rating: 5.0
 reads:
 - date_finished: 2019-03-28
   year: 2019
+series: The Three-Body Problem
+series_number: 3
 tags:
 - sci-fi
 title: Death's End

@@ -14,6 +14,8 @@ reads:
 - date_finished: 2018-05-27
   year: 2018
 - year: 2021
+series: Murderbot Diaries
+series_number: 1
 tags:
 - sci-fi
 title: All Systems Red

@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2018-10-01
   year: 2018
+series: L.A. Quartet
+series_number: 1
 tags:
 - mystery
 title: The Black Dahlia

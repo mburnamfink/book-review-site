@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2017-05-08
   year: 2017
+series: The Craft Sequence
+series_number: 5
 tags:
 - fantasy
 title: Four Roads Cross

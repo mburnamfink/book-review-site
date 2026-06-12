@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2019-01-28
   year: 2019
+series: The Way
+series_number: 1
 tags:
 - sci-fi
 title: Eon

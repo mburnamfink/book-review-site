@@ -14,6 +14,8 @@ reads:
 - date_finished: 2017-02-08
   year: 2017
 - year: 2018
+series: Machineries of Empire
+series_number: 1
 tags:
 - sci-fi
 title: Ninefox Gambit

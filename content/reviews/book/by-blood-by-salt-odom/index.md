@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2025-06-29
   year: 2025
+series: Land of Exiles
+series_number: 1
 tags:
 - fantasy
 title: By Blood, by Salt

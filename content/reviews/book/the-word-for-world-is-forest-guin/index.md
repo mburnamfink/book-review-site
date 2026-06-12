@@ -12,6 +12,8 @@ rating: 4.0
 reads:
 - date_finished: 2018-07-09
   year: 2018
+series: Hainish Cycle
+series_number: 5
 tags:
 - sci-fi
 title: The Word for World Is Forest

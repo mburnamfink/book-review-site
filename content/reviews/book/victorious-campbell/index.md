@@ -15,6 +15,8 @@ reads:
 - year: 2022
 - date_finished: 2017-02-02
   year: 2017
+series: Lost Fleet
+series_number: 6
 tags:
 - sci-fi
 title: Victorious

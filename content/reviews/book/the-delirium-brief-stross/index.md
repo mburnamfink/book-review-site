@@ -13,6 +13,8 @@ rating: 4.0
 reads:
 - date_finished: 2017-07-19
   year: 2017
+series: Laundry Files
+series_number: 8
 tags:
 - sci-fi
 title: The Delirium Brief

@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2022-02-22
   year: 2022
+series: Terra Ignota
+series_number: 4
 tags:
 - sci-fi
 title: Perhaps the Stars

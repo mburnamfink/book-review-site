@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2024-04-18
   year: 2024
+series: Earthsea
+series_number: 2
 tags:
 - fantasy
 title: The Tombs of Atuan

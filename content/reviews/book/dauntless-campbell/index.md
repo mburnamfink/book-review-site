@@ -15,6 +15,8 @@ reads:
 - year: 2015
 - date_finished: 2015-09-07
   year: 2022
+series: Lost Fleet
+series_number: 1
 tags:
 - sci-fi
 - war

@@ -14,6 +14,8 @@ reads:
 - date_finished: 2015-11-22
   year: 2015
 - year: 2011
+series: Hainish Cycle
+series_number: 6
 tags:
 - sci-fi
 - utopia

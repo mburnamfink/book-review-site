@@ -14,6 +14,7 @@ rating: 4.0
 reads:
 - date_finished: 2012-07-23
   year: 2012
+series: '11'
 tags:
 - fantasy
 title: Reaper Man

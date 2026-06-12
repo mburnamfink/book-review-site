@@ -15,6 +15,8 @@ reads:
 - date_finished: '2026-05-30'
   date_started: '2026-05-29'
   year: 2026
+series: Imperial Radch
+series_number: 6
 tags:
 - sci-fi
 title: Radiant Star

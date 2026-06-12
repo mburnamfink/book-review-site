@@ -14,6 +14,8 @@ reads:
 - date_finished: 2017-01-30
   year: 2017
 - year: 2015
+series: Imperial Radch
+series_number: 1
 tags:
 - sci-fi
 - hugo-award

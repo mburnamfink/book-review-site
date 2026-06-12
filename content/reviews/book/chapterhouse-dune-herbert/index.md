@@ -13,6 +13,8 @@ rating: 2.0
 reads:
 - date_finished: 2019-05-26
   year: 2019
+series: Dune
+series_number: 6
 tags:
 - sci-fi
 title: 'Chapterhouse: Dune'

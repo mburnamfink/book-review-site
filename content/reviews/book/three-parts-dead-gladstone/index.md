@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2016-05-25
   year: 2016
+series: The Craft Sequence
+series_number: 1
 tags:
 - fantasy
 title: Three Parts Dead

@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2022-07-02
   year: 2022
+series: 'Lost Fleet: Beyond the Frontiers'
+series_number: 2
 tags:
 - sci-fi
 title: Invincible

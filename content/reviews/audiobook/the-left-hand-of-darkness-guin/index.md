@@ -19,6 +19,8 @@ reads:
   year: 2015
 - year: 2025
 runtime_hours: 9.65
+series: Hainish Cycle
+series_number: 4
 tags:
 - sci-fi
 - feminist

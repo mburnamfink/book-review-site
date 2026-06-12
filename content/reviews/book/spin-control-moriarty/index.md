@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2023-04-28
   year: 2023
+series: Spin
+series_number: 2
 tags:
 - sci-fi
 title: Spin Control

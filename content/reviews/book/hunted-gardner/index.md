@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2017-01-17
   year: 2017
+series: League of Peoples
+series_number: 4
 tags:
 - sci-fi
 title: Hunted

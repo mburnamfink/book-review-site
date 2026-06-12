@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2023-08-31
   year: 2023
+series: Spin
+series_number: 3
 tags:
 - sci-fi
 title: Ghost Spin

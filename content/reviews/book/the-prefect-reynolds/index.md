@@ -13,6 +13,8 @@ publisher: Gollancz
 rating: 4.0
 reads:
 - year: 2023
+series: Prefect Dreyfus
+series_number: 1
 tags:
 - sci-fi
 title: The Prefect

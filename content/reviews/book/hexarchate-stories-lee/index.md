@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2019-07-29
   year: 2019
+series: Machineries of Empire
+series_number: 4
 tags:
 - sci-fi
 title: Hexarchate Stories

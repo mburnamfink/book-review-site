@@ -14,6 +14,8 @@ reads:
 - date_finished: 2012-11-23
   year: 2012
 - year: 2020
+series: The Hitchhiker’s Guide to the Galaxy
+series_number: 2
 tags:
 - sci-fi
 title: The Restaurant at the End of the Universe

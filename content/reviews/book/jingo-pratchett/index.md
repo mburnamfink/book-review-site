@@ -13,6 +13,7 @@ publisher: Corgi Books
 rating: 5.0
 reads:
 - year: 2022
+series: '21'
 tags:
 - fantasy
 title: Jingo

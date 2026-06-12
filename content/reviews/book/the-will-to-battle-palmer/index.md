@@ -15,6 +15,8 @@ reads:
 - year: 2022
 - date_finished: 2020-04-29
   year: 2020
+series: Terra Ignota
+series_number: 3
 tags:
 - sci-fi
 title: The Will to Battle

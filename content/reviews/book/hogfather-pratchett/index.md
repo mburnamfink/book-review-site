@@ -14,6 +14,7 @@ rating: 5.0
 reads:
 - date_finished: 2013-12-24
   year: 2013
+series: '20'
 tags:
 - fantasy
 title: Hogfather

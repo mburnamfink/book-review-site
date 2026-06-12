@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2017-03-14
   year: 2017
+series: The Black Company
+series_number: 3
 tags:
 - fantasy
 title: The White Rose

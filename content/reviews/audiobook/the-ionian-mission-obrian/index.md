@@ -18,6 +18,8 @@ rating: 5.0
 reads:
 - year: 2025
 runtime_hours: 15.033333333333333
+series: Aubrey–Maturin
+series_number: 8
 tags:
 - fiction
 title: The Ionian Mission

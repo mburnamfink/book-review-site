@@ -13,6 +13,8 @@ rating: 3.0
 reads:
 - date_finished: 2013-11-24
   year: 2013
+series: The Expanse
+series_number: 3
 tags:
 - sci-fi
 title: Abaddon’s Gate

@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2017-01-13
   year: 2017
+series: The Red
+series_number: 3
 tags:
 - sci-fi
 title: Going Dark

@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2016-08-22
   year: 2016
+series: The Craft Sequence
+series_number: 3
 tags:
 - fantasy
 title: Full Fathom Five

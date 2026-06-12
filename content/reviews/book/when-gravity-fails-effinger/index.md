@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2018-01-02
   year: 2018
+series: Marid Audran
+series_number: 1
 tags:
 - sci-fi
 title: When Gravity Fails

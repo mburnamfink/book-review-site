@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2019-01-10
   year: 2019
+series: The Daevabad Trilogy
+series_number: 1
 tags:
 - fantasy
 title: The City of Brass

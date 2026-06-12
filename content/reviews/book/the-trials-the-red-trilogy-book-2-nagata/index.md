@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2016-07-14
   year: 2016
+series: The Red
+series_number: 2
 tags:
 - sci-fi
 title: The Trials (The Red Trilogy Book 2)

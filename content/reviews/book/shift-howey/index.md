@@ -13,6 +13,8 @@ rating: 3.0
 reads:
 - date_finished: 2013-09-15
   year: 2013
+series: Wool
+series_number: 2
 tags:
 - sci-fi
 title: Shift

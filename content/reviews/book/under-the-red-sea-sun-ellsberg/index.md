@@ -13,6 +13,8 @@ publisher: Greenwood Press
 rating: 5.0
 reads:
 - year: 2024
+series: Salvage
+series_number: 1
 tags:
 - war
 - ww2

@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2018-06-11
   year: 2018
+series: Divine Cities
+series_number: 3
 tags:
 - fantasy
 title: City of Miracles

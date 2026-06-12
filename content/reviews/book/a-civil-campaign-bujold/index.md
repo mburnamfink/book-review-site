@@ -13,6 +13,8 @@ rating: 4.0
 reads:
 - date_finished: 2015-07-08
   year: 2015
+series: Vorkosigan Saga
+series_number: 16
 tags:
 - sci-fi
 title: A Civil Campaign

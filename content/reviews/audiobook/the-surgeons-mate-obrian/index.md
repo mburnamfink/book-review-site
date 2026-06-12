@@ -19,6 +19,8 @@ reads:
 - date_finished: 2025-07-17
   year: 2025
 runtime_hours: 15.066666666666666
+series: Aubrey–Maturin
+series_number: 7
 tags:
 - fiction
 title: The Surgeon's Mate

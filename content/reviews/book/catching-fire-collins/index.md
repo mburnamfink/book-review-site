@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2012-04-27
   year: 2012
+series: The Hunger Games
+series_number: 2
 tags:
 - sci-fi
 title: Catching Fire

@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2016-09-04
   year: 2016
+series: Harry Potter
+series_number: 1
 tags:
 - young-adult
 - fantasy

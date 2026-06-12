@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2019-01-12
   year: 2019
+series: The Way
+series_number: 0
 tags:
 - sci-fi
 title: Legacy

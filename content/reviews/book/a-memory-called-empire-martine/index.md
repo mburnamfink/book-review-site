@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2019-12-29
   year: 2019
+series: Teixcalaan
+series_number: 1
 tags:
 - sci-fi
 title: A Memory Called Empire

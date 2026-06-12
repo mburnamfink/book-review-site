@@ -15,6 +15,8 @@ reads:
 - year: 2022
 - date_finished: 2015-12-09
   year: 2015
+series: Lost Fleet
+series_number: 2
 tags:
 - sci-fi
 title: Fearless

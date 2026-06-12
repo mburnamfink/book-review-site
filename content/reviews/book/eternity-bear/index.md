@@ -13,6 +13,8 @@ publisher: Aspect
 rating: 3.0
 reads:
 - year: 2019
+series: The Way
+series_number: 2
 tags:
 - sci-fi
 title: Eternity

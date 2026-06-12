@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2013-11-14
   year: 2013
+series: Bernie Rhodenbarr
+series_number: 10
 tags:
 - mystery
 title: The Burglar in the Library

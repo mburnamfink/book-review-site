@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2012-09-30
   year: 2012
+series: The Chronicles of Master Li and Number Ten Ox
+series_number: 1
 tags:
 - fantasy
 title: Bridge of Birds

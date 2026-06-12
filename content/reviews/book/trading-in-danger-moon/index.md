@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2019-07-12
   year: 2019
+series: Vatta’s War
+series_number: 1
 tags:
 - sci-fi
 title: Trading in Danger

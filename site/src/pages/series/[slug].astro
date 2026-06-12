@@ -1,0 +1,61 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { buildSeries } from '../../lib/series';
+
+export async function getStaticPaths() {
+  const reviews = await getCollection('reviews');
+  return buildSeries(reviews).map(series => ({
+    params: { slug: series.slug },
+    props: { series },
+  }));
+}
+
+const { series } = Astro.props;
+
+const STAR_PATH = 'M10,1 L12.06,7.17 L18.56,7.22 L13.33,11.08 L15.29,17.28 L10,13.5 L4.71,17.28 L6.67,11.08 L1.44,7.22 L7.94,7.17 Z';
+let _sid = 0;
+
+function starSvg(fraction: number): string {
+  const id = 'sr' + (_sid++);
+  const w = (fraction * 20).toFixed(2);
+  return `<svg viewBox="0 0 20 20" width="13" height="13" aria-hidden="true" focusable="false" style="display:inline-block;vertical-align:-1px"><defs><clipPath id="${id}"><rect x="0" y="0" width="${w}" height="20"/></clipPath></defs><path d="${STAR_PATH}" fill="var(--star-empty)"/><path d="${STAR_PATH}" fill="var(--star-fill)" clip-path="url(#${id})"/><path d="${STAR_PATH}" fill="none" stroke="var(--star-stroke)" stroke-width="1.5"/></svg>`;
+}
+
+function stars(rating: number): string {
+  let html = `<span class="star-row" aria-label="${rating} out of 5 stars">`;
+  for (let i = 1; i <= 5; i++) {
+    html += starSvg(Math.min(1, Math.max(0, rating - (i - 1))));
+  }
+  return html + '</span>';
+}
+
+const count = series.entries.length;
+---
+
+<Base title={series.name} description={`Reviews in the ${series.name} series.`}>
+  <p class="series-breadcrumb"><a href="/series/">← All series</a></p>
+  <h1 class="page-heading">{series.name}</h1>
+  <p class="page-subheading">{count} {count === 1 ? 'review' : 'reviews'} in this series</p>
+
+  <div class="review-grid">
+    {series.entries.map(e => {
+      const href = `/${e.type}/${e.slug}/`;
+      return (
+        <div class="review-card">
+          <a href={href}>
+            {e.hasCover
+              ? <img class="card-cover" src={`/${e.type}/${e.slug}/cover.jpg`} alt="" loading="lazy" />
+              : <div class="cover-placeholder">{e.title}</div>}
+          </a>
+          {e.seriesNumber != null && (
+            <p class="card-series-num">#{e.seriesNumber}</p>
+          )}
+          <p class="card-title"><a href={href}>{e.title}</a></p>
+          {e.authors.length > 0 && <p class="card-author">{e.authors.slice(0, 3).join(', ')}{e.authors.length > 3 ? ', et al.' : ''}</p>}
+          <p class="card-rating">{e.rating != null ? <Fragment set:html={stars(e.rating)} /> : 'DNF'}</p>
+        </div>
+      );
+    })}
+  </div>
+</Base>

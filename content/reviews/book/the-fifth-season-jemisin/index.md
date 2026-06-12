@@ -13,6 +13,8 @@ rating: 5.0
 reads:
 - date_finished: 2016-07-23
   year: 2016
+series: The Broken Earth
+series_number: 1
 tags:
 - sci-fi
 - hugo-award

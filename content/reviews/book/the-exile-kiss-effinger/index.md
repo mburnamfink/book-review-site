@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2018-01-11
   year: 2018
+series: Marid Audran
+series_number: 3
 tags:
 - sci-fi
 title: The Exile Kiss

@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2018-06-07
   year: 2018
+series: Divine Cities
+series_number: 2
 tags:
 - fantasy
 title: City of Blades

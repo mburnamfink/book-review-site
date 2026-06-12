@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2021-02-03
   year: 2021
+series: Revelation Space
+series_number: 3
 tags:
 - sci-fi
 title: Absolution Gap

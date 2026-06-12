@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2021-03-07
   year: 2021
+series: Murderbot Diaries
+series_number: 3
 tags:
 - sci-fi
 title: Rogue Protocol

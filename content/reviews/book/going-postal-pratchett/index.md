@@ -14,6 +14,7 @@ rating: 4.0
 reads:
 - date_finished: 2012-07-15
   year: 2012
+series: '33'
 tags:
 - fantasy
 title: Going Postal

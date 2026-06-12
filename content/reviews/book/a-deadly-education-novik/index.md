@@ -13,6 +13,8 @@ publisher: Del Rey
 rating: 5.0
 reads:
 - year: 2022
+series: Scholomance
+series_number: 1
 tags:
 - fantasy
 title: A Deadly Education

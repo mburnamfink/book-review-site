@@ -13,6 +13,8 @@ publisher: PanMacmillan
 rating: 4.0
 reads:
 - year: 2025
+series: Children of Time
+series_number: 1
 tags:
 - sci-fi
 title: Children of Time

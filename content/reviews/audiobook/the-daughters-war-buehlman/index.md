@@ -18,6 +18,8 @@ rating: 5.0
 reads:
 - year: 2025
 runtime_hours: 13.233333333333333
+series: Blacktongue
+series_number: 0
 tags:
 - fantasy
 title: The Daughters' War

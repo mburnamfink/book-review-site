@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2015-05-22
   year: 2015
+series: Imperial Radch
+series_number: 2
 tags:
 - sci-fi
 title: Ancillary Sword

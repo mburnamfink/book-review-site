@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2013-07-26
   year: 2013
+series: The Kingkiller Chronicles
+series_number: 2
 tags:
 - fantasy
 title: The Wise Man's Fear

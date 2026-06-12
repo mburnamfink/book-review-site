@@ -15,6 +15,8 @@ reads:
 - date_finished: 2014-07-19
   year: 2014
 - year: 2018
+series: Jean le Flambeur
+series_number: 3
 tags:
 - sci-fi
 title: The Causal Angel

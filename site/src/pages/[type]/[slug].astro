@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import { seriesSlug } from '../../lib/series';
 
 export async function getStaticPaths() {
   const reviews = await getCollection('reviews');
@@ -99,7 +100,7 @@ const description = d.authors.length
             <tr><th>Published</th><td>{d.publication_year}{d.publisher ? ` · ${d.publisher}` : ''}</td></tr>
           )}
           {d.series && (
-            <tr><th>Series</th><td>{d.series}{d.series_number != null ? ` #${d.series_number}` : ''}</td></tr>
+            <tr><th>Series</th><td><a href={`/series/${seriesSlug(d.series)}/`}>{d.series}</a>{d.series_number != null ? ` #${d.series_number}` : ''}</td></tr>
           )}
           {d.type === 'book' && d.page_count && (
             <tr><th>Pages</th><td>{d.page_count}</td></tr>

@@ -13,6 +13,8 @@ publisher: Tallwoods Books
 rating: 4.0
 reads:
 - year: 2025
+series: The Commonweal
+series_number: 1
 tags:
 - fantasy
 title: The March North

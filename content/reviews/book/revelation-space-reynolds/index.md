@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2018-07-03
   year: 2018
+series: Revelation Space
+series_number: 1
 tags:
 - sci-fi
 title: Revelation Space

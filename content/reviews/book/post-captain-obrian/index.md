@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2021-03-31
   year: 2021
+series: Aubrey–Maturin
+series_number: 2
 tags:
 - fiction
 title: Post Captain

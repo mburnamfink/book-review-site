@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2021-03-22
   year: 2021
+series: Aubrey–Maturin
+series_number: 1
 tags:
 - fiction
 title: Master & Commander

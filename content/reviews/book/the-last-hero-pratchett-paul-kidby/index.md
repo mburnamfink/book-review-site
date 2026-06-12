@@ -17,6 +17,7 @@ rating: 5.0
 reads:
 - date_finished: 2020-04-13
   year: 2020
+series: '27'
 tags:
 - fantasy
 title: The Last Hero

@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2014-09-28
   year: 2014
+series: Vorkosigan Saga
+series_number: 3
 tags:
 - sci-fi
 title: Ethan of Athos

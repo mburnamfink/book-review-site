@@ -15,6 +15,8 @@ reads:
 - date_finished: 2017-03-03
   year: 2017
 - year: 2018
+series: Red Rising
+series_number: 1
 tags:
 - sci-fi
 title: Red Rising

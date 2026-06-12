@@ -13,6 +13,8 @@ publisher: The P-47 Press
 rating: 5.0
 reads:
 - year: 2023
+series: Salvage
+series_number: 3
 tags:
 - war
 title: The Far Shore

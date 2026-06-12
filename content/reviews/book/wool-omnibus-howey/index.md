@@ -13,6 +13,8 @@ rating: 4.0
 reads:
 - date_finished: 2013-06-17
   year: 2013
+series: Wool
+series_number: 1
 tags:
 - sci-fi
 title: Wool Omnibus

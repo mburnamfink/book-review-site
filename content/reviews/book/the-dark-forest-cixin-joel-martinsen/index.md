@@ -16,6 +16,8 @@ rating: 3.0
 reads:
 - date_finished: 2019-03-03
   year: 2019
+series: The Three-Body Problem
+series_number: 2
 tags:
 - sci-fi
 title: The Dark Forest

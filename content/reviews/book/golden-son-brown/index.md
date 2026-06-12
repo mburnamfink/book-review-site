@@ -15,6 +15,8 @@ reads:
 - date_finished: 2017-07-07
   year: 2017
 - year: 2018
+series: Red Rising
+series_number: 2
 tags:
 - sci-fi
 title: Golden Son

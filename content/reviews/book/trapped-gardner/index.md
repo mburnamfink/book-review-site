@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2017-02-25
   year: 2017
+series: League of Peoples
+series_number: 6
 tags:
 - sci-fi
 title: Trapped

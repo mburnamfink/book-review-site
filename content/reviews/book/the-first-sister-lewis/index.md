@@ -13,6 +13,8 @@ publisher: Skybound Books
 rating: 4.0
 reads:
 - year: 2021
+series: The First Sister
+series_number: 1
 tags:
 - sci-fi
 title: The First Sister

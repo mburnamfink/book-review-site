@@ -15,6 +15,8 @@ reads:
 - date_finished: 2016-07-05
   year: 2016
 - year: 2012
+series: Red Mars
+series_number: 3
 tags:
 - sci-fi
 - hugo-award

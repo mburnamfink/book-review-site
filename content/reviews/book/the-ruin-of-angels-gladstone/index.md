@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2017-09-12
   year: 2017
+series: The Craft Sequence
+series_number: 6
 tags:
 - fantasy
 title: The Ruin of Angels

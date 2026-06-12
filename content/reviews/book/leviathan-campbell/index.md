@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2022-07-10
   year: 2022
+series: 'Lost Fleet: Beyond the Frontiers'
+series_number: 5
 tags:
 - sci-fi
 title: Leviathan

@@ -14,6 +14,8 @@ reads:
 - date_finished: 2020-05-19
   year: 2020
 - year: 2025
+series: The Singing Hills Cycle
+series_number: 1
 tags:
 - fantasy
 title: The Empress of Salt and Fortune

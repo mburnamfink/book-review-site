@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2014-07-06
   year: 2014
+series: The Dire Earth
+series_number: 3
 tags:
 - sci-fi
 title: The Plague Forge

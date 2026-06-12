@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2012-12-02
   year: 2012
+series: Red Mars
+series_number: 1
 tags:
 - sci-fi
 title: Red Mars

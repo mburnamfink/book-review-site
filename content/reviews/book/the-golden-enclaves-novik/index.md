@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2022-10-14
   year: 2022
+series: Scholomance
+series_number: 3
 tags:
 - fantasy
 title: The Golden Enclaves

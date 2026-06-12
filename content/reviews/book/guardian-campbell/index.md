@@ -13,6 +13,8 @@ publisher: Ace
 rating: 3.0
 reads:
 - year: 2022
+series: 'Lost Fleet: Beyond the Frontiers'
+series_number: 3
 tags:
 - sci-fi
 title: Guardian

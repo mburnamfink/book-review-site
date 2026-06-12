@@ -233,6 +233,37 @@ main {
   font-family: var(--sans);
 }
 
+.card-series-num {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--muted);
+  font-family: var(--sans);
+  margin: 0.4rem 0 0;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.sidebar-total {
+  font-family: var(--sans);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.series-count {
+  color: var(--muted);
+  font-weight: 400;
+}
+
+.post-list__desc a { color: inherit; }
+.post-list__desc a:hover { color: var(--accent); }
+
+.series-breadcrumb {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  margin: 0 0 0.75rem;
+}
+
 .star-row { display: inline-flex; align-items: center; gap: 1px; }
 
 .card-date {

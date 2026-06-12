@@ -12,6 +12,8 @@ rating: 3.5
 reads:
 - date_finished: '2025-12-24'
   year: 2025
+series: The Siege
+series_number: 3
 tags:
 - fantasy
 title: A Practical Guide to Conquering the World

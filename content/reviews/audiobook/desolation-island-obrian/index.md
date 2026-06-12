@@ -17,6 +17,8 @@ rating: 5.0
 reads:
 - year: 2025
 runtime_hours: 13.05
+series: Aubrey–Maturin
+series_number: 5
 tags:
 - fiction
 title: Desolation Island

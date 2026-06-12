@@ -14,6 +14,8 @@ reads:
 - date_finished: 2014-05-12
   year: 2014
 - year: 2018
+series: Jean le Flambeur
+series_number: 2
 tags:
 - sci-fi
 title: The Fractal Prince

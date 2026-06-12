@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2012-11-25
   year: 2012
+series: The Hitchhiker’s Guide to the Galaxy
+series_number: 4
 tags:
 - sci-fi
 title: So Long, and Thanks for All the Fish

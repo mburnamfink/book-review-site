@@ -13,6 +13,8 @@ rating: 5.0
 reads:
 - date_finished: 2025-05-12
   year: 2025
+series: L.A. Quartet
+series_number: 3
 tags:
 - fiction
 title: L.A. Confidential

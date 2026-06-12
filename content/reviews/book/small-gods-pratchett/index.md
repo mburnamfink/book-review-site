@@ -14,6 +14,7 @@ rating: 5.0
 reads:
 - date_finished: 2020-06-15
   year: 2020
+series: '13'
 tags:
 - fantasy
 title: Small Gods

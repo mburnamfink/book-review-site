@@ -17,6 +17,8 @@ rating: 4.0
 reads:
 - date_finished: 2025-03-25
   year: 2025
+series: The Final Architecture
+series_number: 1
 tags:
 - sci-fi
 title: Shards of Earth

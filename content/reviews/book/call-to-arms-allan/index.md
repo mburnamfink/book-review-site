@@ -13,6 +13,8 @@ rating: 2.0
 reads:
 - date_finished: 2018-04-12
   year: 2018
+series: Blood on the Stars
+series_number: 2
 tags:
 - sci-fi
 title: Call to Arms

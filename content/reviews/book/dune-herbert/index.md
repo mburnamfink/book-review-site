@@ -16,6 +16,8 @@ reads:
   year: 2019
 - year: 2015
 - year: 2014
+series: Dune
+series_number: 1
 tags: []
 title: Dune
 type: book

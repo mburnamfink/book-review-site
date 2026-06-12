@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2011-09-05
   year: 2011
+series: The Bridge
+series_number: 2
 tags:
 - sci-fi
 title: Idoru

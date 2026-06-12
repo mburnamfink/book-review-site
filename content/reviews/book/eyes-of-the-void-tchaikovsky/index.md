@@ -13,6 +13,8 @@ publisher: Orbit
 rating: 4.0
 reads:
 - year: 2025
+series: The Final Architecture
+series_number: 2
 tags:
 - sci-fi
 title: Eyes of the Void

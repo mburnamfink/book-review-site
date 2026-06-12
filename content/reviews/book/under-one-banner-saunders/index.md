@@ -13,6 +13,8 @@ publisher: Tall Woods Books
 rating: 4.0
 reads:
 - year: 2025
+series: The Commonweal
+series_number: 4
 tags:
 - fantasy
 title: Under One Banner

@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2018-05-31
   year: 2018
+series: Divine Cities
+series_number: 1
 tags:
 - fantasy
 title: City of Stairs

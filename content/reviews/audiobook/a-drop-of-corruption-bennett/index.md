@@ -19,6 +19,8 @@ reads:
 - date_finished: 2025-12-23
   year: 2025
 runtime_hours: 15.516666666666667
+series: Shadow of the Leviathan
+series_number: 2
 tags:
 - fantasy
 title: A Drop of Corruption

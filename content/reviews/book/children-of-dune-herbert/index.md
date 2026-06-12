@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2019-04-21
   year: 2019
+series: Dune
+series_number: 3
 tags:
 - sci-fi
 title: Children of Dune

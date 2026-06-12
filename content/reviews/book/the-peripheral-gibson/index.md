@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2020-02-08
   year: 2020
+series: Jackpot
+series_number: 1
 tags:
 - sci-fi
 title: The Peripheral

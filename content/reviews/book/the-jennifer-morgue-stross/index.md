@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2013-12-29
   year: 2013
+series: Laundry Files
+series_number: 2
 tags:
 - sci-fi
 title: The Jennifer Morgue

@@ -13,6 +13,8 @@ publisher: Skybound Books
 rating: 5.0
 reads:
 - year: 2023
+series: The First Sister
+series_number: 3
 tags:
 - sci-fi
 title: The Last Hero

@@ -14,6 +14,8 @@ rating: 2.0
 reads:
 - date_finished: 2020-12-08
   year: 2020
+series: Westside
+series_number: 2
 tags:
 - mystery
 - fantasy

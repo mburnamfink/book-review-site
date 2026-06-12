@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2018-09-11
   year: 2018
+series: Red Rising
+series_number: 3
 tags:
 - sci-fi
 title: Morning Star

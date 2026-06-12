@@ -13,6 +13,8 @@ publisher: Open Road Media
 rating: 5.0
 reads:
 - year: 2024
+series: Salvage
+series_number: 2
 tags:
 - war
 - ww2

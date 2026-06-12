@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2016-03-05
   year: 2016
+series: Ender’s Game
+series_number: 1
 tags:
 - hugo-award
 - sci-fi

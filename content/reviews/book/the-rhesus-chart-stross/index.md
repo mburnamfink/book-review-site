@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2014-07-05
   year: 2014
+series: Laundry Files
+series_number: 5
 tags:
 - sci-fi
 title: The Rhesus Chart

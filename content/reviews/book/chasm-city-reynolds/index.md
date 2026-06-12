@@ -13,6 +13,8 @@ publisher: Ace Books
 rating: 5.0
 reads:
 - year: 2022
+series: Revelation Space
+series_number: 1.5
 tags:
 - sci-fi
 title: Chasm City

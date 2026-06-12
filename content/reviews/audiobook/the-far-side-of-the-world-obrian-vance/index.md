@@ -22,6 +22,8 @@ reads:
 - date_finished: '2026-03-29'
   year: 2026
 runtime_hours: 14.583333333333334
+series: Aubrey–Maturin
+series_number: 10
 tags:
 - fiction
 title: The Far Side of the World

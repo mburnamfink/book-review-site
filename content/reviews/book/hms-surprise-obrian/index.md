@@ -13,6 +13,8 @@ publisher: W.W. Norton
 rating: 5.0
 reads:
 - year: 2021
+series: Aubrey–Maturin
+series_number: 3
 tags:
 - fiction
 title: H.M.S. Surprise

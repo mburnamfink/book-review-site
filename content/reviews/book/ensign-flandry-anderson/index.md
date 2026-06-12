@@ -13,6 +13,8 @@ publisher: Ace
 rating: 4.0
 reads:
 - year: 2023
+series: Flandry
+series_number: 1
 tags:
 - sci-fi
 title: Ensign Flandry

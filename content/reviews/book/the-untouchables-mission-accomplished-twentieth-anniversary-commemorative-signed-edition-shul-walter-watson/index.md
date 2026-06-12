@@ -16,6 +16,8 @@ publisher: Gallery One Arts Inc.
 rating: 5.0
 reads:
 - year: 2023
+series: The Untouchables - Mission Accomplished - Twentieth Anniversary Commemorative
+  Signed Edition
 tags:
 - war
 title: The Untouchables - Mission Accomplished - Twentieth Anniversary Commemorative

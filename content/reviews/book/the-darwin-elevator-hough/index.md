@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2013-08-15
   year: 2013
+series: The Dire Earth
+series_number: 1
 tags:
 - sci-fi
 title: The Darwin Elevator

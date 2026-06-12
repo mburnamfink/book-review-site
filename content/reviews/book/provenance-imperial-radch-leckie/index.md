@@ -12,6 +12,8 @@ publisher: Orbit
 rating: 5.0
 reads:
 - year: 2024
+series: Imperial Radch
+series_number: 4
 tags:
 - sci-fi
 title: Provenance (Imperial Radch)

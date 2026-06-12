@@ -13,6 +13,8 @@ rating: 3.0
 reads:
 - date_finished: 2018-03-22
   year: 2018
+series: Blood on the Stars
+series_number: 1
 tags:
 - sci-fi
 title: Duel in the Dark

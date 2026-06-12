@@ -13,6 +13,8 @@ publisher: Orbit
 rating: 4.0
 reads:
 - year: 2024
+series: Imperial Radch
+series_number: 5
 tags:
 - sci-fi
 title: Translation State

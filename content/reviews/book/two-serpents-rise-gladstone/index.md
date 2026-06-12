@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2016-06-13
   year: 2016
+series: The Craft Sequence
+series_number: 2
 tags:
 - fantasy
 title: Two Serpents Rise

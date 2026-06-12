@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2022-07-03
   year: 2022
+series: 'Lost Fleet: Beyond the Frontiers'
+series_number: 4
 tags:
 - sci-fi
 title: Steadfast

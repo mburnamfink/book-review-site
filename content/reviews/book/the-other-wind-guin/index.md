@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2024-12-11
   year: 2024
+series: Earthsea
+series_number: 5
 tags:
 - fantasy
 title: The Other Wind

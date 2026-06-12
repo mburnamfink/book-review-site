@@ -19,6 +19,8 @@ reads:
 - date_finished: 2025-06-05
   year: 2025
 runtime_hours: 13.166666666666666
+series: Aubrey–Maturin
+series_number: 6
 tags:
 - fiction
 title: The Fortune of War

@@ -15,6 +15,8 @@ reads:
 - year: 2022
 - date_finished: 2017-02-01
   year: 2017
+series: Lost Fleet
+series_number: 5
 tags:
 - sci-fi
 title: Relentless

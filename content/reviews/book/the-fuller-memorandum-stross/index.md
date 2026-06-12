@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2014-07-28
   year: 2014
+series: Laundry Files
+series_number: 3
 tags:
 - sci-fi
 title: The Fuller Memorandum

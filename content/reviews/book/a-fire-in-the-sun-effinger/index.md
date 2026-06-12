@@ -15,6 +15,8 @@ reads:
 - date_finished: 2011-01-17
   year: 2011
 - year: 2018
+series: Marid Audran
+series_number: 2
 tags:
 - sci-fi
 title: A Fire in the Sun

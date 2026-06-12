@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2017-01-23
   year: 2017
+series: League of Peoples
+series_number: 5
 tags:
 - sci-fi
 title: Ascending

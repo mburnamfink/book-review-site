@@ -12,6 +12,8 @@ rating: 4.0
 reads:
 - date_finished: 2016-02-18
   year: 2016
+series: Uplift Saga
+series_number: 2
 tags:
 - sci-fi
 - hugo-award

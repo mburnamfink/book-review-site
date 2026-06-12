@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2012-07-03
   year: 2012
+series: Laundry Files
+series_number: 4
 tags:
 - sci-fi
 title: The Apocalypse Codex

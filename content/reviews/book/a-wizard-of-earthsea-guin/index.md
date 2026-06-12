@@ -13,6 +13,8 @@ reads:
 - date_finished: 2018-01-06
   year: 2018
 - year: 2024
+series: Earthsea
+series_number: 1
 tags:
 - young-adult
 - fantasy

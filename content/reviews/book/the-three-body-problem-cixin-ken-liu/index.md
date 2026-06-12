@@ -17,6 +17,8 @@ reads:
 - date_finished: 2017-02-05
   year: 2017
 - year: 2014
+series: The Three-Body Problem
+series_number: 1
 tags:
 - sci-fi
 - hugo-award

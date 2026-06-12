@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2019-09-07
   year: 2019
+series: The Masquerade
+series_number: 2
 tags:
 - fantasy
 title: The Monster Baru Cormorant

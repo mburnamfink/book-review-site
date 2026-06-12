@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2019-12-31
   year: 2019
+series: Westside
+series_number: 1
 tags:
 - fantasy
 title: Westside

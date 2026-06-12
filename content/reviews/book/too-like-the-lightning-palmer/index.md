@@ -1,4 +1,5 @@
 ---
+-year: 2021
 authors:
 - first: Ada
   last: Palmer
@@ -14,7 +15,8 @@ rating: 4.0
 reads:
 - date_finished: 2018-02-20
   year: 2018
--year : 2021
+series: Terra Ignota
+series_number: 1
 tags:
 - sci-fi
 title: Too Like the Lightning

@@ -13,6 +13,8 @@ publisher: Bantam Spectra
 rating: 5.0
 reads:
 - year: 2023
+series: Spin
+series_number: 1
 tags:
 - sci-fi
 title: Spin State

@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2012-04-25
   year: 2012
+series: The Hunger Games
+series_number: 1
 tags:
 - fiction
 - sci-fi

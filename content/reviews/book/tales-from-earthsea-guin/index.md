@@ -13,6 +13,8 @@ publisher: Ace
 rating: 4.0
 reads:
 - year: 2024
+series: Earthsea
+series_number: 6
 tags:
 - fantasy
 title: Tales from Earthsea

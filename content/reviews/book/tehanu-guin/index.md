@@ -13,6 +13,8 @@ publisher: Pocket Books
 rating: 4.0
 reads:
 - year: 2024
+series: Earthsea
+series_number: 4
 tags:
 - feminist
 - fantasy

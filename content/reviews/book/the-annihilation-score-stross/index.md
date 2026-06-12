@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2015-07-16
   year: 2015
+series: Laundry Files
+series_number: 6
 tags:
 - sci-fi
 title: The Annihilation Score

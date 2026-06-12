@@ -13,6 +13,8 @@ publisher: Gallery Books
 rating: 5.0
 reads:
 - year: 2024
+series: Earthsea
+series_number: 3
 tags:
 - fantasy
 title: The Farthest Shore

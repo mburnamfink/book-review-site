@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2012-11-23
   year: 2012
+series: The Hitchhiker’s Guide to the Galaxy
+series_number: 3
 tags:
 - sci-fi
 title: Life, the Universe and Everything

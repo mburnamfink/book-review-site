@@ -15,6 +15,8 @@ reads:
 - date_finished: 2017-08-30
   year: 2017
 - year: 2019
+series: The Masquerade
+series_number: 1
 tags:
 - fantasy
 title: The Traitor Baru Cormorant

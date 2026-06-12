@@ -20,6 +20,8 @@ reads:
 - date_finished: '2025-04-21'
   year: 2025
 runtime_hours: 19.833333333333332
+series: Tyrant Philosophers
+series_number: 1
 tags:
 - fantasy
 title: City of Last Chances

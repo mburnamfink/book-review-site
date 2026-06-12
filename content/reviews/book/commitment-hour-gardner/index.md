@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2016-12-19
   year: 2016
+series: League of Peoples
+series_number: 2
 tags:
 - sci-fi
 title: Commitment Hour

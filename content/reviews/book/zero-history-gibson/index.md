@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2013-02-20
   year: 2013
+series: Blue Ant
+series_number: 3
 tags:
 - sci-fi
 title: Zero History

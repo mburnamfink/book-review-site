@@ -15,6 +15,8 @@ reads:
 - date_finished: 2013-09-26
   year: 2013
 - year: 2018
+series: Jean le Flambeur
+series_number: 1
 tags:
 - sci-fi
 title: The Quantum Thief

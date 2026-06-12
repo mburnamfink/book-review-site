@@ -13,6 +13,8 @@ publisher: Orbit
 rating: 3.0
 reads:
 - year: 2025
+series: The Final Architecture
+series_number: 3
 tags:
 - sci-fi
 title: Lords of Uncreation

@@ -13,6 +13,8 @@ rating: 4.0
 reads:
 - date_finished: 2014-10-12
   year: 2014
+series: Vorkosigan Saga
+series_number: 8
 tags:
 - sci-fi
 title: 'The Borders of Infinity (Vorkosigan Saga, #5.3)'

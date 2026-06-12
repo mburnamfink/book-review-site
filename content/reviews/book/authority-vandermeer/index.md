@@ -14,6 +14,8 @@ rating: 1.0
 reads:
 - date_finished: 2019-02-17
   year: 2019
+series: Southern Reach
+series_number: 2
 tags:
 - horror
 - sci-fi

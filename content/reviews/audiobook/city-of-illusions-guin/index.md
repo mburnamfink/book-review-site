@@ -17,6 +17,8 @@ rating: 5.0
 reads:
 - date_finished: 2025-11-01
   year: 2025
+series: Hainish Cycle
+series_number: 3
 tags:
 - sci-fi
 title: City of Illusions

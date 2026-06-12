@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { buildSeries } from '../../lib/series';
+
+const reviews = await getCollection('reviews');
+// Only series with more than one reviewed entry are worth an index row;
+// single-entry series still get their own page, linked from the review.
+const allSeries = buildSeries(reviews).filter(s => s.entries.length > 1);
+---
+
+<Base title="Series" description="Book series reviewed on Burrowed Books.">
+  <h1 class="page-heading">Series</h1>
+  <p class="page-subheading">{allSeries.length} series with multiple reviews</p>
+
+  <ul class="post-list">
+    {allSeries.map(s => (
+      <li class="post-list__item">
+        <a href={`/series/${s.slug}/`} class="post-list__title">
+          {s.name}<span class="series-count"> · {s.entries.length} books</span>
+        </a>
+        <p class="post-list__desc">
+          {s.entries.map((e, i) => (
+            <Fragment>
+              {i > 0 && ' · '}
+              <a href={`/${e.type}/${e.slug}/`}>{e.title}</a>
+            </Fragment>
+          ))}
+        </p>
+      </li>
+    ))}
+  </ul>
+</Base>

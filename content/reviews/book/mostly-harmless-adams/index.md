@@ -13,6 +13,8 @@ rating: 5.0
 reads:
 - date_finished: 2012-11-25
   year: 2012
+series: The Hitchhiker’s Guide to the Galaxy
+series_number: 5
 tags:
 - sci-fi
 title: Mostly Harmless

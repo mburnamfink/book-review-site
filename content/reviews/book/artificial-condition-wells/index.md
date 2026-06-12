@@ -13,6 +13,8 @@ rating: 3.0
 reads:
 - date_finished: 2021-02-20
   year: 2021
+series: Murderbot Diaries
+series_number: 2
 tags:
 - sci-fi
 title: Artificial Condition

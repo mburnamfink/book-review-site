@@ -13,6 +13,8 @@ publisher: Orbit
 rating: 5.0
 reads:
 - year: 2021
+series: The Siege
+series_number: 1
 tags:
 - fantasy
 title: Sixteen Ways to Defend a Walled City

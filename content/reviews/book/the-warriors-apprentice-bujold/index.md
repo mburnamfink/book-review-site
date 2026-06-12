@@ -15,6 +15,8 @@ reads:
 - date_finished: 2016-04-22
   year: 2016
 - year: 2014
+series: Vorkosigan Saga
+series_number: 2
 tags:
 - sci-fi
 title: The Warrior's Apprentice

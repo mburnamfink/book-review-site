@@ -13,6 +13,8 @@ publisher: Crown
 rating: 3.0
 reads:
 - year: 2021
+series: Foundryside
+series_number: 1
 tags:
 - fantasy
 title: Foundryside

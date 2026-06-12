@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2012-10-22
   year: 2012
+series: The Chronicles of Master Li and Number Ten Ox
+series_number: 3
 tags:
 - fantasy
 title: Eight Skilled Gentlemen

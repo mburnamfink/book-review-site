@@ -13,6 +13,8 @@ publisher: Harper Voyager
 rating: 4.0
 reads:
 - year: 2019
+series: The Daevabad Trilogy
+series_number: 2
 tags:
 - fantasy
 title: The Kingdom of Copper

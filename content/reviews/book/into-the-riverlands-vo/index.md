@@ -13,6 +13,8 @@ publisher: Tordotcom
 rating: 4.0
 reads:
 - year: 2025
+series: The Singing Hills Cycle
+series_number: 3
 tags:
 - fantasy
 title: Into the Riverlands

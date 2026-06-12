@@ -13,6 +13,8 @@ publisher: Farrar, Straus and Giroux
 rating: 2.0
 reads:
 - year: 2019
+series: Southern Reach
+series_number: 3
 tags:
 - horror
 title: Acceptance

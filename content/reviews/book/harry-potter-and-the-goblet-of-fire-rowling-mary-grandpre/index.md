@@ -17,6 +17,8 @@ rating: 3.0
 reads:
 - date_finished: 2016-09-01
   year: 2016
+series: Harry Potter
+series_number: 4
 tags:
 - fantasy
 - hugo-award

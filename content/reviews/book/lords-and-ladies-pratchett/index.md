@@ -14,6 +14,7 @@ rating: 5.0
 reads:
 - date_finished: 2015-08-28
   year: 2015
+series: '14'
 tags:
 - fantasy
 title: Lords and Ladies

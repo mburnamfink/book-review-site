@@ -13,6 +13,8 @@ rating: 4.0
 reads:
 - date_finished: 2019-03-17
   year: 2019
+series: Imperial Radch
+series_number: 3
 tags:
 - sci-fi
 title: Ancillary Mercy

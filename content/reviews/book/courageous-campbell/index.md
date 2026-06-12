@@ -15,6 +15,8 @@ reads:
 - year: 2022
 - date_finished: 2015-12-14
   year: 2015
+series: Lost Fleet
+series_number: 3
 tags:
 - sci-fi
 title: Courageous

@@ -14,6 +14,7 @@ rating: 5.0
 reads:
 - date_finished: 2013-05-30
   year: 2013
+series: '23'
 tags:
 - fantasy
 title: Carpe Jugulum

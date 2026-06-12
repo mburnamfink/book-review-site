@@ -17,6 +17,8 @@ publisher: Ace Books
 rating: 4.0
 reads:
 - year: 2025
+series: Hainish Cycle
+series_number: 2
 tags:
 - sci-fi
 title: Planet of Exile

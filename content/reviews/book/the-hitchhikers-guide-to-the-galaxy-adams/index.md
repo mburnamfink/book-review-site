@@ -14,6 +14,8 @@ reads:
 - date_finished: 2012-11-23
   year: 2012
 - year: 2019
+series: The Hitchhiker’s Guide to the Galaxy
+series_number: 1
 tags:
 - sci-fi
 title: The Hitchhiker’s Guide to the Galaxy

@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2011-09-13
   year: 2011
+series: Bernie Rhodenbarr
+series_number: 7
 tags:
 - mystery
 title: The Burglar Who Traded Ted Williams

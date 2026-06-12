@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2020-05-28
   year: 2020
+series: Bernie Rhodenbarr
+series_number: 9
 tags:
 - mystery
 title: The Burglar Who Thought He Was Bogart

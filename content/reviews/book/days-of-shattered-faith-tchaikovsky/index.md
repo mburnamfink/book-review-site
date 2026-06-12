@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2025-05-03
   year: 2025
+series: Tyrant Philosophers
+series_number: 3
 tags:
 - fantasy
 title: Days of Shattered Faith

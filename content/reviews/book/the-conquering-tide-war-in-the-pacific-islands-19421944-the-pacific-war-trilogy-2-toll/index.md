@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2020-06-05
   year: 2020
+series: The Pacific War
+series_number: 2
 tags:
 - history
 - war

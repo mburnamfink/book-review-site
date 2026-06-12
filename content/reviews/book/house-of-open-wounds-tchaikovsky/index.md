@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2025-04-24
   year: 2025
+series: Tyrant Philosophers
+series_number: 2
 tags:
 - fantasy
 title: House of Open Wounds

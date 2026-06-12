@@ -13,6 +13,8 @@ publisher: Del Rey
 rating: 4.0
 reads:
 - year: 2022
+series: Scholomance
+series_number: 2
 tags:
 - fantasy
 title: The Last Graduate

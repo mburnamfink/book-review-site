@@ -15,6 +15,8 @@ reads:
 - date_finished: 2016-04-25
   year: 2016
 - year: 2014
+series: Vorkosigan Saga
+series_number: 10
 tags:
 - sci-fi
 - hugo-award

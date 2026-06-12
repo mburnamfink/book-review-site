@@ -18,6 +18,8 @@ rating: 4.0
 reads:
 - year: 2025
 runtime_hours: 13.933333333333334
+series: Aubrey–Maturin
+series_number: 4
 tags:
 - fiction
 title: The Mauritius Command

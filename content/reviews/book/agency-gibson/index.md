@@ -14,6 +14,8 @@ rating: 2.0
 reads:
 - date_finished: 2020-04-21
   year: 2020
+series: Jackpot
+series_number: 2
 tags:
 - sci-fi
 title: Agency

@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2012-04-28
   year: 2012
+series: The Hunger Games
+series_number: 3
 tags:
 - sci-fi
 title: Mockingjay

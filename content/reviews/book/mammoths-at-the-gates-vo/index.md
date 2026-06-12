@@ -13,6 +13,8 @@ publisher: Tordotcom
 rating: 5.0
 reads:
 - year: 2025
+series: The Singing Hills Cycle
+series_number: 4
 tags:
 - fantasy
 title: Mammoths at the Gates

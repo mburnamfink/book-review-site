@@ -13,6 +13,8 @@ rating: 5.0
 reads:
 - date_finished: 2011-08-07
   year: 2011
+series: The Kingkiller Chronicles
+series_number: 1
 tags:
 - fantasy
 - fiction

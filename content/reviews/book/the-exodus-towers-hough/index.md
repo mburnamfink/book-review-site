@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2014-06-22
   year: 2014
+series: The Dire Earth
+series_number: 2
 tags:
 - sci-fi
 title: The Exodus Towers

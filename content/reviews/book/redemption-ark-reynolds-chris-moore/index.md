@@ -17,6 +17,8 @@ rating: 4.0
 reads:
 - date_finished: 2021-01-28
   year: 2021
+series: Revelation Space
+series_number: 2
 tags:
 - sci-fi
 title: Redemption Ark

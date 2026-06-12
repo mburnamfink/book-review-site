@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2018-02-26
   year: 2018
+series: Terra Ignota
+series_number: 2
 tags:
 - sci-fi
 title: Seven Surrenders

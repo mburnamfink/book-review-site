@@ -21,6 +21,8 @@ reads:
   date_started: '2026-04-18'
   year: 2026
 runtime_hours: 13.35
+series: Shattered Sea
+series_number: 3
 tags:
 - fantasy
 - young-adult

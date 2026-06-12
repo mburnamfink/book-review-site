@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2014-05-16
   year: 2014
+series: Honor Harrington
+series_number: 4
 tags:
 - sci-fi
 - war

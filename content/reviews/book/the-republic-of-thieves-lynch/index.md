@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2014-12-28
   year: 2014
+series: Locke Lamora
+series_number: 3
 tags:
 - fantasy
 title: The Republic of Thieves

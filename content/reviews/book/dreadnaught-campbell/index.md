@@ -13,6 +13,8 @@ publisher: Ace
 rating: 4.0
 reads:
 - year: 2022
+series: 'Lost Fleet: Beyond the Frontiers'
+series_number: 1
 tags:
 - sci-fi
 title: Dreadnaught

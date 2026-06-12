@@ -15,6 +15,7 @@ reads:
 - date_finished: 2015-03-15
   year: 2015
 - year: 2020
+series: '26'
 tags:
 - fantasy
 title: Thief of Time

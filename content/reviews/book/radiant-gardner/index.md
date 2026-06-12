@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2017-03-08
   year: 2017
+series: League of Peoples
+series_number: 7
 tags:
 - sci-fi
 title: Radiant

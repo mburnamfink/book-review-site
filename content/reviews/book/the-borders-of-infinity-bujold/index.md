@@ -12,6 +12,8 @@ publisher: Fictionwise
 rating: 4.0
 reads:
 - year: 2014
+series: Vorkosigan Saga
+series_number: 8
 tags: []
 title: The Borders of Infinity
 type: book

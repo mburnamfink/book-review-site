@@ -15,6 +15,8 @@ reads:
 - date_finished: 2017-06-05
   year: 2017
 - year: 2023
+series: Flandry
+series_number: 3
 tags:
 - sci-fi
 title: The Rebel Worlds

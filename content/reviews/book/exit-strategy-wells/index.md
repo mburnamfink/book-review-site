@@ -13,6 +13,8 @@ rating: 3.0
 reads:
 - date_finished: 2021-08-13
   year: 2021
+series: Murderbot Diaries
+series_number: 4
 tags:
 - sci-fi
 title: Exit Strategy

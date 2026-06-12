@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2018-11-03
   year: 2018
+series: Laundry Files
+series_number: 9
 tags:
 - sci-fi
 title: The Labyrinth Index

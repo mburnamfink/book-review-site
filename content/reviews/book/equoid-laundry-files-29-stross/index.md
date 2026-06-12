@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2013-10-04
   year: 2013
+series: Laundry Files
+series_number: 2.9
 tags:
 - sci-fi
 title: 'Equoid (Laundry Files, #2.9)'

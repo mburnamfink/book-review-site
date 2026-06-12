@@ -13,6 +13,8 @@ publisher: Bantam Doubleday Dell Publishing Group
 rating: 3.0
 reads:
 - year: 2019
+series: The Sprawl
+series_number: 3
 tags:
 - sci-fi
 title: Mona Lisa Overdrive

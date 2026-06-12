@@ -14,6 +14,7 @@ rating: 5.0
 reads:
 - date_finished: 2011-11-16
   year: 2011
+series: '19'
 tags:
 - fantasy
 title: Feet of Clay

@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2019-05-20
   year: 2019
+series: Dune
+series_number: 5
 tags:
 - sci-fi
 title: Heretics of Dune

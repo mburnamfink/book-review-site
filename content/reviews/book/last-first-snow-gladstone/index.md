@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2017-04-07
   year: 2017
+series: The Craft Sequence
+series_number: 4
 tags:
 - fantasy
 title: Last First Snow

@@ -13,6 +13,8 @@ publisher: Tordotcom
 rating: 4.0
 reads:
 - year: 2024
+series: The Locked Tomb
+series_number: 3
 tags:
 - fantasy
 title: Nona the Ninth

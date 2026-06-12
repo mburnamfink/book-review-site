@@ -15,6 +15,8 @@ reads:
 - date_finished: 2016-03-16
   year: 2016
 - year: 2019
+series: Dune
+series_number: 2
 tags:
 - sci-fi
 title: Dune Messiah

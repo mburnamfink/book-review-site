@@ -13,6 +13,8 @@ rating: 5.0
 reads:
 - date_finished: 2017-03-12
   year: 2017
+series: The Black Company
+series_number: 1
 tags:
 - fantasy
 title: The Black Company

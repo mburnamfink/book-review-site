@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2021-05-28
   year: 2021
+series: Teixcalaan
+series_number: 2
 tags:
 - sci-fi
 title: A Desolation Called Peace

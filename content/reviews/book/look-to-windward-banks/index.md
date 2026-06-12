@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2013-12-24
   year: 2013
+series: The Culture
+series_number: 7
 tags:
 - sci-fi
 title: Look to Windward

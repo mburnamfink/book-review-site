@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2025-07-20
   year: 2025
+series: Children of Time
+series_number: 3
 tags:
 - sci-fi
 title: Children of Memory

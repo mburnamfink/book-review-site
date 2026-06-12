@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2016-10-10
   year: 2016
+series: Curse of Chalion
+series_number: 2
 tags:
 - fantasy
 - hugo-award

@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2019-12-23
   year: 2019
+series: New Crobuzon
+series_number: 2
 tags:
 - fantasy
 title: The Scar

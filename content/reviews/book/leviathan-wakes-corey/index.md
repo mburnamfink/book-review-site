@@ -14,6 +14,8 @@ rating: 5.0
 reads:
 - date_finished: 2013-11-02
   year: 2013
+series: The Expanse
+series_number: 1
 tags:
 - sci-fi
 title: Leviathan Wakes

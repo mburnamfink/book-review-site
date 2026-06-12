@@ -14,6 +14,8 @@ rating: 4.0
 reads:
 - date_finished: 2016-12-31
   year: 2016
+series: League of Peoples
+series_number: 3
 tags:
 - sci-fi
 title: Vigilant

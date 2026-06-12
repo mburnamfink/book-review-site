@@ -14,6 +14,8 @@ rating: 3.0
 reads:
 - date_finished: 2025-03-13
   year: 2025
+series: The Commonweal
+series_number: 2
 tags:
 - fantasy
 title: A Succession of Bad Days
