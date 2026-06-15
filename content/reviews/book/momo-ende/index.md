@@ -20,6 +20,7 @@ tags:
 title: Momo
 type: book
 ---
+
 *Momo* is a charming little fairytale that conceals some deep teeth. Somewhere in Italy, a young girl with no other connections takes up residence in an abandoned amphitheater.  The neighborhood decides to take care of her, fixing up some of the ruins into a cozy little nook, bringing food, and otherwise letting Momo live her life. She plays with the local children, listens intently and draws out people's fears and problems, and has special friends Guido Guide, a local historian/fantabulist, and Beppo Streetsweeper, a slightly dotty old man who takes care with even the simplest jobs.
 
 Momo's nice little community is interrupted by the Men in Gray from the Timesavers Bank.  These figures appear to various adults, preaching a doctrine that a second saved is a second for the future, and that everyone must hurry and squeeze every moment, taking no time to appreciate life. Of course these are not time savers, but occult time thieves parasitically feeding off of human time.  They make their Faustian bargains and then fade from memory.

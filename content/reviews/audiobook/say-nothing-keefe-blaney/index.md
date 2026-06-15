@@ -29,6 +29,7 @@ tags:
 title: 'Say Nothing: A True Story of Murder and Memory in Northern Ireland'
 type: audiobook
 ---
+
 *Say Nothing* is a triumph of narrative non-fiction. Keefe frames his history of The Troubles through the 1972 disappearance and murder of Jean McConville, a widowed mother of 10 alleged to be an informer, the career of IRA fighter Dolours Price, and the cipher of Gerry Adams. This is a book about what everybody knows and refuses to acknowledge, and about how the ghosts of history keep turning up to haunt the present.
 
 The Troubles can be seen as the 60s and 70s spark of the long war between the Irish and the British. When Ireland broke from the Empire in 1921, the mostly Protestant north did not. The minority North Ireland contained its own minority of discriminated Catholics.  One notable thing about the Troubles was how *compressed* it was. Belfast, a city with 650,000 residents, feels like a small town where everybody knows everyone else. You can be school friends with a major political figure, or run into the person who abducted your mother in a cab.  There is no escape, and even knowing this, locals are drawn back to the city by psychological magnetism.
@@ -48,4 +49,3 @@ The Good Friday Agreement, engineered by Adams, created a brittle peace which le
 This exploded in The Belfast Project, an oral history of the Troubles carried out by Boston College, where many fighters on both sides confessed to serious crimes like murder and terrorism. Intended to be an archive for the future, The Belfast Project became a political football used in criminal prosecutions. 
 
 This book deserves all its accolades. I'm strictly an amateur in this area, but it approaches Neil Sheehan's [*A Bright Shining Lie*](/book/a-bright-shining-lie-john-paul-vann-and-america-in-vietnam-sheehan)
-

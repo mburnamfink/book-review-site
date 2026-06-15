@@ -3,8 +3,10 @@ authors:
 - first: John
   last: Balaban
   role: author
+cover: ./cover.jpg
 date_reviewed: 2011-09-08
 isbn: '9780820324159'
+og_cover: ./og-cover.jpg
 page_count: 336
 publication_year: 2002
 publisher: University of Georgia Press
