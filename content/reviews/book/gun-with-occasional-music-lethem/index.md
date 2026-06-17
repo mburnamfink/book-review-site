@@ -20,4 +20,4 @@ title: Gun, With Occasional Music
 type: book
 ---
 
-,A hardboiled sci-fi mystery, *Gun* keeps it moving fast and light, choosing to play with references to Raymond Chandler and Philip K Dick rather than the deep implications of its 'too-true-too-be-strange' setting.  Not a great book, but it kept me interested to the end, which is enough.
+,A hardboiled sci-fi mystery, *Gun* keeps it moving fast and light, choosing to play with references to Raymond Chandler and Philip K Dick rather than the deep implications of its 'too-true-to-be-strange' setting.  Not a great book, but it kept me interested to the end, which is enough.

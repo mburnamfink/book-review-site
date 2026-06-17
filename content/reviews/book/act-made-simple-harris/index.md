@@ -27,4 +27,4 @@ As a whole therapeutic method, there is a lot going on, but the central premise 
 
 Some of the key pointers include anchoring, a mindfulness practice to break painful loops in the immediate moment.  Goals should be set in an active manner, "corpse goals" which could be completed by an inert body are not acceptable.  Even something as unobjectionable as quitting smoking is easiest to do if you do nothing at all.  And for confusion around values, Harris suggests a mock eulogy. How would you like your life celebrated?
 
-My therapist isn't a big fan of ACT. She prefers attachment and Jungian styles which go more towards origins. But having done a lot of this kind of stuff, including CBT and RO-DBT, I have to give points to ACT for being less doctrinaire and more in touch with how feel and suffer.
+My therapist isn't a big fan of ACT. She prefers attachment and Jungian styles which go more towards origins. But having done a lot of this kind of stuff, including CBT and RO-DBT, I have to give points to ACT for being less doctrinaire and more in touch with how we feel and suffer.

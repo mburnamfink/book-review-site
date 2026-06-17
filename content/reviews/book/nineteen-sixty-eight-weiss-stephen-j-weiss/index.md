@@ -31,7 +31,7 @@ type: book
 
 Ah, 1968: or the Year that Everything went from SNAFU to FUBAR.
 
-'68 was undoubtably a pivotal year in the war. The Tet offensive shattered the illusion that America was winning, but also decimated the National Liberation Front. From now on, North Vietnamese forces would do much of the fighting in the South. The Anti-war movement went mainstream, the consequences of which still echo in today's politics. LBJ decided not to run for reelection, Martin Lurther King and Bobby Kennedy were assassinated, the Chicago Democratic Convention saw a 'police riot', and Richard Nixon was elected. The Paris Peace Talks began, and spent months arguing about the shape of the table.
+'68 was undoubtedly a pivotal year in the war. The Tet offensive shattered the illusion that America was winning, but also decimated the National Liberation Front. From now on, North Vietnamese forces would do much of the fighting in the South. The Anti-war movement went mainstream, the consequences of which still echo in today's politics. LBJ decided not to run for reelection, Martin Luther King and Bobby Kennedy were assassinated, the Chicago Democratic Convention saw a 'police riot', and Richard Nixon was elected. The Paris Peace Talks began, and spent months arguing about the shape of the table.
 
 But for all the pivotal quality of the events of 1968, this book doesn't do an amazing job explaining what changed after Tet. This series has been at its best with the little details and anecdotes that manage to bring the war alive, and unlike the rest of the series, 1968 is rather thin on the details, preferring broad generalities.
 

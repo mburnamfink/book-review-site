@@ -25,7 +25,7 @@ type: book
 
 Cleric-Historian Chih is on a journey north with the mammoth riders, when her party is waylaid by tigers, which in this universe are more like weretigers, who can assume human form and speak.
 
-Chih avoids getting eaten by saying that they knows the story of a famous romance between a scholar and tiger. The tigers know the story too, but the human version is wrong. If Chih falters in storytelling or angers the audience, they'll be eaten. Getting through the night means getting the story straight.
+Chih avoids getting eaten by saying that they know the story of a famous romance between a scholar and tiger. The tigers know the story too, but the human version is wrong. If Chih falters in storytelling or angers the audience, they'll be eaten. Getting through the night means getting the story straight.
 
 It's a solid novella, but the first one was *perfect*, and *When the Tiger Came Down the Mountain* doesn't quite manage to hit that mark. The heart of the story is the romance between the woman and the tiger, but while I'm convinced that people can love things that are very dangerous (we do it all the time), I'm less convinced that tigers can see us as partners and not food.
 

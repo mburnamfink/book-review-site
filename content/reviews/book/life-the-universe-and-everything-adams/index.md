@@ -22,4 +22,4 @@ title: Life, the Universe and Everything
 type: book
 ---
 
-This is where I think the series begins slowing down. There are some wonderful moments (the opening on the Cricket pitch), and repeated jokes (what Paul McCartney could buy with a Krikkit folk song), but you know, it lacks that frenetic energy. Still amazing, though.
+This is where I think the series begins slowing down. There are some wonderful moments (the opening on the cricket pitch), and repeated jokes (what Paul McCartney could buy with a Krikkit folk song), but you know, it lacks that frenetic energy. Still amazing, though.

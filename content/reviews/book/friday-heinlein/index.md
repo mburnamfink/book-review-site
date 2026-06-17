@@ -20,6 +20,6 @@ title: Friday
 type: book
 ---
 
-I had a review, but the browser ate it. In brief, late-period Heinlein about a secret agent who has unlikely erotic adventures while navigating a libertarian dsytopia. The plot exists mostly to just string together action and sex scenes, and while the bones of the setting are interesting, it doesn't match up to fleshed out details of Heinlein's better work. Oh brain eater, why do you have to hit my favorite authors?
+I had a review, but the browser ate it. In brief, late-period Heinlein about a secret agent who has unlikely erotic adventures while navigating a libertarian dsytopia. The plot exists mostly to just string together action and sex scenes, and while the bones of the setting are interesting, it doesn't match up to the fleshed out details of Heinlein's better work. Oh brain eater, why do you have to hit my favorite authors?
 
 On the plus side, all characters are of legal age, and I don't recall any relatives sleeping together.

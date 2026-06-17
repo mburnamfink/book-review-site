@@ -21,6 +21,6 @@ title: Cantor's Dilemma
 type: book
 ---
 
-Science is a human endeavor, with all the messiness that humanity entails. *Cantor's Dilemma* is fiction, but author Carl Djerassi is a noted scientist, and his depiction of research and the scientific community is dead accurate.  More than a hundred science studies papers, this book put a human face on the complications of shared authorship, trust and betrayal between partners, battles of ego over prestige and priority, and why repeatability and personal integrity are absolutely central to good science.
+Science is a human endeavor, with all the messiness that humanity entails. *Cantor's Dilemma* is fiction, but author Carl Djerassi is a noted scientist, and his depiction of research and the scientific community is dead accurate.  More than a hundred science studies papers, this book puts a human face on the complications of shared authorship, trust and betrayal between partners, battles of ego over prestige and priority, and why repeatability and personal integrity are absolutely central to good science.
 
-One caveat, *Cantor's Dilemma* can get a little racy in sections, in ways that may help to accelerate the narrative, but which are ultimately distracting.  This book is a product of a time and place (1989), were gender politics were a weighty issue in academia, and I want a second opinion on how the female characters have aged.
+One caveat, *Cantor's Dilemma* can get a little racy in sections, in ways that may help to accelerate the narrative, but which are ultimately distracting.  This book is a product of a time and place (1989), where gender politics were a weighty issue in academia, and I want a second opinion on how the female characters have aged.

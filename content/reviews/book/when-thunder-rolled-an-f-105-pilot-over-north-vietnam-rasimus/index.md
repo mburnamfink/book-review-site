@@ -22,7 +22,7 @@ title: 'When Thunder Rolled: An F-105 Pilot over North Vietnam'
 type: book
 ---
 
-When LBJ and his Whiz Kids marked targets at the Pentagon, it was Ed Rasimus and his brothers-in-arms who applied the graduated pressure of Operation Rolling Thunder.  Flying F-105 from bases in Thailand, Lt. Rasimus went up against MiGs, SAMs, and layers of flak, screaming in across the deck to blast targets with tons of bombs before racing back to safety.
+When LBJ and his Whiz Kids marked targets at the Pentagon, it was Ed Rasimus and his brothers-in-arms who applied the graduated pressure of Operation Rolling Thunder.  Flying F-105s from bases in Thailand, Lt. Rasimus went up against MiGs, SAMs, and layers of flak, screaming in across the deck to blast targets with tons of bombs before racing back to safety.
 
 As an author, Rasimus has a cold, almost clinical voice in describing his missions, his fear, and the courage it took to fly a mission into North Vietnam.  There's a distance to this memoir, whether it's describing the desperate radio calls coordinating the rescue of a downed pilot, or after hours hijinks at the Officer's Club.  For what it's worth, he's a precise and competent writer, giving a clear view of his slice of the air war.  Two moments make this book a classic: one an extended riff on the difference between pilots who fly fighters and *fighter pilots.* And a quote which I want to reproduce in full.
 

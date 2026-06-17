@@ -22,4 +22,4 @@ title: The Wise Man's Fear
 type: book
 ---
 
-What's there to say about The Kingkiller Chronicle the hasn't been said? It's awesome fantasy, very traditional in some ways but also quite creative in its world-building and characterization. Sure, Kvothe isa bit of a Mary Sue, and sure it's been something like 1500 pages and I'm not even sure when the adventure properly starts, but as a picaresque fantasy journey of spells, swords, and songs, its unmatched.  A great book for any fan of the genre.
+What's there to say about The Kingkiller Chronicle that hasn't been said? It's awesome fantasy, very traditional in some ways but also quite creative in its world-building and characterization. Sure, Kvothe is a bit of a Mary Sue, and sure it's been something like 1500 pages and I'm not even sure when the adventure properly starts, but as a picaresque fantasy journey of spells, swords, and songs, it's unmatched.  A great book for any fan of the genre.

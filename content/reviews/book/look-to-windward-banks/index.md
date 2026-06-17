@@ -22,4 +22,4 @@ title: Look to Windward
 type: book
 ---
 
-It's hard to review a Culture novel, because there are few words capable of encompassing Iain Bank's vision.  Needless to say, in a galactic utopia there are still crimes and ancient sins, and it is these that Bank's protagonists are concerned with; reparations for a civil war, the light of dying stars, and what remains when even memories are gone. Great aliens minds (and Minds), vistas to boggle the mind, and a characteristic Banksian cosmological bleakness that yet manages to carry a little hope for intelligence in a uncaring universe.
+It's hard to review a Culture novel, because there are few words capable of encompassing Iain Banks's vision.  Needless to say, in a galactic utopia there are still crimes and ancient sins, and it is these that Banks's protagonists are concerned with; reparations for a civil war, the light of dying stars, and what remains when even memories are gone. Great alien minds (and Minds), vistas to boggle the mind, and a characteristic Banksian cosmological bleakness that yet manages to carry a little hope for intelligence in an uncaring universe.

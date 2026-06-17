@@ -21,9 +21,9 @@ type: book
 
 Lynesse is an adventuring princess, come to claim the aid of a legendary sorcerer against a foul demon which threatens her world.
 
-Nyr is an anthropologist, last remaining member of a planetary observation team, drifting through the centuries in suspended animation and waiting for world from Earth.  And he's also Lynesse's sorcerer, a man who's knowledge of science, defensive implants, and ability to communicate with legacy technology from the colonization effort gives him uncanny powers. 
+Nyr is an anthropologist, last remaining member of a planetary observation team, drifting through the centuries in suspended animation and waiting for word from Earth.  And he's also Lynesse's sorcerer, a man whose knowledge of science, defensive implants, and ability to communicate with legacy technology from the colonization effort gives him uncanny powers. 
 
-The story is told in alternating chapters. Lynesse trying to live up to the demands of royal statecraft which have never suited her and ancient legends which are impossible to live up to.  Nyr is torn between his ethical mission not to interfere, the role the locals have placed in him, and his own depression, barely kept at bay by a Disassociative Cognition System, which blanks out all those pesky emotions and enables him to make logical decisions.
+The story is told in alternating chapters. Lynesse trying to live up to the demands of royal statecraft which have never suited her and ancient legends which are impossible to live up to.  Nyr is torn between his ethical mission not to interfere, the role the locals have placed on him, and his own depression, barely kept at bay by a Disassociative Cognition System, which blanks out all those pesky emotions and enables him to make logical decisions.
 
 This story is at its best in the dual uses of language, how when Nyr says "scientist" Lynesse hears "wizard", and how a matter of fact account of a generation ship becomes a mythic voyage across the stars.  The plot isn't that original, and I think falls apart in never adequately explaining the nature of the demon, but  *huge* points for picking a story and writing only the necessary parts when the genre tends towards long and overwritten epics.
 

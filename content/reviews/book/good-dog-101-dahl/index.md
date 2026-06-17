@@ -25,7 +25,7 @@ I've had dogs for a while, but never actually trained a dog. Which is an issue, 
 ![Sophie](sophie.jpeg)
 *Sophie says that the project ain't gonna get done unless maybe some treats fall off the back of a truck*
 
-Dahl provides a brief theoretical lesson of dog training, which is surprisingly recent given the long history of canine domestication. Formal dog training is a late 19th century invention, literally created by a Prussian disciplinarian to train combat dogs. The traditional model based around domination and punishment has been carried forward by Cesar Milan and others.  The other major school is "positive discipline", which avoids harsh consequences altogether.  
+Dahl provides a brief theoretical lesson on dog training, which is surprisingly recent given the long history of canine domestication. Formal dog training is a late 19th century invention, literally created by a Prussian disciplinarian to train combat dogs. The traditional model based around domination and punishment has been carried forward by Cesar Millan and others.  The other major school is "positive discipline", which avoids harsh consequences altogether.  
 
 Dahl is nearly entirely aligned with the positive discipline school. Her framework is that dogs are intelligent social animals with complex carnivorous behavioral drives. Misbehavior comes from poor socialization, boredom, and instincts that are ill-suited for suburban life. While traditional discipline can tell dogs what not to do, dogs need to know what they should be doing, because instincts can only be partially suppressed. 
 

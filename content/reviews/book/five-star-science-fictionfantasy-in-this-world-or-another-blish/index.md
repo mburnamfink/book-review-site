@@ -19,4 +19,4 @@ title: Five Star Science Fiction/Fantasy - In This World, or Another
 type: book
 ---
 
-James Blish is one of those secondary light of Golden Age sci-fi, perennial outshone by the likes of Heinlein and Asimov.  Not quite deep or enjoyable enough to make it as a Grand Old Man, not outre enough to become a cult favorite or member of the New Wave, he wrote workmanlike enough-like stories.  The ones in this collection range from the truly sublime (A Work of Art, Surface Tension), to the eminently forgettable, to the plain bad.  The two stories mentioned are worth reading, but they'be been anthologized in better collections
+James Blish is one of those secondary lights of Golden Age sci-fi, perennially outshone by the likes of Heinlein and Asimov.  Not quite deep or enjoyable enough to make it as a Grand Old Man, not outre enough to become a cult favorite or member of the New Wave, he wrote workmanlike enough-like stories.  The ones in this collection range from the truly sublime (A Work of Art, Surface Tension), to the eminently forgettable, to the plain bad.  The two stories mentioned are worth reading, but they've been anthologized in better collections

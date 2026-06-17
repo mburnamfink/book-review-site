@@ -20,6 +20,6 @@ title: Pump Six and Other Stories
 type: book
 ---
 
-This is a book of monsters; fragile monsters, armored monsters, subtle monsters, monster who were once human, once had families, used to be like us. And looming over it all, the monsters of the post-global warming climate and the post-industrial economy. Each of the 11 stories in this collection are a facet onto the central concerns of the author. Fears about humanity and nature and labor which are my worries, and which should be your worries as well.
+This is a book of monsters; fragile monsters, armored monsters, subtle monsters, monsters who were once human, once had families, used to be like us. And looming over it all, the monsters of the post-global warming climate and the post-industrial economy. Each of the 11 stories in this collection is a facet onto the central concerns of the author. Fears about humanity and nature and labor which are my worries, and which should be your worries as well.
 
 Paolo Bacigalupi smells like the future. I can give no higher praise.

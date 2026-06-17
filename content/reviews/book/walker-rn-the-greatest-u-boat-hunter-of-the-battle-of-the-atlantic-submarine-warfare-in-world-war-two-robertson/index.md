@@ -22,7 +22,7 @@ title: 'Walker, R.N.: The Greatest U-Boat Hunter of the Battle of the Atlantic (
 type: book
 ---
 
-*Walker, R.N.* is punchy first-round WW2 history, focusing on Captain Frederic John "Johnny" Walker, the most decorated and successful anti-submarine warfare commander of the Second World War.  The book glides over his early life and pre-war career as a successful misfit in the Royal Navy, a natural leader who clashed with his superiors and who's career seemed to have stalled when war broke out.
+*Walker, R.N.* is punchy first-round WW2 history, focusing on Captain Frederic John "Johnny" Walker, the most decorated and successful anti-submarine warfare commander of the Second World War.  The book glides over his early life and pre-war career as a successful misfit in the Royal Navy, a natural leader who clashed with his superiors and whose career seemed to have stalled when war broke out.
 
 The Battle of the Atlantic was one of the critical points of the war. Without convoys from the Americas, Britain would have starved, Russia would not have received important lend-lease aid, and the Normandy landings might never have occurred. This was a campaign without fronts or decisive moments, a grinding war of attrition between escorts and U-boats.
 

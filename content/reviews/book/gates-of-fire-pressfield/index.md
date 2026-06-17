@@ -28,4 +28,4 @@ Our narrator, Xeo, went through childhood in an unremarkable minor city until it
 
 The spiritual core of this book (and it does have one), is the centrality of fear in the warrior's experience, and the way that fear can be conquered.  The Spartans have an entire discipline around mastering fear, and there are long and fascinating discussions of what courage is.  I'll not spoil the answers, since they are worth waiting for.
 
-On a personal level, I'm a Spartan revisionist.  We need to acknowledge that they were a brutal slave state built on pederasty.  So all the noble Spartan lords carping on about freedom and liberty is a kind of dark joke.  But *Gates of Fire* is fantastic that even this revisionist loves it.
+On a personal level, I'm a Spartan revisionist.  We need to acknowledge that they were a brutal slave state built on pederasty.  So all the noble Spartan lords carping on about freedom and liberty is a kind of dark joke.  But *Gates of Fire* is so fantastic that even this revisionist loves it.

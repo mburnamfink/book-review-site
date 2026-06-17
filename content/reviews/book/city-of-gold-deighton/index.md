@@ -21,9 +21,9 @@ title: City of Gold
 type: book
 ---
 
-*City of Gold* is an atmospheric but dissipated espionage novel, following a trio of more-or-less unlikable characters around, but failing to make much of them.  Cairo in 1942 is trembling before Rommel's next strike, but a city about to fall is an opportunity to make a big score. The Western Desert is littered with abandoned weapons, Jews and Arabs and buying up guns, and somewhere is Rommel's spy; a man with perfect access to British orders and intelligence. The Nazi general knows what the British are going to do before they know it, and as long as he has his source, he'll take Cairo.
+*City of Gold* is an atmospheric but dissipated espionage novel, following a trio of more-or-less unlikable characters around, but failing to make much of them.  Cairo in 1942 is trembling before Rommel's next strike, but a city about to fall is an opportunity to make a big score. The Western Desert is littered with abandoned weapons, Jews and Arabs are buying up guns, and somewhere is Rommel's spy; a man with perfect access to British orders and intelligence. The Nazi general knows what the British are going to do before they know it, and as long as he has his source, he'll take Cairo.
 
-Ross is a murderer and deserter, yet a decent man who is avoiding the firing squad by assuming the identity of a dead officer.  Ordered to find Rommel's spy, Ross's needs to fake being a detective and figure out his next move. Ross's story was the one I thought most interesting, but it doesn't really go anywhere.
+Ross is a murderer and deserter, yet a decent man who is avoiding the firing squad by assuming the identity of a dead officer.  Ordered to find Rommel's spy, Ross needs to fake being a detective and figure out his next move. Ross's story was the one I thought most interesting, but it doesn't really go anywhere.
 
 Peggy West is a British Jew, a nurse, and a longtime resident of Cairo caught up in the treacherous world of espionage, and trying to figure out where her loyalties really lie.
 

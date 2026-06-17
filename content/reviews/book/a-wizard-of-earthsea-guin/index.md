@@ -22,7 +22,7 @@ title: A Wizard of Earthsea
 type: book
 ---
 
-Le Guin is a master of the craft, of course, even when turning something as ephemeral as fantasy young adult novel.  Starting from the premise of "what were Gandalf and Merlin like as young men?", Le Guin traces out the early career of Ged/Sparrowhawk, a powerful mage in a deeply historied archipelago where knowing the true names of things gives you power over them.  A prideful boast unleashes a terrible shadow into the world, and Ged has to go on a journey of self-discovery and mastery to restore the equilibrium.  As elegant and simple as Shaker furniture, this book is a masterpiece for all ages.
+Le Guin is a master of the craft, of course, even when turning something as ephemeral as a fantasy young adult novel.  Starting from the premise of "what were Gandalf and Merlin like as young men?", Le Guin traces out the early career of Ged/Sparrowhawk, a powerful mage in a deeply historied archipelago where knowing the true names of things gives you power over them.  A prideful boast unleashes a terrible shadow into the world, and Ged has to go on a journey of self-discovery and mastery to restore the equilibrium.  As elegant and simple as Shaker furniture, this book is a masterpiece for all ages.
 
 ***
 

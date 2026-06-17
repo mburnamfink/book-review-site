@@ -22,7 +22,7 @@ title: Revenant Gun
 type: book
 ---
 
-Following *Raven Strategem* was going to be a challenge, any way you cut it.  The book finished with empire invaded, four of the six hexarchs assassinated, and "Jedao" revealed to be nothing more than Cheris with a bunch of memories.  It'd be hard to follow up on that, and Lee really doesn't.
+Following *Raven Strategem* was going to be a challenge, any way you cut it.  The book finished with the empire invaded, four of the six hexarchs assassinated, and "Jedao" revealed to be nothing more than Cheris with a bunch of memories.  It'd be hard to follow up on that, and Lee really doesn't.
 
 Instead, we're back with three new viewpoints.  One is a servitor assigned to maintain a top-secret archive for the immortal hexarch Nirai Kujen.  One is General-Protector Kel Innesser, who has taken over the 'loyalist' remnant of the empire.  And the last is Shous Jedao, again. But this Jedao has been pieced together with the memories Cheris didn't steal, and is serving at the behest of Nirai Kujen. Kujen is the ultimate villain of the setting, the man responsible for setting up the high calendar and the remembrances. His immortality only works in calendrical space, and Cheris' rebellion has become an existential threat to him. 
 

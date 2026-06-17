@@ -23,7 +23,7 @@ type: book
 
 The Storm Beneath the Sun is more likable and less ambitious than the first book in the series, and much of the charm is taken off, along with the flaws.
 
-The story focuses on three main characters, with occasionally chapters from other points of view. Kari is a royal sorcerer, a specialist in biothamautury who joins an archeological dig bent on uncovering and harnessing the power of a dead god. Elka is an addict trying to get clean, moving to a offshore island and working in a fish processing plant while haunted by her past.  Solvi is Elka's 10 year-old son, an artist and fabulist who wants to protect his mother.
+The story focuses on three main characters, with occasional chapters from other points of view. Kari is a royal sorcerer, a specialist in biothamautury who joins an archeological dig bent on uncovering and harnessing the power of a dead god. Elka is an addict trying to get clean, moving to an offshore island and working in a fish processing plant while haunted by her past.  Solvi is Elka's 10 year-old son, an artist and fabulist who wants to protect his mother.
 
 The plots intersect around an ancient plan by a vanished pre-human civilization to birth something monstrous out of the moon.  Kari realizes that the royal officials running the dig have secret ambitions that mean disaster, and defects to a terrorist group.  Elka is brought into the Church of the Deep, a unique insular religion that is a front for the same ancient plan.  And Solvi is the only person who seems to care that the Church of the Deep is a murderous fish cult and must be stopped.
 

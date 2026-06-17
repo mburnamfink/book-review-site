@@ -24,9 +24,9 @@ type: rpg
 
 I really like *Blades in the Dark*, so much so that I'm running two games of it right now, and it's my go-to system. But it's tightly focused on a group of scoundrels doing crimes to survive. *Band of Blades* stretches the BitD core to cover a gruesome game of military horror and survival, and does so with aplomb. 
 
-You are the Legion, a military unit with a storied pedigree.  The world is beset by an army of undead lead by the Cinder King. Your unit, along with the divinely gifted Chosen, must brave the hazards of Aldermark to make it to Skydagger Keep.  The setting is low magic gunpowder fantasy inspired 
+You are the Legion, a military unit with a storied pedigree.  The world is beset by an army of undead led by the Cinder King. Your unit, along with the divinely gifted Chosen, must brave the hazards of Aldermark to make it to Skydagger Keep.  The setting is low magic gunpowder fantasy inspired 
 
-by Glenn Cook's Black Company series and  Game of Thrones, where muzzleloading muskets, swords, and unsettling and uncertain magic face off against human and inhuman foes.  It's nicely generic, easy enough to say "oh, this is like that from popular culture", while still having its own unique flavor.
+by Glen Cook's Black Company series and  Game of Thrones, where muzzleloading muskets, swords, and unsettling and uncertain magic face off against human and inhuman foes.  It's nicely generic, easy enough to say "oh, this is like that from popular culture", while still having its own unique flavor.
 
 The mechanics are inspired.  Players serve as the major officers of the Legion, commander, marshal, quartermaster, lorekeeper, and spymaster, making strategic decisions about where to advance and what missions to pursue.  On the front lines are squads of rookies and soldiers, aided by elite specialists.  This is emphatically not a game about getting attached to people. War is hell. War against the undead is literal hell. Casualties will be high. Your job is to get the mission done.
 

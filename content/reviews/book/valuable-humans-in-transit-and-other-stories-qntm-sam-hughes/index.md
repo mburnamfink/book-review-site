@@ -22,4 +22,4 @@ type: book
 
 This collection is a lot like if Philip K. Dick had Twitter.
 
-That's unfair, qntm is deeply their own voice, not a pastiche of any New Wave speed freak. But the paranoid vibe of mind uploading, simulated universes, the catastrophic collapse of humanity, that's draws comparisons to Dick, Alistair Reynolds, Ted Chiang.  These stories are microscopic bites of weirdness that blow up into strange feasts.
+That's unfair, qntm is deeply their own voice, not a pastiche of any New Wave speed freak. But the paranoid vibe of mind uploading, simulated universes, the catastrophic collapse of humanity, that draws comparisons to Dick, Alistair Reynolds, Ted Chiang.  These stories are microscopic bites of weirdness that blow up into strange feasts.

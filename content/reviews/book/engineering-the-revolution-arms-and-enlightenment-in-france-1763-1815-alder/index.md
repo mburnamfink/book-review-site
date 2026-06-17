@@ -23,6 +23,6 @@ title: 'Engineering the Revolution: Arms and Enlightenment in France, 1763-1815'
 type: book
 ---
 
-This is one of the most ambitious book I've read in a while. Alder tackles the origins of engineering as a discipline, the purported inevitability of interchangeable parts and mass production, and the formation of the French Revolutionary state through the artifact of the gun (both artillery and muskets). Taking as a starting point Langdon Winner's question "Do artefacts have politics?", Alder demonstrates that mastery over the 'thick' world of material objects via mechanical drawings, mathematical description, and the tools of analytic theory is intensely political.
+This is one of the most ambitious books I've read in a while. Alder tackles the origins of engineering as a discipline, the purported inevitability of interchangeable parts and mass production, and the formation of the French Revolutionary state through the artifact of the gun (both artillery and muskets). Taking as a starting point Langdon Winner's question "Do artefacts have politics?", Alder demonstrates that mastery over the 'thick' world of material objects via mechanical drawings, mathematical description, and the tools of analytic theory is intensely political.
 
 This is not a book for the faint of heart. It's long, dense, and prior background in the history of technology and the structure of the *Ancien Regime* is necessary. But for all that, it's a masterpiece of scholarship.

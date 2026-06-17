@@ -26,7 +26,7 @@ title: The Ionian Mission
 type: audiobook
 ---
 
-*The Ionian Mission* gives the people what they want in an Aubrey/Maturin book, with a straightforward tale of rousing naval action. Captain Aubrey's new command is a ship of the line, the unfortunate *HMS Worchester*, one of the notoriously poorly built "40 Thieves", and his new assignment is blockade duty off Toulon.  
+*The Ionian Mission* gives the people what they want in an Aubrey/Maturin book, with a straightforward tale of rousing naval action. Captain Aubrey's new command is a ship of the line, the unfortunate *HMS Worcester*, one of the notoriously poorly built "40 Thieves", and his new assignment is blockade duty off Toulon.  
 
 I appreciate the return towards normalcy. Few captains have careers like Lucky Jack, and a lot of naval warfare is cutting tacks in almost the same place, stores and ships running down, waiting for the French to make their move. We see the issues of the fleet at sea, waiting for the French to do something stupid so that there can finally be a battle--and there are a couple of close calls.
 

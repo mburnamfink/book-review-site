@@ -18,7 +18,7 @@ title: A Job to Love (The School of Life Library)
 type: book
 ---
 
-Works sucks. I know it, you know it, we all know it.  But what if didn't have to be quite so bad.
+Work sucks. I know it, you know it, we all know it.  But what if it didn't have to be quite so bad.
 
 ![](./img-1.jpg)
 
@@ -26,6 +26,6 @@ Works sucks. I know it, you know it, we all know it.  But what if didn't have to
 
 --r/antiwork meme*
 
-*A Job to Love* is an introspection guide, full of prompts about how to examine activities you really enjoy, not just say you enjoy because you've been doing them for a while, or they're prestigious, or your parents expect you to.  I've been lucky, in that all my jobs have been pretty easy and tolerable, with the exceptions of bad bosses and bureaucratic nonsense which is probably the same everywhere. 
+*A Job to Love* is an introspection guide, full of prompts about how to examine activities you really enjoy, not just say you enjoy them because you've been doing them for a while, or they're prestigious, or your parents expect you to.  I've been lucky, in that all my jobs have been pretty easy and tolerable, with the exceptions of bad bosses and bureaucratic nonsense which is probably the same everywhere. 
 
 I really should go back and do the introspective bits in full now that I've read the entire book, but it just seemed like too much at the time.

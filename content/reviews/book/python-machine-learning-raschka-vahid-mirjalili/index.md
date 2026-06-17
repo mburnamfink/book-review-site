@@ -24,7 +24,7 @@ title: Python Machine Learning
 type: book
 ---
 
-This a fantastic introduction to machine learning.
+This is a fantastic introduction to machine learning.
 
 Textbooks in computer science in general, and machine learning in particular, have to walk a delicate line. At one level of high abstraction, everything is mathematical proofs.  At a level of low-level cookbookls, it's a matter of just plugging and chugging, treating code as magical invocations without getting at the why.  Raschka's book hits the sweet spot between the two exactly, explaining the underlying math, how that math is represented in Python, and then what to call in scikit-learn and tensorflow to actually do it. 
 

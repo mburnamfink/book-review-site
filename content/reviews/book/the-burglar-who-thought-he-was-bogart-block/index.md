@@ -22,6 +22,6 @@ title: The Burglar Who Thought He Was Bogart
 type: book
 ---
 
-It's a Bernie Rhodenbarr mystery, so you know what's up, with gentleman thieving and some light murder.  Bernie has a new girlfriend, an Eastern European beauty named Ilona who's into Humphrey Bogart films.  Bernie is hired to steal a portfolio of documents from an apartment, and when he partner winds up dead, well, maybe he's been watching too many movies, but you have to avenge your partner.
+It's a Bernie Rhodenbarr mystery, so you know what's up, with gentleman thieving and some light murder.  Bernie has a new girlfriend, an Eastern European beauty named Ilona who's into Humphrey Bogart films.  Bernie is hired to steal a portfolio of documents from an apartment, and when his partner winds up dead, well, maybe he's been watching too many movies, but you have to avenge your partner.
 
 The plot involves a Balkan micronation, old CIA operations, rare stamps, and lost royal heirs. Bernie stumbles through an unlikely series of coincidences to arrive at his version of justice.  It's kinda contrived, kinda dumb, and some fun light reading.

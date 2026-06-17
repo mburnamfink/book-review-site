@@ -20,4 +20,4 @@ title: The Incas
 type: book
 ---
 
-*The Incas* is a strong academic introduction to the Inca empire, drawing from a balanced reading of colonial chronicle and the latest in archeological research to present the political and logistical marvel that were the Inca. A little dry, but deeply sourced.
+*The Incas* is a strong academic introduction to the Inca empire, drawing from a balanced reading of colonial chronicles and the latest in archeological research to present the political and logistical marvel that was the Inca. A little dry, but deeply sourced.

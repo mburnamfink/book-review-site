@@ -23,7 +23,7 @@ type: book
 
 *Tales* are five loosely linked short stories set in Le Guin's Earthsea, all circling around the origins and the necessity of the laws of magic which constrain and empower Ged and the other wizards.
 
-Of the stories, the first, "The Finder", is by far the best. A prequel exploring the origins of the School of Roke, it follows a young sorcerer named Otter who has a gift for searching things out. He falls into the clutches of a mad wizard seeking the power of quicksilver, and then escapes into a resistance of honest women called The Hand, centered on the isolated island of Roke. The Otter makes his way to Roke, turning the resistance movement into a school for magic that blunts the cycles of piracy, small wars, and abuse of magic that Earthsea has entered into.
+Of the stories, the first, "The Finder", is by far the best. A prequel exploring the origins of the School of Roke, it follows a young sorcerer named Otter who has a gift for searching things out. He falls into the clutches of a mad wizard seeking the power of quicksilver, and then escapes into a resistance of honest women called The Hand, centered on the isolated island of Roke. Otter makes his way to Roke, turning the resistance movement into a school for magic that blunts the cycles of piracy, small wars, and abuse of magic that Earthsea has entered into.
 
 Yet, as it happens, much of what Ged regards as The Rules are arbitrary. Both men and women can wield the magic of true names. Avoiding emotional entanglements is likely wise for one who seeks to use their power for good, but celibacy is not necessary. And the Old Powers of the earth have knowledge the wizards have rejected out of hand.
 

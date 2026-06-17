@@ -23,8 +23,8 @@ title: Westside Saints
 type: book
 ---
 
-*Westside Saints* is noir tropes shoveled fast, with little of the artfulness or magic that characterized the first book.  'Small detective' Gilda Carr is back, drowning her unresolved trauma from the last case with cheap gin, and looking for a particular shade of blue ink and a saint relic, when a con-artist and preacher returns to life, after 34 years. 
+*Westside Saints* is noir tropes shoveled fast, with little of the artfulness or magic that characterized the first book.  'Small detective' Gilda Carr is back, drowning her unresolved trauma from the last case with cheap gin, and looking for a particular shade of blue ink and a saint's relic, when a con-artist and preacher returns to life, after 34 years. 
 
 What follows is a confusing journey through drink, darkness, and winter blizzards in the magical New York of 1922 and the mundane New York of 1888, centering around the strange prophecies of the Byrd family and their Electric Church, and an amnesiac woman who may be Gilda's deceased mother, also returned from the dead.
 
-The closing *Saints* gets to clever is the Roebling Company, an aggressively Taylorist criminal syndicate that times everything.  Otherwise, I just feel depressed and let down by this book.
+The closest *Saints* gets to clever is the Roebling Company, an aggressively Taylorist criminal syndicate that times everything.  Otherwise, I just feel depressed and let down by this book.

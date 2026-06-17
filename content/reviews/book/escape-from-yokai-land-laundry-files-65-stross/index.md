@@ -29,4 +29,4 @@ A very jetlagged Bob has to meet with his Japanese counterpart, deal with diplom
 
 *And you shall have a Dread Queen*
 
-So hey, it's The Laundry, it not a top rank story, but it's better than some of the middle ones. Decent novella for completionists.
+So hey, it's The Laundry, it's not a top rank story, but it's better than some of the middle ones. Decent novella for completionists.

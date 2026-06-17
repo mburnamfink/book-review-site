@@ -22,7 +22,7 @@ title: 'Gentleman of Leisure: A Year in the Life of a Pimp'
 type: book
 ---
 
-Pimping ain't easy, and if you ever need to cite a source for that, *Gentleman of Leisure* is a great one.  This book is about Silky, master pimp, and his stable of whores: Sandy, Kitty, Linda, Tracey, and Lois. It describes in their own words why they choose this life, what it means to them, and how they manage the complexities of working on the street.
+Pimping ain't easy, and if you ever need to cite a source for that, *Gentleman of Leisure* is a great one.  This book is about Silky, master pimp, and his stable of whores: Sandy, Kitty, Linda, Tracey, and Lois. It describes in their own words why they chose this life, what it means to them, and how they manage the complexities of working on the street.
 
 Getting into this, I wasn't sure exactly what pimping entailed (aside from the commercial stuff), but the book does a great job depicting how Silky cajoles his ladies into focusing their lives on him, working long and unpleasant hours and handing over all their money for even a slice of Silky's life. It's grotesque, toxic, and fascinating. This isn't the life for people who are all there, emotionally speaking.
 

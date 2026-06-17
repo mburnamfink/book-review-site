@@ -32,7 +32,7 @@ title: 13 True Ways
 type: rpg
 ---
 
-I'm conflicted about 13th Age, I really am. On the one hand, it's almost my ideal fantasy RPG system, keeping the designed tightness of D&D 4e while dropping the most finicky parts of the tactical battle system.  Classes in 13th Age are a fast 10 levels, with unique talents and powers,  none of the "screw it, just play a cleric" mess of D&D 3.x.  But I've never managed to run a campaign of it that's lasted more than 3 sessions.  And while the map may look like generic fantasy, the world is very different, with flying islands, giant beasts, demigodly icons that walk with the PCs, and the end of an Age at hand.
+I'm conflicted about 13th Age, I really am. On the one hand, it's almost my ideal fantasy RPG system, keeping the design tightness of D&D 4e while dropping the most finicky parts of the tactical battle system.  Classes in 13th Age are a fast 10 levels, with unique talents and powers,  none of the "screw it, just play a cleric" mess of D&D 3.x.  But I've never managed to run a campaign of it that's lasted more than 3 sessions.  And while the map may look like generic fantasy, the world is very different, with flying islands, giant beasts, demigodly icons that walk with the PCs, and the end of an Age at hand.
 
 *13 True Ways* extends the 13th Age core with six new classes, including the jack of all trades druid and super cool occultist.  The commander and monk feel more like misses, though, and the chaos mage's core mechanic of not knowing what spells he's casting until the round before seems like a recipe for boring delay of game. 
 

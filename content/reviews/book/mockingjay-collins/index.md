@@ -22,4 +22,4 @@ title: Mockingjay
 type: book
 ---
 
-Well, that was intense. Props to Collins for not flinching away from the universe she created. I'm not sure if this a great book, or even a good one, but it's the necessary finale to the series.
+Well, that was intense. Props to Collins for not flinching away from the universe she created. I'm not sure if this is a great book, or even a good one, but it's the necessary finale to the series.

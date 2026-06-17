@@ -175,7 +175,7 @@ title: 'Terraform: Watch/Worlds/Burn'
 type: book
 ---
 
-Terraform is Vice Media's speculative fiction arm, and these stories are internet age provocations, short, sharp, often intriguing. Divided into three sections, Watch on the panopticon, World with classic scifi alternative worlds, and Burn focusing on disaster, there are a lot of winners in this collection, and surprisingly little dross. My only overall thought is that with the stories coming in at around 7 pages (about 2.5 kilowords, if my memory is correct), at lot of these stories feel like the first acts of something bigger, trading a conclusion for a punchline. But on the other hand, I read them all, and any short fiction collection has at least one story that just doesn't vibe.
+Terraform is Vice Media's speculative fiction arm, and these stories are internet age provocations, short, sharp, often intriguing. Divided into three sections, Watch on the panopticon, World with classic scifi alternative worlds, and Burn focusing on disaster, there are a lot of winners in this collection, and surprisingly little dross. My only overall thought is that with the stories coming in at around 7 pages (about 2.5 kilowords, if my memory is correct), a lot of these stories feel like the first acts of something bigger, trading a conclusion for a punchline. But on the other hand, I read them all, and any short fiction collection has at least one story that just doesn't vibe.
 
 Some that stuck with me: 
 
@@ -189,4 +189,4 @@ The Prostitute - Max Wynn. A new kind of tricking, with telepresence operated hu
 
 The Duchy of Toe Adam - Lincoln Michel. Dog-eared space opera with a punchline that lands!
 
-An Incomplete Timeline of What We Tried - Debbie Urbanski. Climate fiction in the vein of J.G. Ballard on at his best.
+An Incomplete Timeline of What We Tried - Debbie Urbanski. Climate fiction in the vein of J.G. Ballard at his best.

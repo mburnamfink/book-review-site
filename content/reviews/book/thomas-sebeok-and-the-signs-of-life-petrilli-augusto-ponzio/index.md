@@ -23,4 +23,4 @@ title: Thomas Sebeok and the Signs of Life
 type: book
 ---
 
-Confession time: I only read this book because it was ~80 pages and counted for bookrace 2013. All I can say is that I'm very glad that semiotics exist, because like Baudrillard's Disneyland, it is the nonsense that makes my discipline real.
+Confession time: I only read this book because it was ~80 pages and counted for bookrace 2013. All I can say is that I'm very glad that semiotics exists, because like Baudrillard's Disneyland, it is the nonsense that makes my discipline real.

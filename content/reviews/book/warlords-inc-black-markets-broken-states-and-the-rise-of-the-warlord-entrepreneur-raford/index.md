@@ -22,7 +22,7 @@ title: 'Warlords, Inc.: Black Markets, Broken States, and the Rise of the Warlor
 type: book
 ---
 
-*Warlords Inc*. is a disappointing edited volume on an important and major trend that deserves more attention.  As anybody who looks at the news these days knows, the New World Disorder is a growing force. Hybrids of criminal gangs, terrorist cells, and business entrepreneurs, groups like the Cali Cartel and ISIL rule increasingly large swaths of territory, and threaten the stability of national-states and the international order.  A well researched and theorized book about how these hybrids operate, what living in their proximity is like, and how democracies can combat that, would be fantastic.
+*Warlords Inc*. is a disappointing edited volume on an important and major trend that deserves more attention.  As anybody who looks at the news these days knows, the New World Disorder is a growing force. Hybrids of criminal gangs, terrorist cells, and business entrepreneurs, groups like the Cali Cartel and ISIL rule increasingly large swaths of territory, and threatens the stability of national-states and the international order.  A well researched and theorized book about how these hybrids operate, what living in their proximity is like, and how democracies can combat that, would be fantastic.
 
 This is not that book. Instead we get mushy ideals about governance and violence, undergrad level of sourcing, and no clear narrative linking the hard edges of “warlord entrepreneurialism” to its business-suited counterparts in neoliberal capitalism and spook country.
 

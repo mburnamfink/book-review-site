@@ -23,6 +23,6 @@ title: 'The Disaster Artist: My Life Inside The Room, the Greatest Bad Movie Eve
 type: book
 ---
 
-You can't watch cult classic The Room without one big question: who the fuck is Tommy Wiseau? In this book, Greg Sestero (the real life Mark) chronicles his strange decade long friendship with Tommy Wiseau and the utterly disaster filming that culminated in the movie we all know and love.
+You can't watch cult classic The Room without one big question: who the fuck is Tommy Wiseau? In this book, Greg Sestero (the real life Mark) chronicles his strange decade long friendship with Tommy Wiseau and the utterly disastrous filming that culminated in the movie we all know and love.
 
-On the one hand, there aren't really many surprises here. Wiseau is exactly as strange you'd imagine him-a very damaged man with an immense dream who has somehow turned failing forward into an art form. But even if we all know how it ends (tearing me apart, Lisa) this is an in-depth and loving portrait of the movie industry's most lovable loser.
+On the one hand, there aren't really many surprises here. Wiseau is exactly as strange as you'd imagine him-a very damaged man with an immense dream who has somehow turned failing forward into an art form. But even if we all know how it ends (tearing me apart, Lisa) this is an in-depth and loving portrait of the movie industry's most lovable loser.

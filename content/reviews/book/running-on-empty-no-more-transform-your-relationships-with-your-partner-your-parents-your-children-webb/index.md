@@ -21,4 +21,4 @@ type: book
 
 Emotions are tricky. We learn how to handle, or not handle, emotions in our childhood, but what if your parents are abusive, neglectful, or simply busy handling their own lives at key moments. This is the second book in Webb's Childhood Emotional Neglect framework, where Webb argues that a lot of the trouble that you experience right now is due to how you were raised, and that you can consciously shift this dynamic and find meaning in your own life.
 
-A lot of this hits home, as someone with two very Type A, problem solving parents, who were not great at their own emotions. But I also wonder what the practical takeway is, aside from being more deliberative and drawing boundaries with bad parents who won't correct their behavior.
+A lot of this hits home, as someone with two very Type A, problem solving parents, who were not great at their own emotions. But I also wonder what the practical takeaway is, aside from being more deliberative and drawing boundaries with bad parents who won't correct their behavior.

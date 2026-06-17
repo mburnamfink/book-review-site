@@ -36,7 +36,7 @@ OCEANS ARE NOW BATTLEFIELDS
 
 Anyways, this is a classic of seamanship, anchored around four major sequences.  The *HMS Surprise* is dispatched to the Pacific Ocean to chase down the frigate *USS Norfolk*, which threatens British whalers. 
 
-The first major drama concerns a trio of new crewmembers. Mr Horner is a taciturn gunner with a lovely young wife. Mr Hollom is an unfortunate senior midshipman Aubrey brings aboard out of misplaced charity. Hollom and Mrs Horner begin an affair, which spins out of control into a series of murders. The entire ship, except for Mr Horner and then Aubrey seems to know about the business, but the crew's code of silence prevents them from telling senior officers.
+The first major drama concerns a trio of new crewmembers. Mr Horner is a taciturn gunner with a lovely young wife. Mr Hollom is an unfortunate senior midshipman Aubrey brings aboard out of misplaced charity. Hollom and Mrs Horner begin an affair, which spins out of control into a series of murders. The entire ship, except for Mr Horner and then Aubrey, seems to know about the business, but the crew's code of silence prevents them from telling senior officers.
 
 The second sequence has Maturin clumsily falling off the stern of the ship while observing bioluminescent algae at night. Aubrey follows to rescue his friend, but the boats which were towing behind and which he intended to swim to had been pulled alongside the ship and they wind up adrift in the water. The pair are not missed until morning, and wind up rescued by a Polynesian pahi catamaran crewed entirely by women. These amazons strand the men on an island, where they are rescued.
 

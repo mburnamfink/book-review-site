@@ -21,7 +21,7 @@ title: 'Spies in the Family: An American Spymaster, His Russian Crown Jewel, and
 type: book
 ---
 
-*Spies in the Family* is a memoir that intertwines the career of Dmitry Polyakov, a senior GRU officer and spy, with her own childhood as the daughter of Paul Dillon, the CIA case officer who managed key parts of Polyakov's career. 
+*Spies in the Family* is a memoir that intertwines the career of Dmitry Polyakov, a senior GRU officer and spy, with the author's own childhood as the daughter of Paul Dillon, the CIA case officer who managed key parts of Polyakov's career. 
 
 The memoir has a kind of sepia tinged romanticism, the privileged life of a child of American empire in Rome, Delhi, Berlin, and Mexico City. Dillon has a breezy attitude towards the world of espionage, which makes this approachable but also leads her to just brush past some astounding history, like that two presidents of Mexico were CIA assets (see [LITEMPO](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB204/index.htm) for details).
 

@@ -30,7 +30,7 @@ title: The Left Hand of Darkness
 type: audiobook
 ---
 
-*The Left Hand of Darkness* is along with *The Man in the High Tower* and *Dune*, one of the very few science fiction books that rise to true greatness. Ursula K. Le Guin imagines a meeting of two very different and alien cultures, as revealed in a masterfully and deliberately paced novel. 
+*The Left Hand of Darkness* is along with *The Man in the High Castle* and *Dune*, one of the very few science fiction books that rises to true greatness. Ursula K. Le Guin imagines a meeting of two very different and alien cultures, as revealed in a masterfully and deliberately paced novel. 
 
 Genly Ai is the Envoy, a representative of the interplanetary Ekumen. Definitely not a government, and not quite a church, the Ekumen is a loose coordinating and idea sharing group using the instantaneous communication device of the ansible to link the 84 human planets separated by the tyranny of distance at light-speed (by the way, Terra is just one of many human worlds, and not the world of origin).  Envoys are sent alone and unarmed, a single representative of greater humanity, with no power and no threats, simply an offer to join communication. 
 

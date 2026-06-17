@@ -22,11 +22,11 @@ title: Heretics of Dune
 type: book
 ---
 
-*Heretics of Dune* is many interested pieces scattered on the sand, waiting to be assembled into a coherent whole. 1500 years after the events of *God Emperor*, the universe again teeters on a knife's edge, as dangerous humans from the Scattering return to the old Imperium, the Bene Gesserit and Tleilaxu battle for supremacy, and new potential superhumans undergo their training ordeals.
+*Heretics of Dune* is many interesting pieces scattered on the sand, waiting to be assembled into a coherent whole. 1500 years after the events of *God Emperor*, the universe again teeters on a knife's edge, as dangerous humans from the Scattering return to the old Imperium, the Bene Gesserit and Tleilaxu battle for supremacy, and new potential superhumans undergo their training ordeals.
 
 Let's start with the superhumans. Sheeana is a young girl from Rakis (the planet formerly known as Dune) who can control the sandworms, possibly communing with the dreaming pearls of Leto's consciousness in each worm. Miles Teg is a commander in the Bene Gesserit army, a soldier-diplomat called out of retirement to oversee the training of the latest Duncan Idaho ghola.  And Duncan himself has been thoroughly upgraded, and may have hidden potential of his own.
 
- The Tleilaxu are a new viewpoint. Master genetic manipulators, their politics is defined by an unbroken succession of ghola masters (Scytale from *Messiah* still lives) and hive-mind Face Dancer mimics, who serve as infiltrators, assassins, and soldiers. The Honored Matres, returning from the Scattering, are like the Bene Gesserit squared. Rather than ruling from behind the scenes, they hold power in their own hand, using a form of sexual dominance to control their slaves.
+ The Tleilaxu are a new viewpoint. Master genetic manipulators, their politics is defined by an unbroken succession of ghola masters (Scytale from *Messiah* still lives) and hive-mind Face Dancer mimics, who serve as infiltrators, assassins, and soldiers. The Honored Matres, returning from the Scattering, are like the Bene Gesserit squared. Rather than ruling from behind the scenes, they hold power in their own hands, using a form of sexual dominance to control their slaves.
 
 The sex stuff is of course where the book gets weird.  Basically, the Honored Matres have pussy game so strong they can enslave men.  Duncan Idaho can do the same to women. The Bene Gesserit hate the Honored Matres and call them all 'whores'. Love is treated as the ultimate heresy, something which can upset the most delicate political plotting. It's weird, and not in a good way.
 

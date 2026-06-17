@@ -23,6 +23,6 @@ title: Annihilation
 type: book
 ---
 
-Annihilation carries the best of H.P. Lovecraft into the 21st century.  Our unnamed narrator is the Biologist, member of a four woman expedition into Area X, a mysterious zone of otherworldly circumstances, overgrown and haunted by unknown horrors. Area X consumes expeditions, either by the assault of unknown forces, or psychological breakdowns and self-inflicted gunfire. The biologist is a consummate observer, someone who stands outside of events, who sees her own beauty in the natural world, and in whatever force is at the center of the Area X.
+Annihilation carries the best of H.P. Lovecraft into the 21st century.  Our unnamed narrator is the Biologist, a member of a four woman expedition into Area X, a mysterious zone of otherworldly circumstances, overgrown and haunted by unknown horrors. Area X consumes expeditions, either by the assault of unknown forces, or psychological breakdowns and self-inflicted gunfire. The biologist is a consummate observer, someone who stands outside of events, who sees her own beauty in the natural world, and in whatever force is at the center of Area X.
 
 VanderMeer unrolls the strangeness and the fear in a great novella.  I'm looking forward to seeing how the series goes.

@@ -22,4 +22,4 @@ type: book
 
 A decent little coffee table book, mostly of unit patches and challenge coins associated with various secret USAF projects. There's a little discussion of the iconography: lightning bolts, B-2 silhouettes, the sigma for radar return, aliens, bad Latin mottos.
 
-There's also a little bit of Merlin's field work, trekking out into the desert to find fragments of crashed Cold War test projects, including a U-2 and the XB-70 Valkyrie. There twisted scraps of metal are more significant than the weird morale boosting iconography of secret aerospace, but they're also ultimately twisted scraps of metal.
+There's also a little bit of Merlin's field work, trekking out into the desert to find fragments of crashed Cold War test projects, including a U-2 and the XB-70 Valkyrie. These twisted scraps of metal are more significant than the weird morale boosting iconography of secret aerospace, but they're also ultimately twisted scraps of metal.

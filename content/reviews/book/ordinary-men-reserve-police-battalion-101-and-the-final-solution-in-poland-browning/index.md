@@ -24,7 +24,7 @@ type: book
 
 How did the Holocaust happen?  Not the antisemitic ravings of Hitler, or the careerist banality of Eichmann, but the physical labor of liquidating the Jews of Poland. Someone had to round up the Jews in ghettos, herd them onto trains to the death camps, shoot the ones who couldn't walk or evaded. *Ordinary Men* asks what happens to the people who perpetuate a genocide.
 
-The 'someone' in *Ordinary Men* were the men of Reserve Police Battalion 101, about 500 middle-aged, working-class men from Hamburg.  Most of them had ambitions in local policing, writing traffic tickets, dealing with drunks, and other very ordinary policework.  About a quarter were Nazi party members.  And while deployed away from home, Poland in 1942 was hardly facing Zhukov's armored shock armies on the Eastern Front. At the start of 1942, they were not by any standards, killers.
+The 'someone' in *Ordinary Men* was the men of Reserve Police Battalion 101, about 500 middle-aged, working-class men from Hamburg.  Most of them had ambitions in local policing, writing traffic tickets, dealing with drunks, and other very ordinary policework.  About a quarter were Nazi party members.  And while deployed away from home, Poland in 1942 was hardly facing Zhukov's armored shock armies on the Eastern Front. At the start of 1942, they were not, by any standards, killers.
 
 That would change.  The first massacre was at Józefów in July 1942. It was a fiasco. The Jews of the town were marched into the woods, paired up with Nazis from the 101, and executed with shots to the neck.  The men did poorly.  Offered a chance to refuse, a handful did.  Others dodged behind trucks or otherwise out of sight of NCOs. Major Trapp, the commander, apparently broke down weeping. 
 

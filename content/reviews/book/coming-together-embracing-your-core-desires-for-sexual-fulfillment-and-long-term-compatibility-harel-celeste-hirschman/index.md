@@ -24,7 +24,7 @@ title: 'Coming Together: Embracing your Core Desires for Sexual Fulfillment and 
 type: book
 ---
 
-Well, this one was interesting. Again, as someone who's had more than their fare share of crappy sex (ugh, telling on myself on the internet, again), the authors, cofounders of the Somatica sex-and-relationship coaching network, offer a take that better sex is mostly a matter of psychology, rather than mechanics or communication, though both those parts matter.
+Well, this one was interesting. Again, as someone who's had more than their fair share of crappy sex (ugh, telling on myself on the internet, again), the authors, cofounders of the Somatica sex-and-relationship coaching network, offer a take that better sex is mostly a matter of psychology, rather than mechanics or communication, though both those parts matter.
 
 The two inwards directed parts are core desires, what really turns you on, and your hottest sex movie, the specific details of sexual fantasy you go to. Most people have at the surface at least, pretty standard core desires to feel wanted, to feel sexy, and perhaps a slight orientation towards leading or being pursued. Where this gets tricky is for people who have core desires that are a little more complex.
 

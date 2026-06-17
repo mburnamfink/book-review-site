@@ -20,9 +20,9 @@ title: 'Inspired : Understanding Creativity: A Journey Through Art, Science, and
 type: book
 ---
 
-I should have checked the reviews before committing. This book is an extension of a viral essay I did not read by *New York Times* reporter Matt Richtel.  Creativity and inspiration is one of the highest human capacities, and also the hardest to achieve.  The obvious thing being that creativity can't really be forced: In fact, unfocused time and a personal impunity to fear of failure, along with persistence, seem to be most correlated with creativity. The counter-intuitive result is that intelligence is often a negative force, especially at the top levels where 'never being wrong' is strongly encouraged, such as the SAT. Creative ideas often don't work.
+I should have checked the reviews before committing. This book is an extension of a viral essay I did not read by *New York Times* reporter Matt Richtel.  Creativity and inspiration are one of the highest human capacities, and also the hardest to achieve.  The obvious thing being that creativity can't really be forced: In fact, unfocused time and a personal impunity to fear of failure, along with persistence, seem to be most correlated with creativity. The counter-intuitive result is that intelligence is often a negative force, especially at the top levels where 'never being wrong' is strongly encouraged, such as the SAT. Creative ideas often don't work.
 
-The book wanders and clomps through interviews with various creative people, also framed around the evolutionary creativity of COVID-19, but doesn't quite gel on a bigger theme. There are some very sketched out notions about density and speed of idea, that big cities are more innovative than small towns, and that the 'global village' of the internet is causing more creativity, as opposed to more distraction.
+The book wanders and clomps through interviews with various creative people, also framed around the evolutionary creativity of COVID-19, but doesn't quite gel on a bigger theme. There are some very sketched out notions about density and speed of ideas, that big cities are more innovative than small towns, and that the 'global village' of the internet is causing more creativity, as opposed to more distraction.
 
  If anything the only useful take-away is a four tier scale of creativity.
 
@@ -32,6 +32,6 @@ The book wanders and clomps through interviews with various creative people, als
 
 3. Small moments of creativity in your own life. As a dad, that One Weird Trick to stop a tantrum and make bath time a game.
 
-4. Truly miniscule creativity. "What if I added cinnamon to this recipe?"
+4. Truly minuscule creativity. "What if I added cinnamon to this recipe?"
 
 I think we can all aspire to more creativity at level 2 and 3. So relax, ignore the noise, and just go.

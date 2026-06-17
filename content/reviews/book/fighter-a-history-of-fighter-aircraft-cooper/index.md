@@ -21,4 +21,4 @@ title: 'Fighter: A history of fighter aircraft'
 type: book
 ---
 
-Picked this up at a outdoor booksale (my kryptonite). It's a pictoral history of fighter aircraft, heavy on the British planes and WW1.  Mostly about manufacturing and design, not much analysis or anecdotal stuff. Lots of cool pictures, though.  This book would've been awesome when it was published, but in the age of wikipedia, it's a little bit of a relic.
+Picked this up at an outdoor booksale (my kryptonite). It's a pictorial history of fighter aircraft, heavy on the British planes and WW1.  Mostly about manufacturing and design, not much analysis or anecdotal stuff. Lots of cool pictures, though.  This book would've been awesome when it was published, but in the age of wikipedia, it's a little bit of a relic.

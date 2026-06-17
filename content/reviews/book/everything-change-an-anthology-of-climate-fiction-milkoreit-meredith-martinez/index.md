@@ -78,7 +78,7 @@ type: book
 
 Climate fiction, a sub-genre of science fiction concerned with climate change and adaptation, is necessarily and sadly political.  In an era when a prominent climate denier just won an election, stating the truth of anthropogenic global warming is an act of courage.  Imagining a future beyond catastrophe takes even more courage.
 
-There is a definite theme to these stories.  Children, growing up in a drowning, diminished world. Adult, trying to hold on to the good parts of the past, without bitterness as the industrial civilization that got us into this mess. The stories that stuck out, *Sunshine State, Acqua Alta, On Darwin Tides*, were quite exceptional, the rest more middling.  I couldn't shake the sense of despair, though.  I could believe in the characters of these stories; I couldn't believe in the kids.
+There is a definite theme to these stories.  Children, growing up in a drowning, diminished world. Adults, trying to hold on to the good parts of the past, without bitterness at the industrial civilization that got us into this mess. The stories that stuck out, *Sunshine State, Acqua Alta, On Darwin Tides*, were quite exceptional, the rest more middling.  I couldn't shake the sense of despair, though.  I could believe in the characters of these stories; I couldn't believe in the kids.
 
 The authors aren't quite Names yet, but they're above the level of talented amateurs, and many have some publishing or workshop experience in their past.  I expect to see at least one of them break through in the next year.  If you're looking for climate fiction, and can deal with the thematic similarities, this collection can't be beat.
 

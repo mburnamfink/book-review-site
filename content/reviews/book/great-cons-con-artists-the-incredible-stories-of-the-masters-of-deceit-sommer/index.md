@@ -20,4 +20,4 @@ title: 'Great Cons & Con Artists: The Incredible Stories of the Masters of Decei
 type: book
 ---
 
-I picked up this big coffee table book for a buck at a used bookstore. It's alright, a rambling collection of ancedotes, but only a few stories rise above the mundane.(Van Meeregen's Vermeer frauds revealed when he defended himself against charges of selling priceless masterpieces to the Nazis, and Clifford Irving's Howard Hughes biography). Mostly, this is just a collection of insane lies, and not particularly comprehensive or well-researched.
+I picked up this big coffee table book for a buck at a used bookstore. It's alright, a rambling collection of anecdotes, but only a few stories rise above the mundane.(Van Meeregen's Vermeer frauds revealed when he defended himself against charges of selling priceless masterpieces to the Nazis, and Clifford Irving's Howard Hughes biography). Mostly, this is just a collection of insane lies, and not particularly comprehensive or well-researched.

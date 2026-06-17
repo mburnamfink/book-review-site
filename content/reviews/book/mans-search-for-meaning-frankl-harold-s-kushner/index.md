@@ -31,7 +31,7 @@ type: book
 
 *Man's Search for Meaning* is an account of an ending and a beginning. The ending is Frankl's survival of the Holocaust, a multiyear journey through the starkest horror of humanity. The beginning is a primer on logotherapy, Frankl's theoretical orientation that life is only worth living when imbued with meaning.
 
-The first part asks and answers the question how anyone survived the camps (and indeed, 25 of any 26 people who walked through those gates did not). Among those who were not immediately chosen for death, those who still had bodies capable of work, or valuable skills there were still innumerable ways to die: disease, hunger, exhaustion, Nazis. Frankl's observation is that whatever the bodily cause, the penultimate cause was psychological collapse, an inability to keep going. Camp inmates would smoke their last cigarette and invariably die within 48 hours. What kept Frankl going was his love for his wife (she died in Auschwitz), and a desire to preserve his life's work for after the war (this manuscript).
+The first part asks and answers the question of how anyone survived the camps (and indeed, 25 of any 26 people who walked through those gates did not). Among those who were not immediately chosen for death, those who still had bodies capable of work, or valuable skills, there were still innumerable ways to die: disease, hunger, exhaustion, Nazis. Frankl's observation is that whatever the bodily cause, the penultimate cause was psychological collapse, an inability to keep going. Camp inmates would smoke their last cigarette and invariably die within 48 hours. What kept Frankl going was his love for his wife (she died in Auschwitz), and a desire to preserve his life's work for after the war (this manuscript).
 
 Pragmatically, for those of us who merely live in late capitalism rather than the Holocaust, meaning still matters. The idea that life is meaningless and absurd* is a common cause and symptom of many mental illnesses. Frankl's gloss is that meaning can be found in achievement, in love, and in suffering. A proper orientation makes any pain bearable. Love is love, enough said, and while achievement is always conditional, it can provide structure.
 
@@ -41,7 +41,7 @@ Somewhat oddly, I've avoided a lot of classic Shoah literature. This might be th
 
 Man goes to doctor, says he is very depressed. Life is meaningless and absurd.
 
-Doctor says, "Cure is easy. Famous clown Pagliacci is in town. He sucks shit! Compared to him, everyone is doing great."
+Doctor says, "Cure is easy. The famous clown Pagliacci is in town. He sucks shit! Compared to him, everyone is doing great."
 
 Man says "But doctor..."
 

@@ -36,6 +36,6 @@ title: The Incal
 type: book
 ---
 
-*The Incal* is a glorious romp through Jodorowsky's supremely screwy cosmology, as lowly class R detectivie John Difool stumbles into a plot of galactic invasion, treason to the perfect hermaphrodite Emperoress of Humanity, the foul machinations of the Technopope, and a spiritual battle against ultimate darkness. 
+*The Incal* is a glorious romp through Jodorowsky's supremely screwy cosmology, as lowly class R detective John Difool stumbles into a plot of galactic invasion, treason to the perfect hermaphrodite Emperoress of Humanity, the foul machinations of the Technopope, and a spiritual battle against ultimate darkness. 
 
 The illustrations of immense scifi vistas by Moebius are of course a delight, but the story lacks the oepidal resonances of *The Metabarons.*  Pretty good, all told, if you know what kind of weirdness you're getting into.

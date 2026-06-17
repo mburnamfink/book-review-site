@@ -45,6 +45,6 @@ Intentionality-To avoid falling into a spineless fluffy practice, you need a cle
 
 The Edge-This is where the master distances himself from the rest. There is a tinge of craziness, the pursuit of the impossible, that distinguishes the master from the mere expert
 
-What is also interesting is the forces that work against mastery. Consumerism, and the quick fix via distraction and the numbing pleasures of drugs and media are the obvious one, but there are more subtle foes of mastery as well. The demand for profits, for wins, for quick success erodes true mastery. A measure becomes both a goal and a limit--why exceed what is required? And your life is part of a balanced, homeostatic system, and there will be resistance to changes in its patterns that manifests in innumerable ways as you pursue mastery.
+What is also interesting is the forces that work against mastery. Consumerism, and the quick fix via distraction and the numbing pleasures of drugs and media are the obvious ones, but there are more subtle foes of mastery as well. The demand for profits, for wins, for quick success erodes true mastery. A measure becomes both a goal and a limit--why exceed what is required? And your life is part of a balanced, homeostatic system, and there will be resistance to changes in its patterns that manifests in innumerable ways as you pursue mastery.
 
 This book is often inspiring, sometimes digressive, and definitely worth reading.

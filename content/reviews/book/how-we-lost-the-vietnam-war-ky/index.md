@@ -26,4 +26,4 @@ Alternatively candid and self-serving, *How We Lost the Vietnam War* is an autob
 
 A staunch anti-communist, Ky hates the North Vietnamese and their "puppets" in the NLF. He berates the American aid effort for being too heavy, too lavish, training the Vietnamese in compliance to American authority and wealth, rather than scrappy bravery.  Special hatred is reserved for Thieu and civilian leaders, who are presented as venal, corrupt, and unable to take any action even with the wolf at their door.
 
-Of course, the key word in the title is "We", and Ky avoids taking personal responsibility for the fall of South Vietnam. The closest he comes is saying that if he had seized power, he'd have fought on and made the Communist pay a higher price. But he doesn't seem to have much grasp of what to do, beyond authoritarianism.
+Of course, the key word in the title is "We", and Ky avoids taking personal responsibility for the fall of South Vietnam. The closest he comes is saying that if he had seized power, he'd have fought on and made the Communists pay a higher price. But he doesn't seem to have much grasp of what to do, beyond authoritarianism.

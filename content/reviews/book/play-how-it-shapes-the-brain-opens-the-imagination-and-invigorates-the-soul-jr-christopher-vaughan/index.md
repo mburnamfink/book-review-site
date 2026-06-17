@@ -25,6 +25,6 @@ title: 'Play: How It Shapes the Brain, Opens the Imagination, and Invigorates th
 type: book
 ---
 
-*Play* is a real treasure of a popular science book.  Based on Brown's work as a clinician and deep familiarity with the literature, it moves through the deep important of play to all animals, and especially human beings.  Far from being frivolous, play and a playful attitude is associated with learning, with success, and with a longer and healthier life. Imaginative play, exuberant play, and play free from consequence or adult supervision, is what makes us human, and what makes life worth living.
+*Play* is a real treasure of a popular science book.  Based on Brown's work as a clinician and deep familiarity with the literature, it moves through the deep importance of play to all animals, and especially human beings.  Far from being frivolous, play and a playful attitude are associated with learning, with success, and with a longer and healthier life. Imaginative play, exuberant play, and play free from consequence or adult supervision, are what makes us human, and what makes life worth living.
 
-Brown strays into pat self-help in places, and Boomer kid-shaming in others, but this book is everything I wanted to be *Exuberance* to be.
+Brown strays into pat self-help in places, and Boomer kid-shaming in others, but this book is everything I wanted *Exuberance* to be.

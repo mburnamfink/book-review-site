@@ -33,4 +33,4 @@ Assuming that you're a straight man (Deida notes he is writing mostly for straig
 
 As this relates to women, to paraphrase, take women seriously but not literally. Feminine energy is about change, flow, and emotion. You can't capture it and hold it without killing it, but you can dive right in and *ravish* it, which is what women really want. They'll tempt you and distract you and place tests in your path, which you should read as indications of emotional insecurity rather than sincere desires. They don't want you to do what they ask, they want you to be strong enough to resist and impose your will on the situation.
 
-So yeah, it's proto-Jorpian "Wimmenz are teh CHAOS DRAGON!" vibey stuff. But it's provocative, and what the hell, we're due for a vibe shift anyway.
+So yeah, it's proto-Jorpian "Wimmenz are the CHAOS DRAGON!" vibey stuff. But it's provocative, and what the hell, we're due for a vibe shift anyway.

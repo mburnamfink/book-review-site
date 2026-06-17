@@ -37,7 +37,7 @@ The book alternates chapters between games and metrics.  The games sections are 
 
 Games are centered around their scoring systems, but they also hold those scoring systems lightly, encouraging players to find their own paths, strategies, and fun. Simple rules and shared language allow the emergence of complex social joys.  Nguyen translates the important points of his previous book from philosophical arcana to daily language.
 
-The metrics components are provocative, though less novel. Admittedly, I have a PhD in science and technology studies, and I've spent a lot of time thinking about knowledge, power, and bureaucratic structure, including Nguyen's primary sources like Scott's *Seeing Like a State*, Bowker and Starr's *Sorting Things Out*, and Porter's *Trust In Numbers* (okay, I haven't actually read Porter.)
+The metrics components are provocative, though less novel. Admittedly, I have a PhD in science and technology studies, and I've spent a lot of time thinking about knowledge, power, and bureaucratic structure, including Nguyen's primary sources like Scott's *Seeing Like a State*, Bowker and Star's *Sorting Things Out*, and Porter's *Trust in Numbers* (okay, I haven't actually read Porter.)
 
 Any system that operates efficiently at scale requires certain inputs, mechanical rules, replaceable parts, and central control. These inputs come at the sacrifice of local variability, freedom of choice, context, and expert judgement.  To give an example from Nguyen's life, as a professor he can tell after a semester if a student has learned something, but the Dean of Students cares about four year graduation rates and post-college job outcomes. The vital work of deepening minds gets sacrificed into creating a pipeline of career ready graduates.
 

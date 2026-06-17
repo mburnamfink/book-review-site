@@ -25,7 +25,7 @@ type: book
 
 Second books are hard. I think everyone knows that. But I've rarely seen a second book splat as hard as *Authority.*
 
-In the wake of *Annihilation*, the biologist, the surveyor, and the anthropologist have return via mysterious means, their memories erased and likely ridden with cancer like the other returnees.  And of course, we know that two of them are dead in Area X, and the third transformed. With the new book, we also have a new main character, Control/John Rodriguez, a veteran intelligence officer from a dynasty of spies, and new director of Southern Reach, the shadowy government agency that studies Area X, and a new viewpoint, a tight third person.
+In the wake of *Annihilation*, the biologist, the surveyor, and the anthropologist have returned via mysterious means, their memories erased and likely ridden with cancer like the other returnees.  And of course, we know that two of them are dead in Area X, and the third transformed. With the new book, we also have a new main character, Control/John Rodriguez, a veteran intelligence officer from a dynasty of spies, and new director of Southern Reach, the shadowy government agency that studies Area X, and a new viewpoint, a tight third person.
 
 The viewpoint shift matters. *Annihilation* felt intimate, for all its horror and unraveling mystery it was happening to you.  Control is an ironic cipher, a manager who is very much not in control, a walking collection of John le Carré cliches and vague inferiority. He is not a protagonist, barely a character. 
 

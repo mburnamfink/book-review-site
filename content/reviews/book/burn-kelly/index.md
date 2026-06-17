@@ -20,7 +20,7 @@ title: Burn
 type: book
 ---
 
-*Burn* is a tense novella that manages to stay one step ahead of the fireline of literary collapse, right through the end.  Prosper "Spur" Gregory Leung is a firefighter in the Transcendental State of Walden, a planet that has rejected most technology in favor of a historical human lifestyle and the virtue of simplicity.  Walden is locked in a guerrilla struggle with the puk puks, the previous inhabitants of the planet who still want automation. The battlefield are the immense planetary forests, genetically altered fast spreading trees the Waldenites are using to strangle the puk puks, and the arson fires the puk puks use to fight back.
+*Burn* is a tense novella that manages to stay one step ahead of the fireline of literary collapse, right through the end.  Prosper "Spur" Gregory Leung is a firefighter in the Transcendental State of Walden, a planet that has rejected most technology in favor of a historical human lifestyle and the virtue of simplicity.  Walden is locked in a guerrilla struggle with the puk puks, the previous inhabitants of the planet who still want automation. The battlefield is the immense planetary forests, genetically altered fast spreading trees the Waldenites are using to strangle the puk puks, and the arson fires the puk puks use to fight back.
 
 Spur starts the novel recovering in a hospital from severe burns and the psychological trauma of letting his wife's brother and his best friend Vic die as a puk puk traitor.  Random calls connect him with The Gregory of L'ung, a galactic child with the power to make luck, among other arcane skills.  Now Spur has to go home and confront a mass of curdled small village politics while playing chaperone to an interstellar potentate.  
 

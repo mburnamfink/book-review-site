@@ -27,4 +27,4 @@ Barclay's disdain and hatred of Tucker is the animating spirit of this book, a v
 
 Three scenes illuminate the book: The opening, where Barclay mistakes Tucker for a badger rummaging in his trash bin and shoots him with an air gun, an extended encounter at a Swiss mountain lodge where Tucker attempts to bargain his wife's body for Barclay's assent, and then saves Barclay's life in a mountaineering accident, and the conclusion, which is worth not spoiling. A fantastically savage and ironic spirit of farce animates these scenes.
 
-Unfortunately, they're connected by about 150 pages of nothing much in particular, a venting of bile and delirium tremens that is neither entertaining not informative.
+Unfortunately, they're connected by about 150 pages of nothing much in particular, a venting of bile and delirium tremens that is neither entertaining nor informative.

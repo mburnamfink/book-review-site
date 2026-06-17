@@ -23,6 +23,6 @@ type: book
 
 A small colonial war is an under-appreciated gem of military scifi. In a genre characterized by right-wing rhetoric and planet destroying super-weapons, this is a story about an under-equipped light infantry battalion on the ass edge of space trying to eke out victory against an entire continent of Afrikaner through intelligence, the surgical application of brutality, and Clausewitz's adage that "war is fought by human beings."
 
-That said, this book felt cramped, too many characters not enough characterization. The colonial economy and Japanese Empire that rules the backdrop is plausible-ish, but the part of me that wanted a straight digression on the strategy of space-based counterinsurgency forces was disappointed by how thin it was. 
+That said, this book felt cramped, too many characters, not enough characterization. The colonial economy and Japanese Empire that rule the backdrop are plausible-ish, but the part of me that wanted a straight digression on the strategy of space-based counterinsurgency forces was disappointed by how thin it was. 
 
 I feel bad giving this book 3 stars, but unless you really love David Drake, *A Small Colonial War* can probably be skipped.

@@ -27,11 +27,11 @@ title: Pet
 type: audiobook
 ---
 
-Pet is a YA utopian fantasy that is both deep and shallow, a running stream that conceals depths. Jam is a teenage girl in the city of Lucille. It's after the revolution, all the monsters are gone, and angels are running the show. The details of "how" are vague, but the consequences apparent. Cops and billionaires are gone; racism, crime, and exploitation are solved problems. Jam is trans and autistic, and that's not a problem in her life. 
+Pet is a YA utopian fantasy that is both deep and shallow, a running stream that conceals depths. Jam is a teenage girl in the city of Lucille. It's after the revolution, all the monsters are gone, and angels are running the show. The details of "how" are vague, but the consequences are apparent. Cops and billionaires are gone; racism, crime, and exploitation are solved problems. Jam is trans and autistic, and that's not a problem in her life. 
 
 Things are pretty good, until Jam accidentally spills blood on her mother's latest artwork and summons a seven-foot-tall horned and feathered creature with a voice like steel and fire and her mother's severed hands that calls itself Pet. Pet is a hunter, and their message is that the monsters are not gone. A monster is in the home of Jam's best friend Redemption, and she has to find it and stop it. 
 
-The plot follows a quickly paced three act structure. In Act I, Pet arrives, Jam's parents Bitter and Aloe try and ignore its message and get Jam to send it away, and Jam decides to follow the call to adventure. In Act II, Jam navigates her friendship with Redemption and how to reveal both this supernatural being and its dangerous mission.  In Act III, they confront the monster, a sexual predator, and bring about justice.
+The plot follows a quickly paced three act structure. In Act I, Pet arrives, Jam's parents Bitter and Aloe try to ignore its message and get Jam to send it away, and Jam decides to follow the call to adventure. In Act II, Jam navigates her friendship with Redemption and how to reveal both this supernatural being and its dangerous mission.  In Act III, they confront the monster, a sexual predator, and bring about justice.
 
 There's a lot to like about this book. I like the politics: Black, Queer, Autistic, Utopian Abolitionist. The fantastic elements are well done. The basic points, that monsters can look like anything and anyone, that the apparent protection of secrets lets harm fester, and in the revolutionary slogan that "we are each other's harvest", are all lessons worth learning.
 

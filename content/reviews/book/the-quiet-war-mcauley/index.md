@@ -20,4 +20,4 @@ title: The Quiet War
 type: book
 ---
 
-Some of the best new science-fiction I've read in a long time.  McAuley takes us on a sprawling ecological space opera from a post-ecological collapse earth, to the transhuman moons of the outer system.  The war of the title is notably quiet, it's a war of subversion and deceit, much like this book inverts the typical action-packed space opera tropes.  But it's smart, insightful, full of fantastic images, and best of all, has three capable female main characters.
+Some of the best new science-fiction I've read in a long time.  McAuley takes us on a sprawling ecological space opera from a post-ecological collapse earth, to the transhuman moons of the outer system.  The war of the title is notably quiet; it's a war of subversion and deceit, much like this book inverts the typical action-packed space opera tropes.  But it's smart, insightful, full of fantastic images, and best of all, has three capable female main characters.

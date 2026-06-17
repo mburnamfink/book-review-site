@@ -20,6 +20,6 @@ title: Concrete Island
 type: book
 ---
 
-*Concrete Island* is a near perfect embodiment of Ballard's favorite themes of modernity and its detritus. Maitland is a self-satisfied architect with a career, family, and mistress. A sudden automobile crash stands him in an interchange island, cut off from the world by a triangle of highspeed bypasses.  
+*Concrete Island* is a near perfect embodiment of Ballard's favorite themes of modernity and its detritus. Maitland is a self-satisfied architect with a career, family, and mistress. A sudden automobile crash strands him on an interchange island, cut off from the world by a triangle of highspeed bypasses.  
 
-The limited terrain of this wasteland, scattered with wrecked cars and ruined structures, rapidly becomes a projection of Maitland's decaying psyche. Unable to climb to freedom due to his injuries, Maitland is tries to convince the other inhabitants of the island, a mentally damaged acrobat named Proctor and a young prostitute named Jane, to aid his escape, but the material leverage of modernity means little to these liminal barbarians.  Ultimately, Maitland is redefined in terms of sustenance relations to the broken building blocks of the world.
+The limited terrain of this wasteland, scattered with wrecked cars and ruined structures, rapidly becomes a projection of Maitland's decaying psyche. Unable to climb to freedom due to his injuries, Maitland tries to convince the other inhabitants of the island, a mentally damaged acrobat named Proctor and a young prostitute named Jane, to aid his escape, but the material leverage of modernity means little to these liminal barbarians.  Ultimately, Maitland is redefined in terms of sustenance relations to the broken building blocks of the world.

@@ -24,7 +24,7 @@ type: book
 
 Hawkwood's company, the White Company, crossed into Italy, and there Hawkwood found his calling. His career was complex, to say the least, with Hawkwood fighting for Milan, Florence, and the Papacy at various points, although contrary to popular beliefs about mercenaries, Hawkwood did not suddenly switch sides on the eve of battle, or avoid battle entirely. Along with sacks and sudden assaults by storm and stealth, he was a master of the feigned retreat, luring his foes into vulnerable positions for a counter-charge. He participated in the brutal Massacre at Cesena while working for the papacy, and then switched to secular service.
 
-Saunders makes the case for Hawkwood as an influential figure of the age. Aside from someone who executed the bloody intrigues of Italian politics, he also served as model for the protagonist of Chaucer's "The Knight's Tale" (the two met several times), and advanced English foreign policy in Italy, a vital market for English wool, and a strategic theater for apply leverage against the French from a second front.
+Saunders makes the case for Hawkwood as an influential figure of the age. Aside from someone who executed the bloody intrigues of Italian politics, he also served as a model for the protagonist of Chaucer's "The Knight's Tale" (the two met several times), and advanced English foreign policy in Italy, a vital market for English wool, and a strategic theater for applying leverage against the French from a second front.
 
 Despite his long career and evident success in battle, Hawkwood died essentially broke, leaving his wife and children to make their own way in the world rather than establishing a major line. Dying in bed at the age of 71 or 72 is more than a lot of his contemporaries could say.
 

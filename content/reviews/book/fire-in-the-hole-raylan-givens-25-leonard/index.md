@@ -35,7 +35,7 @@ type: book
 
 "So this Leonard?"
 
-"Well, I figured why not read some contemporary literary fiction, but if I'm going to do it, I'm going to do it like a man.  You know, terse stories about down-and-out lawmen, criminals, decent folks in a wicked world, or maybe not so decent folks in world with no illusions. Classic America."
+"Well, I figured why not read some contemporary literary fiction, but if I'm going to do it, I'm going to do it like a man.  You know, terse stories about down-and-out lawmen, criminals, decent folks in a wicked world, or maybe not so decent folks in a world with no illusions. Classic America."
 
 "What did you think?"
 
@@ -45,6 +45,6 @@ type: book
 
 "Yeah, Hough. Anyways, these are some great stories. Definitely a little front loaded, “When the Women Come Out to Dance”, “Hanging Out at the Buena Vista”, and "Sparks" are all incredible.  Apparently the other stories link into the novels, but I haven't read them. But hell, those three are worth the price of admission, and the rest are solid tales.  Maybe I should read more novels."
 
-"You think Leonard was who that chick was talking about."
+"You think Leonard was who that chick was talking about?"
 
 "You think I give a fuck?"

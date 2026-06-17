@@ -20,4 +20,4 @@ title: The Steep Approach to Garbadale
 type: book
 ---
 
-If you only know Iain Banks from his science-fiction, you owe it to check out his non-fiction. Garbadale is an intimate portrait of a very screwed up business-family, as seen through the eyes of one of it's junior members. The book tends to amble without purpose, but the natural appeal of Banks' characters and writing carries through any slackness in the plot. Away from the spaceships and galactic espionage, Banks shows that its those we're closest too who can hurt us the most.
+If you only know Iain Banks from his science-fiction, you owe it to yourself to check out his non-fiction. Garbadale is an intimate portrait of a very screwed up business-family, as seen through the eyes of one of its junior members. The book tends to amble without purpose, but the natural appeal of Banks' characters and writing carries through any slackness in the plot. Away from the spaceships and galactic espionage, Banks shows that it's those we're closest to who can hurt us the most.

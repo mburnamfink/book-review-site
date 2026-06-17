@@ -19,4 +19,4 @@ title: 'All Meat Looks Like South America: The World of Bruce McCall'
 type: book
 ---
 
-Bruce McCall images a delightfully twisted world in the style of art-deco advertising, where speed rules, Albert Speer designs roadsides attractions, and Howard Hughes delivers three star meals from prototype racing planes.  The joke is stretched like tafy, but manages to hold together.  I particularly enjoyed the discourse on Golf Carts of the Third Reich, which is a spot on parody of actual Nazi procurement.
+Bruce McCall imagines a delightfully twisted world in the style of art-deco advertising, where speed rules, Albert Speer designs roadside attractions, and Howard Hughes delivers three star meals from prototype racing planes.  The joke is stretched like taffy, but manages to hold together.  I particularly enjoyed the discourse on Golf Carts of the Third Reich, which is a spot on parody of actual Nazi procurement.

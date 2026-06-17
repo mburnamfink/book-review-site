@@ -19,4 +19,4 @@ title: The Russian Debutante's Handbook
 type: book
 ---
 
-Gary Shteyngart's first novel, and it shows.  While it has the Shteyngartian charm and language, the plot meanders, the philosophy is confused, and the characters listless.  Compared to the uproarious mania of Absurdistan, or the "so true it hurts" melodrama of Super Sad True Love Story, this is clearly a lesser novel.  Still worth it, if you like his other stuff, but not his best.
+Gary Shteyngart's first novel, and it shows.  While it has the Shteyngartian charm and language, the plot meanders, the philosophy is confused, and the characters are listless.  Compared to the uproarious mania of Absurdistan, or the "so true it hurts" melodrama of Super Sad True Love Story, this is clearly a lesser novel.  Still worth it, if you like his other stuff, but not his best.

@@ -23,7 +23,7 @@ title: The Canterbury Tales
 type: book
 ---
 
-If you want to mark the start of 'modern' literature, *The Canterbury Tales* are a strong candidate. About thirty poems and prose pieces, framed as pilgrims to Canterbury telling stories to amuse each other. 
+If you want to mark the start of 'modern' literature, *The Canterbury Tales* is a strong candidate. About thirty poems and prose pieces, framed as pilgrims to Canterbury telling stories to amuse each other. 
 
 In theory, Chaucer is readable by someone fluent in English with a little help.  I say in theory,  because  spelling and word definitions have changed, along with syntax and grammar.  Middle English is very different from what we speak, and I'm here to enjoy myself, not to puzzle over a poem with a dictionary.  The problem is that poetry in translation always suffers.  I read the 2008 Raffel translation, and he does his best, but the result is still middling, if you'll pardon the pun.
 

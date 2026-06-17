@@ -39,6 +39,6 @@ There's not much time to save Mrs Fielding, as the crew is dispatched to the Red
 
 A second mission back up the Adriatic returns them to the scenes of the previous book and various warm reunions, including with the escaped Lt. Fielding, who believes Aubrey is sleeping with his wife after various dog-related escapades in Malta.  Before satisfaction can be given, the repaired *Surprise* is sent to the Port of Mascara, where they enter into a sharp action against three French ships and escape only with even more daring seamanship from Aubrey.
 
-I think in some respects this book represents a pivot for the series. Aubrey is becoming older, meditating on change and death. Meanwhile a new set of French intelligence agents are introduced as adversaries for Maturin.  The diving bell and 19th century natural philosophy shine. I cannot care for birds even 1% as much as Maturin does, but I'm in it for scientific instruments.
+I think in some respects this book represents a pivot for the series. Aubrey is becoming older, meditating on change and death. Meanwhile a new set of French intelligence agents is introduced as adversaries for Maturin.  The diving bell and 19th century natural philosophy shine. I cannot care for birds even 1% as much as Maturin does, but I'm in it for scientific instruments.
 
 And I cannot go by without mentioning a truly shocking incident with a shark. Just wow!

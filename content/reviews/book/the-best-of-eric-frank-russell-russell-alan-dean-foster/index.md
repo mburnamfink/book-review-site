@@ -23,6 +23,6 @@ title: The Best of Eric Frank Russell
 type: book
 ---
 
-Eric Frank Russell was a B-lister of the Campbellian Golden Age.  A decent enough prose stylist, Russell sent his square jawed astronauts against big cosmological themes like intelligence, conquest, and survival, with mixed results. His stories have a tendency to culminate in punchline based around some element deliberately hidden from the writer, and worse the punches feel likely off compared to a true master like Isaac Asimov.  A few of the stories drag on for far longer than they have to.
+Eric Frank Russell was a B-lister of the Campbellian Golden Age.  A decent enough prose stylist, Russell sent his square jawed astronauts against big cosmological themes like intelligence, conquest, and survival, with mixed results. His stories have a tendency to culminate in a punchline based around some element deliberately hidden from the reader, and worse the punches feel likely compared to a true master like Isaac Asimov.  A few of the stories drag on for far longer than they have to.
 
 That said, this collection includes the military bureaucratic farce Allamagoosa, which is worth reading (google will get you there) if you haven't yet.  Make sure you know where your Offdog is, sailor.

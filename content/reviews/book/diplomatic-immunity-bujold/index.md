@@ -24,7 +24,7 @@ type: book
 
 *Diplomatic Immunity* is a callback to the earlier Miles stories, with a relatively simple espionage-intrigue related plot, and madcap heroics to save the day.
 
-Imperial Auditor Vorkosigan's honeymoon is interrupted with an urgent message to go to Quaddie space and sort out a problem between a Barrayaran trade fleet and the Quaddie authorities. The Quaddies, genetically engineering humans designed for zero-G with four arms, didn't do a solid job investigating the disappearance of a Barrayaran officer, and shoreleaves problems nearly escalated to a shooting war. Miles cuts right to the center of the problem, and slight spoilers: there are Cetagandan black ops involved with an arsenal of horrific bioweapons.  Only fast thinking and suicidal heroics can save the day.
+Imperial Auditor Vorkosigan's honeymoon is interrupted with an urgent message to go to Quaddie space and sort out a problem between a Barrayaran trade fleet and the Quaddie authorities. The Quaddies, genetically engineered humans designed for zero-G with four arms, didn't do a solid job investigating the disappearance of a Barrayaran officer, and shoreleave problems nearly escalated to a shooting war. Miles cuts right to the center of the problem, and slight spoilers: there are Cetagandan black ops involved with an arsenal of horrific bioweapons.  Only fast thinking and suicidal heroics can save the day.
 
 This is a pretty average Vorkosigan novel. I can sort of feel that Bujold has said most of what she wants to say about these people.  
 

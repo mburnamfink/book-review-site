@@ -26,4 +26,4 @@ This might be the best of the Blue Ant trilogy; a densely woven and deeply paran
 
 What separates this one from the others is that Gibson finally takes the trilogy full gonzo. The previous two books I read and thought something like "That's it? I see weirder stuff in my inbox before breakfast." I refuse to spoil *Zero History*, but finally the objects of desire are worthy of Gibson's innate weirdness.
 
-As always, the language is a masterpiece of materiality, the perfect post-industrial rendering of designs and artefacts. The characters, are, well, Gibson characters, but then you read these books for the sentences, and the sparks of strangeness that seem to be ripped from the headlines.
+As always, the language is a masterpiece of materiality, the perfect post-industrial rendering of designs and artefacts. The characters are, well, Gibson characters, but then you read these books for the sentences, and the sparks of strangeness that seem to be ripped from the headlines.

@@ -22,4 +22,4 @@ title: The Hitchhiker’s Guide to the Galaxy
 type: book
 ---
 
-This is a book that I can't evaluate fairly. When I was a kid, I read my copies till they fell apart. It's loopy, cynical, absurd, solipsistic humor is at the base in my worldview.  But you know what, it still rocks. The sentences are poetry and perfect British humor.  The galaxy is wonderfully dysfunctional; Earth's destruction (and construction) hilariously pointless.
+This is a book that I can't evaluate fairly. When I was a kid, I read my copies till they fell apart. Its loopy, cynical, absurd, solipsistic humor is at the base of my worldview.  But you know what, it still rocks. The sentences are poetry and perfect British humor.  The galaxy is wonderfully dysfunctional; Earth's destruction (and construction) hilariously pointless.

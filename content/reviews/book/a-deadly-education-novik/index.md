@@ -25,7 +25,7 @@ Stop me if you've heard this one before.  There's a magical school for wizards, 
 
 *freeze frame, record scratch, how did I get here, etc*
 
-Novik takes some incredibly tropey nonsense and remixes it into a fantastic deconstruction. Galadriel (call her El) is a student at the arcane academy, the Scholomance, where there are no kindly teachers, no trips home, and a whole lot of dangerous monsters looking to eat young wizards. As bad as school is, with it's 50% survival rate, wizards outside have about a 5% chance of seeing their 18th birthday.
+Novik takes some incredibly tropey nonsense and remixes it into a fantastic deconstruction. Galadriel (call her El) is a student at the arcane academy, the Scholomance, where there are no kindly teachers, no trips home, and a whole lot of dangerous monsters looking to eat young wizards. As bad as school is, with its 50% survival rate, wizards outside have about a 5% chance of seeing their 18th birthday.
 
 One thing that's tilting the odds in their favor is the presence of Orion Lake, a monster slaying prodigy who kept hundreds of students alive, including El, not that she's grateful or anything.  El is as prickly as a porcupine. As revealed in the first person narration, that's because she just rubs people the wrong way, possibly because they can tell she's a walking weapon of mass destruction with an innate talent for ripping the mana out of other wizards and using it to power killing spells. Her mother, Gwen, is some kind of hippie idealist living outside of wizard society.  All of which has left her in a very precarious state. And that's before the prophecy that she might destroy everything.
 

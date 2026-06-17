@@ -23,4 +23,4 @@ title: 'Spam: A Shadow History of the Internet (Infrastructures)'
 type: book
 ---
 
-*Spam* is an example of the best of scholarly writing-taking a single under-examined subject and using it to illuminate an entire field of history.  In this case, Brunton elegantly theorizes spam, the omnipresent unwanted messages that clog computer networks and consume scarce attention, and its role in the development of various forms of digital governance over 40 years and three major periods.  Both brilliant and readable, *Spam* is a must-read for the 21st century.
+*Spam* is an example of the best of scholarly writing-taking a single under-examined subject and using it to illuminate an entire field of history.  In this case, Brunton elegantly theorizes spam, the omnipresent unwanted messages that clog computer networks and consume scarce attention, and their role in the development of various forms of digital governance over 40 years and three major periods.  Both brilliant and readable, *Spam* is a must-read for the 21st century.

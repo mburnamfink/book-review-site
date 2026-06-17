@@ -26,4 +26,4 @@ type: book
 
 This book is really Tzal's book, flashing back to that enigmatic figure's birth and harsh upbringing. Though she's called a devil, and used as a tool and slave, she has her own fascinating fatalism; a desire to spit in the eyes of all the gods and dare them to bring her down. 
 
-The plot: intrigue, battles, the fate of empires, continues, but this book shines in the quiet moments of character building, with conversations between Azetla and Tzal, and those moments of camp life where human concerns run up against grand destinies.
+The plot: intrigue, battles, the fate of empires, continue, but this book shines in the quiet moments of character building, with conversations between Azetla and Tzal, and those moments of camp life where human concerns run up against grand destinies.

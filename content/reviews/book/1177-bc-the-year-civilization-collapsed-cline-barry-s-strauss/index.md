@@ -24,7 +24,7 @@ title: '1177 B.C.: The Year Civilization Collapsed'
 type: book
 ---
 
-One of the great mysteries of history is the Sea People. They arrived from somewhere in the 12th century BC, sacked the palaces of the literate civilizations of the Eastern Mediterranean, caused the collapse of the intricate society of the Late Bronze Age, and vanished.
+One of the great mysteries of history is the Sea Peoples. They arrived from somewhere in the 12th century BC, sacked the palaces of the literate civilizations of the Eastern Mediterranean, caused the collapse of the intricate society of the Late Bronze Age, and vanished.
 
 ![](./img-1.jpg)
 

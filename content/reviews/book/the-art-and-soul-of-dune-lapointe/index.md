@@ -20,7 +20,7 @@ title: The Art and Soul of Dune
 type: book
 ---
 
-Okay, so *The Art and Soul of Dune* is glossy marketing material for obsessive Dune fans, of which I am one. Concept art is interlaced with behind the scene pictures and stills from the movie, along with brief passages describing the production. In an age of access, *Art and Soul* conceals more than it reveals.  But Dune doesn't need help, the movie stands on its own as a masterpiece.
+Okay, so *The Art and Soul of Dune* is glossy marketing material for obsessive Dune fans, of which I am one. Concept art is interlaced with behind the scenes pictures and stills from the movie, along with brief passages describing the production. In an age of access, *Art and Soul* conceals more than it reveals.  But Dune doesn't need help, the movie stands on its own as a masterpiece.
 
 One thing that comes through is Denis Villeneuve's uncompromising production design. Villeneuve loves Dune. He had "Muad'Dib" engraved on the inside of his high school graduation ring. The fact that he's a very talented filmmaker and also the only person on the planet who loves *Dune* more than me is at the heart of the movie's success. Villeneuve gets great people and brings out their best, from the gaffer's assistant up to the stars. That obsession, to get the big picture right and to get all the details right, is the soul of the movie.
 

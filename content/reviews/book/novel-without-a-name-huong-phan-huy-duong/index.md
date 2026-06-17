@@ -31,6 +31,6 @@ type: book
 
 *Novel Without a Name* is a cynical, bitter, and clear-eyed account of war from the Vietnamese side. The narrator, Quan, is a company commander, responsible for the lives of 100 men, and particularly responsible for the life of his childhood friend Bien, who has gone mad.
 
-This is a novel about war, but it's not one about combat. Battles are treated perfunctorily, a few sentences describing horrific causalities.  What concerns Quan are his peregrinations through the war zone, and the soldier's obsession with food, distance, and a place to sleep at night.  The war ages soldiers before their time, casts them adrift from both the rhythms of their traditional villages and exiles them from the benefits of modernity.
+This is a novel about war, but it's not one about combat. Battles are treated perfunctorily, a few sentences describing horrific casualties.  What concerns Quan are his peregrinations through the war zone, and the soldier's obsession with food, distance, and a place to sleep at night.  The war ages soldiers before their time, both casts them adrift from the rhythms of their traditional villages and exiles them from the benefits of modernity.
 
 Huong was a North Vietnamese soldier for the period described, and this book has the bronze ring of authentic truth, emotional without being sentimental, lyrical in its description of the countryside and the privation of the soldiers, and bravely truthful about the broken glories of liberation.

@@ -31,4 +31,4 @@ type: book
 
 *Writers of the Future* is one of the few contests targeted explicitly at early career writers, with realistic financial rewards rather than "exposure" (people die of exposure, you know).  Stories are chosen by a panel of scifi elders quarterly.  With such a collection, there's going to be a lot of variance, but I enjoyed 7 of these 8 stories.
 
-I'd like to call out for special attention "The Shadow Man" by Donald Mead, which is a creepy and wistful look at life in Hiroshima after the nuclear bomb, and  "The Assignment of Runner ETI" Fiona Lehn, which has a great *Hunger Games* style athletic-competition as public policy endurance race at the center of a story about teamwork and human limits.
+I'd like to call out for special attention "The Shadow Man" by Donald Mead, which is a creepy and wistful look at life in Hiroshima after the nuclear bomb, and  "The Assignment of Runner ETI" by Fiona Lehn, which has a great *Hunger Games* style athletic-competition as public policy endurance race at the center of a story about teamwork and human limits.

@@ -21,6 +21,6 @@ title: The Wind's Twelve Quarters
 type: book
 ---
 
-Le Guin is rightly famous for her incredible novels, but she's also a master of short fiction.  This collection focuses on her early career, start with her first published stories and ending with "The Day Before the Revolution".  Each story has introductory remarks be Le Guin, which provide lovely guidance to the themes and what she was thinking about as she was writing the story.  
+Le Guin is rightly famous for her incredible novels, but she's also a master of short fiction.  This collection focuses on her early career, starting with her first published stories and ending with "The Day Before the Revolution".  Each story has introductory remarks by Le Guin, which provide lovely guidance to the themes and what she was thinking about as she was writing the story.  
 
 There are many acknowledged classics in here, but I particularly enjoyed two smaller stories, "April in Paris" and "The Rule of Names", which demonstrated Le Guin's deft touch with language and mood. The only miss was "The Good Trip", a nothing piece of psychedelic ephemera.

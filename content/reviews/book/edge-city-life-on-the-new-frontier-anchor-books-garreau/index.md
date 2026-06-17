@@ -20,7 +20,7 @@ title: 'Edge City: Life on the New Frontier (Anchor Books)'
 type: book
 ---
 
-*Edge City* is circa-1990 study of a new pattern of urbanism, one which has become so common-place as to be utterly unremarkable. Garreau's Edge City has 5 million square feet of office space, commensurate retail, a population that increases during the working day, and didn't substantially exist 30 years.  For better or worse, Edge Cities are the only places in the Western world that have seen substantial economic and population growth, from Irving CA to Alexandria VA, 287 & 95 New Jersey to the Houston Galleria. 
+*Edge City* is a circa-1990 study of a new pattern of urbanism, one which has become so common-place as to be utterly unremarkable. Garreau's Edge City has 5 million square feet of office space, commensurate retail, a population that increases during the working day, and didn't substantially exist 30 years ago.  For better or worse, Edge Cities are the only places in the Western world that have seen substantial economic and population growth, from Irving CA to Alexandria VA, 287 & 95 New Jersey to the Houston Galleria. 
 
 Edge Cities are driven by economic and social factors.  Increasingly computerized white collar jobs can be supported more cheaply outside of traditional downtown centers. Ordinary people won't commute more than 45 minutes, and won't walk more than 300 feet.  Executives want to be no more than 8 miles from their office, an airport supporting executive jets, and their polo stables.  Women workers prioritize the feeling of safety, and hate public transit.
 

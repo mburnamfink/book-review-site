@@ -22,7 +22,7 @@ type: book
 
 In the *Luna* series, if you would first seek revenge, dig a lot of graves.  No, more than that.  Get an excavator.
 
-*Wolf Moon* picks up closely in the wake of the Corta's disaster of the first book, with the survivors in various forms of tenuous exile. It turns out that the Corta-Mackenzie war was orchestrated by the Sun family, seeking to smash two rivals and collect the pieces. The Mackenzie stronghold of Crucible is destroyed in a terror attack, their elderly founder assassinated, and the two largest factions set against each other. Sun plots are only hampered by a slight tendency towards villainous monologues, otherwise, they win.
+*Wolf Moon* picks up closely in the wake of the Corta disaster of the first book, with the survivors in various forms of tenuous exile. It turns out that the Corta-Mackenzie war was orchestrated by the Sun family, seeking to smash two rivals and collect the pieces. The Mackenzie stronghold of Crucible is destroyed in a terror attack, their elderly founder assassinated, and the two largest factions set against each other. Sun plots are only hampered by a slight tendency towards villainous monologues, otherwise, they win.
 
 This is a book where the complex motivations of the first book are pared down. Survival, escape, revenge, all in a harrowingly escalating lunar war that sees the breaking of fragile taboos about mass violence and the introduction of knife drones, projectile weapons, and orbital bombardments. 
 

@@ -23,7 +23,7 @@ type: book
 
 For monastic novice Emwich, this is the most important day in his life, the day when he takes his vows and becomes a monk sworn to the service of the Rain King.  Pretty big stuff. And then the actual divinity shows up and everything goes entirely off the rails. It's one thing to believe in a centuries old mythic cycle; it's another thing to have an actual god who drowns people by his presence show up with a retinue of supernatural creatures and human mercenaries and demand the old ways be followed.
 
-The Rain King's mythic cycle is one of flood, marriage, and sacrifice. Seven days of rain fill the valley of the Tile to brim, inundating every sign of human activity under the High Flood. At the end, a princess of the birds arrives and marries the Rain King, dying and becoming one of the saints. The Rain King departs, the waters recede, and life in the Tile begins afresh.
+The Rain King's mythic cycle is one of flood, marriage, and sacrifice. Seven days of rain fill the valley of the Tile to the brim, inundating every sign of human activity under the High Flood. At the end, a princess of the birds arrives and marries the Rain King, dying and becoming one of the saints. The Rain King departs, the waters recede, and life in the Tile begins afresh.
 
 At least, that's the plan. The first obstacle is the ordinary obstinance of people in the face of catastrophe, as the good farmers, burghers, and monks of the Tile try really hard to deny the presence of a god in their midst, and the water lapping under their doors. The second obstacle is that the mythic cycle is grounded in truth, but only partially in truth, and the whole truth shall set ye free.
 

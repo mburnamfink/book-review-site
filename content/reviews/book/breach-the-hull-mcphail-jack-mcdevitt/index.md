@@ -60,4 +60,4 @@ title: Breach the Hull
 type: book
 ---
 
-Breath the Hull is a very 'swingey' military sci-fi short story collection. The best stories are "Cryptic" by Jack McDevitt, and "Peter Power Armor" and "Forgotten Causes" by John C. Wright, which lead off the collection with the best kind of sideways meditations on existence that SF is capable of.  From there, the stories move through more or less forgettable exploits of space marines and space pirates, and doomed soldiers executing impossible orders. But for the price is a good read, and the stinkers are easily skipped.
+Breathe the Hull is a very 'swingey' military sci-fi short story collection. The best stories are "Cryptic" by Jack McDevitt, and "Peter Power Armor" and "Forgotten Causes" by John C. Wright, which led off the collection with the best kind of sideways meditations on existence that SF is capable of.  From there, the stories move through more or less forgettable exploits of space marines and space pirates, and doomed soldiers executing impossible orders. But for the price it is a good read, and the stinkers are easily skipped.

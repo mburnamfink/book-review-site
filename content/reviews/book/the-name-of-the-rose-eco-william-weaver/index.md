@@ -27,4 +27,4 @@ type: book
 
 What, you don't have that section on your bookshelf?
 
-More seriously, Eco does an incredibly job getting inside the very alien minds of his monks, and the kinds of passions and secrets that would lead these sworn men of God to murder. The tensions and conflicts of the 14th century, on the edge between the Middle Ages and the Renaissance are on full display.  I can't say this is a perfect book (unevenly paced, a little too in love with its own erudition), but it is an undeniably impressive one.
+More seriously, Eco does an incredibly good job getting inside the very alien minds of his monks, and the kinds of passions and secrets that would lead these sworn men of God to murder. The tensions and conflicts of the 14th century, on the edge between the Middle Ages and the Renaissance are on full display.  I can't say this is a perfect book (unevenly paced, a little too in love with its own erudition), but it is an undeniably impressive one.

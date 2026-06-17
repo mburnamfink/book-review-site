@@ -62,6 +62,6 @@ title: Edge of Infinity
 type: book
 ---
 
-This is an amazing collection of contemporary space-oriented scifi, mostly bent towards the weird, optimistic, and humanistic. Mosts fans will probably pick this up on the strength of a favorite name or three, since a good chunk of the last few decades is represented, but I enjoyed every story. All of them deal with space as a canvas for our ambitions, and ways in which those ambitions mix and collide. The stories are set within the solar system, so no FTL and only a few aliens, but that only increases the wonder of gas giant skies and Titanian snow storms. As with all of these collections, some stories are stronger than others (I'd like to give props to Cadigan, Rausch, and Reynolds), but even the "bad" stories are worth your time.
+This is an amazing collection of contemporary space-oriented scifi, mostly bent towards the weird, optimistic, and humanistic. Most fans will probably pick this up on the strength of a favorite name or three, since a good chunk of the last few decades is represented, but I enjoyed every story. All of them deal with space as a canvas for our ambitions, and ways in which those ambitions mix and collide. The stories are set within the solar system, so no FTL and only a few aliens, but that only increases the wonder of gas giant skies and Titanian snow storms. As with all of these collections, some stories are stronger than others (I'd like to give props to Cadigan, Rausch, and Reynolds), but even the "bad" stories are worth your time.
 
 First five star book of the year!

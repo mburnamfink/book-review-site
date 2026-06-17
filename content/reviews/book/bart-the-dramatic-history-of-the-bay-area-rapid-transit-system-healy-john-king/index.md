@@ -22,7 +22,7 @@ title: 'BART: The Dramatic History of the Bay Area Rapid Transit System'
 type: book
 ---
 
-*BART* is a whiggish history of transit system of the same name by BART's longtime director of public relations.  As such it reads more like a glossy pamphlet than any kind of critical review.  The basic problem of any transit system is that the best time to build it is well-before the region strangles itself in construction, traffic, and NIMBY interest groups.  But suburban and rural voters don't see the benefit of a massively expensive and socially transformative infrastructure project that won't pay off for decades, so the systems mostly don't get built.
+*BART* is a whiggish history of the transit system of the same name by BART's longtime director of public relations.  As such it reads more like a glossy pamphlet than any kind of critical review.  The basic problem of any transit system is that the best time to build it is well-before the region strangles itself in construction, traffic, and NIMBY interest groups.  But suburban and rural voters don't see the benefit of a massively expensive and socially transformative infrastructure project that won't pay off for decades, so the systems mostly don't get built.
 
 <!-- img: https://pbs.twimg.com/media/E-aWlpvVIAIg7yM?format=jpg&name=4096x4096 -->
 

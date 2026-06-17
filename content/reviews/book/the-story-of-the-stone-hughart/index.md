@@ -22,4 +22,4 @@ title: The Story of the Stone
 type: book
 ---
 
-Maybe I read this in two short of time, but I just didn't like it as much as *Bridge of Birds*. The plot seemed complicated instead of intricate, and the characters and setting were not as refreshing as the first book. Think I'll take a break before starting the last of the trilogy.
+Maybe I read this in too short a time, but I just didn't like it as much as *Bridge of Birds*. The plot seemed complicated instead of intricate, and the characters and setting were not as refreshing as the first book. Think I'll take a break before starting the last of the trilogy.

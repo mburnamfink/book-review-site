@@ -22,7 +22,7 @@ title: The Other Wind
 type: book
 ---
 
-*The Other Wind* closes out the Earthsea cycle perfectly, in the way that one of the wizards at describes his life as "learning to choose when their are no alternatives."
+*The Other Wind* closes out the Earthsea cycle perfectly, in the way that one of the wizards describes his life as "learning to choose when there are no alternatives."
 
 Decades after the events of Tehanu, the world is at peace, but on the cusp of some dramatic change. Dragons have been seen flying in the west, threatening human islands. The Kargs have overthrown their God-Kings and returned to a conventional warlord, who may seek peace. Lebennen is a good king, yet without wife and heir.  And a sorcerer, a common mender called Alder, journeys to Gont to seek Ged's advice on the topic of his troubling dreams.
 

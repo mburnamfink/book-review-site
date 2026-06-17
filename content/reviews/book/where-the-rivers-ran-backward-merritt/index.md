@@ -22,7 +22,7 @@ title: Where the Rivers Ran Backward
 type: book
 ---
 
-Some times it seems like everybody who went to Vietnam wrote a book about it; Merritt's book deserves our attention.
+Sometimes it seems like everybody who went to Vietnam wrote a book about it; Merritt's book deserves our attention.
 
 His memoir of a tour of duty as an engineer with the 25th Infantry Division in 1968 is brilliantly realized. The book is a series of vignettes punctuated by rock lyrics and headlines, like the memories of a generation blown apart by hate and lust and dope and killing. Merritt writes without bravado or the false perspective of history, speaking in the authentic voice of the grunts as he describes the insanity and the strange beauty of the war.
 

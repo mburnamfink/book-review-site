@@ -23,7 +23,7 @@ title: 'On the Bottom: The Raising of the U.S. Navy Submarine S-51'
 type: book
 ---
 
-*On the Bottom* is Ellsberg's first popular book, an account of the salvaging of submarine S-51 from 160 feet of water in 1926 by a team of US Navy divers.  Compared to the other books I've read, it's more technical and has less human interests, this is after all a team of competent professionals without any of the cultural conflicts that make his other books so interesting. 
+*On the Bottom* is Ellsberg's first popular book, an account of the salvaging of submarine S-51 from 160 feet of water in 1926 by a team of US Navy divers.  Compared to the other books I've read, it's more technical and has less human interest, this is after all a team of competent professionals without any of the cultural conflicts that make his other books so interesting. 
 
 The story of men against the sea has enough drama. Deep sea diving is one of the most hazardous and extreme activities people do, and crude technology of 1926 meant that everything had to be done by hand in the dark and cold, where divers survived in a precarious equilibrium and a single mistake could prove fatal.
 

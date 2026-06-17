@@ -29,6 +29,6 @@ I'm a nice guy.  Not a Nice Guy, you know, that festering pile of insecurities a
 
 *M'Lady*
 
-So assuming that you're sitting in front of an attractive woman, the book is basically a suggestion that you should make her feel your cock, both metaphorically and then literally. The concrete advice focuses on breathing exercises (fucking breathing exercises) and imposing the authentic strength of your character on her. In you're a pleasant, passive, somewhat scared guy, this can be hard, because women are socialized to not do any pursuing themselves, but what's the worst that can happen? You get rejected?
+So assuming that you're sitting in front of an attractive woman, the book is basically a suggestion that you should make her feel your cock, both metaphorically and then literally. The concrete advice focuses on breathing exercises (fucking breathing exercises) and imposing the authentic strength of your character on her. If you're a pleasant, passive, somewhat scared guy, this can be hard, because women are socialized to not do any pursuing themselves, but what's the worst that can happen? You get rejected?
 
 Okay, there is some other good advice there about focusing on all the sensual aspects of sex, relaxation to delay orgasm, and the proper way to pull on a woman's hair, but I guess I have to do more breathing exercises.
