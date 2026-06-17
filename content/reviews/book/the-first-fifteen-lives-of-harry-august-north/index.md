@@ -20,7 +20,7 @@ type: book
 
 That was fucking incredible!
 
-Harry August is an Ouroboroun, a member of an immortal subtype who live the same life again and again. Ouroborouns have organized their shadow society under the banner of the Cronus Club, which exists to aid their members through the first few agonizing "wait, what?" of their repeated lives, and aid their members through the boredom of a childhood where they already know everything and then escaping the disaster of history.  The Cronus Club is a kind of anti-illuminati, self-policing members to avoid meddling in history.
+Harry August is an Ouroboroun, a member of an immortal subtype who live the same life again and again. Ouroborouns have organized their shadow society under the banner of the Cronus Club, which exists to aid their members through the first few agonizing "wait, what?" moments of their repeated lives, and aid their members through the boredom of a childhood where they already know everything and then escaping the disaster of history.  The Cronus Club is a kind of anti-illuminati, self-policing members to avoid meddling in history.
 
 But then a message is passed down through time, a young child appearing at the deathbed of a member to say "The world is ending, the future is shortening, and we don't know why. Please stop it."  While Ouroborouns are difficult to kill through linear means, they can have their memories erased, losing centuries of knowledge, and can be eliminated permanently by preventing the circumstances of their birth.
 

@@ -23,4 +23,4 @@ title: 'Drawing Blood: Technology and Disease Identity in Twentieth-Century Amer
 type: book
 ---
 
-It's not often that I can describe an academic book as 'sexy', but that's practically the only word for *Drawing Blood.* Wailoo does an incredibly job looking at a century of blood work in terms of technology, diagnosis, and disciplinary authority. A fascinating and critical book in the history of medicine.
+It's not often that I can describe an academic book as 'sexy', but that's practically the only word for *Drawing Blood.* Wailoo does an incredible job looking at a century of blood work in terms of technology, diagnosis, and disciplinary authority. A fascinating and critical book in the history of medicine.

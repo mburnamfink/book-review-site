@@ -25,13 +25,13 @@ tags:
 title: 'Civilizations: A Novel'
 type: book
 ---
-*Civilizations* is an ironic alternative history. Starting with the divergence of more successful viking Vineland expedition, the peoples of the New World have iron working, horses, and some immunity to smallpox and similar diseases. When Columbus shows up, his little adventure is overwhelmed and he dies a lonely failure in Cuba. No other Europeans cross the Ocean Sea.
+*Civilizations* is an ironic alternative history. Starting with the divergence of a more successful viking Vineland expedition, the peoples of the New World have iron working, horses, and some immunity to smallpox and similar diseases. When Columbus shows up, his little adventure is overwhelmed and he dies a lonely failure in Cuba. No other Europeans cross the Ocean Sea.
 
-40 years late5, the historical Inca civil war between Atahualpa and Huascar ends very differently. In our timeline, Atahualpa won a bloody victory and then was ambushed, captured, and killed by Pizarro. In this timeline, he flees to Cuba where he discovers the wrecks of Columbus' ships. He constructs new caravels and heads into the rising sun.
+40 years later, the historical Inca civil war between Atahualpa and Huascar ends very differently. In our timeline, Atahualpa won a bloody victory and then was ambushed, captured, and killed by Pizarro. In this timeline, he flees to Cuba where he discovers the wrecks of Columbus' ships. He constructs new caravels and heads into the rising sun.
 
-Weeks later, fewer than 200 Incas sail into Lisbon, recently devastated by an earthquake. Europe doesn't know what to make of this strange visitors, and with no way back, Atahualpa takes the Holy Roman Emperor Charles V prisoner and holds Europe in the balance. 
+Weeks later, fewer than 200 Incas sail into Lisbon, recently devastated by an earthquake. Europe doesn't know what to make of these strange visitors, and with no way back, Atahualpa takes the Holy Roman Emperor Charles V prisoner and holds Europe in the balance. 
 
-The Inca successful navigates the viper pit of European politics, outmaneuvering nobles, mollifying the peasantry with a replacement of taxes with the Incan corvee labor system, and cutting the Gordian knot of the Protestant Reformation with the obvious clarity of Sun worship and religious freedom.  My favorite part of the book was a gloss on Luther's 95 Theses, where a second set of theses noting that Sun worship is obvious and simple and Christianity is just a confused and debased version is nailed to a church's door.
+The Inca successfully navigates the viper pit of European politics, outmaneuvering nobles, mollifying the peasantry with a replacement of taxes with the Incan corvee labor system, and cutting the Gordian knot of the Protestant Reformation with the obvious clarity of Sun worship and religious freedom.  My favorite part of the book was a gloss on Luther's 95 Theses, where a second set of theses noting that Sun worship is obvious and simple and Christianity is just a confused and debased version is nailed to a church's door.
 
 A second threat is the arrival of the Mexicans, who have almost defeated the Incan empire in the Americas and arrive to take over France and form a counter-weight to the Incan polity with their fearsome jaguar warriors and grim human sacrifices, but the whole Mexican invasion seems half-baked. 
 

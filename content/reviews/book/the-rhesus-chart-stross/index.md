@@ -22,4 +22,4 @@ title: The Rhesus Chart
 type: book
 ---
 
-The Laundry series has always been good, put a little uneven as it bounces it between absurdist comedy and cosmic horror. In book 5, Stross stops running and straps on some kind of literary rocket-skates, with a tightly plotted thriller about Laundry-verse vampires, which of course everybody knows don't exist. Bob is growing into a mature protagonist and potential Deeply Scary Sorcerer, against a background of dreary British bureaucracy and the unholy genetic mashup of finance and tech culture. Great book, even if I miss Pinky and Brains a little.
+The Laundry series has always been good, but a little uneven as it bounces between absurdist comedy and cosmic horror. In book 5, Stross stops running and straps on some kind of literary rocket-skates, with a tightly plotted thriller about Laundry-verse vampires, which of course everybody knows don't exist. Bob is growing into a mature protagonist and potential Deeply Scary Sorcerer, against a background of dreary British bureaucracy and the unholy genetic mashup of finance and tech culture. Great book, even if I miss Pinky and Brains a little.

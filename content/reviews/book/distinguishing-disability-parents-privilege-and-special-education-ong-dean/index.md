@@ -21,7 +21,7 @@ title: 'Distinguishing Disability: Parents, Privilege, and Special Education'
 type: book
 ---
 
-I'm torn on this one, since Colin Ong-Dean is a colleague and its bad form to rip into someone's dissertation.  That said, while this book ticks off all the boxes of a good scholarly work (surveys, data, theories, results), it doesn't really say anything surprising or novel.  Ong-Dean proposes that parents with a high degree of 'cultural capital' 
+I'm torn on this one, since Colin Ong-Dean is a colleague and it's bad form to rip into someone's dissertation.  That said, while this book ticks off all the boxes of a good scholarly work (surveys, data, theories, results), it doesn't really say anything surprising or novel.  Ong-Dean proposes that parents with a high degree of 'cultural capital' 
 
 (wealthy, educated, white) are better able to navigate the special education system. Unsurprisingly, that turns out to be correct.
 

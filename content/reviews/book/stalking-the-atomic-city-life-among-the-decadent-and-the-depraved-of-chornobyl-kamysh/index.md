@@ -18,7 +18,7 @@ title: 'Stalking the Atomic City: Life Among the Decadent and the Depraved of Ch
 type: book
 ---
 
-I'm not really sure what I expected from this book, but it wasn't what I got. The author writers about his experience as an illegal tourist in the Chernobyl exclusion zone around 2012.   Chernobyl haunts the Ukrainian soul, an immense radioactive wound. The Zone is a strange combination of fantasy and mundanity.  There's all the crumbling Soviet life, hastily abandoned, and eroded further by decades of weather and the depredations of metal scavengers and Kamysh's fellow stalkers, who drunkenly break windows and burn furnishings.
+I'm not really sure what I expected from this book, but it wasn't what I got. The author writes about his experience as an illegal tourist in the Chernobyl exclusion zone around 2012.   Chernobyl haunts the Ukrainian soul, an immense radioactive wound. The Zone is a strange combination of fantasy and mundanity.  There's all the crumbling Soviet life, hastily abandoned, and eroded further by decades of weather and the depredations of metal scavengers and Kamysh's fellow stalkers, who drunkenly break windows and burn furnishings.
 
 Even aside from radioactive waste, the Zone is a great place to die from hypothermia or tetanus. Inhabitants are junkies, drunks, madmen exiled from society, and lazy and abusive cops who protect the Zone from an unclear threat. 
 

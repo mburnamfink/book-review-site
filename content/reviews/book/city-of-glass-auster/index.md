@@ -22,4 +22,4 @@ type: book
 
 I can't even...
 
-In the form of a mystery, this is a book about authorship and the possibility of a true language. I can't tell if it's actually great or merely aping greatness, but its definitely a bizarre and entertaining read.
+In the form of a mystery, this is a book about authorship and the possibility of a true language. I can't tell if it's actually great or merely aping greatness, but it's definitely a bizarre and entertaining read.

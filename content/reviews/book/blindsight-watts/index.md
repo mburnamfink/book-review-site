@@ -30,4 +30,4 @@ They are the best humanity can produce. They are utterly inadequate. The alien a
 
 *Blindsight* is grim, atmospheric, and ultimately an extended argument on the philosophy of mind. Watts is down on consciousness as slow, metabolically inefficient, and just plain suboptimal in an evolutionary sense. Rather, the universe belongs to pattern recognizers without the illusion of "I", intelligences unburdened by the problems of the self.
 
-Dark, brilliant, and grim, a technofetistic masterpiece, *Blindsight* is every bit as good as I told it was.
+Dark, brilliant, and grim, a technofetistic masterpiece, *Blindsight* is every bit as good as I was told it was.

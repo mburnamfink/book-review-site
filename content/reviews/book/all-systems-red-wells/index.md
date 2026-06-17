@@ -22,9 +22,9 @@ title: All Systems Red
 type: book
 ---
 
-*All Systems Red* is a great modern scifi novella.  Our narrator is the unnamed Murderbot, a security cyborg guarding an exploration team on an uncharted planet. When technical glitches start putting the team's lives at risk, the question is if this is more lowest-bidder failures from the profit minded Company, or if something greater is afoot. The team's survival depends on their ace in the hole.  Murderbot is no simply security unit.  He hacked his programming governor is an autonomous unit who's been obeying commands because the charade keeps anyone from looking at him.
+*All Systems Red* is a great modern scifi novella.  Our narrator is the unnamed Murderbot, a security cyborg guarding an exploration team on an uncharted planet. When technical glitches start putting the team's lives at risk, the question is if this is more lowest-bidder failures from the profit minded Company, or if something greater is afoot. The team's survival depends on their ace in the hole.  Murderbot is no simple security unit.  He hacked his programming governor and is an autonomous unit who's been obeying commands because the charade keeps anyone from looking at him.
 
-This first novella and the narrator are ironic, acerbic, and warm at heart. While I wasn't totally satisfied with the resolution of the initial mystery (the potential profits of alien artifacts inspired a rival team to eliminate the competition by any means necessary), the main characters has a lot of promise. Looking forward to the next one.
+This first novella and the narrator are ironic, acerbic, and warm at heart. While I wasn't totally satisfied with the resolution of the initial mystery (the potential profits of alien artifacts inspired a rival team to eliminate the competition by any means necessary), the main characters have a lot of promise. Looking forward to the next one.
 
 ***
 

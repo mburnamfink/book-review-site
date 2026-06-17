@@ -23,4 +23,4 @@ title: Faust, First Part
 type: book
 ---
 
-My edition was the (purported) [Coleridge translation](http://www.amazon.com/gp/product/B004Z8A10W/ref=docs-os-doi_0). I'm not enough of a literary scholar to judge this work comprehensively, but I can say that I great enjoyed the play of language. At the same time, the characters and plots were deeply alien to my sensibilities. A fascinating and foundational work either way.
+My edition was the (purported) [Coleridge translation](http://www.amazon.com/gp/product/B004Z8A10W/ref=docs-os-doi_0). I'm not enough of a literary scholar to judge this work comprehensively, but I can say that I greatly enjoyed the play of language. At the same time, the characters and plots were deeply alien to my sensibilities. A fascinating and foundational work either way.

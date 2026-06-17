@@ -29,4 +29,4 @@ title: Passing the Torch
 type: book
 ---
 
-"*Passing the Torch*" the First Indo-China war, the rise of Ho Chi Minh in the north, and Nguyen Ngo Diem in the south, and the early commitment of the Kennedy administration to the war. This last section is covered more fully in other books in the series, and as a survivor of Bob Brigham Vietnam War history class, I can say that the Indo-China War and political developments in Vietnam are covered in a comprehensive and balanced way. Another great addition to the series.
+"*Passing the Torch*" the First Indo-China war, the rise of Ho Chi Minh in the north, and Nguyen Ngo Diem in the south, and the early commitment of the Kennedy administration to the war. This last section is covered more fully in other books in the series, and as a survivor of Bob Brigham's Vietnam War history class, I can say that the Indo-China War and political developments in Vietnam are covered in a comprehensive and balanced way. Another great addition to the series.

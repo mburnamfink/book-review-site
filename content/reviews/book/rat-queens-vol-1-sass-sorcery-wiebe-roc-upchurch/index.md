@@ -26,4 +26,4 @@ type: book
 
 *Rat Queens* mixes the tropes of a Dungeons & Dragons adventure (fighter, wizard, cleric, thief, adventurer's guild, quests, etc) through a kind of post-modern party girl aesthetic.  The Rat Queens are four adventurers, who in between drunken riots in town, kill orcs and trolls, face down assassins, and deal with the distant disappointment of their respective families.
 
-This volume is style over substance, jump cuts and actions scenes held together with a dash of character tape, but it is damn stylish, and a good representation of the "best of" table talk of a good D&D session.
+This volume is style over substance, jump cuts and action scenes held together with a dash of character tape, but it is damn stylish, and a good representation of the "best of" table talk of a good D&D session.

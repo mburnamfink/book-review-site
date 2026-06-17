@@ -30,8 +30,8 @@ title: Half a War
 type: audiobook
 ---
 
-*Half a War* closes out the series with appropriate fireworks. The High King and Grandmother Wexen's alliance has fallen upon Yarvi's pitiful allies, lead by a fearsome warrior named Bright Ylling who worships death. He sacks the home of Princess Skara, leaving her refugee, orphan, and queen without a realm. Skara must use all of her training to stand between Grom-gil-Gorm and King Uthil, two proud warriors who barely tolerate each other. Behind all of this is Father Yarvi, spinning various schemes of revenge and victory.
+*Half a War* closes out the series with appropriate fireworks. The High King and Grandmother Wexen's alliance has fallen upon Yarvi's pitiful allies, led by a fearsome warrior named Bright Ylling who worships death. He sacks the home of Princess Skara, leaving her a refugee, orphan, and queen without a realm. Skara must use all of her training to stand between Grom-gil-Gorm and King Uthil, two proud warriors who barely tolerate each other. Behind all of this is Father Yarvi, spinning various schemes of revenge and victory.
 
 Our other two viewpoints are Raith, cup-bearer to Grom-gil-Gorm, who is assigned as Skara's sworn shield, and Koll. Raith is a lot like Thorn from the second book, but even less moral. He's a vicious dog of a warrior who'll take any advantage, and who discovers the quality of mercy. Koll is clever but unsure of himself, trying to find a way to use knowledge for good in a setting where most things are used for destruction.
 
-There's sieges, battles, duels, and the deployment of "magic" weapons retrieved from before the apocalypse. Lots of action, lots of intrigue, lots of spinning plates, and a satisfying conclusion to the series.
+There are sieges, battles, duels, and the deployment of "magic" weapons retrieved from before the apocalypse. Lots of action, lots of intrigue, lots of spinning plates, and a satisfying conclusion to the series.

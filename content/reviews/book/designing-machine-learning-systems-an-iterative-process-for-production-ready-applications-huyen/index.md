@@ -26,8 +26,8 @@ Unfortunately, the company is going to need you to keep doing that every single 
 
 Deploying and maintaining models in production is machine learning engineering and operations, and it is in fact pretty hard. *Designing Machine Learning Systems* is a solid introduction about how to go from ad hoc data science to continual learning with machine learning engineering and operations.
 
-The first and foremost issue is one of data shifts. The data coming into any system is continuously evolving, and entropy means that changes are away from the data that the model was trained on. This means that a useful ML product has to be constantly retrained and redeployed, even in the absence of 
+The first and foremost issue is one of data shifts. The data coming into any system is continuously evolving, and entropy means that changes are away from the data that the model was trained on. even in the absence of [dropped text]
 
-The second issue is that platforms and tooling for doing this is apparently not great. Code versioning via Git is solid. Model versioning via some kind of artifact store is okay, but varies via company. Data versioning is likely bad, requiring painstaking reconstruction from a data swamp (like a data lake, but full of sludge). And the totality of being able to maintain a consistent workflow around code, data, models, and compute is basically non-existent. 
+The second issue is that platforms and tooling for doing this are apparently not great. Code versioning via Git is solid. Model versioning via some kind of artifact store is okay, but varies via company. Data versioning is likely bad, requiring painstaking reconstruction from a data swamp (like a data lake, but full of sludge). And the totality of being able to maintain a consistent workflow around code, data, models, and compute is basically non-existent. 
 
 This book has a lot of good questions to ask and targets to aim for, especially in the later chapters (I found the first five or so chapters very basic), but fewer good answers, particularly around the key questions of what metrics to monitor and when to refresh models.  I guess this is why they pay us.

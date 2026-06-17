@@ -21,4 +21,4 @@ title: 'Volta: Science and Culture in the Age of Enlightenment'
 type: book
 ---
 
-This book is pretty much what it says on the cover, a biography of Alessandro Volta, inventor of the battery, as well as an exploration of the Enlightment through his life and times.  A great book for anyone interested in early batteries, or Italian natural philosophers, but Volta was in many way a peripheral figure in the Enlightenment.  Some interesting theory about the use of science in diplomacy, to project power and prestige, but there are probably more fun sources elsewhere.
+This book is pretty much what it says on the cover, a biography of Alessandro Volta, inventor of the battery, as well as an exploration of the Enlightenment through his life and times.  A great book for anyone interested in early batteries, or Italian natural philosophers, but Volta was in many ways a peripheral figure in the Enlightenment.  Some interesting theories about the use of science in diplomacy, to project power and prestige, but there are probably more fun sources elsewhere.

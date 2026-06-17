@@ -25,4 +25,4 @@ type: book
 
 Sent to Korea in November of 1952, Lt Brady faced a bloody, static war more remiscint of World War I than anything else.  Americans and Chinese faced off across frozen mountains, where artillery made it too dangerous to move by daylight. In this war, men died by dribs and drabs, in raids, shellings, and accidents.  There was no strategy, just a slow grinding of privates and platoon leaders against the communist adversaries. 
 
-Brady went onto to make a living as a novelist, and it shows in the precisely written descriptions of characters, terrain, and combat. A truly amazing story.
+Brady went on to make a living as a novelist, and it shows in the precisely written descriptions of characters, terrain, and combat. A truly amazing story.

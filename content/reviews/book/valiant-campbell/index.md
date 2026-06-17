@@ -25,4 +25,4 @@ type: book
 
 You know the drill. Still *Lost Fleet*, still good.
 
-Fewer battles in *Valiant*, as Geary returns to a Lakota system that's taken more of a pounding than he thought. However, the fleet is a mess, with an unknown saboteur introducing deadly computer viruses into systems, and more hard fights against the Syndic enemy.  The political situation is getting more and more fraught, but home is little more than a dim light in the distance.
+Fewer battles in *Valiant*, as Geary returns to the Lakota system that's taken more of a pounding than he thought. However, the fleet is a mess, with an unknown saboteur introducing deadly computer viruses into systems, and more hard fights against the Syndic enemy.  The political situation is getting more and more fraught, but home is little more than a dim light in the distance.

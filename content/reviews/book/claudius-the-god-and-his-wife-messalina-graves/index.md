@@ -21,4 +21,4 @@ title: Claudius the God and His Wife Messalina
 type: book
 ---
 
-While *Claudius the God* has a lot of charm, its definitely a step down from *I, Claudius.* The bumbling virtuous survivor from the first book has grown into an a clever and able administrator, but one that can't stave off the inevitable corruption of Empire.
+While *Claudius the God* has a lot of charm, it's definitely a step down from *I, Claudius.* The bumbling virtuous survivor from the first book has grown into a clever and able administrator, but one that can't stave off the inevitable corruption of Empire.

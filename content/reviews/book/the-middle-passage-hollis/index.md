@@ -23,10 +23,10 @@ title: 'The Middle Passage: From Misery to Meaning in Midlife'
 type: book
 ---
 
-*The Middle Passage* is a Jungian analysis of midlife angst. Hollis frames the initial part of adulthood as in fact an extended childhood, a heroic journey into careers, marriage, family, and other achievements. This path is based on fundamentally illusory premises, and its no wonder that there is nothing at then end.  People who've reach its limits find an interior depression and exterior chaos: quitting stable jobs, starting affairs, and other ill-conceived life choices.  This pain is the sign that real adulthood approaches.
+*The Middle Passage* is a Jungian analysis of midlife angst. Hollis frames the initial part of adulthood as in fact an extended childhood, a heroic journey into careers, marriage, family, and other achievements. This path is based on fundamentally illusory premises, and it's no wonder that there is nothing at the end.  People who've reached its limits find an interior depression and exterior chaos: quitting stable jobs, starting affairs, and other ill-conceived life choices.  This pain is the sign that real adulthood approaches.
 
 Hollis admonishes again and again to sit with solitude and the question "What do *I* really want?"  Not what our parents and society expect us to desire, not the diversions and escapes and balms from pain, but actual soul deep authentic desire, what Jung called the Shadow.
 
-The Shadow is not evil, but is fundamentally what we fear and repress, and also where the wellspring of creativity of power lie. The middle passage is about connecting with the Shadow, and finding true meaning on the other side.
+The Shadow is not evil, but is fundamentally what we fear and repress, and also where the wellspring of creativity of power lies. The middle passage is about connecting with the Shadow, and finding true meaning on the other side.
 
 Hollis writes beautifully. I underlined a sentence on nearly every page of this book. As for actually implementing it? We'll see.

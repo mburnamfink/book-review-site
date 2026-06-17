@@ -21,4 +21,4 @@ title: I, Claudius
 type: book
 ---
 
-A classic of historical fiction. I did't love this book as much as many others do, but it's impossible to deny its greatness.
+A classic of historical fiction. I didn't love this book as much as many others do, but it's impossible to deny its greatness.

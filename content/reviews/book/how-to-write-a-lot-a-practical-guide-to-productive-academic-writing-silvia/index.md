@@ -20,6 +20,6 @@ title: 'How to Write a Lot: A Practical Guide to Productive Academic Writing'
 type: book
 ---
 
-There secret to writing is that there isn't one. To write, you need to sit down, make time, and do it.
+There is no secret to writing is that there isn't one. To write, you need to sit down, make time, and do it.
 
 The difference between Silva and Sgt. Slaughter (the imaginary Marine DI who lurks around my dissertation) is that Silva backs up this statement with practical, peer reviewed advice on how to turn writing into a habit. I'm not sure if this blessed short book is the magic bullet, but hell, it seems reasonable enough. The first thing to conquer is fear, then laziness, then the writing itself...

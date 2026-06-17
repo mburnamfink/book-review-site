@@ -19,9 +19,9 @@ title: The Vanished Birds
 type: book
 ---
 
-*The Spear Cuts Through Water* knocked my socks off, so I figured I'd try Jimenez's other book.  *The Vanished Birds* is a odd, digressive space opera focusing on longing, love, and loss.  We begin with a boy on an agricultural world defined by the every 15 year cycle of the interstellar trade fleet. Kaeda grows up and falls in love with a space captain, who's lives intersect for one night every 15 years. 
+*The Spear Cuts Through Water* knocked my socks off, so I figured I'd try Jimenez's other book.  *The Vanished Birds* is an odd, digressive space opera focusing on longing, love, and loss.  We begin with a boy on an agricultural world defined by the every 15 year cycle of the interstellar trade fleet. Kaeda grows up and falls in love with a space captain, whose lives intersect for one night every 15 years. 
 
-On the last round, when he's an old man, he hands off to the space captain a strange mute boy, who arrived naked in a fireball from the night sky.  We follow Nia and the boy on their ramshackle little freighter, and take another lengthy digression 1000 years in the past, to a dying Earth where advanced technology can not keep ahead of ecological disaster, where a ugly little girl, Fumiko, falls in love, and abandons her lover to pursue a job for a powerful and possessive conglomerate. Fumuko designs massive space stations which will save the lives of one billion people.
+On the last round, when he's an old man, he hands off to the space captain a strange mute boy, who arrived naked in a fireball from the night sky.  We follow Nia and the boy on their ramshackle little freighter, and take another lengthy digression 1000 years in the past, to a dying Earth where advanced technology can not keep ahead of ecological disaster, where an ugly little girl, Fumiko, falls in love, and abandons her lover to pursue a job for a powerful and possessive conglomerate. Fumiko designs massive space stations which will save the lives of one billion people.
 
 Shame about everyone else.
 

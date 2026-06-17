@@ -22,7 +22,7 @@ title: 'Snake Pilot: Flying the Cobra Attack Helicopter in Vietnam'
 type: book
 ---
 
-*Snake Pilot* is exactly what it says on the cover, a memoir of one year flying Cobras in Vietnam. Growing up outside Los Angeles, Zahn always want to fly. Air Force pilots were officers and gentlemen, which meant they had a college degree 19 year old Zahn had no patience to get, but the Army would put anybody in helicopters if they could make the cut.  Zahn was something of a natural, scoring in the top 10% of his training cohorts, which meant he got Cobras, and the 1st of the 9th, Air Cavalry.
+*Snake Pilot* is exactly what it says on the cover, a memoir of one year flying Cobras in Vietnam. Growing up outside Los Angeles, Zahn always wanted to fly. Air Force pilots were officers and gentlemen, which meant they had a college degree 19 year old Zahn had no patience to get, but the Army would put anybody in helicopters if they could make the cut.  Zahn was something of a natural, scoring in the top 10% of his training cohorts, which meant he got Cobras, and the 1st of the 9th, Air Cavalry.
 
 <!-- img: https://militarymachine.com/wp-content/uploads/2016/11/ah1g-012.jpg -->
 

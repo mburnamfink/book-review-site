@@ -19,7 +19,7 @@ title: In the Stacks
 type: book
 ---
 
-*In the Stacks* is high-concept fantasy novella let down by merely average execution. At the magical University of Hazar, the 5th year exam in returning a library book. What makes this challenging is that it's a magical library, a magical space full of monsters and traps, and librarians are more like D&D adventurers than bibliophiles and emergency social workers.
+*In the Stacks* is a high-concept fantasy novella let down by merely average execution. At the magical University of Hazar, the 5th year exam is in returning a library book. What makes this challenging is that it's a magical library, a magical space full of monsters and traps, and librarians are more like D&D adventurers than bibliophiles and emergency social workers.
 
 ![](./img-1.png)
 

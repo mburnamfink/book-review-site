@@ -23,4 +23,4 @@ title: Focus Group Practice
 type: book
 ---
 
-This is a theoretically ambitious, yet pragmatically grounded approach to conducting focus groups, gathering perspectives from marketing research and psychology to describe how best to manage focus groups.  This book is focused more towards marketing and mediating, rather than the social sciences and putting groups together, but it's well-written and very useful.
+This is a theoretically ambitious, yet pragmatically grounded approach to conducting focus groups, gathering perspectives from marketing research and psychology to describe how best to manage focus groups.  This book is focused more on marketing and mediating, rather than the social sciences and putting groups together, but it's well-written and very useful.

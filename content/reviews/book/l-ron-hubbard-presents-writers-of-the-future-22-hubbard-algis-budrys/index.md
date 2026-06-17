@@ -26,6 +26,6 @@ title: L. Ron Hubbard Presents Writers of the Future 22
 type: book
 ---
 
-"Best of" Collections are tricky beast. Writers of the Future has a mandate to focus on unpublished authors, which I appreciate, but this collection was a little bit of a dud. The stories were workmanlike, but only a few excited me and none blew me away. Traditional SF is a minority, with most of the collection devoted to fantasy (did we really need 2 'waifish deformed girls with magical powers at the shore stories?), horror, and religious (but not explicitly Scientologist) fiction.
+"Best of" Collections are tricky beasts. Writers of the Future has a mandate to focus on unpublished authors, which I appreciate, but this collection was a little bit of a dud. The stories were workmanlike, but only a few excited me and none blew me away. Traditional SF is a minority, with most of the collection devoted to fantasy (did we really need 2 'waifish deformed girls with magical powers at the shore stories?), horror, and religious (but not explicitly Scientologist) fiction.
 
 Not a bad book for people who like strange fiction, and since I got it for 50 cents at a used bookstore I'm happy, but far from vital either.

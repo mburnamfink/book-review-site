@@ -26,10 +26,10 @@ title: 'The Supreme Commander: The War Years of Dwight D. Eisenhower'
 type: book
 ---
 
-Ambrose made his reputation on Eisenhower. This hagiography reveals the paradoxes of supreme command.  While Eisenhower was vital to victory, he never commanded troops in battle. Nominally an apolitical soldier, his main task was maintaining the alliance against Nazi Germany, charting a middle course between domineering personalities like Montgomery, Patton, de Gaulle, and Churchill. The role of the supreme commander involved deciding when and where the battle should be fought, not when, and preparing the logistics, intelligence, and command structure necessary to win.
+Ambrose made his reputation on Eisenhower. This hagiography reveals the paradoxes of supreme command.  While Eisenhower was vital to victory, he never commanded troops in battle. Nominally an apolitical soldier, his main task was maintaining the alliance against Nazi Germany, charting a middle course between domineering personalities like Montgomery, Patton, de Gaulle, and Churchill. The role of the supreme commander involved deciding when and where the battle should be fought, not how, and preparing the logistics, intelligence, and command structure necessary to win.
 
 In one sense, Eisenhower's ultimate triumph is assured by history. He conquered. The road there was far from smooth. Eisenhower's first subcommander in North Africa, General Fredendall, proved incompetent. The Italian campaign turned into a grinding attritional slog that missed opportunities for comprehensive victory. Even in Western Europe, the final lines could have been drawn to better favor the Americans.
 
-As a commander, Eisenhower's greatest virtues were his optimism and his universalism. The one thing he would not stand were subordinates who acted in national interest, rather than the interests of the alliance. Yet a good manager is self-effacing, and this book is best when it draws from British Chief of Staff General Alan Brooke' memoirs, which salaciously depicted Brooke's personal assessment of key figures.
+As a commander, Eisenhower's greatest virtues were his optimism and his universalism. The one thing he would not stand was subordinates who acted in the national interest, rather than the interests of the alliance. Yet a good manager is self-effacing, and this book is best when it draws from British Chief of Staff General Alan Brooke's memoirs, which salaciously depicted Brooke's personal assessment of key figures.
 
-50 years on, Ambrose's early work has become the core conventional wisdom of Eisenhower's historical legacy. You probably should read them.
+50 years on, Ambrose's early work has become the core conventional wisdom of Eisenhower's historical legacy. You probably should read it.

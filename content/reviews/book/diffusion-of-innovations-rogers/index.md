@@ -21,4 +21,4 @@ title: Diffusion of Innovations
 type: book
 ---
 
-In both a theoretically detailed, and eminently readable book, Rogers explains how innovations spread and adopted across diverse populations.  Critical reading for anybody interested in why some technologies succeed, and others fail, and how new systems for communication, energy, etc, can be adopted.
+In both a theoretically detailed, and eminently readable book, Rogers explains how innovations spread and are adopted across diverse populations.  Critical reading for anybody interested in why some technologies succeed, and others fail, and how new systems for communication, energy, etc, can be adopted.

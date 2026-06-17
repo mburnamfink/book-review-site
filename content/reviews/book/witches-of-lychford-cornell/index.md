@@ -27,4 +27,4 @@ The town of Lychford seems like an ordinary English village on the surface, but 
 
 *fictional characters depicted etc etc*
 
-The mix of magical high-stakes and small town politics works wonderfully. Sovo, the adversary, of course isn't just about discount groceries and ongoing austerity. The corporation is the front for something larger, darker, and far more arcane.  The three women and their relationships and traumas are also wonderfully depicted.  The magic is, well, it's fine and sufficiently weird. Urban fantasy isn't really my thing, but this does enough new that I'm enjoying it.
+The mix of magical high-stakes and small town politics works wonderfully. Sovo, the adversary, of course isn't just about discount groceries and ongoing austerity. The corporation is the front for something larger, darker, and far more arcane.  The three women and their relationships and traumas are also wonderfully depicted.  The magic is, well, it's fine and sufficiently weird. Urban fantasy isn't really my thing, but this does enough new things that I'm enjoying it.

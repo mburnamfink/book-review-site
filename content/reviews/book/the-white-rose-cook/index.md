@@ -22,7 +22,7 @@ title: The White Rose
 type: book
 ---
 
-*The White Rose* is the most traditional Black Company so far.  Six years on from *Shadows Linger*, the Company has been reduced to a bodyguard for Darling, hiding in a secret base in the supremely strange Plain of Fear, a desert guarded by walking trees, talking rocks, poison reefs of land-coral, and flying whales.  Croaker is making little progress on the documents that might contain The Lady's true name when a series of mysterious letters arrive, describing the efforts of the sorcerer Bomansz over 150 years ago which freed The Lady and the other Taken.
+*The White Rose* is the most traditional Black Company so far.  Six years on from *Shadows Linger*, the Company has been reduced to a bodyguard for Darling, hiding in a secret base in the supremely strange Plain of Fear, a desert guarded by walking trees, talking rocks, poison reefs of land-coral, and flying whales.  Croaker is making little progress on the documents that might contain The Lady's true name when a series of mysterious letters arrives, describing the efforts of the sorcerer Bomansz over 150 years ago which freed The Lady and the other Taken.
 
 This launches Croaker and the Company's wizards into a journey to the Barrowlands, where a flooding river is set to free The Dominator, and a desperate alliance with The Lady. Various shades of grey unite against the pure evil of The Dominator and his super-strong and near unkillable agent in the world. 
 

@@ -21,7 +21,7 @@ title: 'Languishing: How to Feel Alive Again in a World That Wears Us Down'
 type: book
 ---
 
-*Languishing* presents an interesting framework for mental wellness, brought down a kind of gloss over the realm struggles that people face in their lives. Keyes is a professor of sociology who has focused his career on happiness and mental health not merely as the absence of diagnosable mental illnesses like depression, anxiety, schizophrenia, etc, but as a positive quality in and of itself.  The opposite of flourishing, of leading the good life, is languishing.
+*Languishing* presents an interesting framework for mental wellness, brought down a kind of gloss over the real struggles that people face in their lives. Keyes is a professor of sociology who has focused his career on happiness and mental health not merely as the absence of diagnosable mental illnesses like depression, anxiety, schizophrenia, etc, but as a positive quality in and of itself.  The opposite of flourishing, of leading the good life, is languishing.
 
 The first half of the book is devoted to alarming statistics about languishing, and how it is associated with worse outcomes across the lifespan, from teen suicide to broken marriages to listless careers and golden years cut prematurely short. There is some moderate crankiness about how anti-depressants don't really work (let's just say the biological underpinnings of mood are hard). Having thoroughly laid out the case for languishing as a problem, Keyes lays out his five "vitamins" for curing languishing.
 

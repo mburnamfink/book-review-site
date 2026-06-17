@@ -23,4 +23,4 @@ title: 'Prescribing by Numbers: Drugs and the Definition of Disease'
 type: book
 ---
 
-The definitive book on the development of drugs for chronic diseases and the creation of the modern pharmaceutical industry. Greene avoids rhetoric and rage to use deep archival researching showing the simultaneous development of new drugs, and new "pre-diseases" defined by numerical risk factors rather than symptoms.
+The definitive book on the development of drugs for chronic diseases and the creation of the modern pharmaceutical industry. Greene avoids rhetoric and rage to use deep archival research showing the simultaneous development of new drugs, and new "pre-diseases" defined by numerical risk factors rather than symptoms.

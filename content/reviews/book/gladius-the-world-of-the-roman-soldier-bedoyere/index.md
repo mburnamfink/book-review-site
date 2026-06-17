@@ -21,7 +21,7 @@ title: 'Gladius: The World of the Roman Soldier'
 type: book
 ---
 
-Gladius is an extensive, thematically organized look at the life of the Roman soldier, focusing on the long era Republican conquests around the Carthaginian Wars and the Christianization of the empire under Constantine.
+Gladius is an extensive, thematically organized look at the life of the Roman soldier, focusing on the long era of Republican conquests around the Carthaginian Wars and the Christianization of the empire under Constantine.
 
 Bédoyére draws from historical documents, archeological evidence, and primarily tomb inscriptions to depict a military world that was central to Roman society. After the Marian reforms, legionnaires were core parts of the administration of the empire, manning posts from lonely borders to dense trade hubs and doing everything that needed doing, not merely war.
 

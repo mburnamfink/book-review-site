@@ -28,4 +28,4 @@ type: book
 
 We all know the story of the Odyssey: Cyclops, Circe, Calaypso, ten years lost at sea among the mythic horrors of ancient Greece only to return home to a palace full of useless nobles trying to seduce your wife.  What I didn't realize was how small the classical tale was.  It seems most of the book is descriptions of Greek hospitality, of guest-rights and gifts, of repeated complaints of the suitors, and elaborately plotted revenge. 
 
-For what it's worth, Fagles is probably the best translation, one which manages to full capture the barbaric glory of the epic.  The front material, on the improvisational tradition of bardic poetry, and the historiographer debates over the Odyssey, are well worth the reader's time.
+For what it's worth, Fagles is probably the best translation, one which manages to fully capture the barbaric glory of the epic.  The front material, on the improvisational tradition of bardic poetry, and the historiographer debates over the Odyssey, are well worth the reader's time.

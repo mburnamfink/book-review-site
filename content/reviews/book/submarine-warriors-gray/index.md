@@ -21,6 +21,6 @@ title: Submarine Warriors
 type: book
 ---
 
-I read this book to try and gain insight into the mentality of submariners; men who would willingly enter steel tubes which might flood, implode, or fill with poison gas, even without enemy intervention. Or barring that, at least some insight into tactics, strategy, and technology. Ultimately, I was disappointed. Not that this is a bad book, but it's a series of after-action reports liberally sprinkled with exclamation points. I can't tell you anything more about submariners except that they require luck, courage, and nerves. The submarine sequences in *Cyptonomicon* were far more interesting.
+I read this book to try and gain insight into the mentality of submariners; men who would willingly enter steel tubes which might flood, implode, or fill with poison gas, even without enemy intervention. Or barring that, at least some insight into tactics, strategy, and technology. Ultimately, I was disappointed. Not that this is a bad book, but it's a series of after-action reports liberally sprinkled with exclamation points. I can't tell you anything more about submariners except that they require luck, courage, and nerves. The submarine sequences in *Cryptonomicon* were far more interesting.
 
 Well, not every book can be amazing.

@@ -35,8 +35,8 @@ To quote:
 
 4) Inertia: a tendency to maintain the status quo or adopt a default option when there is uncertainty about the benefits of investing in alternative protective measures.
 
-5) Simplification: a tendency to selective attend to only a subset of relevant factors when making choices involving risk.
+5) Simplification: a tendency to selectively attend to only a subset of relevant factors when making choices involving risk.
 
 6) Herding: a tendency to base choices on the observed actions of others.
 
-In this short volume (125 pages, including notes), they run through the biases and case studies, with a light breezy tone reminiscent of top level journalism rather than the bludgeoning of an academic paper. They suggest a process they deem a Behavioral Risk Audit to meet each of the biases head on. For example, low probability risks can be compared to driving in sunny and snowy conditions, or risk of a disaster can be stated over 25 years rather than annual. *The Ostrich Paradox* is a little light, but a great introduction to a new angle on risk assessment and management.
+In this short volume (125 pages, including notes), they run through the biases and case studies, with a light breezy tone reminiscent of top level journalism rather than the bludgeoning of an academic paper. They suggest a process they deem a Behavioral Risk Audit to meet each of the biases head on. For example, low probability risks can be compared to driving in sunny and snowy conditions, or risk of a disaster can be stated over 25 years rather than annually. *The Ostrich Paradox* is a little light, but a great introduction to a new angle on risk assessment and management.

@@ -23,4 +23,4 @@ title: Dispatches
 type: book
 ---
 
-Intense, hallucinogenic, truer than true, this is the story of a hard year in Vietnam by a very talented writer.  Michael Herr spent 1968 with the grunts, in Tet, at Khe Sanh, on China Beach. He spent it drinking in the bar of the the Continental Hotel, smoking dope in Saigon slums, sipping whiskey in bunkers by the light of parachute flares.  You can't read this book and not feel the madness, the glamour, the transfixing power of War, and the way it touched and and transformed the men who fought it.
+Intense, hallucinogenic, truer than true, this is the story of a hard year in Vietnam by a very talented writer.  Michael Herr spent 1968 with the grunts, in Tet, at Khe Sanh, on China Beach. He spent it drinking in the bar of the Continental Hotel, smoking dope in Saigon slums, sipping whiskey in bunkers by the light of parachute flares.  You can't read this book and not feel the madness, the glamour, the transfixing power of War, and the way it touched and transformed the men who fought it.

@@ -22,7 +22,7 @@ title: 'Untypical: How the World Isn’t Built for Autistic People and What We S
 type: book
 ---
 
-*Untypical* is a more grounded completement to Devon Price's *Unmasking Autism*. Wharmby is a British teacher who's later-in-life autism diagnosis prompted a lot of self-reflection, a career change to advocacy, and this book. He is very very upset about how he was treated and how his autistic colleagues are treated. This book is a sincere attempt to share his struggles and solutions.
+*Untypical* is a more grounded complement to Devon Price's *Unmasking Autism*. Wharmby is a British teacher whose later-in-life autism diagnosis prompted a lot of self-reflection, a career change to advocacy, and this book. He is very very upset about how he was treated and how his autistic colleagues are treated. This book is a sincere attempt to share his struggles and solutions.
 
 "What is autism?" is a big open question that doesn't have a definite answer. My summary of Wharmby's position is that it's a constellation of specific patterns, starting with sensory sensitivities, extending to the use of stimming behaviors and special interests to manage internal tension, and psychological overload and meltdown when it all becomes too much. Additionally, the unwritten rules of social interaction are opaque: small talk, flirting, staying a half-hour past clock-out time to show engagement at work, and so on. Difficulties with executive function and task switching are also common. The exact causes are unimportant, except to say that autism can't be "cured" and isn't caused by vaccines.
 

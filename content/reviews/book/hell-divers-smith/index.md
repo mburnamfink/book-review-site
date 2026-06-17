@@ -31,4 +31,4 @@ There are some real cool pieces to this novel.  Smith occasionally turns a fanta
 
 The characters are decent enough, but a little stock. X is a wounded badass with a decent heart.  Tin is an orphan with a talent for machines.  The Captain has the crew's best interests at heart, but she's dying. There's an obligatory rebel who doesn't understand the gravity of the situation. A lot of potential for story-telling is undermined by the essential decency and unity of the characters. They're all good people arrayed against a cruel universe, even the rebel.
 
-On final analysis, we read post-apocalyptic literature because it tells us something about *survival*, about who lives, what sacrifices are worse than death, and what grows in the ashes. *Hell Divers* is a roaring adventure, but doesn't have much to say to these questions.
+On final analysis, we read post-apocalyptic literature because it tells us something about *survival*, about who lives, what sacrifices are worse than death, and what grows in the ashes. *Hell Divers* is a roaring adventure, but it doesn't have much to say to these questions.

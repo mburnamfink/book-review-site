@@ -19,7 +19,7 @@ title: The Emotional Life of the Toddler
 type: book
 ---
 
-The thing about being the parent of a toddler is that there's clearly a lot going on in there, but also that so much of what's happening in your little guy is inaccessible.  Big feelings, but not a lot of ways to deal with it.  There is nothing more upset than a thwarted toddler, and they get thwarted so much.
+The thing about being the parent of a toddler is that there's clearly a lot going on in there, but also that so much of what's happening in your little guy is inaccessible.  Big feelings, but not a lot of ways to deal with it.  There is nothing more upsetting than a thwarted toddler, and they get thwarted so much.
 
 ![](./img-1.jpg)
 

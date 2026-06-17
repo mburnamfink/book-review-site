@@ -25,4 +25,4 @@ Becoming a mother is something that many women will do, and also one of the most
 
 Garbes uses her own pregnancy as a lens to understand the motherhood-industrial complex. The way that her body changed, the ways in which she was supported and let down by her medical partners, and the fraught experience of her friends.  Garbes has a day job as a journalist, which helps her make sense of the latest research about the physiological changes of pregnancy, and the importance of emotional support.
 
-The feminist lens is used to frame the subjectivity and multiplicity of pregnancy. There are few universes, except that this is a moment of supreme change. There will be joy, and sorrow, and expectations that cannot possibly be met, but the mother's needs should be central to the journey.
+The feminist lens is used to frame the subjectivity and multiplicity of pregnancy. There are few universals, except that this is a moment of supreme change. There will be joy, and sorrow, and expectations that cannot possibly be met, but the mother's needs should be central to the journey.

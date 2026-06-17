@@ -22,6 +22,6 @@ type: book
 
 Before he translated *The Three Body Problem* and started his own epic fantasy series with *The Grace of Kings*, Ken Liu wrote some short fiction.  I don't know what was left out, but what was included in this collection is a master finding his voice, with fifteen thoughtful and hard-hitting stories that span science-fiction, historical fiction, and fantasy. 
 
-Liu loops around similar themes and characters: the Asian-American experience, the hopes people hold for their children, and the memories they have for their parents, the power of the written word, atrocity and sacrifice. These are themes that deserve to be weighed, chewed over, glimpsed from many perspectives.  The confidence, the imagination, the subtly of these stories, make them a must-read for anybody following modern science-fiction.
+Liu loops around similar themes and characters: the Asian-American experience, the hopes people hold for their children, and the memories they have for their parents, the power of the written word, atrocity and sacrifice. These are themes that deserve to be weighed, chewed over, glimpsed from many perspectives.  The confidence, the imagination, the subtly of these stories, makes themem a must-read for anybody following modern science-fiction.
 
 Buy this book.

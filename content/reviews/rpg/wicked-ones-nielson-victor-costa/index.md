@@ -21,11 +21,11 @@ title: Wicked Ones
 type: rpg
 ---
 
-How many years have we been adventurers? Delving into darkness, slaying found fiends and retrieving treasure to increase our heroic power.  Sure, sometimes we might be more mercenary murderhobos than actual heroes, but roleplaying games are about adventure.  Well, not any more!
+How many years have we been adventurers? Delving into darkness, slaying fiends and retrieving treasure to increase our heroic power.  Sure, sometimes we might be more mercenary murderhobos than actual heroes, but roleplaying games are about adventure.  Well, not any more!
 
 ![](./img-1.jpg)
 
-*Wicked Ones* is a Forged in the Dark game about being the monsters. You are creatures of unusual ambition and intelligence, ruling over a dungeon populated by lesser minions and imps.  You argue, scheme, develop dark plans, and venture out onto the surface to raid and corrupt the forces of Light that are prevent you from fulfilling your monstrous destiny.  As your dungeon grows, you attract adventurers who murder their way towards your sanctum. But if you survive, you'll topple the whole region into chaos, claiming it for the forces of darkness.
+*Wicked Ones* is a Forged in the Dark game about being the monsters. You are creatures of unusual ambition and intelligence, ruling over a dungeon populated by lesser minions and imps.  You argue, scheme, develop dark plans, and venture out onto the surface to raid and corrupt the forces of Light that prevent you from fulfilling your monstrous destiny.  As your dungeon grows, you attract adventurers who murder their way towards your sanctum. But if you survive, you'll topple the whole region into chaos, claiming it for the forces of darkness.
 
 *Wicked Ones* gets a lot of points for the reverse dungeon concept, but it's also a really nicely tuned version of the FitD system. Monsters are resilient, so they clear stress and harm automatically.  There's a new level of consequence, Shocked, which imposes a penalty to the next roll using the relevant ability.  Downtime and the loot cycle have also been reworked to be more monstrous, and you can bank Dark Hearts to get bonus dice by playing into moments when your monstrous appetites harm you.  Resistance rolls have been reworked into a static cost.  In general, having read a fair number of FitD games, *Wicked Ones* is one of the better implementations of the system, a clear and stripped down FitD 1.5!
 

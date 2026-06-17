@@ -29,7 +29,7 @@ type: rpg
 
 But the star of the show is Grand Cross, a city set in a massive O'Neill habitat at Earth-Luna L5. Grand Cross is the new frontier, but it's controlled by exploitative and stupid corporations, full of criminal gangs and prejudiced goons, and facing a consequential election.  Rogue artificial intelligences lurk in the station's basements, and the cops are worse than useless. 
 
-The art is great, and there are dozens of locations, districts, and NPCs, all dripping with adventure hooks.  I have a couple of quibbles: the setting leans into "fans are slans" otaku references, which may not the be to everyone's taste.  And for a game which is so upfront about the need to build a political coalition to replace Cartel, and that doing this will require Cool Space Crime, there's not a lot of rules for doing so.
+The art is great, and there are dozens of locations, districts, and NPCs, all dripping with adventure hooks.  I have a couple of quibbles: the setting leans into "fans are slans" otaku references, which may not be to everyone's taste.  And for a game which is so upfront about the need to build a political coalition to replace Cartel, and that doing this will require Cool Space Crime, there aren't a lot of rules for doing so.
 
 And I'm a little harder on Goodreads than I am on Itch. While there's a lot of content, it's not actually diverse content. There's a parade of cool and helpful bar owners with geek T-shirts, and a carousel of greedy executives and brutal cops, but it's hard to say why you should use one NPC or place over another, a negative strike compared to *Blades in the Dark* where the NPC gangs all have unique agendas and districts have unique vibes.  
 

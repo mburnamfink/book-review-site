@@ -20,4 +20,4 @@ title: Old Man's War
 type: book
 ---
 
-*Old Man's War* is a perfect love-letter to *Starship Troopers.* Guy joins military, guy goes to basic, guy gives demo of advanced military hardware, guy fights aliens, guy learns valuable lesson about stuff.  What makes Scalzi perfect is the rather clever premise of making his protagonist a 75 year old man rather than pimply youth, avoiding the worst excesses of right-wing politics endemic to military sci-fi, and that Scalzi is just a great writer.  Damn, I wish I could string words together like Scalzi. If you haven't read this book, you need to.
+*Old Man's War* is a perfect love-letter to *Starship Troopers.* Guy joins military, guy goes to basic, guy gives demo of advanced military hardware, guy fights aliens, guy learns valuable lesson about stuff.  What makes Scalzi perfect is the rather clever premise of making his protagonist a 75 year old man rather than a pimply youth, avoiding the worst excesses of right-wing politics endemic to military sci-fi, and that Scalzi is just a great writer.  Damn, I wish I could string words together like Scalzi. If you haven't read this book, you need to.

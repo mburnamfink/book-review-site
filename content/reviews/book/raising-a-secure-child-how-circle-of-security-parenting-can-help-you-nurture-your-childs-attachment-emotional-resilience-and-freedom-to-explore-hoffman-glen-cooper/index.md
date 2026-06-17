@@ -32,7 +32,7 @@ title: 'Raising a Secure Child: How Circle of Security Parenting Can Help You Nu
 type: book
 ---
 
-Attachment theory is one of the more popular psychological frameworks, and one that I've got mixed feelings about. I've been inside the anxious-avoidant relationship collapse (it sucks), but the theory doesn't offer much to do, aside from recognizing that you're falling into maladaptive attachment patterns and break them.
+Attachment theory is one of the more popular psychological frameworks, and one that I've got mixed feelings about. I've been inside the anxious-avoidant relationship collapse (it sucks), but the theory doesn't offer much to do, aside from recognizing that you're falling into maladaptive attachment patterns and breaking them.
 
 *Raising a Secure Child*  has a slightly different set of terminology. The premise of the book is that children have a natural circle of security, moving from "support my exploration" to "enjoy with me" to "welcome my return" to "protect and comfort me" and "organize my feelings".  As a parent, your own upbringing has generated 'shark music' (ba-dum, ba-dum ba-dum-dum-dum-dum-DUM) around some aspect of life, one or more of the core safety triggers of Esteem, Safety, and Separation.  Your job is to work through your own history and daily exhaustion and find a way to give your child what they need in the moment.
 

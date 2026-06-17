@@ -37,4 +37,4 @@ type: book
 
 This book is like a brick-a dozen or so papers assembled by Adele Clarke and her old sociology reading group to explain and describe biomedicalization as a tool for theoretical critique. As a positive, if I were teaching a graduate seminar on the topic I might just assign this book. As a negative, two days after reading it, I can't even remember what biomedicalization is clearly enough to explain it to you.
 
-Sometimes things are too subtly.
+Sometimes things are too subtle.

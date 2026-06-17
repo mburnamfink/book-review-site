@@ -22,7 +22,7 @@ title: 'Black Snow: Curtis LeMay, the Firebombing of Tokyo, and the Road to the 
 type: book
 ---
 
-Scott has written a number of dadly WW2 histories. I own and read a few, and they are consistently solid.  *Black Snow* covers one of the more shameful moments in American military history; the campaign to obliterate Japan via firebombing during WW2.  
+Scott has written a number of deadly WW2 histories. I own and read a few, and they are consistently solid.  *Black Snow* covers one of the more shameful moments in American military history; the campaign to obliterate Japan via firebombing during WW2.  
 
 The B-29 was the single most expensive weapon project of the war, more expensive than the Manhattan project. A solid generation ahead of the B-17s and B-24s that had devastated Germany, the B-29 was designed for high-altitude precision bombing. However, these early missions had no effect, with the jet stream scattering bombs, weather cutting out raids, and many planes lost to Japanese air defenses and accidents.  The genial General Haywood Hansell, in charge of the operation, was wedded to doctrine and didn't have the guts to force a tactical change.  He was dismissed and replaced with Lemay, an iron-hard veteran of Europe and the fiasco of bombing from China.
 

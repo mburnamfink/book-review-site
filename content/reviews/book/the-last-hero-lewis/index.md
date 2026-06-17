@@ -21,6 +21,6 @@ title: The Last Hero
 type: book
 ---
 
-I extended a bridge of trust to the previous books in this series, which had good qualities and bad ones. *The Last Hero* repaid my trust in spades, as Lewis brings it all home in an explosive conclusion.  The forces of war and evil have never been stronger, as the worst elements among the Icarii, the Gaen theocracy, and the Aster underclass strive to land a final killing blow in their multisided war.  Meanwhile, our heroes have to navigate their weaknesses, their separation, and their love for each and for peace to find a solution before the whole blows up.
+I extended a bridge of trust to the previous books in this series, which had good qualities and bad ones. *The Last Hero* repaid my trust in spades, as Lewis brings it all home in an explosive conclusion.  The forces of war and evil have never been stronger, as the worst elements among the Icarii, the Gaen theocracy, and the Aster underclass strive to land a final killing blow in their multisided war.  Meanwhile, our heroes have to navigate their weaknesses, their separation, and their love for each other and for peace to find a solution before the whole blows up.
 
 This is a confident, assured finale that has grown into its own thing and understands how to use multiple points of view with aplomb. Bravo!

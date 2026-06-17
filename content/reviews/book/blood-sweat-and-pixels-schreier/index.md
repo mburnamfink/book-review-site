@@ -25,4 +25,4 @@ type: book
 
 It's weird that 35 years on from video games becoming more than just a toy for geeks, the process for making them is so chaotic and poorly understood. Worse, what makes a game good is an emergent property of many different systems, all of which could depend on the tiniest details, so problems don't emerge until the game is almost done.  And that doesn't even get into online games, which depend on thousands of real humans to make them work.
 
-Schreier's stories are interesting, but his ten case studies tend to blend together, aside from the indie studios behind Stardew Valley and Shovel Knight. Video games are big business, bigger than the movies these days, but we still don't seem to know to make them, aside from whipping programmers and artists.
+Schreier's stories are interesting, but his ten case studies tend to blend together, aside from the indie studios behind Stardew Valley and Shovel Knight. Video games are big business, bigger than the movies these days, but we still don't seem to know how to make them, aside from whipping programmers and artists.

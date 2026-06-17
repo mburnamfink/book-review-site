@@ -21,6 +21,6 @@ type: book
 
 Who really likes corporate HR training activities?  Not this guy. 
 
-This book has everything from awkward stereotype-based sensitivity exercise to awkward physical coordination and group dexterity exercises.  Admittedly, I believe that workplace issues and miscommunication are a matter of material differences between managers and employees, and reflect mutually incommensurate interests that can't be bridged by *any* hour long workshop, but even so, most of the exercises in this book feel needlessly obfuscatory, rather than representing any real task or process.
+This book has everything from awkward stereotype-based sensitivity exercises to awkward physical coordination and group dexterity exercises.  Admittedly, I believe that workplace issues and miscommunication are a matter of material differences between managers and employees, and reflect mutually incommensurate interests that can't be bridged by *any* hour long workshop, but even so, most of the exercises in this book feel needlessly obfuscatory, rather than representing any real task or process.
 
-Admittedly, if I ever need to run a training exercise now I can draw one from this book with out having to think about it, so there is that.
+Admittedly, if I ever need to run a training exercise now I can draw one from this book without having to think about it, so there is that.

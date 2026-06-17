@@ -23,4 +23,4 @@ title: The Devil in the White City
 type: book
 ---
 
-What a book! Larson delightfully mixes the grand achievement of the Columbian Exhibition of 1893 with the grasping ambition and dark underbelly of late 19th century Chicago, and one of it's most notorious residents-serial killer H.H Holmes.  Cliffhangers chapters keep you reading, and I was equally fascinated by the construction of the Expo and Holmes dark adventures in murder.
+What a book! Larson delightfully mixes the grand achievement of the Columbian Exhibition of 1893 with the grasping ambition and dark underbelly of late 19th century Chicago, and one of its most notorious residents-serial killer H.H Holmes.  Cliffhanger chapters keep you reading, and I was equally fascinated by the construction of the Expo and Holmes's dark adventures in murder.

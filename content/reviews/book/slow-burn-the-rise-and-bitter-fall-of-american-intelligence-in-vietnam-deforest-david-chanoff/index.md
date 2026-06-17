@@ -24,7 +24,7 @@ title: 'Slow Burn: The Rise and Bitter Fall of American Intelligence in Vietnam'
 type: book
 ---
 
-DeForest has a unique take on the Vietnam War, having run a very successful interrogation center for about five years.  Coming in to the country after the Tet offensive, DeForest found an intelligence operation in shamble, with no spies, a minimal list of suspects, worthless methods, and no intelligence.  This story chronicles how he worked against incompetence and resistance all around him to fix that.
+DeForest has a unique take on the Vietnam War, having run a very successful interrogation center for about five years.  Coming in to the country after the Tet offensive, DeForest found an intelligence operation in shambles, with no spies, a minimal list of suspects, worthless methods, and no intelligence.  This story chronicles how he worked against incompetence and resistance all around him to fix that.
 
 In his time in country, DeForest used the timetested principles of police work to penetrate the Vietcong and generate operational intelligence. Starting with friendly interrogations of defectors, he developed a massive databank of rumors and background information about the Vietcong, which allowed him to target 'legal' cadres living under a civilian cover, and then press on their family obligations to get them to turn against the Vietcong.  From this base, he was able to develop a handful of top level spies who provided precise intelligence for airstrikes and countering future attacks.
 

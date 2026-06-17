@@ -34,6 +34,6 @@ But really, why isn't there a Philosophy of Discworld?
 
 ****
 
-On a reread, I'm less impressed.  Having done a PhD in the interval, the faculty of the Unseen University are a lot less funny.  Another decade on more or less and we've found the Higgs boson, but otherwise the popular science writing is much the same. One weird thing is the equivocal take on climate change.  The science authors are of the opinion that climate has varied a lot over Deep Time (likely true), and that's varying now due to human industrial activity, but it's really not a big deal. Topics hit the usual pop science big ones: Why is there a universe as opposed to nothing? How did life emerge on a single ball of rock? And how does life evolve?  The treatments are okay, but nothing groundbreaking. 
+On a reread, I'm less impressed.  Having done a PhD in the interval, the faculty of the Unseen University are a lot less funny.  Another decade on more or less and we've found the Higgs boson, but otherwise the popular science writing is much the same. One weird thing is the equivocal take on climate change.  The science authors are of the opinion that climate has varied a lot over Deep Time (likely true), and that it's varying now due to human industrial activity, but it's really not a big deal. Topics hit the usual pop science big ones: Why is there a universe as opposed to nothing? How did life emerge on a single ball of rock? And how does life evolve?  The treatments are okay, but nothing groundbreaking. 
 
 And most tellingly, I completely forgot I'd already read this book.

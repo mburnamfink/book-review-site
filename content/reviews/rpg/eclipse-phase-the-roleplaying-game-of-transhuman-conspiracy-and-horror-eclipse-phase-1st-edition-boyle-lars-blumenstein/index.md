@@ -53,7 +53,7 @@ type: rpg
 
 Part of me loves the hell out of *Eclipse Phase*-the setting is freaking amazing transhumanist post-apocalyptic existential horror cyberpunk. 
 
-On the other hand, I have some problems.  The d100 system is... workable, I guess, but the skill list not particularly inspired, which is a problem given that you have to spend 700 of 1000 character points on it.
+On the other hand, I have some problems.  The d100 system is... workable, I guess, but the skill list is not particularly inspired, which is a problem given that you have to spend 700 of 1000 character points on it.
 
 For RPGs, a big question is always "what do you do?" Kill monsters and get treasure; lounge around being depressed and drinking blood, get screwed over by some corporate Mr. Smith douchehole. In *Eclipse Phase*, the default setting has you as agents of Firewall, a distributed intelligence agency/conspiracy that preserves transhumanity from existential threats. While I haven't read the GM guide, Firewall appears to send poorly equipped agents on suicide missions. Not much fun there.
 

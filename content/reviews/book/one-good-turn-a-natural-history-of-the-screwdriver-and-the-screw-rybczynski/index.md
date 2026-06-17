@@ -20,4 +20,4 @@ title: 'One Good Turn: A Natural History of the Screwdriver and the Screw'
 type: book
 ---
 
-Ryczynski had simple assignment: write a history of the most important tool of the last millennium.  But as with all simple assignments, it turned out to be far more complicated than expected.  Most hand tools are ancient in origin, and power tools too specialized to count as ‘the most important tool’. But every household has a drawer full of screwdrivers, and nobody seems to know where they come from.  “*One Good Turn*” is a quick and easy history.  Not particularly deep, but fun and very readable.
+Ryczynski had a simple assignment: write a history of the most important tool of the last millennium.  But as with all simple assignments, it turned out to be far more complicated than expected.  Most hand tools are ancient in origin, and power tools are too specialized to count as ‘the most important tool’. But every household has a drawer full of screwdrivers, and nobody seems to know where they come from.  “*One Good Turn*” is a quick and easy history.  Not particularly deep, but fun and very readable.

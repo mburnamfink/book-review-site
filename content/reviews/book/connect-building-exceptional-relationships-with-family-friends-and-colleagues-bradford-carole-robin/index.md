@@ -22,7 +22,7 @@ title: 'Connect: Building Exceptional Relationships with Family, Friends, and Co
 type: book
 ---
 
-I came into Connect thinking "This is really powerful. This is really good."  I came out of it wondering what exactly I'd learned. Robin and Bradford are two of the minds behind one of the most popular courses at the Stanford Business School, Interpersonal Dynamics, loving referred to as "touchy-feely". 
+I came into Connect thinking "This is really powerful. This is really good."  I came out of it wondering what exactly I'd learned. Robin and Bradford are two of the minds behind one of the most popular courses at the Stanford Business School, Interpersonal Dynamics, lovingly referred to as "touchy-feely". 
 
 The idea is that a lot of relationships we have are shallow and not particularly satisfying. We can have better ones by being authentic, vulnerable, and not making assumptions about what other people are feeling.  The examples, using both invented dialog and the author's experiences, are quite good.  Issues include being talked over at work, marriages that are floundering on changes in career and parenting, aging parents who prefer solutions to emotional openness, and friendships that are on the rocks due to life changes.  
 

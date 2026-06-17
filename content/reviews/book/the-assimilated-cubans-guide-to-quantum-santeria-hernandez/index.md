@@ -20,4 +20,4 @@ title: The Assimilated Cuban's Guide to Quantum Santeria
 type: book
 ---
 
-The name alone was enough to sell me on this collection. And it's pretty much exactly what it says on the cover, a collection of slipstreamish scifi from a American-Cuban perspective. One story is set on a space station, two concern a neural cybernetic implant, but the main thrust is people, their passions, and their souls, in a world much like our but a little more vivid. Hernandez plays with the stereotypes of Cubans and the culture of machismo, while also having his characters be physicists, mathematicians, investigative reporters.
+The name alone was enough to sell me on this collection. And it's pretty much exactly what it says on the cover, a collection of slipstreamish scifi from an American-Cuban perspective. One story is set on a space station, two concern a neural cybernetic implant, but the main thrust is people, their passions, and their souls, in a world much like ours but a little more vivid. Hernandez plays with the stereotypes of Cubans and the culture of machismo, while also having his characters be physicists, mathematicians, investigative reporters.

@@ -21,4 +21,4 @@ title: 'Atlantic: Great Sea Battles, Heroic Discoveries, Titanic Storms & a Vast
 type: book
 ---
 
-Winchester's *The Perfectionists* is one of my favorite books of the year.  Unfortunately, *Atlantic* has all of the enthusiasm and little of the charm, being a scattered collection of anecdotes about the ocean, vaguely structured around Shakespear's seven ages of man. It's best as a travelogue, with Winchester accounting all the wild place he's being along the Atlantic coast, from Patagonia to the African desert to Greenland fjords, but even then, this book is hampered by tiny pictures and scattershot connections.
+Winchester's *The Perfectionists* is one of my favorite books of the year.  Unfortunately, *Atlantic* has all of the enthusiasm and little of the charm, being a scattered collection of anecdotes about the ocean, vaguely structured around Shakespear's seven ages of man. It's best as a travelogue, with Winchester accounting all the wild places he's been along the Atlantic coast, from Patagonia to the African desert to Greenland fjords, but even then, this book is hampered by tiny pictures and scattershot connections.

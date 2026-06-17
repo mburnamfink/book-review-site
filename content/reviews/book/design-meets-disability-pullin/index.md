@@ -20,4 +20,4 @@ title: Design Meets Disability
 type: book
 ---
 
-Honestly, it's hard for me to evaluate this book since I am neither a designer nor a person with disabilities. What I can say is that it presents a fresh, punky attitude towards disabilities and assistive technologies, arguing that anything used by person more or less constantly (hearing aid, wheelchair, artificial limb...) must be not just effective in a medical/engineering sense, but also pleasurable and expressive. The book is glossy, a  little unbalanced, a manifesto rather than a plan, but it's provocative and very fun.
+Honestly, it's hard for me to evaluate this book since I am neither a designer nor a person with disabilities. What I can say is that it presents a fresh, punky attitude towards disabilities and assistive technologies, arguing that anything used by a person more or less constantly (hearing aid, wheelchair, artificial limb...) must be not just effective in a medical/engineering sense, but also pleasurable and expressive. The book is glossy, a  little unbalanced, a manifesto rather than a plan, but it's provocative and very fun.

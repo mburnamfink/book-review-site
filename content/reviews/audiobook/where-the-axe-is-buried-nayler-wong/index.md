@@ -36,7 +36,7 @@ The story follows three main characters, and a few secondary ones. Lilia is a br
 
 Nurlan is a parliamentary staffer in an unnamed Republic on the fringes of both Europe and Russia (Georgia, perhaps?)  His parliament is under siege from protestors outraged at the PM's rapid increases in energy prices.
 
-Nikolai is the President's personal doctor, maintaining the immortal ruler's continuity as he goes another death and rebirth, and trying to deal his moral compromises at the center of the security state. 
+Nikolai is the President's personal doctor, maintaining the immortal ruler's continuity as he goes through another death and rebirth, and trying to deal with his moral compromises at the center of the security state. 
 
 Zoya and Palmer are secondary characters. Zoya is the last dissident, exiled to the Siberian taiga. Her book *The Endless Argument* frames the politics of this novel. Palmer is Lilia's British boyfriend, an ordinary bloke trying to figure out what happened to his girlfriend, starting with if Lilia is even alive behind the Iron Firewall.
 

@@ -27,7 +27,7 @@ title: 'Ernie''s War: The Best of Ernie Pyle''s World War II Dispatches'
 type: book
 ---
 
-Ernie Pyle is the doyen of war correspondents, the poet of the infantry, a delightful and engaging friend. Everybody read Ernie's columns during the war, as he provided an honest on-the-ground look at the men who made up America's army. Ernie shared their dangers and hardships, sleeping rough, dodging bullets and shells while being drawn inexorably towards the front. This quest for the truest, closest picture of the war is what makes Pyle great, and also what got him killed in the invasion of Okinawa.  This book is like having a incredibly observant and empathetic friend writing letters home, and should be required reading for student of WW2.
+Ernie Pyle is the doyen of war correspondents, the poet of the infantry, a delightful and engaging friend. Everybody read Ernie's columns during the war, as he provided an honest on-the-ground look at the men who made up America's army. Ernie shared their dangers and hardships, sleeping rough, dodging bullets and shells while being drawn inexorably towards the front. This quest for the truest, closest picture of the war is what makes Pyle great, and also what got him killed in the invasion of Okinawa.  This book is like having an incredibly observant and empathetic friend writing letters home, and should be required reading for students of WW2.
 
 Let me close with a few quotes that sum up Pyle's work.
 

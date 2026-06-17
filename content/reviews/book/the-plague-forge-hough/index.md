@@ -22,6 +22,6 @@ title: The Plague Forge
 type: book
 ---
 
-Ah, the end of a trilogy, with spoilers ahead. The good news is that things happen, mysteries are resolved, the heroes win, and all sorts of good things happen. With higher stakes, I actually started caring about the action scenes again. The bad news is that the big reveal is not all that great. SUBS, the purge, the alien artifacts, all of them are revealed to by a test administered by immense machines trying to find a biological species capable of breaking through an even more insane series of death traps created by yet another vanished alien species.
+Ah, the end of a trilogy, with spoilers ahead. The good news is that things happen, mysteries are resolved, the heroes win, and all sorts of good things happen. With higher stakes, I actually started caring about the action scenes again. The bad news is that the big reveal is not all that great. SUBS, the purge, the alien artifacts, all of them are revealed to be a test administered by immense machines trying to find a biological species capable of breaking through an even more insane series of death traps created by yet another vanished alien species.
 
 I'd have been happier stopping with the first one :(

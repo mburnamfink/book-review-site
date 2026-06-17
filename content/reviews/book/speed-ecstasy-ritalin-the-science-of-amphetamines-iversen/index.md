@@ -21,4 +21,4 @@ title: 'Speed, Ecstasy, Ritalin: The Science of Amphetamines'
 type: book
 ---
 
-A solid, well-research, and very readable review of the history of amphetamines from a pharmacological perspective. Iverson covers their differences in structure and mechanisms of action, before delving into their use as diet drugs, anti-depressants, for ADHD, enhancement in sport, and illegal activity. Each of the chapters is rather light, a summary of a complex topic rather than the final word, but there are plenty of references to primary sources for the scholar who wants to go deeper.
+A solid, well-researched, and very readable review of the history of amphetamines from a pharmacological perspective. Iverson covers their differences in structure and mechanisms of action, before delving into their use as diet drugs, anti-depressants, for ADHD, enhancement in sport, and illegal activity. Each of the chapters is rather light, a summary of a complex topic rather than the final word, but there are plenty of references to primary sources for the scholar who wants to go deeper.
