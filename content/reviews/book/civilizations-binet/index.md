@@ -29,7 +29,7 @@ type: book
 
 40 years late5, the historical Inca civil war between Atahualpa and Huascar ends very differently. In our timeline, Atahualpa won a bloody victory and then was ambushed, captured, and killed by Pizarro. In this timeline, he flees to Cuba where he discovers the wrecks of Columbus' ships. He constructs new caravels and heads into the rising sun.
 
-Weeks later, fewer than 200 Incas sail into Seville, recently devastated by an earthquake. Europe doesn't know what to make of this strange visitors, and with no way back, Atahualpa takes the Holy Roman Emperor Charles V prisoner and holds Europe in the balance. 
+Weeks later, fewer than 200 Incas sail into Lisbon, recently devastated by an earthquake. Europe doesn't know what to make of this strange visitors, and with no way back, Atahualpa takes the Holy Roman Emperor Charles V prisoner and holds Europe in the balance. 
 
 The Inca successful navigates the viper pit of European politics, outmaneuvering nobles, mollifying the peasantry with a replacement of taxes with the Incan corvee labor system, and cutting the Gordian knot of the Protestant Reformation with the obvious clarity of Sun worship and religious freedom.  My favorite part of the book was a gloss on Luther's 95 Theses, where a second set of theses noting that Sun worship is obvious and simple and Christianity is just a confused and debased version is nailed to a church's door.
 
