@@ -20,7 +20,7 @@ title: The Sentence
 type: book
 ---
 
-The Sentence is a book about a lot of things, mostly about somehow getting through 2020 without dying. You remember 2020, right? There was that COVID-19 pandemic, the Black Lives Matter protests, an election.
+*The Sentence* is a book about a lot of things, mostly about somehow getting through 2020 without dying. You remember 2020, right? There was that COVID-19 pandemic, the Black Lives Matter protests, an election.
 
 Tookie, our narrator is an Indian woman with a checkered past who works at a Minneapolis bookstore a lot like the real Birchbark Books owed and operated by Erdich. The checkered past is a criminal record, capped off by stealing a corpse and drug traffic (it's complex). But that was all in the past, and these days she's married to the cop who arrested her (also complex), works at a bookstore, and mostly holds the pieces of her life together.
 

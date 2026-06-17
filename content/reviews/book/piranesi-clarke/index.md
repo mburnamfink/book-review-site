@@ -21,7 +21,7 @@ type: book
 
 I'll admit I held off on *Piranesi* because I was mixed on *Johnathan Strange and Mr. Norrell*, which was imaginative, but long and alienating. This was a mistake. *Piranesi* is an absolute joy. 
 
-Our narrator lives in a Great House, an infinite labyrinth of cyclopean rooms and corridors, massive marble statues, lower chambers flooded with tides, airy upper chambers full of clouds and mist.  The House provides for him with fish and seaweed and fresh water, and he records its events and wonders dutifully in his journal.  Our narrator knows that Piranesi is not his name, but it's what the only other living person in the world calls him, a well-dressed man the narrator calls the Other, who is searching for some lost and ancient wisdom.
+Our narrator lives in a Great House, an infinite labyrinth of cyclopean rooms and corridors, massive marble statues, lower chambers flooded with tides, airy upper chambers full of clouds and mist.  The House provides for him with fish and seaweed and fresh water, and he records its events and wonders dutifully in his journal.  Our narrator knows that *Piranesi* is not his name, but it's what the only other living person in the world calls him, a well-dressed man the narrator calls the Other, who is searching for some lost and ancient wisdom.
 
 ![](./img-1.jpg)
 

@@ -20,7 +20,7 @@ title: 'Lenin''s Tomb: The Last Days of the Soviet Empire'
 type: book
 ---
 
-Lenin's Tomb is an eyewitness account of the end of the Soviet Union, from a Washington Post reporter who was there. As a journalistic account, it's history's first draft, and is strongest mostly in how it encounters the ordinary (and sometimes extraordinary) Soviet citizen.
+*Lenin's Tomb* is an eyewitness account of the end of the Soviet Union, from a Washington Post reporter who was there. As a journalistic account, it's history's first draft, and is strongest mostly in how it encounters the ordinary (and sometimes extraordinary) Soviet citizen.
 
 The USSR in the late 80s was beset on all sides. Resnick begins with the ideological, the growing awareness of how truly atrocious Stalin was, and how everything that everyone was taught in schools and required to believe was a lie. A handful of renegade historians and activists began simply compiling the names of the dead and disappeared, tens of millions of people executed or exiled to the Gulags to die in the name of state terror.  Every family had its own story, the fathers arrested and vanished, the neighbors gone one day and never returned, and no one was allowed to say so openly. An empire runs on myth, and the myth of the Soviet Union was the first thing to crack under perestroika.
 

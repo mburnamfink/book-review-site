@@ -19,7 +19,7 @@ title: The Arsonists' City
 type: book
 ---
 
-The Arsonists' City is a fine entry in the modern literary genre of "I'm an immigrant and my mother is CRAZY".  The Nasr family are 60ish mom Mazna and dad Idris, and three kids Ava, Mimi, and Naj.  The grandfather has died, and Idris has decided to sell the family home back in Beirut, which for complex reasons requires that the family reunited, with all of their old fights, tensions, and unresolved secrets.
+*The Arsonists' City* is a fine entry in the modern literary genre of "I'm an immigrant and my mother is CRAZY".  The Nasr family are 60ish mom Mazna and dad Idris, and three kids Ava, Mimi, and Naj.  The grandfather has died, and Idris has decided to sell the family home back in Beirut, which for complex reasons requires that the family reunited, with all of their old fights, tensions, and unresolved secrets.
 
 All of them are carrying something. We start with Ava, the eldest daughter, a microbiologist who lives in New York with her husband Nate (scion of an old WASP family) and their two kids. Ava suspects Nate is having an affair with a coworker, and reluctantly goes under arm-twisting from her mother.  
 

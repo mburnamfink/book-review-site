@@ -21,9 +21,9 @@ title: 'Getting Things Done: The Art of Stress-Free Productivity'
 type: book
 ---
 
-Who among does not have trouble Getting Things Done? I'm conflicted about this book.  The core advice is solid, but the follow-through to the hard parts is often skimpy.
+Who among does not have trouble *Getting Things Done*? I'm conflicted about this book.  The core advice is solid, but the follow-through to the hard parts is often skimpy.
 
-The goal of Getting Things Done is a productivity flow state, or what Bruce Lee called a "mind like water".  Allen's insight is based around the cognitive-psych wisdom that working memory is a very limited resource, and that anything you have on your mind, even minor stuff like a mental to-do list or inbox, is taking up resources that should be used to make important executive decisions; you are after all an important business executive, right?
+The goal of *Getting Things Done* is a productivity flow state, or what Bruce Lee called a "mind like water".  Allen's insight is based around the cognitive-psych wisdom that working memory is a very limited resource, and that anything you have on your mind, even minor stuff like a mental to-do list or inbox, is taking up resources that should be used to make important executive decisions; you are after all an important business executive, right?
 
 The first tool for doing this is a mental model of do-defer-delegate-delete.  Anything that hits your awareness should either be done immediately, if it can be done so, deferred or delegated to the right person or future block of time for a complex task, or  deleted.  Most things in the universe are spam. The second tool is a rigorous system of alphabetical folders, which should contain every pieces of paper in your life, and every piece of information similar to paper, especially emails.
 

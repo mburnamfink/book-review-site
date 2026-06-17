@@ -21,7 +21,7 @@ title: 'The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma
 type: book
 ---
 
-The Body Keeps the Score is an absolutely magisterial examination of the role of trauma in mental health, and the necessity of healing both body and mind. Van der Kolk has had a fascinating career, getting started in psychiatry treating Vietnam veterans with PTSD in the late 1970s, and then moving through the great pharmacological and neuro-imaging transformations of the following decades into advocacy of unconventional treatments for complex PTSD.
+*The Body Keeps the Score* is an absolutely magisterial examination of the role of trauma in mental health, and the necessity of healing both body and mind. Van der Kolk has had a fascinating career, getting started in psychiatry treating Vietnam veterans with PTSD in the late 1970s, and then moving through the great pharmacological and neuro-imaging transformations of the following decades into advocacy of unconventional treatments for complex PTSD.
 
 In van der Kolk's theory, being faced with annihilation creates longstanding neurological changes that trap a person in the moment of trauma, a permanently elevated stress response that has innumerable health and social consequences. The signs of trauma are many, and range from patterns of fMRI that indicate issues with speech and memory, to signature low levels of heart rate variability, to sunken body language. 
 

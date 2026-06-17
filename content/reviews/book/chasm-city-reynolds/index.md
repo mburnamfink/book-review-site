@@ -23,7 +23,7 @@ type: book
 
 *Chasm City* might be my favorite Reynolds. Here, he steps down from the cosmological stakes of *Revelation Space* to explore a classic noir revenge plot across three timelines.
 
-Tanner Mirabel is a security specialist aiming to finish one last job. His mistakes lead to the deaths of his employer Caheulla and Caheulla's wife Gitta at the hands of wealthy aristocrat Reivach. Reivach is fleeing the war-torn planet of Sky's Edge for the wealth and safety of Yellowstone, the capitol system of human space, which means that Tanner has to follow.
+Tanner Mirabel is a security specialist aiming to finish one last job. His mistakes led to the deaths of his employer Caheulla and Caheulla's wife Gitta at the hands of wealthy aristocrat Reivach. Reivach is fleeing the war-torn planet of Sky's Edge for the wealth and safety of Yellowstone, the capitol system of human space, which means that Tanner has to follow.
 
 After a classic action-packed escape from a space elevator cut by a nuclear bomb, Tanner awakens in orbit above Yellowstone and discovers several uncomfortable truths.  First, he's lost his memories. Second, he's dreaming of the mythical founder of Sky's Edge, Sky Hausmann, likely due to infection by an indoctrinal virus.  Third, Yellowstone is no longer a shining wonderland, but in the near-lightspeed transit time there, has been devastated by the nanotech Melding Plague.  But even with all that has changed, there's still the mission of revenge.
 

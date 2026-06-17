@@ -37,4 +37,4 @@ Knowing this is a trap, and knowing that he can trust no one and yet must keep t
 
 The writing is gorgeous, a sensuous journey through the varied terrain and the cultures of the conquered America.  The Shing are shifty, masterful, cold and deadly. Taoism appears again and again, both as text and subtext, and in one of the better insights, Le Guin describes how laws bar against the urges a society most feels in itself. The Shing forbid murder and permit everything else, a sign of the deep murderousness at the heart of their imperium.
 
-The first two books of this series were fine; nothing exceptional. City of Illusions redeems the whole series, like the sun breaking through clouds.
+The first two books of this series were fine; nothing exceptional. *City of Illusions* redeems the whole series, like the sun breaking through clouds.

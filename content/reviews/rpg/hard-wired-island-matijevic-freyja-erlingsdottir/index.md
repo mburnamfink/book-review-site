@@ -25,7 +25,7 @@ title: Hard Wired Island
 type: rpg
 ---
 
-Hard Wired Island is a game about being Gay Communist Cyberpunks... in SPAAACE!!!  The system has some nice features, with specialized rules for social situations, stealth, hacking, and combat based around "mood" environmental tags, and the quirk that you can't do the same combat action twice in a row. The burden/economic shock system is a great representation of being broke without having to run a budget (hard pass).
+*Hard Wired Island* is a game about being Gay Communist Cyberpunks... in SPAAACE!!!  The system has some nice features, with specialized rules for social situations, stealth, hacking, and combat based around "mood" environmental tags, and the quirk that you can't do the same combat action twice in a row. The burden/economic shock system is a great representation of being broke without having to run a budget (hard pass).
 
 But the star of the show is Grand Cross, a city set in a massive O'Neill habitat at Earth-Luna L5. Grand Cross is the new frontier, but it's controlled by exploitative and stupid corporations, full of criminal gangs and prejudiced goons, and facing a consequential election.  Rogue artificial intelligences lurk in the station's basements, and the cops are worse than useless. 
 

@@ -21,7 +21,7 @@ title: 'The Coldest War: A Memoir of Korea'
 type: book
 ---
 
-"Marine platoon leader memoir" is one of my favorite micro-genres of literature, and among stories of leadership, heroism, maturation, and fear, The Coldest War stands a cut above for its clarity, candor, and writing.  More Americans died in 3 years in Korea than in 10 years in Vietnam, and the war is still not officially over, yet most civilians are entirely ignorant of the conflict, let alone what it was like to serve in the coldest war.
+"Marine platoon leader memoir" is one of my favorite micro-genres of literature, and among stories of leadership, heroism, maturation, and fear, *The Coldest War* stands a cut above for its clarity, candor, and writing.  More Americans died in 3 years in Korea than in 10 years in Vietnam, and the war is still not officially over, yet most civilians are entirely ignorant of the conflict, let alone what it was like to serve in the coldest war.
 
 Sent to Korea in November of 1952, Lt Brady faced a bloody, static war more remiscint of World War I than anything else.  Americans and Chinese faced off across frozen mountains, where artillery made it too dangerous to move by daylight. In this war, men died by dribs and drabs, in raids, shellings, and accidents.  There was no strategy, just a slow grinding of privates and platoon leaders against the communist adversaries. 
 

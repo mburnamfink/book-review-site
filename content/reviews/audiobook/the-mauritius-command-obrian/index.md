@@ -26,7 +26,7 @@ title: The Mauritius Command
 type: audiobook
 ---
 
-The Mauritius Command changes up the Aubrey-Maturin formula by giving Captain Aubrey more than a frigate, though he does have the obligatory slow-sailing frigate to restore. This time, Aubrey is promoted to commodore, one of his greatest wishes, and has to deal with issues that cannot be solved by seamanship and personal presence.
+*The Mauritius Command* changes up the Aubrey-Maturin formula by giving Captain Aubrey more than a frigate, though he does have the obligatory slow-sailing frigate to restore. This time, Aubrey is promoted to commodore, one of his greatest wishes, and has to deal with issues that cannot be solved by seamanship and personal presence.
 
 The beginning of the book starts with the usual unhappy domestic scene. Jack is on half-pay which is not enough to support his newly expanded family, with wife, twin daughters, mother-in-law, and servants crammed into the small and damp Ashgrove cottage. He spends most of his time in his observatory, pretending to observe the moons of Jupiter for navigational purposes while really gazing at passing ships. Maturin arrives with secret orders to save the day, a mission to take the French colonies of Mauritius and La Reuniuon, where French privateers are playing havoc with the India trade.
 

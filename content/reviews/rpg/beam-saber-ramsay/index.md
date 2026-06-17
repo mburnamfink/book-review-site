@@ -20,7 +20,7 @@ title: Beam Saber
 type: rpg
 ---
 
-Beam Saber is a FitD game about mecha pilots embroiled in a multisided eternal war. It's a good game, but not a perfect one. First published in Feb 2019, two years after the paper release of Blades in the Dark, it has lots early Blades-hack cruft, and the new systems are not fully integrated.
+*Beam Saber* is a FitD game about mecha pilots embroiled in a multisided eternal war. It's a good game, but not a perfect one. First published in Feb 2019, two years after the paper release of *Blades in the Dark*, it has lots early Blades-hack cruft, and the new systems are not fully integrated.
 
 First the new. This is a game about mechs, Armored Walking Vehicles in the parlance of the setting, and along with the standard BitD actions, there are six more vehicle actions (Battle, Destroy, Maneuver, Bombard, Manipulate, Scan), and a system of vehicle quirks which are expended like Pilot stress. Drives are a new mechanic, two 4-segment clocks recording character ambitions. One or more full Drive clocks can be spent to permanently change the setting, or more boringly, negate harm/damage, make any roll an automatic 6, or provide a mega-assist to another pilot.  Drives represent a solid way to align the mechanics and fiction, and provide a crunchy reward once you get there.
 

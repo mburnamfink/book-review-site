@@ -20,7 +20,7 @@ title: 'The Art of Community: Seven Principles for Belonging'
 type: book
 ---
 
-The Art of Community offers a clear and efficient guideline of what a community is, how to build one, and what to watch out for. Vogl is an executive coach (sidenote: yuck), with a background in the Peace Corps, documentary filmmaker, organizer, Crossfit athlete, and has a Master's in Theology from Yale. In an era when so many people misuse community, this book is a strong baseline for what to do right. 
+*The Art of Community* offers a clear and efficient guideline of what a community is, how to build one, and what to watch out for. Vogl is an executive coach (sidenote: yuck), with a background in the Peace Corps, documentary filmmaker, organizer, Crossfit athlete, and has a Master's in Theology from Yale. In an era when so many people misuse community, this book is a strong baseline for what to do right. 
 
 Vogl's definition of community is "a group of people who share a mutual concern for one another's welfare". A community has shared values, a membership identity which help participants figure out who they are, how they should act, and what they believe.  Communities are also defined by their boundaries, and have moral prescriptions as well as elders who can help mediate who is in and out.
 

@@ -25,7 +25,7 @@ type: book
 
 *The Grayson, star of this book*
 
-Bell's overall picture is one of dedicated professionalism and endurance. "Condition Red" is the call for the ship to go to battle stations: guns manned, damage control parties on standby, and every eye searching the skies and seas for targets. For more than six months in the waters around Guadalcanal, the *Grayson* was on constant alert and frequent Condition Red, as it escorted convoys, swept the channels for the survivors of lost ships, fending off Japanese bombers, and conducted shore bombardment.
+Bell's overall picture is one of dedicated professionalism and endurance. "*Condition Red*" is the call for the ship to go to battle stations: guns manned, damage control parties on standby, and every eye searching the skies and seas for targets. For more than six months in the waters around Guadalcanal, the *Grayson* was on constant alert and frequent *Condition Red*, as it escorted convoys, swept the channels for the survivors of lost ships, fending off Japanese bombers, and conducted shore bombardment.
 
 Again and again, Bell applauds the crew of the Grayson as clever and dedicated men who do their duty under arduous circumstances, ready to go to battle at an instant. The basic message to the home front is "don't worry, and send more ammo!", your sons and husbands are surrounded by brave sailors, commanded by skill professionals, and supplied with every necessity. While the Grayson and its crew are the star, other US Navy ships, Marines, merchant sailors, and allies from the Netherlands and New Zeeland receive praise as well. 
 

@@ -20,4 +20,4 @@ title: Agent to the Stars
 type: book
 ---
 
-Agent to the Stars is a cute book, that's the only way to describe it. Kind, professional, sarcastic Hollywood agent Tom Stein gets the ultimate job, introducing a race of blob-like aliens to the world, while at the same time dealing with every egomaniac, diva, and paparazzi in LA.  The characterization is more charicaturization, but the plot pops and sizzles, and Scalzi is at his best taking wacky ideas and throwing them at the wall.  And hey, it's a free ebook, so what do you have to lose?
+*Agent to the Stars* is a cute book, that's the only way to describe it. Kind, professional, sarcastic Hollywood agent Tom Stein gets the ultimate job, introducing a race of blob-like aliens to the world, while at the same time dealing with every egomaniac, diva, and paparazzi in LA.  The characterization is more charicaturization, but the plot pops and sizzles, and Scalzi is at his best taking wacky ideas and throwing them at the wall.  And hey, it's a free ebook, so what do you have to lose?

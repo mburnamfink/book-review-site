@@ -20,7 +20,7 @@ title: 'Becoming Attached: First Relationships and How They Shape Our Capacity t
 type: book
 ---
 
-Becoming Attached is a popular history and gloss of attachment theory in psychology as developed by John Bowlby and Mary Ainsworth.  These days, attachment terminology is commonplace; there are scores of attachment-based self-help books.  But every theory has an origin, and attachment theory's origins are nearly as fraught as plate tectonics. 
+*Becoming Attached* is a popular history and gloss of attachment theory in psychology as developed by John Bowlby and Mary Ainsworth.  These days, attachment terminology is commonplace; there are scores of attachment-based self-help books.  But every theory has an origin, and attachment theory's origins are nearly as fraught as plate tectonics. 
 
 The basics of attachment is that the relationship between a child and caregiver (typically a mother) in the first year of life is key.  Babies have three attachment styles: secure, anxious, and avoidant, which can be easily seen in the Strange Situation test as developed by Ainsworth, and these attachment styles are stable through later life and pattern professional, social, and romantic relationships. 
 

@@ -21,7 +21,7 @@ title: 'The Chosen Ones: Test Pilots in Action'
 type: book
 ---
 
-The Chosen Ones is workman-like account of test pilots working for Avro or De Haviland Canada in between roughly 1947 and 1965. This book is the polar opposite of Wolfe's The Right Stuff (heh, Canadian pole joke). Rather than a New Journalism thriller focusing on cokcpit masculinity, the 10 Canadian test-pilots featured here are quiet professionals engaged in a precise and dangerous trade. 
+*The Chosen Ones* is workman-like account of test pilots working for Avro or De Haviland Canada in between roughly 1947 and 1965. This book is the polar opposite of Wolfe's *The Right Stuff* (heh, Canadian pole joke). Rather than a New Journalism thriller focusing on cokcpit masculinity, the 10 Canadian test-pilots featured here are quiet professionals engaged in a precise and dangerous trade. 
 
 Avro and De Haviland were strong companies at the time, flush with wartime contracts and ready to prove themselves against competitors in the US and UK.  Avro went high-tech, constructing the early jet night fighter the CH-100 Canuck, and embarking on a host of research projects that went nowhere.  The VZ-9 Aircar was a VTOL flying saucer. The C102 Jetliner was the world's second jet passenger airplane, flying nine days after the Comet, and without the latter's fatal metal fatigue problem, yet put on hold due to the military priority of the CF-100. The CF-105 Arrow is the hauntology of Canadian aerospace, a Mach 2 super-interceptor that was abruptly cancelled in 1959, leading to the death of Avro as a company and the scattering of its high tech workforce. Avro offers a fascinating case of high tech "what-if".
 

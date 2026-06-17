@@ -24,7 +24,7 @@ title: Killing Rage
 type: book
 ---
 
-Killing Rage is a personal account of what it's like to be a soldier in a political war, and the cost of running a campaign of assassination and terror.  Growing up in Camlough, in the "bandit country" of Armagh, Northern Ireland, Eamon inherited a nationalist imagination from his mother, and an iron irascibility from his father. 
+*Killing Rage* is a personal account of what it's like to be a soldier in a political war, and the cost of running a campaign of assassination and terror.  Growing up in Camlough, in the "bandit country" of Armagh, Northern Ireland, Eamon inherited a nationalist imagination from his mother, and an iron irascibility from his father. 
 
 A variety of causes lead him into the war. Perhaps primarily was a botched arrest of himself, his father, and his brother on bad intelligence by a British Army unit. The teenage Eamon was beaten with rifle butts by drunken soldiers, had his tooth chipped when a rifle was shoved in his mouth, and saw his father humiliated. Along with that came the hunger strike of Bobby Sands and other IRA prisoners. And finally, a journey into Marxist revolutionary ideology. 
 

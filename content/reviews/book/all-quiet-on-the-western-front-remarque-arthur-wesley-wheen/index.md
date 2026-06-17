@@ -23,7 +23,7 @@ title: All Quiet on the Western Front
 type: book
 ---
 
-What can my small words add to All Quiet on the Western Front?  My edition is subtitled "the greatest war novel of all time", and as someone who reads a lot of military history and memoir, that is absolutely true.
+What can my small words add to *All Quiet on the Western Front*?  My edition is subtitled "the greatest war novel of all time", and as someone who reads a lot of military history and memoir, that is absolutely true.
 
 Paul Baumer is a military everyman, a good student who enlisted in the German Army in a flush of patriotism along with his class. He had only his school books and some vague romantic notions of a life. And now after time in the trenches, he doesn't even have that.  His generation is one that has had their innocent and purpose stolen, murdered, raped, by the pride of politicians and errors of diplomatic judgement.
 

@@ -22,7 +22,7 @@ title: 'The Arsenal of Democracy: FDR, Ford Motor Company, and Their Epic Quest 
 type: book
 ---
 
-I seem to be on a bit of a Second World War procurement kick, having recently finished [Freedom's Forge](https://www.goodreads.com/review/show/3964084625).  *The Arsenal of Democracy* is a much narrower book, focusing on B-24 production at Willow Run and the family drama of the Fords.
+I seem to be on a bit of a Second World War procurement kick, having recently finished [Freedom's Forge](/book/freedoms-forge-how-american-business-produced-victory-in-world-war-ii-herman/).  *The Arsenal of Democracy* is a much narrower book, focusing on B-24 production at Willow Run and the family drama of the Fords.
 
 Henry Ford was the most famous industrialist in the world, having made the automobile a mass commodity with his Model T.  But through the 20s and 30s, his politics and management style became increasingly deranged. Henry Ford published lengthy anti-Semitic screeds, accepted high honors from Adolf Hitler, and turned against his son and heir Edsel in favor of Harry Barrett, a boxer with criminal ties who ran a thousand strong Ford security arm as a private mafia. 
 

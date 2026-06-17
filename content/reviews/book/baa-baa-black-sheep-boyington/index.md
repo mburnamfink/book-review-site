@@ -19,8 +19,7 @@ tags:
 - war
 - ww2
 - biography
-title: 'Baa Baa Black Sheep: The True Story of the "Bad Boy" Hero of the Pacific Theatre
-  and His Famous BlackSheep Squadron'
+title: 'Baa Baa Black Sheep: The True Story of the "Bad Boy" Hero of the Pacific Theatre and His Famous BlackSheep Squadron'
 type: book
 ---
 
@@ -42,7 +41,7 @@ Boyington was an aggressive commander who lead from the front. He admits he has 
 
 On one last mission to try and exceed WW1 ace Eddie Rickenbacker's score, Boyington broke off more than he could chew, and outnumbered 10 to 2, was shot down. He was picked up by a Japanese submarine and became a prisoner of war for a long 20 months.
 
-In what's perhaps the most surprising part of the book, Boyington bears the Japanese no particular ill-will. While routinely brutalized by some guards and placed on starvation rations, he was talented at finding human sympathy with ordinary civilians the reluctant educated translators. Through grit and optimism and stealing food, he survived the war and came home a hero with a total of 28 kills, a Navy Cross, and a Medal of Honor.
+In what's perhaps the most surprising part of the book, Boyington bears the Japanese no particular ill-will. While routinely brutalized by some guards and placed on starvation rations, he was talented at finding human sympathy with ordinary civilians and reluctant educated translators. Through grit and optimism and stealing food, he survived the war and came home a hero with a total of 28 kills, a Navy Cross, and a Medal of Honor.
 
 Postwar life did not prove kind to Boyington. Booze was a constant problem, and he was fired from multiple sales jobs. Prior to getting sober and writing this book, the best thing he had going was refereeing professional wrestling matches, which was somehow even more of a farce in the 1950s than it was today.  Fortunately for Boyington, a handful of good friends walked him through the 12 AA steps, he managed to dry out, and hold down a flying career.
 

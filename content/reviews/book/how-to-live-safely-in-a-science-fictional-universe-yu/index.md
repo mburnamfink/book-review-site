@@ -27,7 +27,7 @@ Charles Yu is a time machine repairman is a science-fictional universe. Glamorou
 
 Time travel in *How to Live Safely in a Science Fictional Universe* is based around a combination of narrative tenses and the intersection of physics and information theory a la Roger Penrose.  Yu uses this to literary device explore his narrator's relationship to his father, a striving immigrant engineer who almost invented the time machine, and then became unstuck from the present in disappointment. We are all time travelers, moving into the future at a rate of 1 second per second, and yet it is unclear why we perceive the present and member the past.
 
-When Charles returns to his home base, he breaks the first rule of time travel, "never interact with yourself" when a future him appears, he shoots the future him, and his dying future self hands him a copy of a book "How to Live Safely in a Science Fictional Universe" before he escapes into his time machine, and the spiraling doom of a closed time-like loop.
+When Charles returns to his home base, he breaks the first rule of time travel, "never interact with yourself" when a future him appears, he shoots the future him, and his dying future self hands him a copy of a book "*How to Live Safely in a Science Fictional Universe*" before he escapes into his time machine, and the spiraling doom of a closed time-like loop.
 
 The novel is dizzyingly inventive and creative, but pessimistic in its assessment that there only a few seconds in the roughly 2.3 billion we are bestowed which in which we are truly present, truly authentically there with ourselves.  [Kemper](https://www.goodreads.com/review/show/135101539) put it better words than I could:
 

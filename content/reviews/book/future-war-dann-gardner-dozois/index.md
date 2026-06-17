@@ -51,4 +51,4 @@ title: Future War
 type: book
 ---
 
-This is an exceptional collection of military science-fiction, well balanced between action, philosophical meditations on the costs of going to war and coming home, and speculations about developments in weapons and strategy. Philip K Dick's "Second Variety" leads off the collection, in my opinion one of the best and creepiest stories about robotic warfare ever written, but the rest of the book doesn't slack off much.  I particularly enjoyed Tony Daniel's "A Dry Quiet War", but all of the stories in this collection are worth your attention.
+This is an exceptional collection of military science-fiction, well balanced between action, philosophical meditations on the costs of going to war and coming home, and speculations about developments in weapons and strategy. Philip K Dick's "*Second Variety*" leads off the collection, in my opinion one of the best and creepiest stories about robotic warfare ever written, but the rest of the book doesn't slack off much.  I particularly enjoyed Tony Daniel's "A Dry Quiet War", but all of the stories in this collection are worth your attention.

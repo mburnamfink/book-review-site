@@ -28,7 +28,7 @@ type: book
 
 The scientists are Fred Singer, Frederick Seitz, Robert Jastrow, and William Nierenberg.  All of them parleyed real scientific work around the Manhattan Project and the early Cold War into political positions connected with the Republican party. In the mid 60s, as the dangers of smoking became apparent, the tobacco industry began supporting scientific research to create a bench of trial experts to cast doubt on the link between cigarettes and cancer. Seitz, Nierenberg, and Jastrow founded the staunchly freemarket George C. Marshall Institute in 1984 to provide structure for for their work. Singer was loosely affiliated with the network. The charges are serious enough, and timeline involved complex enough, that I'll leave the details to the book.  Whatever the nature of the debate and the connection between science and policy, the goal was always to inhibit regulatory action by the government, and the playbook almost identical.
 
-The Merchants of Doubt playbook is not laid out in the text, so I'll do it here:
+The *Merchants of Doubt* playbook is not laid out in the text, so I'll do it here:
 
 Step 1 is **Developing the Controversy:** This begins innocently enough with emerging scientific issue of regulatory significant and locating legitimate uncertainties.  Science is always incomplete, and particularly in early stages models may be crude approximations with unclear causal mechanisms. But rather than contributing actual work, (the scientific CVs of the merchants are notably thin post-1970) criticize the science for lack of realism and certainty, without offering testable hypotheses of your own.  Extend personal uncertainty to willful density.  Hold up official government reports through bureaucratic delays and denying consensus.
 

@@ -24,7 +24,7 @@ title: 'Ukraine:  Zbig''s Grand Chessboard & How the West Was Checkmated'
 type: book
 ---
 
-What's the difference between The Truth and unreconstructed Russia propaganda?
+What's the difference between *The Truth* and unreconstructed Russia propaganda?
 
 Baldwin and Heartsong decry Western strategy in Eastern Europe from a generic anti-globalization perspective.  The basic argument is that a cadre of corrupt strategists, headed by Zbigniew Brzezinski, and hopelessly locked in a Cold War mindset and/or planning to asset strip everything for mega-corporations like Exxon.  By combining Nazi-influenced Straussian Neo-Conservative Ideology with Israeli psychological warfare tactics, Zbig and the Clinton-Bush-Obama conspiracy plot to override national sovereignty with false flag color revolutions in utter violation of international law. 
 

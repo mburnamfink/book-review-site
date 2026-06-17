@@ -274,6 +274,53 @@ Open `cover_contact_sheet.html` in a browser to scan for bad/wrong covers. Repla
 (missing or bad) by sourcing an image and running:
 `uv run review process-cover <slug> <image.jpg>`.
 
+### Task 3 — typos & typology
+
+Sub-task 1 (assistive typo/grammar linting) is built as `scripts/lint_typos.py`.
+Two passes over each review **body** (front matter excluded), both assistive —
+nothing is auto-applied; it writes a `scripts/typo_report.txt` queue of
+`{type}/{slug}/index.md:line: suggestion` lines you accept/reject by hand.
+```bash
+cd review-cli
+uv run python scripts/lint_typos.py                    # codespell pass only
+uv run python scripts/lint_typos.py --limit 50         # first 50 reviews
+uv run --extra llm python scripts/lint_typos.py --llm  # + per-file LLM grammar pass
+```
+- Pass 1 (codespell, always on) runs via `uvx codespell` — no install. Tune the
+  `CODESPELL_IGNORE` list in the script to suppress recurring proper-noun / valid-word
+  false positives (author/character/place names already seeded there).
+- Pass 2 (`--llm`) catches dropped words, missing prepositions, and homonyms codespell
+  can't. Needs the `anthropic` extra (`uv run --extra llm …`) and `ANTHROPIC_API_KEY`;
+  skips cleanly with a notice if either is missing. Uses `claude-opus-4-8` + structured
+  outputs; quotes are mapped back to line numbers best-effort.
+
+Sub-tasks 2–4 (italicize titles, fix internal links, localize images) are built and
+have been applied. Each is dry-run by default; `--apply` writes and appends to a single
+`scripts/typology_changes.csv` audit log (`change_type, type, slug, before, after`).
+```bash
+cd review-cli
+uv run python scripts/italicize_titles.py     # + --apply  (325 occurrences / 249 reviews)
+uv run python scripts/fix_internal_links.py    # + --apply  (34 offsite->internal; unresolved -> internal_links_report.txt)
+uv run python scripts/localize_images.py       # + --apply  (2 images downloaded as img-N.<ext>)
+```
+- `italicize_titles.py`: known titles from local reviews + the Goodreads `Title` column
+  (StoryGraph export is absent — handled gracefully). Guards: whole-word case-sensitive
+  match, multi-word / length thresholds, a `/usr/share/dict/words` filter for single-word
+  titles, and a `DENYLIST`. Subtitle-stripped "main" forms are forced multi-word to avoid
+  surname/genre false positives. **Residual FP class to skim in the log:** series titles
+  that double as in-universe place/character names (e.g. *Barrayar*, *Cetaganda*).
+- `fix_internal_links.py`: rewrites goodreads/storygraph/pagebound links whose anchor text
+  matches a local review to `/{type}/{slug}/`; ambiguous/unmatched anchors are left and
+  reported. Also validates every internal `/{type}/{slug}/` link (0 broken; Task 1 left them
+  clean). Shared helpers: `scripts/_body.py` (front-matter-preserving body edits) and
+  `scripts/_typology_log.py` (idempotent per-pass log section).
+- `localize_images.py`: downloads remote body images into the review dir, rewrites to
+  `./img-N.<ext>` (extension from Content-Type), and preserves the source as
+  `<!-- original-image: URL -->`. Failed downloads are reported, not linked.
+- **Footgun fixed:** `_body.py`'s front-matter splitter originally missed the EOF-without-
+  trailing-newline closing fence, so the 34 empty-body reviews were treated as all-body and
+  italicize wrapped titles inside the YAML. Fixed + the 29 affected files repaired.
+
 ### Task 4 — series & numbering
 
 Schema/template changes are already applied (`series` + `series_number` in

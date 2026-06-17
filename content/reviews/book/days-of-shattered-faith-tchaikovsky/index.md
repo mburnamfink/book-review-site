@@ -22,7 +22,7 @@ title: Days of Shattered Faith
 type: book
 ---
 
-Days of Shattered Faith is a fantastic conclusion to the Tyrant Philosophers trilogy.  The story takes us to Alkhalend, a city coded primarily as 'foreign', with hot climate, fratricidal succession and a host of warrior-monk orders. Our main viewpoints are Gil (Sage-Investigator Angilly) and her aide Loret, representing Pallaseen Outreach, a department of diplomats and spies that uses imperfect means to advance perfection.
+*Days of Shattered Faith* is a fantastic conclusion to the Tyrant Philosophers trilogy.  The story takes us to Alkhalend, a city coded primarily as 'foreign', with hot climate, fratricidal succession and a host of warrior-monk orders. Our main viewpoints are Gil (Sage-Investigator Angilly) and her aide Loret, representing Pallaseen Outreach, a department of diplomats and spies that uses imperfect means to advance perfection.
 
 Things are bad in Alkhalend, with the old Alkhand Oparan blind, dying, and listening most to the trapped ghost of his murdered brother. His designated heir, Dekamram, is pro-Pallaseen and considered too soft to be an effective ruler. The elder son, Gorbudan, has been exiled to a fortress and is gathering raiders for a new war against local enemies and the Pals.  But if things are bad in Alkhalend, they're worse back home, where the cults from the previous book have caused the government to open concentration camps and root out heresy by any means necessary.
 

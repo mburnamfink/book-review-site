@@ -21,7 +21,7 @@ title: Eyes of the Void
 type: book
 ---
 
-Eyes of the Void definitely suffers from the sophomore slump.  It's a fine story, don't get me wrong, but we don't see much that dramatically expands on either the setting or the characters. There's a few more weird planets, the most notable being the world of Criccieth’s Hell, a radiation-bathed deathworld that contains a functional Originator ruin.
+*Eyes of the Void* definitely suffers from the sophomore slump.  It's a fine story, don't get me wrong, but we don't see much that dramatically expands on either the setting or the characters. There's a few more weird planets, the most notable being the world of Criccieth’s Hell, a radiation-bathed deathworld that contains a functional Originator ruin.
 
 The setting continues to swirl closer to catastrophe. The Hegemony's relics no longer appear to hold off the planet-killing Architects, corruption at the center of Council of Human Interests is bringing a multisided war that will make only losers. And Idris and the crew of the Vulture God again are the best chance anyone has of figuring out what the hell is going on, and how to survive. 
 

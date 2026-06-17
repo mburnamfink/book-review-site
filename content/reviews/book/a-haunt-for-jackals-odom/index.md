@@ -22,7 +22,7 @@ title: A Haunt for Jackals
 type: book
 ---
 
-A Haunt for Jackals ably extends everything that was good about the first book.  Azetla has thrown his lot in fully with the coup, becoming an army commander with no rank laboring under a sentence of death. His task is to weld the unruly southern tribes into an alliance capable of defeating an empire, using little more than diplomacy and the skills of the despised translator-assassin Tzal.
+*A Haunt for Jackals* ably extends everything that was good about the first book.  Azetla has thrown his lot in fully with the coup, becoming an army commander with no rank laboring under a sentence of death. His task is to weld the unruly southern tribes into an alliance capable of defeating an empire, using little more than diplomacy and the skills of the despised translator-assassin Tzal.
 
 This book is really Tzal's book, flashing back to that enigmatic figure's birth and harsh upbringing. Though she's called a devil, and used as a tool and slave, she has her own fascinating fatalism; a desire to spit in the eyes of all the gods and dare them to bring her down. 
 

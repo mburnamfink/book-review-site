@@ -27,7 +27,7 @@ title: The Surgeon's Mate
 type: audiobook
 ---
 
-The Surgeon's Mate takes Aubrey and Maturin out of the far south and into the north, which is no less dangerous. On shore in Halifax and celebrating the triumph of the HMS Shannon over the USS Chesapeake, the first hazard is to Aubrey's honor, as he falls in with a fast local woman, one Amanda Smith, who just loves her naval heroes.
+*The Surgeon's Mate* takes Aubrey and Maturin out of the far south and into the north, which is no less dangerous. On shore in Halifax and celebrating the triumph of the HMS Shannon over the USS Chesapeake, the first hazard is to Aubrey's honor, as he falls in with a fast local woman, one Amanda Smith, who just loves her naval heroes.
 
 A dispatch boat takes them out of romantic danger and into physical danger, as they are chased through the North Atlantic by American privateers hired by a vengeful Johnson, coming off only when the enemy strikes an iceberg and sinks.  There's barely enough time to patch up Aubrey's affairs in Britain  and for Maturin to duck over to Paris to give a a lecture on birds, when the two or ordered off on a diplomatic mission to secure a vital fortress island in the Baltic sea. The fortress is held by a Catalan regiment, fortunately commanded by Maturin's godfather, but the last ship to approach was destroyed before it could send an envoy in under flag of truce.  Aubrey contrives to capture a swift Danish privateer with his new sloop, the HMS Ariel, when it runs aground on banks.
 

@@ -23,4 +23,4 @@ title: High-Rise
 type: book
 ---
 
-You know what, I just love JG Ballard beyond any rhyme or reason. In his spare sentences and stoic-psychotic characters, I see a tiny simulacra of our technological civilization, as it teeters on the brink of some awful revelation.  High-Rise takes place in an immense self-contained apartment complex, where the minor inconviences of a a poorly designed infrastructure collide with the anomie of 20th century professional life, resulting in a total social collapse. It's a sharp, savage, dystopic satire, and an example of Ballard at the peak of his abilities.
+You know what, I just love JG Ballard beyond any rhyme or reason. In his spare sentences and stoic-psychotic characters, I see a tiny simulacra of our technological civilization, as it teeters on the brink of some awful revelation.  *High-Rise* takes place in an immense self-contained apartment complex, where the minor inconviences of a a poorly designed infrastructure collide with the anomie of 20th century professional life, resulting in a total social collapse. It's a sharp, savage, dystopic satire, and an example of Ballard at the peak of his abilities.

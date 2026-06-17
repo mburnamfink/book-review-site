@@ -20,7 +20,7 @@ title: The Raven Tower
 type: book
 ---
 
-The Raven Tower is a strange and slowly paced fantasy, with two timelines building towards a climatic conclusion.
+*The Raven Tower* is a strange and slowly paced fantasy, with two timelines building towards a climatic conclusion.
 
 In one, Eolo, a soldier and aide, has to navigate the political turmoil surrounding the recent death of the ruler, titled The Raven's Lease.  The Lease is divinely chosen, but lives only as long as actual bird inhabited by the god, at which point he must die.  The prior Lease apparently did not do that, and the heir Mawak must find where duty and power lie, before the situation spirals out of control.
 

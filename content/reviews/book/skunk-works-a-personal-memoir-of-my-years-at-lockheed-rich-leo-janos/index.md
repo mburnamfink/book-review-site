@@ -23,7 +23,7 @@ title: 'Skunk Works: A Personal Memoir of My Years at Lockheed'
 type: book
 ---
 
-Skunk Works is one of those phrases which sets aviation fans' hearts a-flutter.  The secretive engineering team from Burbank was responsible for some of the most incredible planes of all times. The SR-71 was built in the 1960s, and it remains the highest flying, fastest plane in aviation. It's a marvel of engineering built with slide rules. 
+*Skunk Works* is one of those phrases which sets aviation fans' hearts a-flutter.  The secretive engineering team from Burbank was responsible for some of the most incredible planes of all times. The SR-71 was built in the 1960s, and it remains the highest flying, fastest plane in aviation. It's a marvel of engineering built with slide rules. 
 
 Ben Rich, the second director of the Skunk Works, writes a fun account of his views on aviation, engineering, and procurement politics. The Skunk Works was an elite brotherhood devoted towards the best in aviation, with rules to minimize management bullshit and keep every engineer within a stone's throw of the production floor.  Rich discusses in detail his work on the F-117 stealth fighter, the U-2, and the SR-71, with dips into Navy stealth boats ("never work for the Navy, they don't know what they want and they'll break your heart"), and the red tape of military bureaucracy.  
 

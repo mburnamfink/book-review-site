@@ -25,7 +25,7 @@ type: book
 
 The most dangerous book of the year. Arum and Roksa present a controversial thesis: that college is not teaching students critical reasoning and writing skills, and back it up in-depth research based on a survey of 2200+ students across 24 institutions, and results on the CLA standardized test.
 
-As a recent college graduate and current PhD student, "Academically Adrift" matches my experiences to a T. While some students are capable of benefiting from college, many students (45% by the authors numbers) show no learning, managing their career to minimize time in difficult classes while maximizing socializing as they achieve an increasingly expensive and meaningless certificate.
+As a recent college graduate and current PhD student, "*Academically Adrift*" matches my experiences to a T. While some students are capable of benefiting from college, many students (45% by the authors numbers) show no learning, managing their career to minimize time in difficult classes while maximizing socializing as they achieve an increasingly expensive and meaningless certificate.
 
 This crisis has many parents: poor high schools, an academic culture that does not value teaching, students-as-consumers, and so on. I don't know what the fix is, but this book is starting a much needed conversation.
 

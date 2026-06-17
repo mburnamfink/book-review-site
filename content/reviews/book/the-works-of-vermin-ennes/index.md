@@ -20,7 +20,7 @@ title: The Works of Vermin
 type: book
 ---
 
-The Works of Vermin is a masterpiece of the New Weird, right up there with Perdido Street Station. The city of Tiliard is a biological monstrosity, the stump of a worldtree rising from a toxic river.  In this city, the main mode of inhabitation is the infestation, from the 398 known vermin in the Borisch and Sons Exterminator's Manual, to the unlisted types such as opera-obsessed politicians, bishops with perverse appetites, mutated artists, gentlemen-duelists, dancers with a sideline in revolution (or is it the other way around), and the innumerable laborers who keep it running, and police spies who maintain the official aesthetic primacy of Revivalism.
+*The Works of Vermin* is a masterpiece of the New Weird, right up there with Perdido Street Station. The city of Tiliard is a biological monstrosity, the stump of a worldtree rising from a toxic river.  In this city, the main mode of inhabitation is the infestation, from the 398 known vermin in the Borisch and Sons Exterminator's Manual, to the unlisted types such as opera-obsessed politicians, bishops with perverse appetites, mutated artists, gentlemen-duelists, dancers with a sideline in revolution (or is it the other way around), and the innumerable laborers who keep it running, and police spies who maintain the official aesthetic primacy of Revivalism.
 
 The plot traces two arcs. One follows Guy, an exterminator who will do anything to keep his younger sister Tyro out of the debts which have consumed him; the other story is of Aster, perfumer contracted to the lethal Marshal Revenant who keep orders, and how the arrival of a gentleman from the country named Mallory upsets the planned wedding of the Laurel Chancellor to the brilliant painter Elspeth, who's unfinished works are already masterpieces.
 
@@ -30,4 +30,4 @@ Aster lives a cossetted life, but she is tied to her patron by a contract one st
 
 The two tracks proceed until they intersect, with a realization that left me feeling both very stupid and utterly satisfied.
 
-The Works of Vermin is a delight.  The comparison to Perdido Street Station is obvious, but Ennes is entirely their own writer. The touching points are a big city of uncanny science and revolutionary politics, and that's broad enough for many stories. The audiobook is fantastically read, and because I ran out of credits right before the climax, I had to get the book proper.
+*The Works of Vermin* is a delight.  The comparison to Perdido Street Station is obvious, but Ennes is entirely their own writer. The touching points are a big city of uncanny science and revolutionary politics, and that's broad enough for many stories. The audiobook is fantastically read, and because I ran out of credits right before the climax, I had to get the book proper.

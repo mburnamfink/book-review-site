@@ -24,4 +24,4 @@ title: Black Empire (New England Library Of Black Literature)
 type: book
 ---
 
-An odd book. Basically, evil genius Dr Belsidus decides to exact revenge against Whitey, by building a new Black Empire in Africa.  It's totally amoral, focusing of subterfuge, unconventional warfare, and Science! Supposedly, there's a deeper message here, but all I see is second rate Golden Age sci-fi mixed with Black Nationalist paranoia.
+An odd book. Basically, evil genius Dr Belsidus decides to exact revenge against Whitey, by building a new *Black Empire* in Africa.  It's totally amoral, focusing of subterfuge, unconventional warfare, and Science! Supposedly, there's a deeper message here, but all I see is second rate Golden Age sci-fi mixed with Black Nationalist paranoia.

@@ -20,7 +20,7 @@ title: Black Water Sister
 type: book
 ---
 
-Black Water Sister is about a lot of things, but mostly intergenerational trauma and secrets in a crazy Asian family. Jess, our narrator, is split between many identities, primarily a very normal American girl with a useless photography degree from an elite university and a girlfriend who's becoming a long-distance situationship, and daughter of Malaysian-Chinese immigrants who's long attempt at the American dream has finally crashed and burned, and who could never stomach having a lesbian daughter.
+*Black Water Sister* is about a lot of things, but mostly intergenerational trauma and secrets in a crazy Asian family. Jess, our narrator, is split between many identities, primarily a very normal American girl with a useless photography degree from an elite university and a girlfriend who's becoming a long-distance situationship, and daughter of Malaysian-Chinese immigrants who's long attempt at the American dream has finally crashed and burned, and who could never stomach having a lesbian daughter.
 
 Crashing at her aunt's house, trapped in a maze of family obligations in a country where she barely speaks Hokkien and doesn't know anyone who matches her Americanized parts would be bad enough, but a ghost is whispering in her ear. Ah Ma, her recently deceased mother's mother, isn't a cookies and milk grandmother (or whatever the Malaysian kindly comfort food cuisine was). Ah Ma was a gangster, a medium of deeply unpleasant goddess, and she needs Jess to close out a little unfinished business by protecting a temple from development by getting in the face of the fifth wealthiest man in Malaysia.
 

@@ -20,7 +20,7 @@ title: 'The Jasons: The Secret History of Science''s Postwar Elite'
 type: book
 ---
 
-The Jasons are the most powerful people you've never heard of.  An elite advisory group composed of a veritable who's who of American physics, the Jasons have been providing cutting edge scientific expertise to the Department of Defense and other agencies for nearly fifty years.
+*The Jasons* are the most powerful people you've never heard of.  An elite advisory group composed of a veritable who's who of American physics, the Jasons have been providing cutting edge scientific expertise to the Department of Defense and other agencies for nearly fifty years.
 
 Finkbeiner manages to depict both the personal charisma and fascination of the Jasons, and their murky ethical role.  True genius is strange, and appealing, and a large part of why Jason persists is the pleasure that it's members take in working with each other; a pleasure echoed in Finkbeiner description of interviews with luminaries such as John Wheeler (many worlds interpretation, black holes) and Freeman Dyson (polymath of the 20th century).  
 

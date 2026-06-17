@@ -29,4 +29,4 @@ And this is where the book is most fun, because frankly, those weapons are aweso
 
 More stuff happens. Fan favorite character Grue wanders into another group of guys from Reems and dies in a way that Team Awesome can't bring her back. There's a lot of handwringing about the ethical limits of the Commonweal and its Independents.
 
-Again, either you like The Commonweal or you don't. I still do, and while this book doesn't cover a lot of new ground, it goes back to the military fiction of The March North and moves more briskly than books 2 and 3.
+Again, either you like The Commonweal or you don't. I still do, and while this book doesn't cover a lot of new ground, it goes back to the military fiction of *The March North* and moves more briskly than books 2 and 3.

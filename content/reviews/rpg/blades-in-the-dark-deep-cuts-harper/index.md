@@ -19,7 +19,7 @@ title: Blades in the Dark - Deep Cuts
 type: rpg
 ---
 
-Blades in the Dark is probably my favorite RPG game of all time. And for all that, I've never actually run it correctly, always preferring to eyeball downtime rather than follow the flowchart properly.  Deep Cuts is something between an expansion and a second edition, and I think a lot of the changes are worthwhile.
+*Blades in the Dark* is probably my favorite RPG game of all time. And for all that, I've never actually run it correctly, always preferring to eyeball downtime rather than follow the flowchart properly.  Deep Cuts is something between an expansion and a second edition, and I think a lot of the changes are worthwhile.
 
 The new Harm system is a great improvement over the old one, where Harm penalties (decreased effect, -1d on everything) were incredibly brutal. Now Harm only penalizes when invoked, and gives XP when that happens. Advancement is linked to clocks, with different classes of advancement taking different numbers full advance clocks, rather than the many XP tracks of the older system. Load is now discreet/conspicuous, and certain bulky items like armor and big weapons can only be taken before the mission at heavy load. Downtime is streamlined, and the new heat/rep/entanglements system looks a lot more usable.
 

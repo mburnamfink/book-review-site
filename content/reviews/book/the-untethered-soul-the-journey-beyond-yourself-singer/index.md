@@ -17,7 +17,7 @@ title: 'The Untethered Soul: The Journey Beyond Yourself'
 type: book
 ---
 
-I found Singer's The Surrender Experiment to be an incredible book, a look at what it might mean to be "enlightened" in a 21st century sense: serene, secure in community and professional success, with major projects soaring to completion without much apparent struggle. The Untethered Soul is the how-to, and is a solid gloss of Singer's syncretic American Buddhism.
+I found Singer's *The Surrender Experiment* to be an incredible book, a look at what it might mean to be "enlightened" in a 21st century sense: serene, secure in community and professional success, with major projects soaring to completion without much apparent struggle. *The Untethered Soul* is the how-to, and is a solid gloss of Singer's syncretic American Buddhism.
 
 The main, indeed only, barrier to your spiritual and worldly fulfillment is you. Specifically, the chattering neurotic thinking part of the mind, rather than the listening seat of awareness. Still the chatter, and you'll find yourself opened to the infinite energy and love of the universe. 
 

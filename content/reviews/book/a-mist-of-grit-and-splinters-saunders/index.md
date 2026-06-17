@@ -22,7 +22,7 @@ title: A Mist of Grit and Splinters
 type: book
 ---
 
-A Mist of Grit and Splinters goes back to the first book, with a more-or-less straightforward military fantasy, as told through several points of view, each chapter with a ticking -X days until D-Day heading. The Second Commonweal doesn't have the people to spare for the military it needs or the time to train the people it does have, but they are going to do their best in the calm rationality that is the hallmark of this series.
+*A Mist of Grit and Splinters* goes back to the first book, with a more-or-less straightforward military fantasy, as told through several points of view, each chapter with a ticking -X days until D-Day heading. The Second Commonweal doesn't have the people to spare for the military it needs or the time to train the people it does have, but they are going to do their best in the calm rationality that is the hallmark of this series.
 
 Where I liked the book was where it departed from calm rationality. There is an extended digression on graul reproduction, which is incredibly weird in a way 180 degrees away from horny. Closer to emotion is a discussion between Duckling, one of the main points of view, and a junior Parlimentary clerk, about whether or not the Captain and Team Awesome is secretly plotting a coup against the Commonweal. Duckling, who's normally a very professional soldier, is on leave and wearing the kind of dress that shows everything and then too much if you move. Imagine intense political and philosophical debate, while one of the characters keeps thinking "I better not boob too bustily". Hilarious.
 

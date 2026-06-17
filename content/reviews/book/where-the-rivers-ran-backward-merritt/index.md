@@ -26,4 +26,4 @@ Some times it seems like everybody who went to Vietnam wrote a book about it; Me
 
 His memoir of a tour of duty as an engineer with the 25th Infantry Division in 1968 is brilliantly realized. The book is a series of vignettes punctuated by rock lyrics and headlines, like the memories of a generation blown apart by hate and lust and dope and killing. Merritt writes without bravado or the false perspective of history, speaking in the authentic voice of the grunts as he describes the insanity and the strange beauty of the war.
 
-My copy has a blurb from Tim O'Brien ("The Things They Carried", "Going After Cacciato") on the back, but if you want my opinion, Merritt is the best of them.
+My copy has a blurb from Tim O'Brien ("*The Things They Carried*", "*Going After Cacciato*") on the back, but if you want my opinion, Merritt is the best of them.

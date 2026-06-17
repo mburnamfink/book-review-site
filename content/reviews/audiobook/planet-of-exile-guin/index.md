@@ -25,7 +25,7 @@ title: Planet of Exile
 type: audiobook
 ---
 
-Planet of Exile shows Le Guin's growing confidence as a writer, with an interest in ecological and sociological matters.  Werel/Gamma Draconic III is defined by its 60 Terran-year elliptical orbit, which gives it a seasonal cycle that matches a human lifespan. Winter is coming, and the standard preparations of the local Tevaran tribe and abandoned League of All Worlds colony Landin is interrupted by the arrival of nomadic Gaal. This season, the Gaal have united under a charismatic warlord, and rather than bypass fortified cities are sacking and enslaving them.
+*Planet of Exile* shows Le Guin's growing confidence as a writer, with an interest in ecological and sociological matters.  Werel/Gamma Draconic III is defined by its 60 Terran-year elliptical orbit, which gives it a seasonal cycle that matches a human lifespan. Winter is coming, and the standard preparations of the local Tevaran tribe and abandoned League of All Worlds colony Landin is interrupted by the arrival of nomadic Gaal. This season, the Gaal have united under a charismatic warlord, and rather than bypass fortified cities are sacking and enslaving them.
 
 The main characters are the elderly Wold, the great man of the Tevarans, his wayward and curious daughter Rolery, and leader Jakob Abat of the Landin's.  Jakob and Rolery fall in love, despite taboos that divide their two cultures and genetic differences which mean they'll never have children. There is a desperate war against the horde of Gaal, and finally the hard triumph of survival.
 

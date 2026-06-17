@@ -26,7 +26,7 @@ type: book
 
 "War is hell."
 
-- William Tecumseh Sherman
+- *William Tecumseh Sherman*
 
 “The only thing necessary for the triumph of evil is for good men to do nothing.” 
 

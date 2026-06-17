@@ -22,7 +22,7 @@ title: Westside
 type: book
 ---
 
-Westside is an imaginative fantasy mystery, in the vein of Gaiman or Meiville. Gilda Carr is a private detective in a New York City split in two. East Manhattan is much like historical Manhattan of the roaring 20s, but the West Side has been taken by shadowy powers. People disappear on dark streets, architecture and technology corrode, and great forests grow in the parks while gangs of feral boys play at soldiers beneath.
+*Westside* is an imaginative fantasy mystery, in the vein of Gaiman or Meiville. Gilda Carr is a private detective in a New York City split in two. East Manhattan is much like historical Manhattan of the roaring 20s, but the West Side has been taken by shadowy powers. People disappear on dark streets, architecture and technology corrode, and great forests grow in the parks while gangs of feral boys play at soldiers beneath.
 
 Gilda specializes in small mysteries, the little things that drive you mad.  Her case is to retrieve a woman's missing glove, but the situation spirals rapidly out of control, and Gilda finds herself embroiled in an conspiracy of bootleggers, corrupt cops, her dead father's madness, and the darkness eating at the heart of her city.
 

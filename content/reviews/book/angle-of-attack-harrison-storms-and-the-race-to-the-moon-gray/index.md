@@ -22,7 +22,7 @@ title: 'Angle of Attack: Harrison Storms and the Race to the Moon'
 type: book
 ---
 
-Angles of Attack is a gripping engineering thriller, a tale the of meteoric rise and even faster fall of Harrison "Stormy" Storms, a key figure in the Apollo program. It stands next to The Soul of New Machine as a story of men, machines, and the cost of innovation.
+*Angles of Attack* is a gripping engineering thriller, a tale the of meteoric rise and even faster fall of Harrison "Stormy" Storms, a key figure in the Apollo program. It stands next to The Soul of New Machine as a story of men, machines, and the cost of innovation.
 
 In the early 1960s, North American Aviation was hot as it got. NAA had contributed the P-51 to WW2 and the F-86 to Korea. Harrison Storms was pushing the boundaries of speed and air with the X-15 program and the XB-70 Mach 3 strategic bomber. When Kennedy announced the moon landing as the goal of the space program, an effort to mark a technical triumph America might beat the Russians at, Storms went over the heads of his bosses to put in bids, winning both the second stage of the Saturn V and the over-all program itself.
 
@@ -34,4 +34,4 @@ All of this came to a head with the Apollo 1 disaster, which killed Gus Grissom,
 
 Even so, NAA took the blame, the ordinary friction of aerospace R&D being blown up into programmatic incompetence and fraud against the government. Storms was the scapegoat, and he was unceremoniously removed from his key role. Other men would take Apollo to the moon. North American Aviation would merge with Rockwell, becoming just one more division in a conglomerate and losing its engineering identity.
 
-Angles of Attack has flaws. It's very much Storms' view of Apollo, and the program was bigger than any one person. Gray has an ear for action and thrills, and perhaps overlooks the mundanity of the work. But for all that, this is still a fantastic book.
+*Angles of Attack* has flaws. It's very much Storms' view of Apollo, and the program was bigger than any one person. Gray has an ear for action and thrills, and perhaps overlooks the mundanity of the work. But for all that, this is still a fantastic book.

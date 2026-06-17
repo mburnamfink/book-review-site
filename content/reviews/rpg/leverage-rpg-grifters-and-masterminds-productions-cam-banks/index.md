@@ -40,7 +40,7 @@ title: 'Leverage RPG: Grifters and Masterminds'
 type: rpg
 ---
 
-Heists are not something that RPGs do well. There's too much dungeon crawling and caution in our bloodstream, too much of an urge to master the rules and build an unstoppable juggernaut of a character.  Leverage RPG is an exception-combining an elegantly light system in Cortex Plus with very solid gaming advice to help GMs and players come up with session long capers in classic Leverage style. There a natural affinity between episodic TV shows and episodic RPG sessions, and this games uses that brilliantly.
+Heists are not something that RPGs do well. There's too much dungeon crawling and caution in our bloodstream, too much of an urge to master the rules and build an unstoppable juggernaut of a character.  *Leverage RPG* is an exception-combining an elegantly light system in Cortex Plus with very solid gaming advice to help GMs and players come up with session long capers in classic Leverage style. There a natural affinity between episodic TV shows and episodic RPG sessions, and this games uses that brilliantly.
 
 The book itself is a decent 200 pages, with your usual chapters on character creation, the rules, and creating an adventure.  The adventure format is simple and elegant: Introduce a Mark who's screwed over a client somehow. The Mark has some obvious strengths and some hidden weaknesses. Figure out how to negate the Mark's strengths and bring pressure on the problem, and what's stopping the players from doing that right then and there. Rolling a one adds a Complication and gives the players a Plot Point, which are then used to make sure scenes go the players' way, particularly the vital ending scene.
 

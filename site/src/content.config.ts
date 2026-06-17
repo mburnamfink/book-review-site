@@ -5,7 +5,7 @@ import { glob } from 'astro/loaders';
 const contributor = z.object({
   first: z.string().optional(),
   last: z.string(),
-  role: z.enum(['author', 'editor', 'contributor', 'narrator', 'illustrator']).default('author'),
+  role: z.enum(['author', 'editor', 'contributor', 'narrator', 'illustrator', 'translator']).default('author'),
 });
 
 const readRecord = z.object({

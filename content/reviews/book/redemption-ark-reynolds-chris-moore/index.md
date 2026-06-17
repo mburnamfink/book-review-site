@@ -25,7 +25,7 @@ title: Redemption Ark
 type: book
 ---
 
-*Redemption Ark* introduces some new twists and turns to the Revelation Space series, but has structural flaws as a book.
+*Redemption Ark* introduces some new twists and turns to the *Revelation Space* series, but has structural flaws as a book.
 
 The A plot concerns Clavain and Skade, two Conjoiner operatives with very different views on the same mission. The Conjoiners are a transhuman cybernetic groupmind responsible for Really Advanced research in the setting. Clavain is a relic from the dawn of human space flight, four centuries old, with a life time of instincts and clever tricks. Skade is young, skilled, and following a voice in her head that says everything she does is for the greater good. They both want the 40 Hell class weapons stored away on the *Nostalgia for Infinity*, and are willing to go to great lengths to get them.
 
@@ -35,4 +35,4 @@ And the C plot introduce Anastasia Bax, captain of a intrasystem freighter just 
 
 All these plot threads converge in the skies over Resurgam, with the whole idea that some favorite characters might have to sacrifice themselves to... save a couple hundred thousand people from being killed right here and now so they can be killed later by *implacable machines which alter the laws of physics to eat planets!?*.  Pull the other one, it has bells on it.
 
-And while Reynolds has some really cool ideas about nearlight starship combat, he also frustrating cuts away from the firework factory at least three times in the book, once with an army of uplifted pig soldiers seizing a starship ([wasn't easy](https://www.youtube.com/watch?v=_W4hDVcAqGY)), and twice with reployment of the Hell class superweapons. Key moments in the book hinge on an impossibly well connected benefactor in Chasm City choosing to give our heroes everything, and the random flight of the *Nostalgia for Infinity* leading it towards the fate ordained for it, and one which might lead to survival.  In a book pushing 700 pages, *Redemption Arc* feels overstuffed and incomplete.  The sheer gonzo hard scifi edge of Reynolds' ideas and sentences keeps it in the good range.
+And while Reynolds has some really cool ideas about nearlight starship combat, he also frustrating cuts away from the firework factory at least three times in the book, once with an army of uplifted pig soldiers seizing a starship ([wasn't easy](https://www.youtube.com/watch?v=_W4hDVcAqGY)), and twice with reployment of the Hell class superweapons. Key moments in the book hinge on an impossibly well connected benefactor in *Chasm City* choosing to give our heroes everything, and the random flight of the *Nostalgia for Infinity* leading it towards the fate ordained for it, and one which might lead to survival.  In a book pushing 700 pages, *Redemption Arc* feels overstuffed and incomplete.  The sheer gonzo hard scifi edge of Reynolds' ideas and sentences keeps it in the good range.

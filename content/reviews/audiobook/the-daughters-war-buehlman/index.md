@@ -26,7 +26,7 @@ title: The Daughters' War
 type: audiobook
 ---
 
-The Daughter's War is a fantastic work of military fantasy which shares a setting and a character with The Blacktongue Thief, but stands entirely independently.  Galva dom Braga is the daughter of a powerful noble who has chosen the path of the warrior, first training in the traditional arts of the sword, and then joining the ranks of the Ravens Knights, an experimental unit of women and human-sized war corvids bred to utterly destroy goblins. Her story takes her through the heart of all consuming war, a tale of terror and danger perfectly balanced against the bonds of familial and romantic love.
+The Daughter's War is a fantastic work of military fantasy which shares a setting and a character with *The Blacktongue Thief*, but stands entirely independently.  Galva dom Braga is the daughter of a powerful noble who has chosen the path of the warrior, first training in the traditional arts of the sword, and then joining the ranks of the Ravens Knights, an experimental unit of women and human-sized war corvids bred to utterly destroy goblins. Her story takes her through the heart of all consuming war, a tale of terror and danger perfectly balanced against the bonds of familial and romantic love.
 
 Human relationships make up the heart of any story, and though Galva is a stoic killer, she's bound deeply to her fellow Raven Knights and her two birds Bellu and Dolgatha, her three brothers who are also part of the army, and eventually to Queen Mireia (my best guess at the spelling, I listened to the audiobook).
 
@@ -36,4 +36,4 @@ The action escalations with perfect tension: First the aftermath of a sea battle
 
 Between the battles, Galva finds time to meet refugees and learn a little about what civilians go through in this kind of war, fall in love with a Queen, become a devotee of the Goddess of Death, experience the wonder of magic, discover the true worth of her brothers, and learn how there are some men worse than goblins.
 
- The Blacktongue Thief was funny, and this book is not funny. It's horrifying, romantic, and flat out grim. For all that, it is wonderfully written, just masterfully crafted on every level.  I read the audiobook version, which was perfectly narrated by Spanish musician and voice actor Nikki Garcia, but any way you read this book is good. Paper will let you know how everything is spelled.
+ *The Blacktongue Thief* was funny, and this book is not funny. It's horrifying, romantic, and flat out grim. For all that, it is wonderfully written, just masterfully crafted on every level.  I read the audiobook version, which was perfectly narrated by Spanish musician and voice actor Nikki Garcia, but any way you read this book is good. Paper will let you know how everything is spelled.

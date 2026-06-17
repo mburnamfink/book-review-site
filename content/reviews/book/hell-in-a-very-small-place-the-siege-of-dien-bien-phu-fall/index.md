@@ -30,4 +30,4 @@ Ultimately, the French were defeated, but only after days without rations, reinf
 
   
 
-Dien Bien Phu was an atypical set-piece of battle, not characteristic of the war as a whole.  Long and detailed, Hell in a Very Small Place is too much for a general audience, but vital reading for anybody interested in the origins of the war, or the French colonial forces.
+Dien Bien Phu was an atypical set-piece of battle, not characteristic of the war as a whole.  Long and detailed, *Hell in a Very Small Place* is too much for a general audience, but vital reading for anybody interested in the origins of the war, or the French colonial forces.

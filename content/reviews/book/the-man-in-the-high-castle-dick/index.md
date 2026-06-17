@@ -21,7 +21,7 @@ title: The Man in the High Castle
 type: book
 ---
 
-I really don’t know how or what to say about The Man in the High Castle, except that it truly a wonderful, richly imagined book.
+I really don’t know how or what to say about *The Man in the High Castle*, except that it truly a wonderful, richly imagined book.
 
 The year is 1962, and the Axis won World War II. The United States is divided between Nazi puppet states on the East Coast, and Japanese occupied territory on the West Coast, with a slim buffer in between in the Rocky Mountains. The main characters go about their lives under fascism, several of them guided by the *I Ching*, and linked together in strange and obscure ways.
 

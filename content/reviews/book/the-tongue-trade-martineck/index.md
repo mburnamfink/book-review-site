@@ -19,7 +19,7 @@ title: The Tongue Trade
 type: book
 ---
 
-The Tongue Trade is science-fiction inflected noir, and your enjoyment will be closely linked to how much you buy the premise.  William Kirst is a translator in a world where languages have diverged so much that you need specialists to communicate between different professions (police, business, marketing, legal, IT, medicine, etc.). He's leaving dinner with a date when he witnesses the aftermath of a murder. Translating between another witness and a lawyer, he learns the shocking truth that his client was the killer.
+*The Tongue Trade* is science-fiction inflected noir, and your enjoyment will be closely linked to how much you buy the premise.  William Kirst is a translator in a world where languages have diverged so much that you need specialists to communicate between different professions (police, business, marketing, legal, IT, medicine, etc.). He's leaving dinner with a date when he witnesses the aftermath of a murder. Translating between another witness and a lawyer, he learns the shocking truth that his client was the killer.
 
 Unfortunately an ironclad oath prevents translators from revealing what was said to third parties, even if it would be criminal evidence. Against his better judgement, Kirst is drawn into an investigation against a powerful businessman, one which involves a radioactive quarantine zone, Zeppelin shipping, beautiful dames, and murderous goons.
 

@@ -24,7 +24,7 @@ title: 'How the University Works: Higher Education and the Low-Wage Nation (Cult
 type: book
 ---
 
-A few days ago, I read "Academically Adrift" which argues that undergraduates aren't learning. "How the University Works" doubles down by presenting a Marxist critique of higher ed, and the hyper-exploitation of graduate students and non-tenured faculty by a 'management culture' of late stage capitalism.
+A few days ago, I read "*Academically Adrift*" which argues that undergraduates aren't learning. "*How the University Works*" doubles down by presenting a Marxist critique of higher ed, and the hyper-exploitation of graduate students and non-tenured faculty by a 'management culture' of late stage capitalism.
 
 I think Bousquet is half right; grad school pays peanuts for long hours, becoming a professor is basically a lottery, and even then it's the least financially rewarding career available with that level of education (this very morning I read a bunch of articles on adjunct faculty on food stamps). I will agree that the university as it stands today is exploitative, that it pushes the day-to-day realities of teaching off onto the most junior members of the profession, and that a PhD prepares you for nothing. The insights into Toyota-style management and the continual "stressing" of the production process are particularly valuable. No wonder nobody is learning!
 

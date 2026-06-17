@@ -20,7 +20,7 @@ title: Battle of Surigao Strait (Twentieth-Century Battles)
 type: book
 ---
 
-Tully is one of the coauthors of the fantastic *Shattered Sword* on the Battle of Midway, so you know his account of the Battle of Surigao Strait is going to be solid. Surigao Strait was the final battleship versus battleship fight, a key component of Leyte Gulf, the largest naval battle in history, and one of the most one-sided stomps since the Battle of Tsushima, with heroism, tragedy, and farce in equal measure.
+Tully is one of the coauthors of the fantastic *Shattered Sword* on the Battle of Midway, so you know his account of the *Battle of Surigao Strait* is going to be solid. Surigao Strait was the final battleship versus battleship fight, a key component of Leyte Gulf, the largest naval battle in history, and one of the most one-sided stomps since the Battle of Tsushima, with heroism, tragedy, and farce in equal measure.
 
 In response to the American invasion of the Philippines, Japan activated Sho-Go-1, a final throw of this dice to achieve a Mahanian decisive battle.  The plan was complex and required precise timing. IJN carriers, bereft of striking power since the Marianas Turkey shoot, would serve to lure away the American fleet. Surface battle groups would approach the landing at Leyte through the northern San Bernadino  Strait and the southern Surigao Strait, find the transports, and destroy them.  It almost worked, and likely would have succeeded without the desperate heroism of the escort group Taffy 3, as documented in the incredible *Last Stand of the Tin Can Sailors*.
 

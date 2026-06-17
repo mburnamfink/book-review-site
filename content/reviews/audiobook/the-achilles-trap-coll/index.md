@@ -31,7 +31,8 @@ type: audiobook
 
 At this point in The End of The End of History, Saddam Hussein has ceased to be a political figure and become a meme.  Here's Saddam shaking hands with Donald Rumsfeld. Here's a disheveled Saddam being pulled from his spider hole. Here's Saddam casting a shadow over the future.
 
-![Saddam in Plato's cave](https://i.kym-cdn.com/photos/images/original/002/135/336/da6)
+![Saddam in Plato's cave](./img-1.png)
+<!-- original-image: https://i.kym-cdn.com/photos/images/original/002/135/336/da6 -->
 
 Coll's book examines Saddam through the lens of the force that eventually brought him down, his weapons of mass destruction (WMD) program.  He draws from extensive interviews and new documents, including recordings of top-level meetings between Saddam and his government.  Saddam rose through the ranks of the Baathist political revolution through ambition and violence, becoming president of Iraq in 1979.  The following year, Saddam ordered the invasion of Iran, hoping to take advantage of the disorganized revolutionary government to carve off some provinces and blunt Shia Islamism. This strategic miscalculation sucked Iraq into a grinding war against a larger neighbor.
 

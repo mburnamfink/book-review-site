@@ -20,7 +20,7 @@ title: The Raven Scholar
 type: book
 ---
 
-The Raven Scholar does tropey semi-YA fantasy better than an of the other's I've read. By that I mean we have an appealing fish-out-of-water protagonist who has to navigate some kind of cliquey contest with a great reward and even greater consequences for failure while also dealing romantic entanglements and growing up.
+*The Raven Scholar* does tropey semi-YA fantasy better than an of the other's I've read. By that I mean we have an appealing fish-out-of-water protagonist who has to navigate some kind of cliquey contest with a great reward and even greater consequences for failure while also dealing romantic entanglements and growing up.
 
 In this case, our protagonist is Neema, the immensely competent Scholar from the Raven Temple. The Orrun Empire has lasted over 1500 years on the back of a tradition of aristocratic selection. Each emperor reigns for 24 years, and none may pick their successor.  Instead, the chosen champions of the eight temples, each associated with a mythical guardian animal a bureaucratic task and a personality type (Ravens are studious scholars, Foxes are crafty spies, Hounds are loyal guards, Bears brave warriors, etc) compete in an 8 day long trial of fights and tests, and whoever gets the most points is the new emperor. The current emperor Bersun is just coming up on the end of his rule, and the new contest will start in a few days.
 

@@ -22,7 +22,7 @@ title: 'The Knowledge: How to Rebuild Our World from Scratch'
 type: book
 ---
 
-The Knowledge is an incredibly whiggish pean to appropriate technology, as viewed through the lens of the end of the world. Images of the apocalypse and what happens afterwards are commonplace today.
+*The Knowledge* is an incredibly whiggish pean to appropriate technology, as viewed through the lens of the end of the world. Images of the apocalypse and what happens afterwards are commonplace today.
 
 The legacy of civilization would decay at strongly varying rates. The electrical grid and water system would fail almost instantaneously, within hours. Fresh fruits and meats would rot in days, dry preserved items might last for months or years before rodents breached the packaging, while canned goods could endure for decades. The material world would see similar destruction. Gasoline turns to sludge within a matter of months. Unmaintained buildings would fall apart in years. Some material objects, like glass, aluminum, and some plastics, are basically indestructible on human timescales. Even steel would take a long time to rust. Depending on how many survivors there were, they could live on the corpse of civilization for quite a time.
 

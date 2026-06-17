@@ -28,7 +28,7 @@ title: The Science of Discworld
 type: book
 ---
 
-1/3 wacky adventures of the Unseen University, 2/3 popular science, The Science of Discworld is not the best of either, but it manages to be moderately funny, and moderately informative.  Since it's about a decade old as of this writing, it's mostly interesting to see how our knowledge of exoplanets and the outer solar system has changed.
+1/3 wacky adventures of the Unseen University, 2/3 popular science, *The Science of Discworld* is not the best of either, but it manages to be moderately funny, and moderately informative.  Since it's about a decade old as of this writing, it's mostly interesting to see how our knowledge of exoplanets and the outer solar system has changed.
 
 But really, why isn't there a Philosophy of Discworld?
 

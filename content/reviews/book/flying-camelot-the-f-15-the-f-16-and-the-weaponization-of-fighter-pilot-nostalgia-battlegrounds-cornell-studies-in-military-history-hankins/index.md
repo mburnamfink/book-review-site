@@ -41,6 +41,6 @@ Boyd's fighter mafia, including Pierre Sprey and William Lind, among others, bro
 
 And when the rubber met the road in Desert Storm, they were proven comprehensively wrong. The qualitive edge of Coalition equipment: stealth fighters, laser guided bombs, AWACS radars, the M1 Abrams tank, and so on shattered the Iraqi Army in one of the most one-sided routs in history.  While a fullscale test of equipment and doctrine, NATO AirLand Battle vs Soviet Deep Battle in a tactical nuke-pocked Europe, thankfully never happened, in a limited war, the complex equipment the reform movement railed against surpassed all expectations.
 
-Hankins has written a fascinating and enjoyable study of fighter pilot culture, the power of *nostalgic design* (see my review of [The Charisma Machine](https://www.goodreads.com/review/show/3040698985) for more on that topic), and the genesis of two of the best aircraft of the 20th century. 
+Hankins has written a fascinating and enjoyable study of fighter pilot culture, the power of *nostalgic design* (see my review of [The Charisma Machine](/book/the-charisma-machine-the-life-death-and-legacy-of-one-laptop-per-child-infrastructures-ames/) for more on that topic), and the genesis of two of the best aircraft of the 20th century. 
 
 *I can't tell you what the five pillars are because I foolishly bought this book off of the publisher's website rather than Amazon, and had to read it with Abode Digital Editions, which is one of the worst apps I've had the displeasure to use.

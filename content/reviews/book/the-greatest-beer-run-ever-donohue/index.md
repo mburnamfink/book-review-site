@@ -41,7 +41,8 @@ Oh.
 
 Oh no.
 
-![Aftermath of the Tet Offensive attack on the US embassy](https://media.cnn.com/api/v1/images/stellar/prod/150417132005-20-vietnam-war-timeline-restricted.jpg)
+![Aftermath of the Tet Offensive attack on the US embassy](./img-1.jpg)
+<!-- original-image: https://media.cnn.com/api/v1/images/stellar/prod/150417132005-20-vietnam-war-timeline-restricted.jpg -->
 *A hole blown in the wall of the embassy, with US troops looking out. Donohue says that the attackers were let in by the ambassador's driver, who was a spy, and the response force shot these holes in the wall to cover this intelligence failure*
 
 As the shooting started, Donohue made his way towards the sound of the guns in the mistaken assumption the US embassy would be the most secure place in the city. Instead, he arrived to witness an ongoing battle between a few embassy guards and a VC sapper squad, and the fight at the Presidential Palace. He managed not to find a bullet and settled in for the long haul.

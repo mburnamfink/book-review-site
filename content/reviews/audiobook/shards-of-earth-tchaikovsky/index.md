@@ -25,7 +25,7 @@ title: Shards of Earth
 type: audiobook
 ---
 
-Shards of Earth puts some twists on the standard space opera plot of "small ship and crew against the universe", and executes its story extremely well.
+*Shards of Earth* puts some twists on the standard space opera plot of "small ship and crew against the universe", and executes its story extremely well.
 
 First, that universe. It's a supremely hostile one, defined by the destruction of Earth and many human worlds by the Architects, moon-sized entities that use gravity weapons to turn ships and planets into abstract sculpture. Two of the characters, Solace and Idris, were key to humanity's survival in the Architect War.  Idris is an Intermediary, a space wizard who can directly tap into unspace and who reached the mind of an Architect and convinced them to withdraw, and Solace is a genetically enhanced super-soldier of the Parthenon, an all-female guardian angel.
 
@@ -35,4 +35,4 @@ Independent Intermediaries are extremely rare, most are slaves owned by the colo
 
 There's world-building, action, some great characters, and a real cosmological mystery. One thing I appreciated was how lethal the setting is. Humans spent 80+ years running from unkillable planet destroyers, and both ships and unspace FTL travel are deeply inimicable to human existence. Life is cheap, death is always nearby, and characters standing up in a gunfight go down fast. 
 
-Shards of Earth doesn't transcend the genre, but it does it extremely well, and I'm excited to see how the rest of the series goes.
+*Shards of Earth* doesn't transcend the genre, but it does it extremely well, and I'm excited to see how the rest of the series goes.

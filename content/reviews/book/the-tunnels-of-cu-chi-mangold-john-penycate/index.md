@@ -25,7 +25,7 @@ title: The Tunnels of Cu Chi
 type: book
 ---
 
-Do you think you're hard? Do you think you're some sort of Tier Zero Modern Warfare Elite Ops Deniable Badass? Do you even think you know about such people? Until you've read this book, you don't know shit.
+Do you think you're hard? Do you think you're some sort of Tier Zero *Modern Warfare* Elite Ops Deniable Badass? Do you even think you know about such people? Until you've read this book, you don't know shit.
 
 Cu Chi was a district just 25 miles from Saigon. Starting from the French Indochina War, local guerrillas carved tunnels out of the strong laterite clay that made up the district. By 1968, the Iron Triangle had over 200 miles of tunnels, with three and four level base camps including barracks, hospitals, and weapons shops. This book covers the Vietnamese men and women who lived and fought in the tunnels, and the American soldiers tasked with going in and smoking them out, the stone crazy tunnel rats.
 

@@ -19,7 +19,7 @@ title: The Chosen and the Beautiful
 type: book
 ---
 
-When I heard about the premise of this book, I was immensely skeptical. Sure, Vo had written a perfect novella in **[The Empress of Salt and Fortune](https://www.goodreads.com/review/show/3346353849), but it's one thing to write a perfect novella and another thing to retell *The Great Gatsby* as a queer fantasy with a Vietnamese-American protagonist. This is the **Great American Novel**. Everybody is assigned it at some point. There is an [entire academic journal](https://www.jstor.org/journal/fscotfitzrevi) devoted solely to F. Scott Fitzgerald, let alone all the other ways culture has embraced and adapted *The Great Gatsby*. If Vo thinks she can pull it off, she is welcome to try. Good luck, you're going to need it.
+When I heard about the premise of this book, I was immensely skeptical. Sure, Vo had written a perfect novella in **[The Empress of Salt and Fortune](/book/the-empress-of-salt-and-fortune-vo/), but it's one thing to write a perfect novella and another thing to retell *The Great Gatsby* as a queer fantasy with a Vietnamese-American protagonist. This is the **Great American Novel**. Everybody is assigned it at some point. There is an [entire academic journal](https://www.jstor.org/journal/fscotfitzrevi) devoted solely to F. Scott Fitzgerald, let alone all the other ways culture has embraced and adapted *The Great Gatsby*. If Vo thinks she can pull it off, she is welcome to try. Good luck, you're going to need it.
 
 ![](./img-1.gif)
 

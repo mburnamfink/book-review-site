@@ -22,7 +22,7 @@ title: The Fifth Season
 type: book
 ---
 
-As I write this review, *Fifth Season* has not yet won the 2016 Hugo. I am however, confident that is will (caveat: haven't looked at Seveneves yet, still have a week to vote UPDATE: *The Fifth Season *did win!). This is a powerful masterpiece in the vein of classic Ursula K. LeGuin, a rich character and sociological study in fear, control, revenge, and above all survival.
+As I write this review, *Fifth Season* has not yet won the 2016 Hugo. I am however, confident that is will (caveat: haven't looked at *Seveneves* yet, still have a week to vote UPDATE: *The Fifth Season *did win!). This is a powerful masterpiece in the vein of classic Ursula K. LeGuin, a rich character and sociological study in fear, control, revenge, and above all survival.
 
 From the opening lines, "Let's start with the end of the world, why don't we? Get it over with and move on to more interesting things." Fifth Season draws the reader into the strange world of Stillness, smashed in the opening scene by the rage of a mad sorcerer, and the institutions that humanity has create to survive its harsh and regular cataclysms. Stonelore, the ancient pragmatic wisdom of survival, and the harsh rule of the Sanze Empire, where enslaved orogene sorcerers provide a fragile security from minor catastrophes like earthquakes and tsunamis.  Orogenes have the ability to control the earth, which they can use to protect their friends or summon catastrophe.  Hatred of orogenes is an instinct bred deeply into the people of Stillness, control of their power the basis on which their civilization lies. 
 

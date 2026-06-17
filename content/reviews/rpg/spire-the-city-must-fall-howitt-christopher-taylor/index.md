@@ -3,8 +3,8 @@ authors:
 - first: Grant
   last: Howitt
   role: author
-- first: ''
-  last: Christopher     Taylor
+- first: Christopher
+  last:  Taylor
   role: author
 cover: ./cover.jpg
 date_reviewed: 2021-02-18
@@ -28,6 +28,6 @@ The system is simple, d10 based with the highest counting. You get 1d10 for bein
 
 Most of the book focuses on the strange abilities of the character classes, and then the meat of the setting itself.  There are dozens of districts, each weirder than the next, grouped thematically by background.  Along with the drow and high elves, there are dueling occult and technological traditions, orders of brawler knights, a grinding war of attrition to the south, against demon-summon gnolls, and hundreds of heretical cults.  The Spire is itself something alien, perhaps an embryonic god waiting to be born, as the most mundane of possibilities.
 
-The clear comparison to *Spire* is *Blades in the Dark*.  There's a lot to love about the sheer atmosphere of the Spire setting, but I think I prefer BitD's more structured play-cycle, crew sheets for collective advancement, player empowering Push and Resist mechanics, and greater degree of accessibility. Duskvol makes more sense.  Even the artwork of the book has trouble making sense of the scale of the city, of the way that districts should be both claustrophobic and parasitic on the alien architecture.  Connolly's [One Man](https://www.goodreads.com/review/show/3153624001) novel makes the concreteness of living in a dead god's corpse a presence on every page, and *Spire* doesn't quite grab that.
+The clear comparison to *Spire* is *Blades in the Dark*.  There's a lot to love about the sheer atmosphere of the Spire setting, but I think I prefer BitD's more structured play-cycle, crew sheets for collective advancement, player empowering Push and Resist mechanics, and greater degree of accessibility. Duskvol makes more sense.  Even the artwork of the book has trouble making sense of the scale of the city, of the way that districts should be both claustrophobic and parasitic on the alien architecture.  Connolly's [One Man](/book/one-man-connolly/) novel makes the concreteness of living in a dead god's corpse a presence on every page, and *Spire* doesn't quite grab that.
 
-The silver, shadow, and reputation resistances are inspired ideas, representing your character's financial state, cover over subversive ideas, and actual social ties, but much of the game is tied up with the specificity of the setting, which is wonderous, but not particularly gameable, in my opinion.
+The silver, shadow, and reputation resistances are inspired ideas, representing your character's financial state, cover over subversive ideas, and actual social ties, but much of the game is tied up with the specificity of the setting, which is wondrous, but not particularly gameable, in my opinion.

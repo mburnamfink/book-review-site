@@ -22,7 +22,7 @@ title: 'Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We L
 type: book
 ---
 
-Daring Greatly is at the intersection of Brown's work as a serious scholar in the social psychology of vulnerability and shame, useful self-help, and TED talk boosterism; quite literally, Brown parleyed a viral TED talk, when that was a hip thing, into a series of best-sellers, two documentary adaptations, and a business consulting practice.  Shame is central to a lot of our lives, and very toxic.
+*Daring Greatly* is at the intersection of Brown's work as a serious scholar in the social psychology of vulnerability and shame, useful self-help, and TED talk boosterism; quite literally, Brown parleyed a viral TED talk, when that was a hip thing, into a series of best-sellers, two documentary adaptations, and a business consulting practice.  Shame is central to a lot of our lives, and very toxic.
 
 ![](./img-1.gif)
 

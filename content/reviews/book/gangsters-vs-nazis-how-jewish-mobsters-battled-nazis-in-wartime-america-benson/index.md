@@ -35,4 +35,4 @@ The only linkable gif I can find has the Nazi exploding sonic style*
 
 The history is fascinating enough, and this book shines in cameo portraits of its various figures.  But Benson badly over-eggs his story, inventing camera movements and treating this like a screenplay rather than a book. And while Nazis badly need a fist to the face, the gangsters are portrayed uncritically as heroes, when they were also murderers and thugs. 
 
-If I were to read one book on the subject, it'd be [Hitler in Los Angeles](https://www.goodreads.com/review/show/2682132081), which is a more interesting take, though one with less punching.
+If I were to read one book on the subject, it'd be [Hitler in Los Angeles](/book/hitler-in-los-angeles-how-jews-foiled-nazi-plots-against-hollywood-and-america-ross/), which is a more interesting take, though one with less punching.

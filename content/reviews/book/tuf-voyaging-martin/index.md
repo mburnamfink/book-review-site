@@ -19,7 +19,7 @@ title: Tuf Voyaging
 type: book
 ---
 
-Tuf Voyaging is mid-80s science fiction fluff from George RR Martin before he was the *Game of Thrones* guy, a series of 7 linked short stories that flicker between charming and rancid, depending on how generous you're feeling.
+*Tuf Voyaging* is mid-80s science fiction fluff from George RR Martin before he was the *Game of Thrones* guy, a series of 7 linked short stories that flicker between charming and rancid, depending on how generous you're feeling.
 
 The story introduces us to a group of rogue academics and criminals on a search for a ancient starship of immense power, an Ecological Engineering Corps seedship with a library of billions of cell samples, quick cloning tanks, and the power to remake worlds. They hire as their transport failing freelance trader Haviland Tuf. Tuf himself is an odd freak (absolutely autism coded, as the kids on TikTok would say). Physically, he's a pale hairless eight foot tall giant who speaks in a bass monotone. He's overly literal, honest to a fault, is a committed vegetarian, hates to be touched, loves dark ale and mushroom wine and strategy games, and prefers the company of his cats to any people.
 

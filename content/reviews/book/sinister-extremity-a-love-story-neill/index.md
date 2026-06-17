@@ -32,4 +32,4 @@ Griffin's pointless and painful job, shitty apartment, diminished social circle,
 
 Writing about pain is easy. Funny writing is incredibly hard, and *Sinister Extremity* laughs through the pain. Everything has a purpose, and the story builds as Griffin finds things worth living for, even as grotesque teratomaliths threaten to overwhelm his city.  All the pieces matter, and the conclusion is a maniac climax that believes in a possibility of justice, of agency over your own life, and the proper use of a Serbian steel cleaver.
 
-Sinister Extremity is one of the best books I've read in 2025.
+*Sinister Extremity* is one of the best books I've read in 2025.

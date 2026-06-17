@@ -22,7 +22,7 @@ title: The 13th Valley
 type: book
 ---
 
-The 13th Valley is a Vietnam War novel that follows closely in the footsteps of Norman Mailer's The Naked and the Dead. The difference is that Mailer was one of the titans of 20th century American literature, and Del Vecchio is a fine author, but he's not Mailer.
+*The 13th Valley* is a Vietnam War novel that follows closely in the footsteps of Norman Mailer's The Naked and the Dead. The difference is that Mailer was one of the titans of 20th century American literature, and Del Vecchio is a fine author, but he's not Mailer.
 
 The story follows Alpha Company, part of the 101st Airborne, through an operation into the titular 13th Valley, a remote highland area near the more infamous A Shau.  Our three main viewpoints are Chelini/Cherry, just arrived and anxious to prove himself; Daniel Egan, a hardcore boonierat soldier who becomes Cherry's mentor; and Lieutenant Brooks, their commanding officer, an intellectual Black man.
 
@@ -36,4 +36,4 @@ Del Vecchio does his best to capture the hallucinatory chaos of combat, though I
 
 Speaking of dreams, the story spends a lot of time in the character's memories, mostly flashing back to women. This is realistic and generally kind of weird. Likewise, each chapter is followed by an official summary in the form of an operation report, which does help contextualize the action and show how little the most important day in someone's life matters to the Army and the history.
 
-Ultimately, I admire the ambition, but the execution leaves something lacking. This is a solid novel, but it's a long way from its inspiration, or the first tier of novelistic memoirs, like Dispatches, Chickenhawk, or Matterhorn.
+Ultimately, I admire the ambition, but the execution leaves something lacking. This is a solid novel, but it's a long way from its inspiration, or the first tier of novelistic memoirs, like Dispatches, *Chickenhawk*, or Matterhorn.

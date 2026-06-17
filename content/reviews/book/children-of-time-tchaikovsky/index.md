@@ -21,7 +21,7 @@ title: Children of Time
 type: book
 ---
 
-If I had a nickel for every scifi novel I've read about a civilization of intelligent arachnids, I'd have 10 cents. Which isn't a lot, but it's weird that it's happened twice (the other book is Vinge's A Deepness in the Sky).
+If I had a nickel for every scifi novel I've read about a civilization of intelligent arachnids, I'd have 10 cents. Which isn't a lot, but it's weird that it's happened twice (the other book is Vinge's *A Deepness in the Sky*).
 
 In a classic far-future, arrogant scientist Avrala Kern is about to complete the final steps of an ambitious project to uplift monkeys on a newly terraformed planet orbiting a distant star. Her experiment is sabotaged at the last second by an anti-promethean extremist, one tentacle of a war which devastates human society. There are three groups of survivors.  Kern, or a hybrid of Kern and an AI upload, slowly decaying in the observation pod around the planet. A few people back on Earth, who somehow made it through the civilization shattering war. And newly uplifted spiders on Kern's world.
 

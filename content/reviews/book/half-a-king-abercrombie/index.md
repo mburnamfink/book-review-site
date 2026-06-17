@@ -22,7 +22,7 @@ title: Half a King
 type: book
 ---
 
-I know I read Abercrombie ages ago, and can't remember much aside from "that was grim and dark". I'm with the consensus that Half a King does Abercrombie's usual thing very well.
+I know I read Abercrombie ages ago, and can't remember much aside from "that was grim and dark". I'm with the consensus that *Half a King* does Abercrombie's usual thing very well.
 
 Yarvi is a prince in a Viking-inspired fantasy setting. Unfortunately for him, he was born with a deformed hand that means he'll never be a warrior. He was all set to enter the Ministry, a sworn order of wise advisers, when his father and uncle are killed and he inherits the throne. Things go from bad to worse, as Yarvi himself becomes the next victims of intrigues, is set up by his uncle to be killed, and survives only to be sold into slavery.
 

@@ -21,7 +21,7 @@ title: 'Binding Passions: Tales of Magic, Marriage, and Power at the End of the 
 type: book
 ---
 
-Binding Passions is a fascinating microhistory that is both serious scholarship, and also might have been substantially more interesting in the hands of a narrative non-fiction writer rather than a historian.
+*Binding Passions* is a fascinating microhistory that is both serious scholarship, and also might have been substantially more interesting in the hands of a narrative non-fiction writer rather than a historian.
 
 The subject is Venice in the late 16th century, as revealed by the archives of the Venetian Inquisition, and relating to matters of marriage, sex, and magic. Of these, marriage in a society defined by Catholicism and aristocratic lineages is a big deal. The wrong marriage can cause a spiral of ruin, wrecking not just the lives of the people involved, but also the fortunes of their families. Matters of class, promised engagement, and willing consent all were tested in these times. One of my favorite cases involved a claimed marriage between two young people, where the man was found in bed with the woman by her father and brothers, was hastily married that night, and took off for the hinterlands with a "uh, sike!"
 

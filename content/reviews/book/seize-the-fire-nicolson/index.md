@@ -21,7 +21,7 @@ tags:
 title: 'Seize the Fire: Heroism, Duty, and Nelson''s Battle of Trafalgar'
 type: book
 ---
-Seize the Fire is a cultural history of the Battle of Trafalgar. Trafalgar is of course the exemplar of the decisive naval battle, the occasion where Britain sealed its command of the seas for the next 140 years. It was an absolute victory, marred by the tragic death of its central hero, Admiral Nelson.
+*Seize the Fire* is a cultural history of the Battle of Trafalgar. Trafalgar is of course the exemplar of the decisive naval battle, the occasion where Britain sealed its command of the seas for the next 140 years. It was an absolute victory, marred by the tragic death of its central hero, Admiral Nelson.
 
 ![Trafalgar](/book/seize-the-fire-nicolson/Trafalgar-Auguste_Mayer.jpg)
 *Trafalgar by Auguste Mayer*

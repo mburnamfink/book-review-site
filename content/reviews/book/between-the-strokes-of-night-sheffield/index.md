@@ -19,7 +19,7 @@ title: Between the Strokes of Night
 type: book
 ---
 
-Between the Strokes of Night is a hard science-fiction novel caught between the grandiosity of deep time and associated big ideas, some standard medium-clunky characterization typical of the genre, and a plot that feels entirely tertiary to the ideas.
+*Between the Strokes of Night* is a hard science-fiction novel caught between the grandiosity of deep time and associated big ideas, some standard medium-clunky characterization typical of the genre, and a plot that feels entirely tertiary to the ideas.
 
 The first part of the book is set in the near-future of the 2010s. Earth is suffering under climate change and political instability. An enigmatic super-billionaire and space industrialist recruits the sleep-research time lead by Judith Niles, with the goal of cracking suspended animation. The scientific team just manages to make the transfer to the orbital habs when someone decides to try a nuclear first strike and the waves of counterstrikes obliterate civilization, leaving just a few tens of thousands of people in what are fortunately more-or-less self-sustaining habitats to figure out what to do next.
 

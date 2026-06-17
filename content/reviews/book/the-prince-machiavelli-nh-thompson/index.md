@@ -22,4 +22,4 @@ title: The Prince
 type: book
 ---
 
-It's "The Prince!"  The immortal classic of statecraft, Machiavelli might not tell you exactly what to do, but he will tell you precisely what not to do, if you wish to hold power and rule wisely.  A fun drinking game is reading the newspaper, seeing where world leaders fail to follow Machiavelli's advice, and taking a shot when it leads to disaster.  You may wish to call the hospital first.
+It's "*The Prince*!"  The immortal classic of statecraft, Machiavelli might not tell you exactly what to do, but he will tell you precisely what not to do, if you wish to hold power and rule wisely.  A fun drinking game is reading the newspaper, seeing where world leaders fail to follow Machiavelli's advice, and taking a shot when it leads to disaster.  You may wish to call the hospital first.

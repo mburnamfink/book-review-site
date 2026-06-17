@@ -26,4 +26,4 @@ Mohamed shuffles her themes like cards. There is rational narrator, perhaps some
 
 The collection suffers due to its format. If this had been about half the length, eight stories instead of seventeen, I would have had no hesitation rating it five stars. At a certain point, however, I started feeling like I was returning to **[The Complete Short Stories of J.G. Ballard](https://www.goodreads.com/review/show/4908404423), and its thematic repitition. "Okay, I get it. Let's move along." This is unfair, Mohamed is a much less nihilistic and hateful author than Ballard, and is on average a better storyteller, but the collection is a lot to take in. The good news is that I only disliked one story, which is a great hit rate.
 
-To pick my eight:  Instructions, The Evaluator, The General's Turn, Fortunato, Four Hours of a Revolution, No One Will Come Back For Us, Willing, and For Each of These Miseries.
+To pick my eight:  Instructions, The Evaluator, *The General*'s Turn, Fortunato, Four Hours of a Revolution, No One Will Come Back For Us, Willing, and For Each of These Miseries.

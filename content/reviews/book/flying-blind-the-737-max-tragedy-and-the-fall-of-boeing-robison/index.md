@@ -22,7 +22,7 @@ title: 'Flying Blind: The 737 MAX Tragedy and the Fall of Boeing'
 type: book
 ---
 
-Flying Blind is a story about 347 murders. 346 of those were human beings, smashed to pieces as the out of control jetliner they were flying in impacted the ground at incredible speed. Those murders only happened because the Boeing company had first been killed, its once world-class engineering culture hollowed out by glossy-eyed executives worshipping the Cult of Shareholder Value. This book is the gripping true crime thriller of how that happened.
+*Flying Blind* is a story about 347 murders. 346 of those were human beings, smashed to pieces as the out of control jetliner they were flying in impacted the ground at incredible speed. Those murders only happened because the Boeing company had first been killed, its once world-class engineering culture hollowed out by glossy-eyed executives worshipping the Cult of Shareholder Value. This book is the gripping true crime thriller of how that happened.
 
 The proximate causes of the two crashes, the Indonesian Lion Air and Ethiopia Air Lines, is a simple and stupid engineering failure. A piece of software in the new 737 MAX, deemed MCAS, took control of the airplane from the pilots on the basis of a single malfunctioning angle-of-attack sensor and flew the airplanes into the ground.
 

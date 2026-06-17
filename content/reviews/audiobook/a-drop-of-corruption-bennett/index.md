@@ -27,7 +27,7 @@ title: A Drop of Corruption
 type: audiobook
 ---
 
-A Drop of Corruption ably follows up the first book with an even deeper interrogation of themes of power and justice. Ana and Din are brought to the kingdom of Yarrowdale, an ancillary polity to the Empire, that is currently involved in negotiations to be annexed and is home to The Shroud, an immense biological workshop that extracts the powerful and deadly reagents that the Empire depends on.
+*A Drop of Corruption* ably follows up the first book with an even deeper interrogation of themes of power and justice. Ana and Din are brought to the kingdom of Yarrowdale, an ancillary polity to the Empire, that is currently involved in negotiations to be annexed and is home to The Shroud, an immense biological workshop that extracts the powerful and deadly reagents that the Empire depends on.
 
 A treasury official involved in these negotiations has been killed in an impossible way, vanishing from a locked room high up a tower. Ana quickly determines that this murder is impossible, and that the murdered official was an imposter, with slightly less improbably knowledge of the details of Imperial security. Their foe is an equal match for Ana, a master of patterns and human weaknesses, on a fatal mission.
 

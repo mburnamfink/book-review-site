@@ -20,6 +20,6 @@ title: King Rat
 type: book
 ---
 
-King Rat is some rough going at first as Mieville is finding his voice, but about halfway through something happens, the pieces lock together, and the end result is a creative and compelling urban fantasy. But not the kind of crap put together for people who need to leaven their BDSM with vampires--*King Rat* is about concrete, hidden geometries, rough edges and rudeboys.  The classic fairy tale which forms its mythology dances right along the edge of being too precious, but in the end it works.
+*King Rat* is some rough going at first as Mieville is finding his voice, but about halfway through something happens, the pieces lock together, and the end result is a creative and compelling urban fantasy. But not the kind of crap put together for people who need to leaven their BDSM with vampires--*King Rat* is about concrete, hidden geometries, rough edges and rudeboys.  The classic fairy tale which forms its mythology dances right along the edge of being too precious, but in the end it works.
 
 This is a first novel, and there are some rough edges, particularly in how Mieville writes physical action, but overall its a fun read.

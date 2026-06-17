@@ -25,7 +25,7 @@ title: Desolation Island
 type: audiobook
 ---
 
-Desolation Island is my favorite of the series so far, deploying all the elements of the series with care and precision.  At the start of the book, both Maturin and Aubrey are suffering from success on shore. Stephen has become despondent over love, addicted to laudanum, and is in the bad lights of British intelligence.  Jack's family is going well, but he's losing money to card-sharks, con-artists, and horse speculators. The solution is simple, a voyage in the HMS Leopard to Australia to either reinstate or remove Governor Bligh, who's suffered another mutiny, and to transport suspect spy Louisa Wogan to Botany Bay.
+*Desolation Island* is my favorite of the series so far, deploying all the elements of the series with care and precision.  At the start of the book, both Maturin and Aubrey are suffering from success on shore. Stephen has become despondent over love, addicted to laudanum, and is in the bad lights of British intelligence.  Jack's family is going well, but he's losing money to card-sharks, con-artists, and horse speculators. The solution is simple, a voyage in the HMS Leopard to Australia to either reinstate or remove Governor Bligh, who's suffered another mutiny, and to transport suspect spy Louisa Wogan to Botany Bay.
 
 The main action of the book takes place in the roaring 40s. The Leopard encounters the implacable and competently handled Dutch ship of the line Waakzaamheid. Jack flees from a battle that would destroy him, a tense chase that tests every ounce of seamanship both captains have, and ends when a lucky shot demasts the Waakzaamheid and causes it to founder with all hands.
 

@@ -21,7 +21,7 @@ title: Why the Allies Won
 type: book
 ---
 
-Why the Allies Won is a strong, if somewhat repetitive book, that tells the story of the great Allied victory, while also somewhat contradicting its stated thesis.  Overy tries to argue against Whiggish triumphalism and point to the contingency of key battles, and the costly process of learning to fight that lead to turning point victories in 1943, rather than simply gesturing at the immense material imbalance in favor of the Allies and the weaknesses of the Axis command structure. Yet in closing, those two factors are determinate.
+*Why the Allies Won* is a strong, if somewhat repetitive book, that tells the story of the great Allied victory, while also somewhat contradicting its stated thesis.  Overy tries to argue against Whiggish triumphalism and point to the contingency of key battles, and the costly process of learning to fight that lead to turning point victories in 1943, rather than simply gesturing at the immense material imbalance in favor of the Allies and the weaknesses of the Axis command structure. Yet in closing, those two factors are determinate.
 
 The major campaigns are the Battle of the Atlantic, Stalingrad-Kursk, the combined bomber offensive, and finally the invasion of Normandy. In each of these, the Allies went from taking hefty loses, to parity, to eventually achieving an attrition that ripped the heart out of Axis resistance, leading to a long, bloody, and yet inevitable conclusion.
 

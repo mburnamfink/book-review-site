@@ -23,7 +23,7 @@ title: The Tainted Cup
 type: book
 ---
 
-The Tainted Cup is a great twist on the Nero Wolfe mystery, with a unique setting of a biotechnological magic and an empire threatened by kaiju.  Din is an apprentice investigator who has been altered as an engraver, a person with a perfect photographic memory, a skill he uses to compensate for dyslexia.  His boss, Ana, is a deeply strange woman, who spends most of her time locked in her quarters blindfolded because otherwise there is simply too much input for her to think properly.
+*The Tainted Cup* is a great twist on the Nero Wolfe mystery, with a unique setting of a biotechnological magic and an empire threatened by kaiju.  Din is an apprentice investigator who has been altered as an engraver, a person with a perfect photographic memory, a skill he uses to compensate for dyslexia.  His boss, Ana, is a deeply strange woman, who spends most of her time locked in her quarters blindfolded because otherwise there is simply too much input for her to think properly.
 
 When a corrupt Legion officer is murdered in a horrific and novel fashion by a form of bamboo growing right out of his body, Din and Ana are drawn into a deadly game. This first murder is followed by another 10, all of the them engineering officers stationed at the wall that protects the Empire from monsters, and two of the deaths sabotage the wall, enabling a monster to breach the Empire and threatening a fatal wet season. The murders have moved up from the personal to the political, and possibly even the existential. 
 
