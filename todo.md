@@ -11,17 +11,7 @@
 * Factorio?
 
 ## Add Reviews
-* Realis Ashcan
 * The 100 Years War on Palestine
-* The Indifferent Stars Above
-
-# Organizational Improvements
-
-## Fix typos and typology
-* look for my common typos. missing prepositions, -s and -ed at the end of words, homonyms
-* book titles in reviews should be in italics
-* if a book has hyperlinks to another one of my reviews, that should be on my website and not Goodreads
-* if a review has an image, that image should be locally hosted
 
 # New Features
 ## add better social integration 
