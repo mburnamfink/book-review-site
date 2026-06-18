@@ -238,7 +238,7 @@ function esc(str) {
   return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
-function renderItem(r) {
+function renderItem(r, marker) {
   const href     = `/${r.type}/${r.slug}/`;
   const coverUrl = `/${r.type}/${r.slug}/cover.jpg`;
 
@@ -254,8 +254,14 @@ function renderItem(r) {
 
   const starsHtml = r.rating != null ? stars(r.rating) : 'DNF';
 
+  // year divider marker (date sort only) — see placeYearMarkers + .year-marker CSS
+  const markerHtml = marker
+    ? `<span class="year-marker" aria-hidden="true">${esc(marker)}</span>`
+    : '';
+
   return `
-    <div class="review-card">
+    <div class="review-card${marker ? ' has-year-marker' : ''}">
+      ${markerHtml}
       <a href="${esc(href)}">${coverHtml}</a>
       <p class="card-title"><a href="${esc(href)}">${esc(r.title)}</a></p>
       <p class="card-author">${authorHtml}</p>
@@ -313,12 +319,45 @@ function attachListHandlers() {
   });
 }
 
+// A year marker normally floats in the column gap to the left of its card.
+// When that card sits at the start of a row there is no left gap, so fall
+// back to placing the marker above it. Column count is responsive, so this
+// is recomputed after every render and on resize.
+function placeYearMarkers() {
+  const grid = document.getElementById('review-list');
+  if (!grid) return;
+  const first = grid.querySelector('.review-card');
+  const rowStartLeft = first ? first.offsetLeft : 0;
+  grid.querySelectorAll('.review-card.has-year-marker').forEach(card => {
+    card.classList.toggle('year-row-start', Math.abs(card.offsetLeft - rowStartLeft) < 2);
+  });
+}
+
+let _yearMarkerResizeTimer;
+window.addEventListener('resize', () => {
+  clearTimeout(_yearMarkerResizeTimer);
+  _yearMarkerResizeTimer = setTimeout(placeYearMarkers, 120);
+});
+
 function render() {
   const params   = getParams();
   const filtered = filterReviews(reviews, params);
   const sorted   = sortReviews(filtered, params.sort, params.dir);
 
-  document.getElementById('review-list').innerHTML = sorted.map(renderItem).join('');
+  // Insert a year-boundary marker before the first book of each new year.
+  // Only when sorted by date and the list is long enough to be worth it;
+  // works in either direction since `sorted` is already reversed by sortReviews.
+  const showYearMarkers = params.sort === 'date' && sorted.length > 10;
+  const html = sorted.map((r, i) => {
+    let marker = null;
+    if (showYearMarkers && i > 0) {
+      const prevYear = sorted[i - 1].lastReadDate.slice(0, 4);
+      const year     = r.lastReadDate.slice(0, 4);
+      if (prevYear !== year) marker = `${prevYear}│${year}`;
+    }
+    return renderItem(r, marker);
+  }).join('');
+  document.getElementById('review-list').innerHTML = html;
 
   const countEl = document.getElementById('review-count');
   if (countEl) {
@@ -330,6 +369,7 @@ function render() {
 
   updateUI(params);
   attachListHandlers();
+  placeYearMarkers();
 
   // Sync search input without stealing focus
   const searchEl = document.getElementById('search-input');

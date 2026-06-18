@@ -172,6 +172,29 @@ main {
   color: inherit;
 }
 
+/* Year dividers in the date-sorted grid (see placeYearMarkers in index.astro) */
+.review-card { position: relative; }
+
+.year-marker {
+  position: absolute;
+  top: -1.45rem;
+  left: -0.875rem;            /* half of the 1.75rem column gap */
+  transform: translateX(-50%);
+  z-index: 2;
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--text);
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.review-card.year-row-start .year-marker {
+  left: 0;
+  transform: none;
+}
+
 .review-card a:hover { text-decoration: none; }
 .review-card a:hover .card-title { color: var(--accent); }
 
