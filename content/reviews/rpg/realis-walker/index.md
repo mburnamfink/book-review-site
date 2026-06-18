@@ -12,7 +12,6 @@ reads:
 - date_finished: '2025-02-05'
   date_started: '2025-02-01'
   year: 2025
-system: null
 tags:
 - rpg
 - fantasy

@@ -39,10 +39,10 @@ const reviews = defineCollection({
     runtime_hours: z.number().optional(),
     abridged: z.boolean().default(false),
     // rpg
-    system: z.string().optional(),
-    format: z.string().optional(),
+    system: z.preprocess(v => v ?? undefined, z.string().optional()),
+    format: z.preprocess(v => v ?? undefined, z.string().optional()),
     // other
-    medium: z.string().optional(),
+    medium: z.preprocess(v => v ?? undefined, z.string().optional()),
     // bluesky
     bsky_post: z.preprocess(v => v ?? undefined, z.string().optional()),
   }),
