@@ -1,8 +1,8 @@
 ---
 abridged: false
 authors:
-- first: Payne
-  last: Scott
+- first: Scott
+  last: Payne
   role: author
 - first: Scott
   last: Payne
