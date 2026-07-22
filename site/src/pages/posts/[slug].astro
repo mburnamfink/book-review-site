@@ -14,12 +14,17 @@ export async function getStaticPaths() {
 const { entry, allEntries } = Astro.props;
 const { Content } = await render(entry);
 
+// Resolve the optional share image to an absolute URL against `site`.
+const ogImage = entry.data.image
+  ? new URL(entry.data.image, Astro.site).href
+  : undefined;
+
 function formatDate(d: Date) {
   return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 }
 ---
 
-<Base title={entry.data.title} description={entry.data.description}>
+<Base title={entry.data.title} description={entry.data.description} ogImage={ogImage}>
   <div class="index-layout">
     <aside class="sidebar">
       <div class="sidebar-section">
@@ -50,4 +55,28 @@ function formatDate(d: Date) {
       </div>
     </article>
   </div>
+
+  {/* Behavior for the conversation-log blocks; all harmless if none exist */}
+  <script is:inline>
+    // Expand-all / collapse-all toolbar
+    document.querySelectorAll('.chat-controls [data-chat-all]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const open = btn.dataset.chatAll === 'open';
+        document.querySelectorAll('details.claude').forEach((d) => { d.open = open; });
+      });
+    });
+
+    // Copy a prompt's text to the clipboard
+    document.querySelectorAll('.prompt__copy').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const text = btn.parentElement.querySelector('.prompt__text')?.innerText ?? '';
+        try {
+          await navigator.clipboard.writeText(text.trim());
+          btn.textContent = 'copied';
+          btn.classList.add('copied');
+          setTimeout(() => { btn.textContent = 'copy'; btn.classList.remove('copied'); }, 1200);
+        } catch { /* clipboard unavailable */ }
+      });
+    });
+  </script>
 </Base>

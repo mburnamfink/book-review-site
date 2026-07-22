@@ -58,11 +58,14 @@ const booksOfYear = defineCollection({
 });
 
 const posts = defineCollection({
-  loader: glob({ pattern: '*.md', base: './src/content/posts' }),
+  loader: glob({ pattern: '*.{md,mdx}', base: './src/content/posts' }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
     description: z.string().optional(),
+    // Optional social-share image. Root-relative path (e.g. /posts/foo.png)
+    // or absolute URL; resolved against `site` in posts/[slug].astro.
+    image: z.string().optional(),
   }),
 });
 
