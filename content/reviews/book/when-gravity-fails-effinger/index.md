@@ -17,6 +17,7 @@ reads:
 series: Marid Audran
 series_number: 1
 tags:
+- cyberpunk
 - sci-fi
 title: When Gravity Fails
 type: book

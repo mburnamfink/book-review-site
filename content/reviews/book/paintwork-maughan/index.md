@@ -13,6 +13,7 @@ reads:
 - date_finished: 2016-08-26
   year: 2016
 tags:
+- cyberpunk
 - sci-fi
 title: Paintwork
 type: book

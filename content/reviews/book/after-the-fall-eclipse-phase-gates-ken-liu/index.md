@@ -58,6 +58,7 @@ reads:
   year: 2016
 tags:
 - sci-fi
+- cyberpunk
 title: After The Fall (Eclipse Phase)
 type: book
 ---

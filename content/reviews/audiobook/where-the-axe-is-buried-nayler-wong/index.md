@@ -24,6 +24,7 @@ reads:
 runtime_hours: 9.15
 tags:
 - sci-fi
+- cyberpunk
 title: Where the Axe Is Buried
 type: audiobook
 ---

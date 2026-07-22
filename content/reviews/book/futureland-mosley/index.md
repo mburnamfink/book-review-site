@@ -15,6 +15,7 @@ reads:
 - date_finished: 2011-08-20
   year: 2011
 tags:
+- cyberpunk
 - sci-fi
 title: Futureland
 type: book

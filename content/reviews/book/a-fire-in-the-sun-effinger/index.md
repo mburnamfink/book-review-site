@@ -18,6 +18,7 @@ reads:
 series: Marid Audran
 series_number: 2
 tags:
+- cyberpunk
 - sci-fi
 title: A Fire in the Sun
 type: book

@@ -17,6 +17,7 @@ reads:
 series: Jackpot
 series_number: 2
 tags:
+- cyberpunk
 - sci-fi
 title: Agency
 type: book

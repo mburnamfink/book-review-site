@@ -16,6 +16,7 @@ reads:
 series: The Sprawl
 series_number: 3
 tags:
+- cyberpunk
 - sci-fi
 title: Mona Lisa Overdrive
 type: book

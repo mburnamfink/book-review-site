@@ -15,6 +15,7 @@ reads:
 - date_finished: 2015-04-05
   year: 2015
 tags:
+- cyberpunk
 - sci-fi
 title: MaddAddam
 type: book

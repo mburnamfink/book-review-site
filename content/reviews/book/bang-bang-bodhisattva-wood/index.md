@@ -15,6 +15,7 @@ reads:
 - date_finished: 2025-12-30
   year: 2025
 tags:
+- cyberpunk
 - sci-fi
 title: Bang Bang Bodhisattva
 type: book

@@ -27,7 +27,7 @@ type: book
 ---
 *The Lost Soldiers* had a glowing review in either The New Yorker or the London Review of Books, and was available through the library. What I didn't realize is that it's the third book in the series. I can't tell if my indifference is due to missing a bunch of prior characterization or a real issue with the book, but either way, I probably won't find out.
 
-Samson is an unlikely detective in an unlikely time, Kyiv 1919, with the city under Bolshevik control yet threated by anarchist armies, right-wing revanchists, and ordinary bandits. He apparently wound up by the job almost by accident; chasing his dead father's desk which had been requisitioned, he found himself assigned to it as a detective.
+Samson is an unlikely detective in an unlikely time, Kyiv 1919, with the city under Bolshevik control yet threatened by anarchist armies, right-wing revanchists, and ordinary bandits. He apparently wound up in the job almost by accident; chasing his dead father's desk which had been requisitioned, he found himself assigned to it as a detective.
 
 In this, the third book, the case is the disappearance of 28 Red Army soldiers from a bathhouse. Is it murder? Is it political? Is it something worse? Samson has to unravel the case before the Cheka come down on him and the mundane cops.
 

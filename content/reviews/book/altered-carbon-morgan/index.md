@@ -15,6 +15,7 @@ reads:
 - date_finished: 2018-03-17
   year: 2018
 tags:
+- cyberpunk
 - sci-fi
 title: Altered Carbon
 type: book

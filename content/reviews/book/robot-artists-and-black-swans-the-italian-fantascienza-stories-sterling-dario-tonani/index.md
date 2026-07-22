@@ -27,6 +27,7 @@ reads:
 - date_finished: 2021-10-12
   year: 2021
 tags:
+- cyberpunk
 - sci-fi
 title: 'Robot Artists and Black Swans : The Italian Fantascienza Stories'
 type: book

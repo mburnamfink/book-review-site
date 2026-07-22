@@ -716,6 +716,45 @@ hr.divider {
 .review-body p:first-child { margin-top: 0; }
 .review-body img { max-width: 100%; height: auto; }
 
+/* Interview Q&A: question in a blockquote, answer in the following paragraphs.
+   The Q/A markers are generated, so the Markdown carries no inline speaker labels. */
+.review-body blockquote {
+  margin: 2.25rem 0 1.5rem;
+  border: 0;
+  padding: 0;
+  font-style: italic;
+  color: var(--muted);
+}
+.review-body blockquote p:first-child { margin-top: 0; }
+.review-body blockquote p:last-child { margin-bottom: 0; }
+
+.review-body blockquote::before,
+.review-body blockquote + p::before {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+/* Narrow screens (sidebar stacks, no left gutter): inline marker. */
+.review-body blockquote::before { content: "Q — "; font-style: normal; }
+.review-body blockquote + p::before { content: "A — "; color: var(--muted); }
+
+/* Wide screens: hang an oversized serif initial in the left gutter. */
+@media (min-width: 721px) {
+  .review-body blockquote,
+  .review-body blockquote + p { position: relative; }
+  .review-body blockquote::before,
+  .review-body blockquote + p::before {
+    position: absolute;
+    left: -2.75rem;
+    top: -0.3rem;
+    font-size: 2.5rem;
+    line-height: 1;
+  }
+  .review-body blockquote::before { content: "Q"; }
+  .review-body blockquote + p::before { content: "A"; }
+}
+
 /* ── Bluesky integration ── */
 .bsky-section { max-width: 70ch; margin-top: 0.5rem; }
 

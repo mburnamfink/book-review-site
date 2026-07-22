@@ -15,6 +15,7 @@ reads:
 - date_finished: 2015-10-07
   year: 2015
 tags:
+- cyberpunk
 - hugo-award
 - sci-fi
 title: Stand on Zanzibar

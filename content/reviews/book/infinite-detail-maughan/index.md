@@ -15,6 +15,7 @@ reads:
 - date_finished: 2020-10-24
   year: 2020
 tags:
+- cyberpunk
 - sci-fi
 title: Infinite Detail
 type: book

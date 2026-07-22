@@ -14,6 +14,7 @@ reads:
 - date_finished: 2013-01-03
   year: 2013
 tags:
+- cyberpunk
 - sci-fi
 title: Love is Strange
 type: book

@@ -46,6 +46,7 @@ reads:
 tags:
 - rpg
 - sci-fi
+- cyberpunk
 title: 'Eclipse Phase: The Roleplaying Game of Transhuman Conspiracy and Horror (Eclipse
   Phase 1st Edition)'
 type: rpg

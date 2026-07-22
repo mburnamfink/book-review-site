@@ -15,6 +15,7 @@ reads:
 - date_finished: 2025-01-20
   year: 2025
 tags:
+- cyberpunk
 - sci-fi
 title: ORA:CLE
 type: book

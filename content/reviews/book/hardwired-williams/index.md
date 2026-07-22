@@ -15,6 +15,7 @@ reads:
 - date_finished: 2017-09-19
   year: 2017
 tags:
+- cyberpunk
 - sci-fi
 title: Hardwired
 type: book

@@ -15,6 +15,7 @@ reads:
 - date_finished: 2024-07-30
   year: 2024
 tags:
+- cyberpunk
 - sci-fi
 title: Neon Leviathan
 type: book

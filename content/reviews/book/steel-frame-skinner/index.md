@@ -15,6 +15,7 @@ reads:
 - date_finished: 2019-12-18
   year: 2019
 tags:
+- cyberpunk
 - sci-fi
 title: Steel Frame
 type: book

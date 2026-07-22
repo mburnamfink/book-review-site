@@ -15,6 +15,7 @@ reads:
 - date_finished: 2012-02-23
   year: 2012
 tags:
+- cyberpunk
 - fiction
 title: Reamde
 type: book
