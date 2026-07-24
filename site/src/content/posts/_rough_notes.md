@@ -1,5 +1,9 @@
 
-6bcf426a
+---
+title: rough notes
+date: 2024-09-22
+description: Some thoughts on tactical games.
+---
 
 <commentary> I like the Nentir Vale because's built for expansion. I used primarily open sources.
 
