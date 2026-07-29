@@ -2,6 +2,7 @@
 title: "Distraction at 20: An Interview with Bruce Sterling"
 date: 2018-10-26
 description: A companion interview to my Slate piece on Bruce Sterling's Distraction.
+interview: true
 ---
 This piece is a companion to [my article in Slate on Distraction at 20](https://slate.com/technology/2018/10/bruce-sterling-distraction-prescient-sci-fi-novel-20th-anniversary.html), which is my very favorite book and one that everyone should be reading. Bruce was nice enough to answer several questions about the book.
 

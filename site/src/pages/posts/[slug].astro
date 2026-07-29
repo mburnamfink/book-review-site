@@ -45,7 +45,7 @@ function formatDate(d: Date) {
       <time class="post-date" datetime={entry.data.date.toISOString()}>
         {formatDate(entry.data.date)}
       </time>
-      <div class="review-body">
+      <div class:list={['review-body', { interview: entry.data.interview }]}>
         <Content />
       </div>
     </article>

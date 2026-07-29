@@ -63,6 +63,8 @@ const posts = defineCollection({
     title: z.string(),
     date: z.coerce.date(),
     description: z.string().optional(),
+    // Renders top-level blockquotes as interview questions with generated Q/A markers.
+    interview: z.boolean().default(false),
   }),
 });
 
