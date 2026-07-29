@@ -3,6 +3,8 @@ authors:
 - first: S.C.
   last: Gwynne
   role: author
+cover: ./cover.jpg
+og_cover: ./og-cover.jpg
 date_reviewed: '2026-07-28'
 isbn: 978-1982168285
 page_count: 307
