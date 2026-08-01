@@ -18,3 +18,5 @@ tags: []
 title: We Have Never Been Modern
 type: book
 ---
+
+*This review was either never written or the text was lost in a migration. I will return to this book as time and interest allows.*

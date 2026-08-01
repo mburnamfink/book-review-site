@@ -18,3 +18,5 @@ tags: []
 title: 'The Party: The Secret World of China''s Communist Rulers'
 type: book
 ---
+
+*This review was either never written or the text was lost in a migration. I will return to this book as time and interest allows.*

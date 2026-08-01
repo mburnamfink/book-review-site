@@ -19,3 +19,5 @@ tags:
 title: 'Research Methods in Anthropology: Qualitative and Quantitative Approaches'
 type: book
 ---
+
+*This review was either never written or the text was lost in a migration. I will return to this book as time and interest allows.*
