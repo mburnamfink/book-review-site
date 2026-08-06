@@ -23,6 +23,16 @@ const pageTitle = title === siteTitle ? siteTitle : `${title} — ${siteTitle}`;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {/* Set the theme before first paint to avoid a flash of the wrong palette. */}
+    <script is:inline>
+      (function () {
+        try {
+          var stored = localStorage.getItem('theme');
+          document.documentElement.dataset.theme =
+            stored || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        } catch (e) {}
+      })();
+    </script>
     <title>{pageTitle}</title>
     {description && <meta name="description" content={description} />}
     <meta property="og:title" content={pageTitle} />
@@ -47,9 +57,20 @@ const pageTitle = title === siteTitle ? siteTitle : `${title} — ${siteTitle}`;
           <a href="/posts/">Other Posts</a>
           <a href="/about/">About</a>
         </nav>
-        <form class="header-search" action="/" method="get">
-          <input type="search" id="search-input" name="q" class="header-search__input" placeholder="Search by title or author…" autocomplete="off" />
-        </form>
+        <div class="site-header__controls">
+          <form class="header-search" action="/" method="get">
+            <input type="search" id="search-input" name="q" class="header-search__input" placeholder="Search by title or author…" autocomplete="off" />
+          </form>
+          <button type="button" id="theme-toggle" class="theme-toggle" aria-label="Toggle color theme">
+            <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="4" />
+              <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41" />
+            </svg>
+            <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+            </svg>
+          </button>
+        </div>
       </div>
     </header>
 
@@ -60,5 +81,21 @@ const pageTitle = title === siteTitle ? siteTitle : `${title} — ${siteTitle}`;
       <a href="/">Burrowed Books</a>
       <span>&copy; {new Date().getFullYear()} Michael Burnam-Fink. All rights reserved.</span>
     </footer>
+    <script>
+      const btn = document.getElementById('theme-toggle');
+      const root = document.documentElement;
+      const sync = () => {
+        const dark = root.dataset.theme === 'dark';
+        btn.setAttribute('aria-label', dark ? 'Switch to light theme' : 'Switch to dark theme');
+        btn.setAttribute('aria-pressed', String(dark));
+      };
+      sync();
+      btn.addEventListener('click', () => {
+        const next = root.dataset.theme === 'dark' ? 'light' : 'dark';
+        root.dataset.theme = next;
+        try { localStorage.setItem('theme', next); } catch (e) {}
+        sync();
+      });
+    </script>
   </body>
 </html>
