@@ -15,6 +15,7 @@ reads:
 - date_finished: 2011-07-19
   year: 2011
 tags:
+- cyberpunk
 - sci-fi
 title: Rule 34
 type: book

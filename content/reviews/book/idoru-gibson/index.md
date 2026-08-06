@@ -17,6 +17,7 @@ reads:
 series: The Bridge
 series_number: 2
 tags:
+- cyberpunk
 - sci-fi
 title: Idoru
 type: book

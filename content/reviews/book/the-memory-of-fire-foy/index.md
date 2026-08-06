@@ -15,6 +15,7 @@ reads:
 - date_finished: 2015-03-01
   year: 2015
 tags:
+- cyberpunk
 - sci-fi
 title: The Memory of Fire
 type: book

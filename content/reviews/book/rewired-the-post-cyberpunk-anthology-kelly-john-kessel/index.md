@@ -66,6 +66,7 @@ reads:
 - date_finished: 2014-05-23
   year: 2014
 tags:
+- cyberpunk
 - sci-fi
 title: 'Rewired: The Post-Cyberpunk Anthology'
 type: book

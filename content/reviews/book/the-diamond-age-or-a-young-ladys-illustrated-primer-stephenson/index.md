@@ -15,6 +15,7 @@ reads:
 - date_finished: 2016-06-25
   year: 2016
 tags:
+- cyberpunk
 - hugo-award
 - sci-fi
 title: 'The Diamond Age: Or, a Young Lady''s Illustrated Primer'

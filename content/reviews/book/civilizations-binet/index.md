@@ -25,7 +25,7 @@ tags:
 title: 'Civilizations: A Novel'
 type: book
 ---
-*Civilizations* is an ironic alternative history. Starting with the divergence of a more successful viking Vineland expedition, the peoples of the New World have iron working, horses, and some immunity to smallpox and similar diseases. When Columbus shows up, his little adventure is overwhelmed and he dies a lonely failure in Cuba. No other Europeans cross the Ocean Sea.
+*Civilizations* is an ironic alternative history. Starting with the divergence of a more successful viking Vinland expedition, the peoples of the New World have iron working, horses, and some immunity to smallpox and similar diseases. When Columbus shows up, his little adventure is overwhelmed and he dies a lonely failure in Cuba. No other Europeans cross the Ocean Sea.
 
 40 years later, the historical Inca civil war between Atahualpa and Huascar ends very differently. In our timeline, Atahualpa won a bloody victory and then was ambushed, captured, and killed by Pizarro. In this timeline, he flees to Cuba where he discovers the wrecks of Columbus' ships. He constructs new caravels and heads into the rising sun.
 

@@ -14,6 +14,7 @@ rating: 5.0
 reads:
 - year: 2025
 tags:
+- cyberpunk
 - sci-fi
 title: The Mountain in the Sea
 type: book

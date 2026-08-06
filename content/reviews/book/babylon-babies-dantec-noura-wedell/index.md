@@ -18,6 +18,7 @@ reads:
 - date_finished: 2012-06-21
   year: 2012
 tags:
+- cyberpunk
 - sci-fi
 title: Babylon Babies
 type: book

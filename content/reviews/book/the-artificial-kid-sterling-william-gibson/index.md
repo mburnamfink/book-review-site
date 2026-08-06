@@ -18,6 +18,7 @@ reads:
 - date_finished: 2013-07-20
   year: 2013
 tags:
+- cyberpunk
 - sci-fi
 title: The Artificial Kid
 type: book

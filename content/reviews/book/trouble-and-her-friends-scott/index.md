@@ -13,7 +13,9 @@ publisher: Tor Science Fiction
 rating: 4.0
 reads:
 - year: 2023
-tags: []
+tags:
+- cyberpunk
+- sci-fi
 title: Trouble and Her Friends
 type: book
 ---

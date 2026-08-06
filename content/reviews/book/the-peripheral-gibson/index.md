@@ -17,6 +17,7 @@ reads:
 series: Jackpot
 series_number: 1
 tags:
+- cyberpunk
 - sci-fi
 title: The Peripheral
 type: book

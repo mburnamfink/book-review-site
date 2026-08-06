@@ -14,6 +14,7 @@ rating: 5.0
 reads:
 - year: 2022
 tags:
+- cyberpunk
 - sci-fi
 title: Void Star
 type: book

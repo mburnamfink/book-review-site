@@ -1,20 +1,32 @@
 ---
 import { getCollection, render } from 'astro:content';
+import { existsSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
 import Base from '../../layouts/Base.astro';
 import { seriesSlug } from '../../lib/series';
 
 export async function getStaticPaths() {
   const reviews = await getCollection('reviews');
+  // Cover assets live beside each review's index.md, at ../content/reviews
+  // relative to the project root. Gate rendering on the file actually being
+  // present rather than on frontmatter, so a cover always shows when its file
+  // exists and we never emit an <img> pointing at a missing file.
+  const contentBase = new URL('../../../../content/reviews/', import.meta.url);
   return reviews.map(review => {
-    const parts = review.id.split('/');
+    const [type, slug] = review.id.split('/');
+    const dir = new URL(`${type}/${slug}/`, contentBase);
     return {
-      params: { type: parts[0], slug: parts[1] },
-      props: { review },
+      params: { type, slug },
+      props: {
+        review,
+        hasCover: existsSync(fileURLToPath(new URL('cover.jpg', dir))),
+        hasOgCover: existsSync(fileURLToPath(new URL('og-cover.jpg', dir))),
+      },
     };
   });
 }
 
-const { review } = Astro.props;
+const { review, hasCover, hasOgCover } = Astro.props;
 const { type, slug } = Astro.params;
 let Content: any;
 try {
@@ -71,13 +83,13 @@ const description = d.authors.length
   : `A review of ${d.title}.`;
 ---
 
-<Base title={d.title} description={description} ogImage={d.og_cover ? ogCoverUrl : undefined}>
+<Base title={d.title} description={description} ogImage={hasOgCover ? ogCoverUrl : undefined}>
   <h1 class="review-title">{d.title}</h1>
   <p class="review-byline">by {authorLine(d.authors)}</p>
 
   <div class="review-sidebar">
     <div class="review-cover-wrap">
-      {d.cover
+      {hasCover
         ? <img class="review-cover-img" src={coverUrl} alt={`Cover of ${d.title}`} />
         : <div class="cover-placeholder" style="aspect-ratio: 2/3; font-size: 0.9rem;">{d.title}</div>
       }

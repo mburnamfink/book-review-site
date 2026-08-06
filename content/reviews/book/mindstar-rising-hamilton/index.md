@@ -15,6 +15,7 @@ reads:
 - date_finished: 2011-12-29
   year: 2011
 tags:
+- cyberpunk
 - sci-fi
 title: Mindstar Rising
 type: book

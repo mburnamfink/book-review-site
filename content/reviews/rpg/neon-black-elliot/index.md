@@ -13,6 +13,7 @@ reads:
 tags:
 - rpg
 - sci-fi
+- cyberpunk
 title: Neon Black
 type: rpg
 ---

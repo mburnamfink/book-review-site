@@ -17,6 +17,7 @@ reads:
 series: Blue Ant
 series_number: 3
 tags:
+- cyberpunk
 - sci-fi
 title: Zero History
 type: book

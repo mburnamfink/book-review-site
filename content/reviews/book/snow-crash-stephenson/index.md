@@ -15,6 +15,7 @@ reads:
 - date_finished: 2012-08-14
   year: 2012
 tags:
+- cyberpunk
 - sci-fi
 title: Snow Crash
 type: book

@@ -21,3 +21,5 @@ tags:
 title: Woman on the Edge of Time
 type: book
 ---
+
+*This review was either never written or the text was lost in a migration. I will return to this book as time and interest allows.*

@@ -20,6 +20,8 @@ reads:
 - year: 2025
 tags:
 - rpg
+- sci-fi
+- cyberpunk
 title: 'Sinless: Chrome & Sorcery Table Top Role Playing Game'
 type: rpg
 ---

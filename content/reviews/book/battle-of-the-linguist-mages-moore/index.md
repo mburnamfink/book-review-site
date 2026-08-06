@@ -15,6 +15,7 @@ reads:
 - date_finished: 2022-06-04
   year: 2022
 tags:
+- cyberpunk
 - sci-fi
 title: Battle of the Linguist Mages
 type: book

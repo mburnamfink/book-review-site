@@ -15,6 +15,7 @@ reads:
 - date_finished: 2014-12-05
   year: 2014
 tags:
+- cyberpunk
 - sci-fi
 title: Vacuum Flowers
 type: book

@@ -16,6 +16,7 @@ reads:
   year: 2012
 - year: 2021
 tags:
+- cyberpunk
 - sci-fi
 title: Involution Ocean
 type: book

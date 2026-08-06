@@ -15,6 +15,7 @@ reads:
 - date_finished: 2013-01-31
   year: 2013
 tags:
+- cyberpunk
 - sci-fi
 title: vN
 type: book

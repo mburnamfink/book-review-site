@@ -14,6 +14,7 @@ reads:
 - date_finished: 2024-03-11
   year: 2024
 tags:
+- cyberpunk
 - sci-fi
 title: 36 Streets
 type: book

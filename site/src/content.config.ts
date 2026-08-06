@@ -66,6 +66,8 @@ const posts = defineCollection({
     // Optional social-share image. Root-relative path (e.g. /posts/foo.png)
     // or absolute URL; resolved against `site` in posts/[slug].astro.
     image: z.string().optional(),
+    // Renders top-level blockquotes as interview questions with generated Q/A markers.
+    interview: z.boolean().default(false),
   }),
 });
 

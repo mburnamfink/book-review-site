@@ -16,6 +16,7 @@ reads:
   year: 2016
 - year: 2011
 tags:
+- cyberpunk
 - sci-fi
 - hugo-award
 title: The Windup Girl

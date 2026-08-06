@@ -21,6 +21,7 @@ reads:
 tags:
 - sci-fi
 - rpg
+- cyberpunk
 title: Hard Wired Island
 type: rpg
 ---

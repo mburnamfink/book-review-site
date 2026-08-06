@@ -17,6 +17,7 @@ rating: 4.0
 reads:
 - year: 2021
 tags:
+- cyberpunk
 - sci-fi
 title: The Difference Engine
 type: book
