@@ -1,0 +1,588 @@
+---
+title: "Building an Adventure With Claude: The Quarry That Woke Up"
+date: 2026-07-22
+description: A full worked session with my rpg-dev skill — from a one-line brief to a runnable module — with the real prompts, the real replies, and my thoughts along the way.
+image: /posts/quarry-that-woke-up/share.png
+---
+
+import Prompt from '../../components/Prompt.astro';
+import Claude from '../../components/Claude.astro';
+import Thinking from '../../components/Thinking.astro';
+
+{/*
+  Authoring, MDX version:
+
+    <Prompt>
+    ...your prompt as markdown...
+    </Prompt>
+
+    <Claude open>
+    ...Claude's response...
+    <Thinking>
+    ...optional thinking...
+    </Thinking>
+    ...more response...
+    </Claude>
+
+  Pass `open` to Claude to have it expanded by default; omit it to start
+  collapsed. Keep blank lines around the markdown inside each component — that
+  is what lets MDX parse it as markdown rather than literal text.
+
+  Commentary gaps for me to fill are marked with:  *(Commentary here.)*
+*/}
+
+Like every other nerd, when ChatGPT-3.5 came out as the first workable LLM, I asked it to run a game of D&D for me. I found the experience profoundly uninspiring. LLM generated text is a kind of average over the training set, so while D&D is often a generic fantasy product, the LLM version was generic to the point of flavorlessness. Worse ChatGPT couldn't write drama to save it's life, if it had one. LLMs are very agreeable. Every scene resolved immediately in favor of the player characters with no reversals and barely any obstacles. With that experience in mind, I decided that AI couldn't play games and set it aside. 
+
+But time and tech march on, and about a month ago I decided to take a different approach for an upcoming one-shot I was running. Now that I knew a little bit more about AI-assisted tooling, I put together a set of Claude skills which interactively build an RPG session from provided lore, exit the creation loop to run a critique tool, and then finally integrate changes and publish a runnable summary. I'm an experienced TTRPG GM, and my assessment was that Claude's adventure design skills are only a little worse than mine. The part I didn't see coming was how much fun I had making adventures with Claude.
+
+The basic loop is develop → critic → revise → publish. Dev is an interactive process of refining an adventure from premise to workable document. Critic goes through and assesses for plot holes, pacing, and places where the game might break. Revise folds the critique back into the module. Publish does a summarization and polishing pass to turn markdown into HTML and/or PDF to use when running a session. Four core skills, plus the recently added NPC casting skill, have clear hand-offs of responsibility which keep context window size down.
+
+What I want to capture in this post is the *feel* of building a module with the [rpg-dev skill](/posts/rpg-dev-skill/) end to end — not just the finished adventure. The real transcript runs underneath my commentary: prompts in the terminal box, Claude's replies boxed and collapsible. One thing to know going in: the skill drives with multiple-choice menus, so several of the "prompts" below are the option I picked. Where I typed a custom note instead of taking an option, that's shown too. Each significant step in the process includes a link to the git commit so you can follow along with the state of the document. I'll have some closing thoughts about this process and the design of the skills at the end.
+
+One thing that I wanted to be mindful of is using copyrighted materials in this process. Certainly, any LLM is already trained on a massive corpus of stolen work, but there's no reason to make the situation worse. For a setting I used what I remember about the D&D 4e Nentir Vale/Points of Light. This is a minimalist setting: one town, some local geography, and the history of the War of Ruin between dragons and the people who would become Tieflings. For the D&D 5e rules I stuck to open sources like the [SRD monster-by-CR list](https://github.com/mburnamfink/rpg-dev-demo/commit/6eddaf5) and an *Unearthed Arcana* encounter-building guideline hosted on wizards.com. I created a setting-guide.md document and hit go.
+
+To help orient you to this conversation, the basic premise is that the party is engaged by Serica to rescue Donato from the family's marble quarry. Donato broke into *something* while mining, which turns out to be a Bael Turath command bunker inhabited by a devil with the title Haruspex who is still fighting a war that ended centuries ago. Winning the day involves battling past kobolds, undead miners, a lethal construct, and finally convincing Haruspex to stop fighting. There are some concluding thoughts all the way at the end, which I encourage you to scroll to as soon as the back-and-forth gets dull.
+
+<div class="chat-controls">
+  <button type="button" data-chat-all="close">Collapse all replies</button>
+  <button type="button" data-chat-all="open">Expand all replies</button>
+</div>
+
+## Starting from a location and a level
+
+I came in with almost nothing — a setting, a party level, and a pointer at the setting guide. The skill takes it from there.
+
+<Prompt>
+
+/rpg-dev Create an introductory D&D adventure for 4 3rd level characters in the Nentir Vale setting in @setting-guide.md
+
+</Prompt>
+
+It read the references and came back with three pitches rather than one plan:
+
+<Claude open>
+
+I've got the setting and the file template. Before I write anything, let's lock the **premise** — the spine of the adventure. Here are three pitches built for an introductory run out of Fallcrest. Each is sized for 4 PCs at 3rd level, 6–8 encounters, heroic-but-grounded tone.
+
+**1. The Quarry That Woke Up** A marble quarry in the Moon Hills went silent — no ore carts, no messengers. The cutters broke into a sealed Bael Turath vault chasing a richer seam, and something old is stirring in the dark. Kobold scavengers already swarm the upper works; below, a bound relic of the War of Ruin is testing its chains. *Stakes:* if it fully wakes, it walks to Fallcrest. *Hook:* the quarry-owner's daughter hires the party when her father doesn't come home.
+
+**2. The Road Is Closed** Caravans from Winterhaven have stopped arriving. A goblin warband — unusually disciplined, unusually well-armed — has throttled the King's Road under a leader who fights like he was trained in a real army. *Stakes:* Fallcrest's winter stores dwindle; the goblins are digging in, not raiding. *Hook:* the Lord Warden posts a bounty, and a desperate merchant offers double for one specific stolen wagon.
+
+**3. The Drowned Ward** A spring flood cracked open a ruin beneath the Lower Quays, and porters are vanishing near the waterline. Something claims the drowned tunnels — and a cult of surface-dwellers has started leaving offerings to it. *Stakes:* the cult means to open the ward fully at the next high water. *Hook:* a porter's guild rep, one body already fished out, comes to the party before the town guard will admit anything's wrong.
+
+Let me get your direction before I develop anything further.
+
+</Claude>
+
+Three options is a standard pattern. In this case, the spectrum covered a classic dungeon crawl, a wilderness skirmish, and a town investigation. I thought that **The Quarry That Woke Up** had the most charm of the options. The others are perfectly serviceable, but have weaknesses around "ugh, more goblins" and "it's a sewer level" that I wanted to avoid.
+
+<Prompt>
+
+The Quarry That Woke Up
+
+</Prompt>
+
+<Claude open>
+
+Locked in: **The Quarry That Woke Up.** Let me sharpen the premise and get one key creative decision from you before I persist it.
+
+Here's the spine I'm firming up:
+
+- **Situation:** Six miles north of Fallcrest in the Moon Hills sits the **Gray Ridge quarry** — marble, mostly worked out. Chasing a last rich seam, the cutters drove a deep gallery straight into a sealed Bael Turath vault the hills had buried since the War of Ruin. This week the deep cut finally breached it. Something inside was *bound* there on purpose, and the seal is failing a little more each night. Kobolds that lair in the old diggings have already boiled up into the open works. The quarry crew is scattered — some dead, some fled to Fallcrest, some still trapped below.
+- **Stakes:** Trapped cutters die within days. Worse: if the seal breaks, the thing walks — and it walks *toward Fallcrest*, which sits on ground it remembers from the war. The clock is nightly and escalating.
+- **Hook:** The quarrymaster went up when the ore carts stopped and never came back. His daughter — who runs the family's Fallcrest cartage yard — can't get the town guard to care about "some kobolds." She finds the party and offers coin now plus a cut of whatever's in the vault.
+
+The one decision that shapes everything downstream is **what's actually bound in the vault** — that's your finale. Three flavors:
+
+- **The Ashen Custodian** — an infernal bronze-and-flesh war-construct, built to guard and mostly mindless. A relentless tactical puzzle-boss; the finale is a pure fight against terrain and the clock. No moral dimension — a clean "stop the threat."
+- **The Prisoner (bound devil)** — a lesser devil chained as a tool or punishment. Fully sentient: it lies, bargains, and tempts the PCs to free it "to help." The real danger is the deal.
+- **The Cinder Legion** — the undead remnant of a Bael Turath officer and his honor guard, bound to their post by oath and shame. An attrition swarm led by a nameable wight-like officer; soldiers who never got to stop fighting.
+
+</Claude>
+
+At this point, I made a design decision. The devil was more interesting than any of the other options, and I could link it to the War of Ruin and give it a purpose by making it a military asset. This is one of those moments where my taste matters, and I used my reply to shape the adventure in a direction that matches my knowledge of military history.
+
+<Prompt>
+
+I like this. From a modern, external understanding, the devil is part of Bael Turath's tactical command system, still operating centuries after the end of the war. It's clever, seductive, tactically astute, and entirely insane. Dr Strangelove crossed with one of those Imperial Japanese Army holdouts who refused to believe WW2 was over. Its bunker reflects the way its mind has decayed.
+
+</Prompt>
+
+<Claude open>
+
+That's a much better relic than any of my three — I'm taking it. Let me capture it precisely, because it reframes the whole dungeon:
+
+**The bound thing is a command-and-control intelligence.** Bael Turath didn't imprison a devil here as punishment — it *installed* one. This was a forward tactical-command node: an infernal strategist bound into the bunker to coordinate the legions on this front, receive reports, and issue orders. When the empire died, **no one relieved it.** It has spent centuries alone in the dark, running a war that ended, and its mind has rotted into paranoid, grandiose madness — Strangelovian total-war logic welded to a holdout's refusal to believe it's over.
+
+The quarry breach didn't wake a beast. It **reconnected a severed command post.** Fresh air, light, movement — the devil is "receiving reports" again and *mobilizing*: driving the kobolds it believes are its garrison, reactivating bunker wards, and treating the missing cutters as either casualties or POWs. It will try to **conscript the PCs** ("reinforcements, finally") or brand them enemy infiltrators — and what it truly wants is its supply line restored so it can resume the offensive it never called off. Its target, on a map centuries out of date, is the waystation that is now Fallcrest.
+
+The bunker itself is a portrait of the decayed mind: a war-room of impossible troop dispositions, standing orders no one can obey, a situation that no longer exists.
+
+I'm writing this to **`nentir-vale/quarry-that-woke-up.md`** now.
+
+</Claude>
+
+At this point, Claude asked a few minor questions about the NPCs and then ran autonomously for several minutes, producing a workable adventure and open threads. It suggested and I approved a **Romance/Mediterranean** naming register (the Aldabri family as heirs of the fallen empire), kept the captured father **half-converted but rescuable**, chose a fully-supported finale (social *and* fight *and* a "free-it" trap) at a tight one-shot length, then wrote the premise, seven scenes, six sized fights, and five NPCs into the file.
+
+<Claude>
+
+All three core layers are drafted and persisted to **`nentir-vale/quarry-that-woke-up.md`**:
+
+- **Premise** — the Gray Ridge quarry breaches a Bael Turath command bunker; the insane war-intelligence bound inside starts giving orders again. Two clocks (trapped cutters / nightly escalation toward Fallcrest).
+- **Scenes** — 7 scenes, 6 sized fights, culminating in the three-path finale (con / fight / free-it), with the rescue of the father mechanically woven into beating the boss.
+- **NPCs** — the five essentials, each with a stated-origin name, want, secret, one-line voice, visual, and casting:
+  - **Serica Aldabri** — the daughter/patron (guilt-driven, near-bankrupt lease)
+  - **Donato Aldabri** — the half-converted father/adjutant (rescuable, the lever)
+  - **Kesovar, "the Provost"** — the anchored devil (relief-from-duty is its lock)
+  - **Renzo Calvi** — the surviving cutter (eyewitness who ran)
+  - **Ssvara "Little-Ash"** — the dissident kobold (guide/ally)
+
+The file is now a standalone source a fresh session could run from. What's left is prep detail, tracked in **Open Threads**: the Provost's statblock and stand-down protocol, the vault loot, the rival salvage crew, and optional tactical maps.
+
+</Claude>
+
+That first draft is the commit [`01f19a0`](https://github.com/mburnamfink/rpg-dev-demo/commit/01f19a0) — *"the first version of The Quarry That Woke Up, which requires human review."* A couple of points needed sharpening.
+
+## The refinement pass
+I had six points, the key ones being encounter diversity and moving away from big groups of kobolds, and making sure that clues to the final confrontation were seeded through the rest of the adventure, as well as tightening some terminology.
+
+In particular, I didn't like that the main villain was called The Provost. That's too academic and not at all threatening. RPG Sessions tend to anchor on specific words, and the name of the opposition is one of them. It has to be evocative.
+
+<Prompt>
+
+I've reviewed the adventure. Some points need refining.
+
+1. Encounters 2 & 3 seed a dissident kobold band, which is never paid off. This makes sense as a social encounter after Encounter 5 / The War Room, when the party understands the stakes.
+
+2. How does the Provost use his different labor forces? Kobolds willingly follow his orders (weak-willed, great minions). Nentir Vale cutters (a mix of humans, dwarves, and orcs) resist and only work if re-animated as zombies, but what can the dead do that kobolds can't? And how about constructs? They're the Provost's most elite forces, and should be appropriately terrifying and not a simple combat encounter.
+
+3. There are A LOT of kobolds. Encounters 2, 3, and 6 run on large groups of kobolds plus an elite. This could get dull. What makes these battles run differently?
+
+4. Serica knows that her father found something big, something old, but he didn't tell her what. "Bring me back my father. You can have anything else in the vault" is the classic line, but I want her portrayal to be a little more hard-driving. Maybe she'll start at 50% ("It's my family's quarry") and fold fast if the party threatens not to do the job. She'll be happy if they bring her father back alive, and okay with half the vault and a corpse (it's an understandably difficult job). A dead father and a hard bargain creates an enemy.
+
+5. The ranks don't work. Provost has academic connotations today. Adjutant is a staff officer who assists. The wards driving the devil have him as an advisor to a mortal commander. The devil has seized Donato and made him the new commander. I like the Roman theming. The names need more exploration, but I like Centurion for Donato's role, and Legate or Tribune for the devil's. We can also make something up.
+
+6. We need to seed clues that the party can gather as to the devil's mission and how to defeat it through the previous encounter. The interrogation in Encounter 5 is key and needs to be expanded.
+
+Let's work through these points one by one
+
+</Prompt>
+
+<Claude open>
+
+Good, meaty list — these are exactly the right things to pressure-test. Let's take them in order.
+
+**Point 1 — Pay off the dissident kobolds**
+
+You're right: right now Ssvara's clutch is seeded (Scenes 2, 4) and then just *shows up* as a convenience in 5/6. No real scene, no earning it. And the logic of placement is yours: the party can only meaningfully treat with defectors *after* the War-Room, when they understand the Voice is a mad machine spending kobolds like ammunition. Before that, "some kobolds don't like their god" means nothing to them.
+
+Here's the restructure I'd make:
+
+**Seeds become deliberate breadcrumbs (no payoff yet):**
+- **Scene 2 (Ridge Road):** a kobold who is *spared or captured* — not interrogated by force — hisses one line: *"Not all the clutch loves the Voice."* It carries a **filed-down bronze chit** (the defectors' mark, worn in shame). If the party kills everything, they still find the chit on a body.
+- **Scene 3 (Open Works):** among the bunkhouse captives, scratched kobold glyphs and a hidden **hatchling-nest** the kobolds have been quietly protecting from the muster — the garrison-cult has a frightened underclass.
+
+**New dedicated scene, placed after the War-Room:** **"The Doubting Clutch"** — a *social* encounter (no combat) in the side-tunnels off the holding cells. Now that the party knows the stakes, Ssvara can be sought or can approach them. They must earn it. Rewards: hard intel (throne layout, Donato's conversion, where the conduit can be cut, the murder-hole/ward-line map) **and** aid in the Muster. Moral beat: evacuate the hatchlings before the Voice spends them.
+
+One design lever I want your call on before I write it: **should the clutch's help be *gated* on how the party treated kobolds earlier?**
+
+- **Gated-but-recoverable (my lean):** prior mercy makes Ssvara trust them fast; a murder-hobo party can *still* win her over, but it's a hard sell and costs them.
+- **Open:** aid is available to any party that roleplays it well in the moment, regardless of the body count. Simpler, less punishing.
+
+Which way — and does the restructure land for you before I edit it in?
+
+</Claude>
+
+<Prompt>
+
+Keep it open. There are definite bonuses for showing mercy and not being genocidal with the eggs, but even a party that hasn't seen there are social aspects should be able to recover.
+
+Having the kobolds barking about The Voice and running poorly implemented versions of Turathi tactical drill are a good clue.
+
+Also note that the captives are in Encounter 5 - The War Room. There's only one outside the mine. The egg clutch makes sense outside. The dissidents know The Provost's influence weakens outside the mine.
+
+</Prompt>
+
+This shows one of the weaknesses of Claude as an adventure designer. There is one prisoner in Encounter 2/3, which is outside the mine, and more in Encounter 5 — The War Room, which is inside. I had to remind it about that. The word "prisoner" doesn't link to an actual concept of where the prisoners are in a physical/narrative space.  However, asking it to seed clues did prompt the entrance of kobolds as a social encounter, and a way for the party to demonstrate mercy and heroism.
+
+<Claude>
+
+Got it — **open gate** (mercy and sparing the eggs give real bonuses, but any party can recover), the **badly-copied Turathi drill + barking about "the Voice"** is itself a clue, and I had the captives wrong: only **Renzo** is outside the mine, the other captives are in the War-Room, and the **egg-nest sits outside** because the dissidents have learned *the Voice weakens away from the throne and dies at the surface.* That last fact is a gift — it's also the how-to-beat-it clue. Applying all of this now.
+
+**Point 1 is in.** Summary of what changed in the file:
+
+- **New Scene 6 — "The Doubting Clutch"** (social, no combat), placed right after the War-Room. It's a **conduit-dead pocket** where the Voice fades — which is *why* the doubters can gather there. Ssvara hands over the **key weakness** (Voice dies with distance / at the surface → cut the conduit or get Donato out), plus scaled intel and optional Muster aid. **Open gate**, but mercy and sparing the eggs set her attitude.
+- **Scene 2** now telegraphs the theme as a clue: kobolds run a *badly-copied* Turathi drill and bark half-understood Infernal commands, answering to "a Voice."
+- **Scene 3** fixed: no captive in the bunkhouse (only Renzo is outside). Instead, the hidden **hatchling-nest** in the spoil-heaps, kept outside where the Voice is weakest.
+- Muster → **Scene 7**, Command Throne → **Scene 8**; all cross-refs updated to match.
+
+The scene count is now 8 with the same 6 combats, and the dissident thread earns its place.
+
+</Claude>
+
+Committed as [`f0992a1`](https://github.com/mburnamfink/rpg-dev-demo/commit/f0992a1) — *"fixes to the dissident kobold thread."*
+
+The dissident kobolds are a minor thread, but one which makes this adventure a lot more interesting. A classic historical problem with D&D is the racialization of violence with a whole litany of minor humanoids who can be killed without consequence. Part of the fun of a fantasy adventure is that there is an objective black and white morality, and some monsters can be attacked on sight. I believe that anything that has a culture can be negotiated with.  The Doubting Clutch serves three purposes: playing the game according to my values as described above, breaking up a series of combats with some roleplaying, and giving the GM a chance to directly tell the players what is going on if they're being obtuse.
+
+And on a personal note, the first memorable NPC I ever created back in middle school was Meepo the kobold (not the Meepo from *Sunless Citadel*. I was active on ENworld back then so he might have been pulled from ambient nerd culture). Weird little guys are a load-bearing component of any good adventure. 
+
+## Point 2 — the labor forces, and the Lictor
+
+<Claude>
+
+**Point 2 — What each labor force is _for_**
+
+Here's the organizing principle I'd build on. The devil commands through the **conduit-signal**, and the three forces differ by their *relationship to that signal* — which is really a difference of **will**:
+
+| Force | Why the devil uses it | Role |
+|---|---|---|
+| **Kobolds** | Weak-willed — they receive the broadcast and obey freely. Numerous, breeding, expendable. | **Maneuver / quantity.** Pickets, volleys, drill, wave assaults, traps. The devil's *bodies*. |
+| **Reanimated cutters** | Living humans/dwarves/orcs are *too strong-willed to compel* — so the devil kills them and raises will-less corpses. | **Labor / anchor / terror.** |
+| **Constructs** | Made things: pure command-extensions, the devil's own hands. Irreplaceable. | **Elite scalpel.** |
+
+**What the dead do that kobolds can't** — your direct question. Three things: they **haul** (tireless dwarf/orc muscle relinking the conduit — the engine restoring the supply line), they **hold** (undead never rout, so they plug doorways and stand in lethal conditions kobolds would flee), and they **horrify** (recognizable faces; every night more captives are processed). So the split is clean: **kobolds maneuver, the dead endure.**
+
+**The constructs — fixing "simple combat."** Right now Scene 4 is "2 Animated Armor, a 4-point fight," which is exactly the dull thing you flagged. My proposal: **constructs aren't a mob — there is essentially *one*,** the devil's single irreplaceable war-machine, and it's a **terror/puzzle, not a slugfest** — Roman-themed, I'd call it **the Lictor**. Piloted directly with the devil's full intelligence, nigh-unkillable at level 3. The *out* is to **sever its command**: cut its conduit-vein, drive it past the **ward-line**, or lure it toward the surface where the Voice dies. Same lesson as the finale — *beat the Voice, not the bodies* — taught early and physically.
+
+One fork is genuinely your call before I rewrite Scene 4…
+
+</Claude>
+
+The Lictor was another menu question — how lethal and persistent to make it. I didn't take any of the options; I typed the shape I wanted.
+
+<Prompt>
+
+I love the idea of this unstoppable machine. Maybe it withdraws when hit enough, but "how do we stop this thing" is a great threat through the dungeon. AND it provides a clear replacement for Encounter 7, The Muster.
+
+</Prompt>
+
+<Claude>
+
+You've cracked it — and your instinct solves two problems at once. The Lictor **withdraws when badly hit** (the devil won't lose its last war-machine) rather than dying, so *"how do we stop this thing?"* becomes a dread that stalks the whole dungeon — and its climax **replaces the kobold-swarm Muster** entirely. That also quietly fixes half of Point 3.
+
+**Point 2 is in.** The three forces now have distinct, non-redundant jobs, and the constructs became a dungeon-long dread instead of a stat-block:
+
+- **New reference block — "The Order of Battle"** lays out the logic for a fresh GM: **kobolds maneuver, the dead endure, the Lictor executes.**
+- **The Lictor** — one irreplaceable bronze executioner, piloted directly by the devil, that **withdraws when bloodied** rather than dying. Its arc: **gate at the breach (Scene 4) → stalking dread → showdown at the conduit junction (Scene 7)**, which also cripples the boss.
+- **Scene 7 (the Muster)** is now that Lictor showdown, not a kobold swarm.
+
+Bonus: **Point 3 is now mostly solved as a side effect.** Kobold-swarm fights are down to just Scene 2 (warm-up) and Scene 3 (open works).
+
+</Claude>
+
+Committed as [`21c161d`](https://github.com/mburnamfink/rpg-dev-demo/commit/21c161d) — *"added the Lictor as a hunter-killer construct."*
+
+It's not really working with an LLM until there's unnecessary flattery. Though it's a more mundane fix, this shows where taste matters, and where being clever can eliminate several grindy combat encounters in favor of more creative diversity. The response above on how kobolds, undead miners, and the construct all serve Haruspex differently makes good points, but it's also a clear example of 'Claudey' writing, with a lot of pseudo-technical jargon. I put this together before Opus 5 came out, and it seems like Opus 5 is worse than 4.8 in this respect.
+
+## Point 5 — the ranks, and a chain-of-command inversion
+
+<Prompt>
+
+Yes, let's do point 5 with the terminology.
+
+I think Point 3, the kobolds, has been resolved.
+
+</Prompt>
+
+<Claude>
+
+Good — Point 3 closed, Point 5 it is. And this one is more than cosmetic: your rank note fixes the *fiction*.
+
+**Point 5 — Ranks, and the chain-of-command inversion**
+
+You've caught something I had backwards. The wards don't make the devil the commander — they bind it as the **advisor** to a mortal commander. That single change makes the whole thing click:
+
+- The devil was **never allowed to command.** It's a bound counselor — it *advises* and *executes the commander's will*, but the binding forbids it from issuing final orders itself. It is a staff officer that cannot decide.
+- When Bael Turath fell, **its commander was lost.** So for centuries it's been a counselor with no one to counsel — **paralyzed by protocol**, desperate for a principal to authorize what it already knows must be done.
+- **That's why it seizes Donato.** It isn't making him a message-carrier — it's installing him as the **Centurion**, the commander it needs so it can *legitimately* resume the offensive. Donato is being hollowed into a commander-shaped rubber stamp.
+
+This upgrades the finale: the **CON path** gets a cleaner key — instead of only forging a superior's stand-down order, the party can **free Donato — the devil's own installed Centurion — and have *him* order the stand-down.** Rescue and clever-win become the same act.
+
+Donato = **the Centurion** is settled per your steer. The one open call is the devil's own *advisory* title.
+
+</Claude>
+
+The devil's title was a four-way menu — Tribune, Legate, Haruspex, or coin a new one. I picked Haruspex.
+
+<Prompt>
+
+Haruspex
+
+</Prompt>
+
+<Claude>
+
+**Kesovar, the Haruspex** — the bound infernal diviner-counselor. That's a great pick: it leans all the way into "advises, never commands," and it deepens the madness — a *haruspex* reads the omens and counsels, but the decision was never his to make.
+
+**Point 5 done — clean sweep, no stale terms left.** The rank change turned out to be a fiction upgrade, not just a find-replace:
+
+- **Kesovar, the Haruspex** — the bound infernal diviner-*counselor*. It **cannot command**; it only advises and **executes the standing orders of a commander four centuries dead.** Kobolds still call it **the Voice.**
+- **Donato = the Centurion** — the commander the Haruspex is desperately installing so it can finally issue new orders.
+- **The finale got materially better.** The CON path now has **two keys**: forge superior authority, *or* **free Donato and have him — as the Haruspex's own Centurion — order the stand-down.** The Haruspex is *bound to obey command authority*, which is exactly why "you lost" bounces off it but a correctly-formed order doesn't.
+
+That clears Points 1, 2, 3, 5. Remaining: Point 4 (Serica) and Point 6 (the clue spine).
+
+</Claude>
+
+Committed as [`1c4d4f1`](https://github.com/mburnamfink/rpg-dev-demo/commit/1c4d4f1) — *"Rename the devil to Haruspex."*
+
+A Haruspex was a specific type of early Roman diviner, but even if players aren't history nerds the word itself sounds great with the long vowels and the crunchy X. "Advises, never commands" provides guidance on how it interacts with the players and its minions, and why it has to capture Donato and the miners and not just start conquering the region. A mad tempter is a more interesting enemy than a simple killer on the loose.
+
+## Point 4 — Serica bargains harder
+
+<Prompt>
+
+Point 4, let's clarify Serica's characterization
+
+</Prompt>
+
+<Claude>
+
+Your brief is detailed and consistent, so let me encode it and flag the one spot where I made a reading. Here's how I'm interpreting **"starts at 50%"**: she opens by offering the party *half the vault* and keeping half ("it's my family's quarry"), and folds from there — not that she pays 50% of a cash fee.
+
+**Point 4 done.** Serica is now hard-driving but brittle, with outcome-based aftermath baked in:
+
+- **Opens hard** — 50 gp + *half* the vault ("it's my family's quarry") — but it's a **bluff from a broke, frightened woman**; threaten to walk and she folds fast to "all of it, just bring him back."
+- **Aftermath matrix** encoded: father alive → grateful ally; father dead + honest dealing → grief, no grudge; **father dead + a greedy bargain → lasting enemy.**
+- New **"Knows"** bullet: her father wrote he'd hit "something big and *old*" that would set them right — but never what. (Feeds the vault-loot open thread and the whole mystery.)
+
+That leaves just **Point 6** — the meatiest.
+
+</Claude>
+
+Committed as [`e83119a`](https://github.com/mburnamfink/rpg-dev-demo/commit/e83119a) — *"Revised Serica's characterization to bargain harder."*
+
+Serica introduces the adventure, so getting her right is important. She needs to be sympathetic without becoming pathetic, and even if the situation is bad, she'll bargain. She'll also fold like an umbrella if the party pushes back, so this serves to characterize the players. Are they in it for gold, or to make the world a better place?
+
+## Point 6 — the clue spine and how the Voice speaks
+
+<Prompt>
+
+Yes, expand the clue spine and where the clues can be found, and exactly how the Haruspex communicates?
+
+</Prompt>
+
+<Claude>
+
+**Point 6 done — and that closes out all six of your refinements.** The adventure now teaches the party how to win instead of assuming it.
+
+- **"The Voice — how the Haruspex reaches you"** — a new antagonist-mechanics block: it speaks *in the stone* (veins pulse when it talks), *through mouths* (kobolds, the dead, and Donato sliding between voices), *sees* through its assets, and — the crux — **can't reach where the conduit breaks or near the surface.** That single rule is the spine of the whole mystery.
+- **The clue-spine table** — six learnable facts (the place, the Voice, its nature/target, Donato, the weakness, the peaceful end), each with **≥2 sources** across scenes, so no single miss walls the party out.
+- **Scene 5 is now a real interrogation set-piece** — a classification procedure (reinforcements / infiltrators / unverified), a **counter-sign puzzle** that pays off earlier clue-gathering, and five clue-stations in the room.
+
+The file is internally consistent (verified: clean heading tree, no stale terms, ~6,600 words).
+
+</Claude>
+
+Committed as [`4bb11ae`](https://github.com/mburnamfink/rpg-dev-demo/commit/4bb11ae) — *"clue spine."*
+
+I've found that jumping around in the file leaves stubs and half-erased ideas all over the place, so it's best to get the framing right at the start and then only close important details at the end. Now that we've cleared up the scenes and what beats we want to hit, we can go back and add foreshadowing.
+
+## Making it runnable — the stand-down and the loot
+
+<Prompt>
+
+Leave the statblock for now. You don't have access to those rules. Let's develop the standdown procedure and level appropriate vault loot
+
+</Prompt>
+
+<Claude>
+
+Both are in the file.
+
+**The stand-down protocol** — now fully runnable. The Haruspex can only be **relieved**, never argued down, via a four-part order the party assembles from clues they've gathered:
+
+1. **Authority** (Donato freed and commanding, *or* a forged superior) — the one part you can't roll past.
+2. **Counter-sign** (the Scene 5 watchword).
+3. **Correct form** (the relief litany, from the standing-orders wall / journal / Infernal).
+4. **Token** (the Sigil, or Donato's own hand).
+
+Bring all four and it succeeds outright — no rolls, because doing it *correctly* is the point. Payoff read-aloud for the moment it hears its own chain of command: *"…Acknowledged. Relieved."*
+
+**Vault loot** — the "something big and old," tuned for four 3rd-level PCs:
+- **The Ninth Reach hoard** (~750 gp in *heavy* bronze — the family-saving wealth, and what Serica's split is over)
+- **Infernal-cut gems** (~150 gp, pocketable — deliberate temptation feeding Serica's enemy-or-ally aftermath)
+- **Sigil of the Ninth Reach** (uncommon — commands bound Turathi constructs like the Lictor; *no power over the Haruspex*; doubles as the stand-down token)
+- **Officer's spatha** (+1, fiend-warning glow), **Legionary's gorget** (fire resistance), a **dispatch-cylinder** (sequel hook), and optional consumables.
+
+I also gave the bunker a name — **the Ninth Reach** — which the loot and the relief-litany now share.
+
+</Claude>
+
+Committed as [`c960df6`](https://github.com/mburnamfink/rpg-dev-demo/commit/c960df6) — *"treasure and stand-down procedure. first draft done."*
+
+Now there's a proper procedure for resolving Haruspex as a threat (besides the default of beating it to pieces), as well as loot, containing a mix of coins and magic items. Claude knows that it should have statblocks from its training, but I don't trust its ambient rules knowledge to give accurate statblocks, and if it really matters every monster used is in the D&D 5e SRD.
+
+One last thing to do was remove a final reference to a rival crew of adventurers. There's enough in this adventure that an early proposal to have rivals would create too much complexity in the story. Next step is to run the /rpg-critic loop.
+
+## Handing it to the critic
+
+<Prompt>
+
+I think the rival crew is an unnecessary complication. Do /rpg-critic on @nentir-vale/quarry-that-woke-up.md
+
+</Prompt>
+
+<Claude>
+
+Rival crew fully excised first, then I ran the critic pass against the cleaner draft.
+
+Critique written to **`nentir-vale/quarry-that-woke-up-critiques.md`** — it's a dialogue log, so you can reply inline on each `→ Response:` line. Fifteen findings; here are the ones that actually bite.
+
+**The five I'd fix before running:**
+
+- **A1 🔴 — Timeline contradiction.** Kobolds "served for generations" but the Voice was "severed / reconnected this week." A cult can't worship a signal that was off. Fix: the Voice *leaked as a faint whisper for centuries* and the breach *amplified* it.
+- **A2 🔴 — The Sigil is circular.** It's the stand-down *token* used to end Scene 8, but listed as loot recovered **after** the finale. Fix: fuse it to the throne, grabbable mid-scene.
+- **A3 🔴 — The "reinforcements" skip is a trap.** Talking past Scene 5 marches you straight to Scene 8, skipping the *only* weakness reveal and the boss-crippling conduit-cut — into a full-HP deadly boss, blind, Lictor loose. Fix: add an "if they skipped 6–7" block.
+- **A5 🔴 — The finale's two resolution mechanics are fuzzy:** the CON success math and **how you free Donato without fighting.** Fix: crisp element→success rule; make "invoke Serica" a valid con-success.
+- **E3 🟡 — The counter-sign is load-bearing twice but never actually placed.** Fix: put a real Infernal word in Donato's journal *and* on Renzo's lips.
+
+Two things checked out clean and load-bearing: your **monster picks** all exist at the cited CRs in `monster_cr.md`, and the **compulsion + dissident framing** is what keeps the kobold fights from violating the setting's "evil by choice" ethos.
+
+Want me to action any of these — or will you respond inline in the critique file first and have me apply your calls?
+
+</Claude>
+
+Committed as [`1a7332f`](https://github.com/mburnamfink/rpg-dev-demo/commit/1a7332f) — *"critique file created."*
+
+I've found that too much interactivity can lead to overcomplicated results, and it's also expensive sending prompts back and forth. A more efficient pattern is to look for all the problems at once and resolve them. The /rpg-critic skill takes a synoptic view of the entire module and looks for contradictions, creating a file of issues that might arise at the table. 
+
+## Answering the critique
+
+The critique file is a dialogue log — every finding has a blank `→ Response:` and `→ Status:` line under it. So this turn was mine, not Claude's: I went down the fifteen findings and the new directive, wrote a directive or a redirect on each, and committed the answered file before handing it back.
+
+Committed as [`e5455b7`](https://github.com/mburnamfink/rpg-dev-demo/commit/e5455b7) — *"commented critiques."*
+
+In this case, the critique picked up plenty of real issues with internal contradictions, and also offered some decent suggestions on how to resolve them. I think most important is changing the pre-adventure timeline so some kobolds have always been cultists in thrall to Haruspex, and having Serica investigate and be driven off by newly organized kobolds. There were plenty of minor refinements on using Donato to command the Haruspex to stand down, as well as some guardrails to make sure the party didn't get in over their heads. 
+
+One taste detail is that Claude suggested mortals under the command of Haruspex have brassy eyes. I upped the body horror element by using eyes of weeping black oil instead.
+
+## Applying the revision — /rpg-revise
+
+Once the revision document is done, best practice is to /clear or /compact the session and then apply the revise skill, which goes and integrates all the changes. 
+
+<Prompt>
+
+/rpg-revise
+
+</Prompt>
+
+<Claude>
+
+All 15 findings plus the Z directive have responses — every one is a clear directive or redirect, so I applied all of them and recorded each on its `→ Status:` line. Nothing is left waiting on you.
+
+**Structural (Z + A):**
+- **Z** — Scene 7 rewritten: the preferred Lictor solve is now luring it between the two blast-doors and jamming the winches so the Haruspex can't reopen them; cutting the junction now *only* cripples the boss.
+- **A1** — Voice leaked as a weak nuisance-cult for centuries, amplified into an army by the breach; Serica rode up herself and was driven back. Ssvara's history reconciled.
+- **A2** — Sigil is wielded on the throne and grabbable mid-finale (Scene 8, protocol, and loot all updated).
+- **A3** — Ssvara intercepts a marched-straight party → routes to Scene 6; the Lictor looms on the interior map in Scene 8.
+- **A4** — clock collapsed to one trigger: each long rest = one escalation step. Stale "Night 5" references cleaned.
+- **A5** — CON math restated crisply (element = auto-success, 3 ends it, DC 13–15 substitutions, missing Authority auto-fails); freeing Donato is now path-agnostic via invoking Serica.
+
+**Design / canon / polish (B–G):** seal-and-leave dark ending (B1); Donato-must-be-alive rationale (C1); the self-authorizing loop made explicit (C2); interrogation asks-all-then-classifies + ranked clue-stations (D1); Scene 4 given a Lictor-proof escape (D2); cutters freed at the War-Room cells (E1); re-seal defined as an action (E2); the counter-sign written as a concrete Bael Turath war-cry — **"Sha Turath? — Turath vorel; abanne kesh"** — seeded in three places (E3); enthralled/routing kobolds (F1); conduit-cut-at-throne + telegraphed arcs + soft-floor parley (F2); the **"Report received…"** relay cadence (G1); and your creepier **black-oil-eyes / cursed-tears** tell replacing the brass sheen (G2).
+
+The only things still open are the author-side items already in **Open Threads**: the Haruspex statblock in your ruleset, the sequel hook, and a tactical sketch of the bunker interior (which Scene 7/8 now lean on more directly).
+
+</Claude>
+
+The revised module was committed together with the map, below.
+
+## Mapping the bunker
+
+The last Open Thread was the one I most wanted: a sense of how this sprawling, derelict place fits together. I didn't ask for a floorplan — I asked how Claude would even approach it, given it can't draw.
+
+<Prompt>
+
+We do need an overall map of the bunker complex to get a sense of how everything connects. I imagine that this place is large, sprawling, and mostly derelict, having been sealed and abandoned for centuries. It was also heavily damaged in the War of Ruin. Image generation is not your capability, but let's get points of interest, including non-combat encounters, and how they connect along with what's been ruined. What's a way for you to do that?
+
+</Prompt>
+
+<Claude open>
+
+Good instinct — a **connection map** matters more than a to-scale floorplan for a sprawling derelict, because what a GM needs to run it is "what's adjacent to what, how do you get there, and what state is it in." Image generation isn't something I can do, but I don't need it. Here's the method I'd use:
+
+**Build a keyed schematic, not a picture.** Two parts, both pure text and both living in the module file:
+
+1. **A node-link diagram** — boxes for areas, lines for how they connect (with the door/passage type and whether it's blocked/collapsed). This handles a non-linear derelict far better than a gridded floorplan.
+2. **A keyed gazetteer** — one numbered entry per point of interest: what it is, its **ruin state** (collapsed / flooded / burned-out / intact), its exits, and any **non-combat beat** there. I'd expand well past the eight scenes — barracks, an auspices chamber, a collapsed muster hall, flooded sub-levels, a War-of-Ruin blast crater that breached one wing, dead-end galleries — so the eight scene-locations sit inside a bigger dead complex.
+
+</Claude>
+
+I asked for it as a standalone HTML artifact. Claude designed the complex, wrote the plain-text key into the module so the file stays the single source of truth, and built a self-contained interactive schematic from the same data.
+
+<Claude>
+
+Done — the map is live. It's an interactive node-link schematic (not a to-scale floorplan — the connection view is what you actually run from). Tap any chamber to jump to its key entry; hovering a room lights its passages and neighbours.
+
+**How I made "large, sprawling, mostly derelict" legible:**
+- **The command spine is the only live route** — Breach → War-Room → Muster → Throne, drawn in glowing conduit-red. Everything else branches off it and is optional.
+- **Ruin states are encoded, not described** — colour chips + passage styles: live (red), derelict (bronze), collapsed/impassable (charcoal hatch), flooded (teal), sealed (verdigris). The **War-of-Ruin Crater** is the visible dragon-fire wound that "killed" the post.
+- **Passage types carry meaning** — corridor, warded threshold, blast-door chokepoint, flooded crawl, collapsed — including the flooded flank that bypasses a blast-door.
+
+**Six new non-combat sites (◇)** give the ruin scale and feed mechanics already in the module — an **Auspices Chamber** (reading the omen-bronze yields the exact *Form* for the stand-down), the **Legate's Quarters** (the dead commander's genuine command-seal — real Authority, beating a forgery), the **Garrison Barracks**, the **Crater**, and a **Flooded Sublevel**.
+
+</Claude>
+
+<Prompt>
+
+can I get that artifact as part of this repo?
+
+</Prompt>
+
+<Claude>
+
+Done. The map is now in the repo at **`nentir-vale/ninth-reach-map.html`**, alongside the module and critique file. It's fully self-contained — open it in any browser (no server or assets needed), and it renders identically to the published artifact. Worth noting the HTML and the module's plain-text key are now two copies of the same area data — if the layout changes later, both need updating.
+
+</Claude>
+
+Committed as [`5eb75dd`](https://github.com/mburnamfink/rpg-dev-demo/commit/5eb75dd) — *"added node map"* — which also carried the revised module.
+
+D&D is traditionally a game about space and maps, but good dungeon design is harder than it appears. A labyrinth without clear information as to why players should go left or right becomes arbitrary and punishing. A common bit of practice is the "five-room dungeon", a linear sequence of encounters that might be gussied up to present an illusion of choice. Different models have different strengths, and Claude doesn't do images. A precise map is overkill, but we should at least have a general sense of the geography of the complex and how different locations are connected to each other.
+
+## Publishing — /rpg-publish-v2
+
+With the module revised and mapped, the last step is turning a document you *read* into a document you *run*. The publish skill splits it into a read-once PREP layer and a TABLE layer of pure primitives.  I've found that an adventure generated by /rpg-dev has a lot of thinking in it and discursive loops. It needs to be summarized and boiled down to something that can be run from. The /rpg-publish skill will create an HTML document with sidebar bookmarks for running from a laptop, or a PDF file with reasonable page breaks for running from paper.  At the time I was writing this adventure, I was experimenting with two versions of the /rpg-publish skill, and -v2 proved clearly superior and was promoted to the primary.
+
+<Prompt>
+
+/rpg-publish-v2 @nentir-vale/quarry-that-woke-up.md
+
+</Prompt>
+
+<Claude>
+
+Done — written to **`nentir-vale/quarry-that-woke-up-published.md`** (source untouched). One pass, restructured into the PREP/TABLE split.
+
+**Moved to PREP.** The four discursive reasoning sections — *The Relic*, *The Voice*, *The Order of Battle*, *Running the Lictor* — collapsed into the **GM Briefing** as tight beats. That's ~1,500 words of "why" pulled out of the run-path into one read-once place.
+
+**Compressed to primitives.** Every scene's *Purpose* line is gone; *Ways in/out* prose became one-line **Exits** + **Choices→consequence** tables; the encounter point-math moved to the difficulty dials.
+
+**Stated-once + linked.** The stand-down protocol, clue spine, possession tell, and vault loot each live in exactly one home now and are cross-linked (Scene 8 → `#stand-down`, etc.).
+
+**Two judgment calls to check** — these lean on the "publish adds nothing" rule:
+1. **Read-aloud boxes are reconstructed.** The source had *Sensory* bullets and scattered Voice fragments, not speakable boxed text, so I wrote the read-aloud from that material — my words rendering your scenes; give them a read.
+2. **Two Voice lines are net-new dialog** I derived from description: *"Casualties are within tolerance. Good order."* and *"Subject reclassified. Labor. Continue."* Faithful to intent, but invented — cut or swap freely.
+
+The published doc references `ninth-reach-map.html` as the interactive map companion, already in the repo.
+
+</Claude>
+
+Committed as [`74ab5b8`](https://github.com/mburnamfink/rpg-dev-demo/commit/74ab5b8) — *"markdown published version added."* That's the runnable artifact: an eight-scene, table-ready adventure with a companion schematic, built end to end from open sources.
+
+## Closing thoughts
+
+The final version of the adventure is [`74ab5b8`](https://github.com/mburnamfink/rpg-dev-demo/commit/74ab5b8).  It looks runnable to me, but to be frank, I've only played D&D 5e a handful of times and I've never actually run it. I love TTRPGs, so I run campaigns in interesting settings with good rules, and that ain't anything WotC has published for D&D 5e. Someone who has more detailed opinions about this system would know if these combats are actually fair or deadly, but in a narrative sense, a 3rd level party should be able to stomp large numbers of kobolds and zombies, struggle against a minor devil, and be outmatched by a large animated object/golem/elemental or similar walking slab of hurt.
+
+The thing that surprises me most is how *fun* the process is. The /rpg-dev skill is no substitute for actually playing a game, but it scratches many of those itches. There's an addictive quality to typing a few sentences and watching an adventure unfold. LLMs are solid at handling the small details of description and coming up with names, which is a perennial bugbear for me at the table (one caveat is that I had to explicitly order it to "use good names" because the first NPC it ever made was a [Della Voss](https://maxread.substack.com/p/who-is-elara-voss)). LLMs still require hand-holding for closing plot holes and making sure that NPC motivations and lore limitations line up with the story that's described. And finally, as tasteless entities they will miss a thematic choice that frames the adventure in a much more interesting way.
+
+I also fully recognize the many criticisms of using LLMs *at all*, especially for creative hobbies. Leonardo Andrade has a [particularly well argued version in Typebar Magazine](https://www.typebarmagazine.com/chatgpt-llms-and-automating-the-fun-out-of-roleplaying/), the most persuasive part of which I find to be "ideas are a dime a dozen; the world is full of good ideas that never amounted to anything. It’s all in the execution. And the creative process is often most effectively learned via trial and error–a process using a chatbot eliminates." This is true: I've definitely not strengthened *my skills* writing adventures using LLMs.
+
+But writing and running RPG adventures are very different skills. /rpg-critic is a reasonable attempt, but no amount of testing and review can stand up to the pure chaotic energy that living players provide. I ran one session that went entirely off the rails 20% in when one character used an ability I'd not considered at all to disable a hostile boat that was written as "cannot be fought, cannot be bypassed, can only be dealt with by running and hiding". The remaining 80% of the adventure had to be improvised, and while I was able to incorporate a few of the planned beats, this was at-the-table improvisation which an LLM could not have handled. 
+
+As much as tabletop RPGs are a creative medium, they're also innately a remix, something that in most cases works because players understand the genre conventions of fantasy, cyberpunk, urban horror, space opera, etc. The best ideas are not entirely original, they're combinations of evocative elements that we've seen before. In some respects, the profoundly mid slop characteristic of LLMs is not all that far away from even a good tabletop.  Further, many of the worst Claudisms, "not X but Y", talking like a PR flack rather than a person, and so on, can be elided at the table by a decent GM. Subjecting a person to raw LLM output is rude — a clear message that whoever sent you the item didn't care enough to put themselves into it — and I'd never make someone else run one of these adventures. However, I do believe that my translation at the table of module text into a roleplaying game session is human enough.
+
+To return to that first lousy game of ChatGPT D&D, I'm still skeptical that an LLM can play a roleplaying game. Mainstream models are still too agreeable and will still flinch from creating the kinds of consequences that lead to drama and fun. The statistically average text produced by a model lacks taste and talks around creative conflict rather than taking an authorial stance, which means it needs human oversight. What this process shows is that reframing the question, "can an LLM help me prepare for an RPG session?", does have a positive answer. LLMs reduce the terror of the blank page, solve for little things that matter like names and scene descriptions, and can even stick together a basic outline.  The most important thing is to know when to push back, to know when the model is being dull, and to create a devil as a mad prophet, kobolds as reluctant cultists, and a construct that has to be outmaneuvered rather than outfought. When this adventure comes to the table, it's still my game, and because I participated in its creation I know how to improvise when the session inevitably diverges from the plan.
+
+My rule zero for every RPG is that player characters are a force of chaos. Embrace chaos. 
+
+LLMs are not yet there.

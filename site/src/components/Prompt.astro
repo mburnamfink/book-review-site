@@ -1,0 +1,11 @@
+---
+// A prompt the author sent to Claude. Terminal-styled, with a copy button.
+// The copy handler lives in posts/[slug].astro (queries .prompt__copy).
+---
+<div class="prompt">
+  <span class="sr-only">Prompt: </span>
+  <button type="button" class="prompt__copy" aria-label="Copy prompt to clipboard">copy</button>
+  <div class="prompt__text">
+    <slot />
+  </div>
+</div>

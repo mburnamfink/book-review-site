@@ -1,0 +1,14 @@
+---
+// A collapsible Claude response. Pass `open` to have it expanded by default.
+// The <summary> text is the accessible speaker label.
+interface Props {
+  open?: boolean;
+}
+const { open = false } = Astro.props;
+---
+<details class="claude" open={open}>
+  <summary>Claude</summary>
+  <div class="claude__body">
+    <slot />
+  </div>
+</details>
