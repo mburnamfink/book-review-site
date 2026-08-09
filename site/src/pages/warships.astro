@@ -1,0 +1,573 @@
+---
+import Base from '../layouts/Base.astro';
+
+const title = 'Modern Guided-Missile Frigates & Destroyers';
+const description =
+  'In-service and under-construction guided-missile frigate and destroyer classes, compared on displacement, armament, cost, and status.';
+---
+
+<Base title={title} description={description}>
+  <div class="warships">
+    <div class="wrap">
+      <h1>Modern Guided-Missile Frigates &amp; Destroyers</h1>
+      <p class="sub">In-service and under-construction classes. Click any column header to sort (click again to reverse).
+      Displacement is full-load in metric tonnes; costs show the figure as reported plus a rough normalization to 2026 US$.
+      Data drawn from English Wikipedia class articles.</p>
+
+      <div class="meta">
+        <span><b>Last updated:</b> 9 August 2026</span>
+        <span><b>Source:</b> English Wikipedia individual ship-class articles</span>
+        <span><b>Coverage:</b> 41 in-service &amp; under-construction classes</span>
+        <span>Costs &amp; tonnage normalized best-effort — see notes at the bottom.</span>
+      </div>
+
+      <div class="controls">
+        <div class="seg" id="typeSeg">
+          <button data-type="all" class="on">All types</button>
+          <button data-type="Destroyer">Destroyers</button>
+          <button data-type="Frigate">Frigates</button>
+          <button data-type="LCS">LCS</button>
+        </div>
+        <select id="statusSel">
+          <option value="all">Any status</option>
+          <option value="service">In service</option>
+          <option value="build">Building / planned</option>
+          <option value="cancel">Cancelled</option>
+        </select>
+        <details class="colmenu" id="colMenuWrap">
+          <summary>Columns</summary>
+          <div class="colmenu-panel">
+            <div class="colmenu-list" id="colMenu"></div>
+            <button type="button" class="colmenu-all" id="showAll">Show all columns</button>
+          </div>
+        </details>
+        <input type="search" id="q" placeholder="Search class, country, radar…" autocomplete="off" />
+        <span class="count" id="count"></span>
+      </div>
+
+      <div class="tablewrap">
+        <table>
+          <thead><tr id="hrow"></tr></thead>
+          <tbody id="body"></tbody>
+        </table>
+      </div>
+
+      <footer>
+        <h3>Reading the numbers</h3>
+        <p><b>Displacement</b> is full-load, in metric tonnes (1 long ton = 1.016 t; 1 short ton = 0.907 t). "Full load"
+        is itself imprecise and drifts upward over a class's life, so treat ±5% as noise.
+        <b>VLS</b> shows headline tactical launch cells; the sub-note gives the mix (e.g. strike-length Mk&nbsp;41 vs.
+        soft-launch CAMM). Ships combining large strike cells with many small self-defence cells (Type&nbsp;26, Sejong) are
+        not directly comparable cell-for-cell.</p>
+        <p><b>Cost — read with care.</b> The "≈2026 US$bn" column converts the reported figure at approximate current
+        exchange rates and adjusts for US inflation from the quoted year. It is order-of-magnitude, <i>not</i>
+        procurement-grade. Two big distortions remain: (1) some quotes are <b>program totals</b> that bundle R&amp;D, shore
+        infrastructure and spares over a tiny production run — this inflates per-hull figures for the Zumwalt, Hobart and
+        Hunter especially; (2) quotes like the Iver Huitfeldt's are <b>hull-only</b>, with weapons/sensors transferred from
+        older ships. Values marked <span class="est">*</span> are estimates with no clean sourced figure.</p>
+        <p><b>Type labels</b> follow each navy's own designation. Note the "cruiser/destroyer/frigate" line is now largely
+        political: China's Type&nbsp;055 (here a destroyer, as China rates it) is classed a cruiser by the US Navy, and
+        several "frigates" (Hunter, F126, Type&nbsp;26) out-displace older destroyers.</p>
+        <p>Source: individual class articles on <a href="https://en.wikipedia.org">en.wikipedia.org</a>. Figures for the
+        Netherlands/Belgium ASW Frigate and the newest Chinese classes (Type&nbsp;054B) are preliminary. Generated as a
+        static, self-contained file — no external dependencies.</p>
+      </footer>
+    </div>
+  </div>
+</Base>
+
+<style is:global>
+  .warships{
+    --panel:#ffffff; --ink:#14181d; --muted:#5c6773; --line:#e2e6ea;
+    --head:#1f2937; --headink:#f8fafc; --zebra:#f3f5f7; --hover:#eef4ff;
+    --accent:#2563eb; --ddg:#b4531a; --ffg:#1a7f6b; --lcs:#6d5bd0; --chip:#eef1f4;
+    color:var(--ink); font-size:15px; line-height:1.5;
+  }
+  /* Dark palette follows the site's header toggle (data-theme), not the OS. */
+  :root[data-theme="dark"] .warships{
+    --panel:#161b22; --ink:#e6edf3; --muted:#9aa7b4; --line:#273040;
+    --head:#0b1220; --headink:#e6edf3; --zebra:#141a22; --hover:#17263f;
+    --accent:#5b9dff; --ddg:#e08a52; --ffg:#57c9b0; --lcs:#a99bf0; --chip:#1d2733;
+  }
+  /* Fallback when the theme script hasn't run (JS disabled): honor the OS. */
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme]) .warships{
+      --panel:#161b22; --ink:#e6edf3; --muted:#9aa7b4; --line:#273040;
+      --head:#0b1220; --headink:#e6edf3; --zebra:#141a22; --hover:#17263f;
+      --accent:#5b9dff; --ddg:#e08a52; --ffg:#57c9b0; --lcs:#a99bf0; --chip:#1d2733;
+    }
+  }
+  /* Let the wide table use the full viewport instead of the 1140px main column. */
+  main:has(.warships){max-width:none;}
+  .warships .wrap{max-width:none;margin:0;padding:0;}
+  .warships h1{font-size:26px;margin:0 0 6px;letter-spacing:-.01em;}
+  .warships .sub{color:var(--muted);margin:0 0 12px;max-width:80ch;}
+  .warships .meta{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;font-size:12.5px;color:var(--muted);
+    border-left:3px solid var(--accent);padding:7px 0 7px 12px;margin:0 0 20px;}
+  .warships .meta b{color:var(--ink);font-weight:600;}
+  .warships .controls{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;margin:0 0 14px;}
+  .warships .seg{display:inline-flex;background:var(--chip);border-radius:9px;padding:3px;gap:2px;}
+  .warships .seg button{border:0;background:transparent;color:var(--muted);padding:6px 12px;border-radius:7px;
+    font-weight:600;font-size:13px;cursor:pointer;}
+  .warships .seg button.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.12);}
+  .warships input[type=search]{flex:1 1 220px;min-width:180px;padding:8px 12px;border:1px solid var(--line);
+    border-radius:9px;background:var(--panel);color:var(--ink);font-size:14px;}
+  .warships select{padding:8px 10px;border:1px solid var(--line);border-radius:9px;background:var(--panel);
+    color:var(--ink);font-size:13px;font-weight:600;}
+  .warships .count{color:var(--muted);font-size:13px;margin-left:auto;white-space:nowrap;}
+  .warships .colmenu{position:relative;}
+  .warships .colmenu>summary{display:inline-block;list-style:none;cursor:pointer;user-select:none;
+    padding:8px 12px;border:1px solid var(--line);border-radius:9px;background:var(--panel);
+    color:var(--ink);font-size:13px;font-weight:600;}
+  .warships .colmenu>summary::-webkit-details-marker{display:none;}
+  .warships .colmenu>summary::after{content:" ▾";color:var(--muted);}
+  .warships .colmenu[open]>summary{border-color:var(--accent);}
+  .warships .colmenu-panel{position:absolute;z-index:5;margin-top:6px;min-width:220px;
+    background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    box-shadow:0 6px 24px rgba(0,0,0,.18);padding:10px;}
+  .warships .colmenu-list{display:grid;gap:2px;max-height:320px;overflow:auto;}
+  .warships .colmenu-list label{display:flex;align-items:center;gap:8px;padding:5px 6px;
+    border-radius:6px;font-size:13px;cursor:pointer;white-space:nowrap;}
+  .warships .colmenu-list label:hover{background:var(--hover);}
+  .warships .colmenu-list input{accent-color:var(--accent);}
+  .warships .colmenu-all{margin-top:8px;width:100%;border:1px solid var(--line);
+    background:transparent;color:var(--ink);padding:7px 10px;border-radius:8px;
+    font-size:12.5px;font-weight:600;cursor:pointer;}
+  .warships .colmenu-all:hover{background:var(--hover);}
+  .warships .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--panel);
+    box-shadow:0 1px 3px rgba(0,0,0,.05);}
+  .warships table{border-collapse:collapse;width:100%;font-size:13px;white-space:nowrap;}
+  .warships thead th{position:sticky;top:0;background:var(--head);color:var(--headink);text-align:left;
+    padding:10px 12px;font-weight:600;cursor:pointer;user-select:none;border-bottom:2px solid var(--line);
+    z-index:2;}
+  .warships thead th:hover{filter:brightness(1.25);}
+  .warships thead th .ar{opacity:.35;font-size:10px;margin-left:4px;}
+  .warships thead th.sorted .ar{opacity:1;color:var(--accent);}
+  .warships th.num,.warships td.num{text-align:right;font-variant-numeric:tabular-nums;}
+  .warships tbody td{padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top;}
+  .warships tbody tr:nth-child(even){background:var(--zebra);}
+  .warships tbody tr:hover{background:var(--hover);}
+  .warships .name{font-weight:700;white-space:normal;min-width:150px;}
+  .warships .desig{display:block;color:var(--muted);font-weight:500;font-size:11.5px;}
+  .warships .type-pill{display:inline-block;padding:2px 8px;border-radius:20px;font-size:11px;font-weight:700;
+    letter-spacing:.02em;}
+  .warships .type-Destroyer{background:color-mix(in srgb,var(--ddg) 18%,transparent);color:var(--ddg);}
+  .warships .type-Frigate{background:color-mix(in srgb,var(--ffg) 18%,transparent);color:var(--ffg);}
+  .warships .type-LCS{background:color-mix(in srgb,var(--lcs) 20%,transparent);color:var(--lcs);}
+  .warships .wrapcell{white-space:normal;min-width:190px;color:var(--muted);}
+  .warships .vnote{display:block;color:var(--muted);font-size:11px;white-space:normal;max-width:170px;}
+  .warships .est{color:var(--accent);}
+  .warships .status{white-space:normal;min-width:120px;}
+  .warships .dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px;vertical-align:middle;}
+  .warships .s-service{background:#22a06b;} .warships .s-build{background:#e0a800;} .warships .s-cancel{background:#d1495b;}
+  .warships footer{color:var(--muted);font-size:12.5px;margin-top:22px;line-height:1.65;max-width:100ch;}
+  .warships footer h3{color:var(--ink);font-size:14px;margin:18px 0 6px;}
+  .warships footer code{background:var(--chip);padding:1px 5px;border-radius:4px;}
+  .warships a{color:var(--accent);}
+</style>
+
+<script is:inline>
+const COLS = [
+  {k:"name",   label:"Class",              num:false},
+  {k:"country",label:"Country",            num:false},
+  {k:"type",   label:"Type",               num:false},
+  {k:"disp",   label:"Disp. (t)",          num:true},
+  {k:"length", label:"Length (m)",         num:true},
+  {k:"beam",   label:"Beam (m)",           num:true},
+  {k:"vls",    label:"VLS cells",          num:true},
+  {k:"radar",  label:"Radar / combat system", num:false},
+  {k:"aviation",label:"Aviation",          num:false},
+  {k:"crew",   label:"Crew",               num:true},
+  {k:"costRep",label:"Unit cost (reported)", num:false},
+  {k:"cost2026",label:"≈2026 US$bn",       num:true},
+  {k:"commYear",label:"Commissioned",      num:true},
+  {k:"built",  label:"Built / planned",    num:false},
+  {k:"status", label:"Status",             num:false},
+];
+
+const D = [
+ {name:"Arleigh Burke", desig:"DDG-51 (Flt IIA/III)", country:"🇺🇸 United States", type:"Destroyer",
+  disp:9700,length:155.3,beam:20,vls:96,vnote:"Mk 41 (90 on Flt I/II)",
+  radar:"SPY-1D / SPY-6 (Flt III) · Aegis",aviation:"2 × MH-60R",crew:320,
+  costRep:"US$2.2 bn (FY2024, Flt III)",cost2026:2.3,commYear:1991,commLabel:"1991",
+  built:"77 built · 75 active · 23 building",status:"service+build"},
+
+ {name:"Zumwalt", desig:"DDG-1000", country:"🇺🇸 United States", type:"Destroyer",
+  disp:15907,length:190,beam:24.6,vls:80,vnote:"Mk 57 peripheral",
+  radar:"SPY-3 X-band · TSCE",aviation:"1 × MH-60R + 3 × MQ-8",crew:175,
+  costRep:"US$4.24 bn (2016, excl R&D)",cost2026:5.6,commYear:2016,commLabel:"2016",
+  built:"3 (32 planned, cut to 3)",status:"service+build"},
+
+ {name:"Type 055", desig:"Renhai (US: cruiser)", country:"🇨🇳 China", type:"Destroyer",
+  disp:12500,length:180,beam:20,vls:112,vnote:"Universal (64 fwd / 48 aft)",
+  radar:"Type 346B dual-band AESA",aviation:"2 × Z-18 / Z-20",crew:300,
+  costRep:"US$0.89 bn incl R&D (2017)",cost2026:1.15,commYear:2020,commLabel:"2020",
+  built:"10 active · ~16 planned",status:"service+build"},
+
+ {name:"Type 052D", desig:"Luyang III", country:"🇨🇳 China", type:"Destroyer",
+  disp:7500,length:157,beam:17.5,vls:64,vnote:"Universal (32 fwd / 32 aft)",
+  radar:"Type 346A AESA",aviation:"1 × Z-9 / Z-20",crew:280,
+  costRep:"~US$0.6 bn (est.)",cost2026:0.7,costEst:true,commYear:2014,commLabel:"2014",
+  built:"~35 in service",status:"service+build"},
+
+ {name:"Sejong the Great", desig:"KDX-III (Batch I)", country:"🇰🇷 South Korea", type:"Destroyer",
+  disp:10000,length:166,beam:21.4,vls:128,vnote:"80 Mk 41 + 48 K-VLS",
+  radar:"SPY-1D(V) · Aegis",aviation:"2 × Lynx / SH-60",crew:300,
+  costRep:"US$0.92 bn / ship",cost2026:1.2,commYear:2008,commLabel:"2008",
+  built:"4 (Batch I) · 2 Batch II building",status:"service+build"},
+
+ {name:"Maya", desig:"27DDG", country:"🇯🇵 Japan", type:"Destroyer",
+  disp:10250,length:170,beam:21,vls:96,vnote:"Mk 41 (64+32)",
+  radar:"SPY-1D(V) · Aegis BL9",aviation:"1 × SH-60K",crew:300,
+  costRep:"¥164.8 bn (~US$1.1 bn)",cost2026:1.2,commYear:2020,commLabel:"2020",
+  built:"2 / 2",status:"service"},
+
+ {name:"Atago", desig:"14DDG", country:"🇯🇵 Japan", type:"Destroyer",
+  disp:10000,length:165,beam:21,vls:96,vnote:"Mk 41 (64+32)",
+  radar:"SPY-1D(V) · Aegis BL9C",aviation:"1 × SH-60K",crew:300,
+  costRep:"¥140 bn (~US$1.48 bn, 2009)",cost2026:2.0,costEst:true,commYear:2007,commLabel:"2007",
+  built:"2 / 2",status:"service"},
+
+ {name:"Kongō", desig:"—", country:"🇯🇵 Japan", type:"Destroyer",
+  disp:9500,length:161,beam:21,vls:90,vnote:"Mk 41 (29+61); no hangar",
+  radar:"SPY-1D · Aegis BL5.3",aviation:"1 × SH-60 (deck only)",crew:300,
+  costRep:"n/a (early 1990s)",cost2026:1.2,costEst:true,commYear:1993,commLabel:"1993",
+  built:"4 / 4",status:"service"},
+
+ {name:"Daring", desig:"Type 45", country:"🇬🇧 United Kingdom", type:"Destroyer",
+  disp:8500,length:152.4,beam:21.2,vls:48,vnote:"Sylver A50; +24 CAMM from 2026",
+  radar:"SAMPSON + S1850M · Sea Viper",aviation:"1 × Merlin / 2 × Wildcat",crew:191,
+  costRep:"£1.05 bn incl R&D (~2010)",cost2026:1.8,cost2026Est:true,costEst:true,commYear:2009,commLabel:"2009",
+  built:"6 / 6",status:"service"},
+
+ {name:"Horizon", desig:"Orizzonte / Forbin", country:"🇫🇷🇮🇹 France · Italy", type:"Destroyer",
+  disp:7050,length:152.9,beam:20.3,vls:48,vnote:"Sylver A50 (Aster 15/30)",
+  radar:"EMPAR + S1850M · PAAMS",aviation:"1 × NH90 / AW101",crew:236,
+  costRep:"€1.08 bn FR (2013) / €1.5 bn IT (2016)",cost2026:1.8,costEst:true,commYear:2007,commLabel:"2007",
+  built:"4 / 4 (8 planned, 4 cut)",status:"service"},
+
+ {name:"Hobart", desig:"AWD", country:"🇦🇺 Australia", type:"Destroyer",
+  disp:7000,length:147.2,beam:18.6,vls:48,vnote:"Mk 41",
+  radar:"SPY-1D(V) · Aegis BL7.1",aviation:"1 × MH-60R",crew:202,
+  costRep:"A$3.03 bn / ship (2020)",cost2026:2.4,cost2026Note:true,commYear:2017,commLabel:"2017",
+  built:"3 / 3",status:"service"},
+
+ {name:"Kolkata", desig:"Project 15A", country:"🇮🇳 India", type:"Destroyer",
+  disp:7400,length:163,beam:17.4,vls:48,vnote:"32 Barak-8 + 16 BrahMos",
+  radar:"EL/M-2248 MF-STAR",aviation:"2 × Sea King / SH-60 / Dhruv",crew:300,
+  costRep:"₹3,887 cr (~US$0.64 bn, 2023)",cost2026:0.7,commYear:2014,commLabel:"2014",
+  built:"3 / 3",status:"service"},
+
+ {name:"Visakhapatnam", desig:"Project 15B", country:"🇮🇳 India", type:"Destroyer",
+  disp:7400,length:163,beam:17.4,vls:48,vnote:"32 Barak-8 + 16 BrahMos",
+  radar:"EL/M-2248 MF-STAR",aviation:"2 × helicopters",crew:300,
+  costRep:"₹8,950 cr (~US$1.1 bn, 2023)",cost2026:1.2,commYear:2021,commLabel:"2021",
+  built:"4 / 4",status:"service"},
+
+ {name:"Constellation", desig:"FFG-62", country:"🇺🇸 United States", type:"Frigate",
+  disp:7291,length:151.2,beam:19.8,vls:32,vnote:"Mk 41",
+  radar:"SPY-6(V)3 · Aegis BL10",aviation:"1 × MH-60R",crew:200,
+  costRep:"US$1.28 bn (lead, FY2020)",cost2026:1.4,commYear:2029,commLabel:"2029 (planned)",
+  built:"2 building (18 cancelled '25)",status:"build"},
+
+ {name:"Type 26 / City", desig:"Global Combat Ship", country:"🇬🇧 United Kingdom", type:"Frigate",
+  disp:8000,length:149.9,beam:20.8,vls:72,vnote:"24 Mk 41 + 48 CAMM",
+  radar:"Artisan Type 997",aviation:"2 × Wildcat / Merlin + UAV",crew:157,
+  costRep:"£1.31 bn (UK Batch 1, 2022)",cost2026:1.9,commYear:2028,commLabel:"2028 (planned)",
+  built:"7 building · 34 across 4 navies",status:"build"},
+
+ {name:"Inspiration", desig:"Type 31 / Arrowhead 140", country:"🇬🇧 United Kingdom", type:"Frigate",
+  disp:7000,length:138.7,beam:20.4,vls:32,vnote:"Mk 41 to be fitted; CAMM at entry",
+  radar:"Thales NS110 AESA",aviation:"1 × Merlin / Wildcat + UAV",crew:110,
+  costRep:"£0.27 bn (2019, bare hull)",cost2026:0.45,commYear:2027,commLabel:"2027 (planned)",
+  built:"5 building (RN)",status:"build"},
+
+ {name:"FREMM — Aquitaine", desig:"French ASW", country:"🇫🇷 France", type:"Frigate",
+  disp:6000,length:142,beam:20,vls:16,vnote:"Sylver A43/A50; 32 on AAW pair",
+  radar:"Herakles PESA · SETIS",aviation:"1 × NH90 + S-100 UAV",crew:145,
+  costRep:"€670 M (2014)",cost2026:1.0,commYear:2012,commLabel:"2012",
+  built:"8 built (France)",status:"service"},
+
+ {name:"FREMM — Bergamini", desig:"Italian GP/ASW", country:"🇮🇹 Italy", type:"Frigate",
+  disp:6700,length:144.6,beam:19.7,vls:16,vnote:"Sylver A50",
+  radar:"Kronos AESA · Athena CMS",aviation:"2 × NH90 / AW101",crew:200,
+  costRep:"€598 M (2016)",cost2026:0.85,commYear:2013,commLabel:"2013",
+  built:"10 built · +building",status:"service+build"},
+
+ {name:"Amiral Ronarc'h", desig:"FDI / Belh@rra", country:"🇫🇷 France", type:"Frigate",
+  disp:4460,length:122,beam:17.7,vls:16,vnote:"Sylver A50; 32 on later units",
+  radar:"Sea Fire 4D AESA · SETIS",aviation:"1 × NH90 / H160 + S-100 UAV",crew:125,
+  costRep:"€420 M / ship (2017)",cost2026:0.6,commYear:2026,commLabel:"2026",
+  built:"2 built · 7+ building (FR/GR/SE)",status:"service+build"},
+
+ {name:"Álvaro de Bazán", desig:"F100", country:"🇪🇸 Spain", type:"Frigate",
+  disp:6494,length:146.7,beam:18.6,vls:48,vnote:"Mk 41",
+  radar:"SPY-1D · Aegis",aviation:"1 × SH-60",crew:201,
+  costRep:"€453 M (2002, F101–104)",cost2026:0.8,commYear:2002,commLabel:"2002",
+  built:"5 / 5",status:"service"},
+
+ {name:"Bonifaz", desig:"F110", country:"🇪🇸 Spain", type:"Frigate",
+  disp:6100,length:145,beam:18,vls:16,vnote:"Mk 41 (ESSM) + 8 NSM",
+  radar:"SPY-7(V)2 · SCOMBA/Aegis",aviation:"1 × SH-60 / NH90",crew:150,
+  costRep:"€860 M (~US$1.02 bn)",cost2026:1.1,commYear:2028,commLabel:"2028 (planned)",
+  built:"5 ordered · 4 building",status:"build"},
+
+ {name:"Sachsen", desig:"F124", country:"🇩🇪 Germany", type:"Frigate",
+  disp:5780,length:143,beam:17.4,vls:32,vnote:"Mk 41 + RAM",
+  radar:"SMART-L + APAR",aviation:"2 × Lynx / NH90",crew:243,
+  costRep:"~€667 M / ship",cost2026:1.0,commYear:2004,commLabel:"2004",
+  built:"3 / 3",status:"service"},
+
+ {name:"Baden-Württemberg", desig:"F125", country:"🇩🇪 Germany", type:"Frigate",
+  disp:7200,length:149.5,beam:18.8,vls:0,vnote:"No VLS (gun/CIWS/RAM/NSM only)",
+  radar:"TRS-4D AESA",aviation:"2 × NH90",crew:190,
+  costRep:"€775 M (2007)",cost2026:1.3,commYear:2019,commLabel:"2019",
+  built:"4 / 4",status:"service"},
+
+ {name:"Niedersachsen", desig:"F126 (cancelled)", country:"🇩🇪 Germany", type:"Frigate",
+  disp:10550,length:166,beam:21.7,vls:16,vnote:"Mk 41 (up to 64 ESSM)",
+  radar:"TRS-4D NR · TACTICOS",aviation:"2 × NH90 + UAV",crew:114,
+  costRep:"€1.39 bn (2020) — cancelled '26",cost2026:1.8,commYear:2028,commLabel:"— (cancelled '26)",
+  built:"0 built · 6 planned (cut)",status:"cancel"},
+
+ {name:"Iver Huitfeldt", desig:"—", country:"🇩🇰 Denmark", type:"Frigate",
+  disp:6645,length:138.7,beam:19.75,vls:32,vnote:"Mk 41 + up to 24 Mk 56 ESSM",
+  radar:"SMART-L + APAR",aviation:"1 × MH-60R",crew:165,
+  costRep:"US$0.33 bn (hull; systems reused)",cost2026:0.45,cost2026Note:true,commYear:2011,commLabel:"2011",
+  built:"3 / 3",status:"service"},
+
+ {name:"De Zeven Provinciën", desig:"LCF", country:"🇳🇱 Netherlands", type:"Frigate",
+  disp:6050,length:144.2,beam:18.8,vls:40,vnote:"Mk 41",
+  radar:"SMART-L + APAR",aviation:"1 × NH90",crew:232,
+  costRep:"~€475 M / ship (~2002)",cost2026:0.8,commYear:2002,commLabel:"2002",
+  built:"4 / 4",status:"service"},
+
+ {name:"ASW Frigate", desig:"ASWF (M-frigate repl.)", country:"🇳🇱🇧🇪 Netherlands · Belgium", type:"Frigate",
+  disp:6400,length:145,beam:18,vls:16,vnote:"Mk 41 (planned) — preliminary",
+  radar:"Thales AESA (planned)",aviation:"1 × NH90 + UAV",crew:120,
+  costRep:"n/a (est.)",cost2026:1.2,costEst:true,commYear:2029,commLabel:"2029 (planned)",
+  built:"4 planned (NL + BE)",status:"build"},
+
+ {name:"Fridtjof Nansen", desig:"—", country:"🇳🇴 Norway", type:"Frigate",
+  disp:5290,length:134,beam:16.8,vls:8,vnote:"1×8 Mk 41 (32 ESSM quad-packed)",
+  radar:"SPY-1F · Aegis",aviation:"1 × NH90 / MH-60R",crew:120,
+  costRep:"US$0.49 bn (2003 est.)",cost2026:0.7,commYear:2006,commLabel:"2006",
+  built:"4 active (1 lost 2018)",status:"service"},
+
+ {name:"Admiral Gorshkov", desig:"Project 22350", country:"🇷🇺 Russia", type:"Frigate",
+  disp:5400,length:135,beam:16,vls:48,vnote:"16 UKSK + 32 Redut (56 on later)",
+  radar:"Poliment PAA · Sigma-22350",aviation:"1 × Ka-27",crew:210,
+  costRep:"~US$0.25 bn",cost2026:0.35,costEst:true,commYear:2018,commLabel:"2018",
+  built:"3+ active · building (10 planned)",status:"service+build"},
+
+ {name:"Admiral Grigorovich", desig:"Project 11356R", country:"🇷🇺 Russia", type:"Frigate",
+  disp:4000,length:124.8,beam:15.2,vls:32,vnote:"8 UKSK + 24 Shtil-1",
+  radar:"Fregat-M2M",aviation:"1 × Ka-27",crew:200,
+  costRep:"US$0.45–0.5 bn",cost2026:0.6,costEst:true,commYear:2016,commLabel:"2016",
+  built:"5 + Indian units · building",status:"service+build"},
+
+ {name:"Type 054A", desig:"Jiangkai II", country:"🇨🇳 China", type:"Frigate",
+  disp:3963,length:134,beam:16,vls:32,vnote:"HHQ-16 (H/AKJ-16)",
+  radar:"Type 382 (Sea Eagle)",aviation:"1 × Ka-28 / Z-9",crew:165,
+  costRep:"US$0.35 bn (2015)",cost2026:0.45,commYear:2008,commLabel:"2008",
+  built:"~42 active",status:"service"},
+
+ {name:"Type 054B", desig:"Jiangkai III", country:"🇨🇳 China", type:"Frigate",
+  disp:5800,length:150,beam:17,vls:32,vnote:"H/AKJ-16 (4×8)",
+  radar:"Dual-face rotating AESA",aviation:"1 × Z-20",crew:165,
+  costRep:"n/a (est.)",cost2026:0.6,costEst:true,commYear:2025,commLabel:"2025",
+  built:"2 active · building",status:"service+build"},
+
+ {name:"Mogami", desig:"30FFM", country:"🇯🇵 Japan", type:"Frigate",
+  disp:5500,length:132.5,beam:16.3,vls:16,vnote:"Mk 41 (32 on later units)",
+  radar:"OPY-2 AESA",aviation:"1 × SH-60L + UAV",crew:90,
+  costRep:"¥50 bn (~US$0.33 bn, 2017)",cost2026:0.45,commYear:2022,commLabel:"2022",
+  built:"10 built · 2 building (12)",status:"service+build"},
+
+ {name:"Hunter", desig:"Type 26 derivative", country:"🇦🇺 Australia", type:"Frigate",
+  disp:8800,length:151.4,beam:21.4,vls:32,vnote:"Mk 41 + 2×21 RAM",
+  radar:"CEAFAR-2 · Aegis / 9LV",aviation:"1 × MH-60R + UAV",crew:180,
+  costRep:"A$11.1 bn / first 3 (2024)",cost2026:2.4,cost2026Note:true,commYear:2032,commLabel:"2032 (planned)",
+  built:"6 planned · 3 building",status:"build"},
+
+ {name:"Nilgiri", desig:"Project 17A", country:"🇮🇳 India", type:"Frigate",
+  disp:6670,length:149,beam:17.8,vls:40,vnote:"32 Barak-8 + 8 BrahMos",
+  radar:"EL/M-2248 MF-STAR",aviation:"2 × helicopters",crew:226,
+  costRep:"₹4,000 cr (~US$0.49 bn, 2023)",cost2026:0.55,commYear:2025,commLabel:"2025",
+  built:"6 built · 1 building (7)",status:"service+build"},
+
+ {name:"Daegu", desig:"FFX-II", country:"🇰🇷 South Korea", type:"Frigate",
+  disp:3600,length:122,beam:14,vls:16,vnote:"K-VLS",
+  radar:"SPS-550K · Naval Shield",aviation:"1 × Wildcat",crew:140,
+  costRep:"~US$0.3 bn (est.)",cost2026:0.3,costEst:true,commYear:2018,commLabel:"2018",
+  built:"8 / 8",status:"service"},
+
+ {name:"Istanbul", desig:"İstif / I-class", country:"🇹🇷 Turkey", type:"Frigate",
+  disp:3100,length:113.2,beam:14.4,vls:16,vnote:"MIDLAS",
+  radar:"Cenk-400N AESA · ADVENT",aviation:"1 × S-70B + VTOL UAV",crew:123,
+  costRep:"US$0.5 bn",cost2026:0.55,commYear:2024,commLabel:"2024",
+  built:"3 built · 5 building (10 planned)",status:"service+build"},
+
+ {name:"Formidable", desig:"—", country:"🇸🇬 Singapore", type:"Frigate",
+  disp:3200,length:114.8,beam:16.3,vls:32,vnote:"Sylver A43/A50 (Aster 15/30)",
+  radar:"Herakles PESA",aviation:"1 × S-70B (hangar for 2)",crew:90,
+  costRep:"~US$0.5 bn (est.)",cost2026:0.5,costEst:true,commYear:2007,commLabel:"2007",
+  built:"6 / 6",status:"service"},
+
+ {name:"Tamandaré", desig:"MEKO A-100 deriv.", country:"🇧🇷 Brazil", type:"Frigate",
+  disp:3500,length:107.2,beam:16,vls:12,vnote:"Sea Ceptor CAMM",
+  radar:"TRS-4D AESA",aviation:"1 × S-70B / H225M + ScanEagle",crew:130,
+  costRep:"US$0.56 bn (2023)",cost2026:0.6,commYear:2026,commLabel:"2026",
+  built:"1 active · 3 building (+4 planned)",status:"service+build"},
+
+ {name:"Freedom", desig:"LCS (monohull)", country:"🇺🇸 United States", type:"LCS",
+  disp:3500,length:115,beam:17.5,vls:0,vnote:"No VLS · 21-cell SeaRAM + NSM",
+  radar:"TRS-3D / TRS-4D · COMBATSS-21",aviation:"1 × MH-60R/S + MQ-8",crew:50,
+  costRep:"US$0.36 bn",cost2026:0.45,commYear:2008,commLabel:"2008",
+  built:"16 built · 10 active · 6 retired",status:"service"},
+
+ {name:"Independence", desig:"LCS (trimaran)", country:"🇺🇸 United States", type:"LCS",
+  disp:3104,length:127,beam:32,vls:0,vnote:"No VLS · SeaRAM + 8 NSM + Hellfire",
+  radar:"Sea Giraffe 3D · ICMS",aviation:"1 × MH-60R/S + MQ-8",crew:40,
+  costRep:"US$0.36 bn",cost2026:0.45,commYear:2010,commLabel:"2010",
+  built:"19 built · 17 active · 2 retired",status:"service"},
+];
+
+const body = document.getElementById('body');
+const hrow = document.getElementById('hrow');
+const countEl = document.getElementById('count');
+let sortKey = 'disp', sortDir = -1, typeFilter = 'all', statusFilter = 'all', query = '', hidden = loadHidden();
+
+// header
+COLS.forEach(c=>{
+  const th = document.createElement('th');
+  th.textContent = c.label;
+  if(c.num) th.classList.add('num');
+  th.dataset.key = c.k;
+  const ar = document.createElement('span'); ar.className='ar'; ar.textContent='▲';
+  th.appendChild(ar);
+  th.addEventListener('click',()=>{
+    if(sortKey===c.k){ sortDir*=-1; } else { sortKey=c.k; sortDir=c.num?-1:1; }
+    render();
+  });
+  hrow.appendChild(th);
+});
+
+// column visibility menu
+const colMenu = document.getElementById('colMenu');
+const colMenuWrap = document.getElementById('colMenuWrap');
+COLS.forEach(c=>{
+  const lab = document.createElement('label');
+  const cb = document.createElement('input');
+  cb.type = 'checkbox'; cb.checked = !hidden.has(c.k); cb.dataset.key = c.k;
+  cb.addEventListener('change',()=>{
+    if(cb.checked) hidden.delete(c.k); else hidden.add(c.k);
+    saveHidden();
+    applyCols();
+  });
+  lab.appendChild(cb);
+  lab.append(' '+c.label);
+  colMenu.appendChild(lab);
+});
+document.getElementById('showAll').addEventListener('click',()=>{
+  hidden.clear();
+  colMenu.querySelectorAll('input').forEach(cb=>cb.checked=true);
+  saveHidden();
+  applyCols();
+});
+// close the menu when clicking elsewhere
+document.addEventListener('click',e=>{
+  if(colMenuWrap.open && !colMenuWrap.contains(e.target)) colMenuWrap.open=false;
+});
+
+const STORE_KEY = 'warships:hiddenCols';
+function loadHidden(){
+  try{
+    const valid = new Set(COLS.map(c=>c.k));
+    return new Set((JSON.parse(localStorage.getItem(STORE_KEY)) || []).filter(k=>valid.has(k)));
+  }catch(e){ return new Set(); }
+}
+function saveHidden(){
+  try{ localStorage.setItem(STORE_KEY, JSON.stringify([...hidden])); }catch(e){}
+}
+
+function applyCols(){
+  document.querySelectorAll('.warships th[data-key],.warships td[data-col]').forEach(el=>{
+    el.style.display = hidden.has(el.dataset.key || el.dataset.col) ? 'none' : '';
+  });
+}
+
+function statusCell(s){
+  if(s==='cancel') return '<span class="dot s-cancel"></span>Cancelled';
+  if(s==='build')  return '<span class="dot s-build"></span>Building / planned';
+  if(s==='service+build') return '<span class="dot s-service"></span>In service &amp; building';
+  return '<span class="dot s-service"></span>In service';
+}
+
+function render(){
+  const q = query.trim().toLowerCase();
+  let rows = D.filter(d=>{
+    if(typeFilter!=='all' && d.type!==typeFilter) return false;
+    if(statusFilter!=='all'){
+      if(statusFilter==='service' && !d.status.includes('service')) return false;
+      if(statusFilter==='build'  && !d.status.includes('build'))   return false;
+      if(statusFilter==='cancel' && d.status!=='cancel')           return false;
+    }
+    if(q){
+      const hay = (d.name+' '+d.desig+' '+d.country+' '+d.radar+' '+d.type).toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  rows.sort((a,b)=>{
+    let va=a[sortKey], vb=b[sortKey];
+    if(typeof va==='number' && typeof vb==='number') return (va-vb)*sortDir;
+    va=(''+va).toLowerCase(); vb=(''+vb).toLowerCase();
+    return va<vb?-sortDir : va>vb?sortDir : 0;
+  });
+
+  body.innerHTML = rows.map(d=>{
+    const cost = d.cost2026==null ? '—'
+      : '≈'+d.cost2026.toFixed(2)+(d.costEst?'<span class="est">*</span>':'');
+    return `<tr>
+      <td class="name" data-col="name">${d.name}<span class="desig">${d.desig}</span></td>
+      <td data-col="country">${d.country}</td>
+      <td data-col="type"><span class="type-pill type-${d.type}">${d.type==='Destroyer'?'DDG':d.type==='Frigate'?'FFG':'LCS'}</span></td>
+      <td class="num" data-col="disp">${d.disp.toLocaleString()}</td>
+      <td class="num" data-col="length">${d.length}</td>
+      <td class="num" data-col="beam">${d.beam}</td>
+      <td class="num" data-col="vls">${d.vls}<span class="vnote">${d.vnote}</span></td>
+      <td class="wrapcell" data-col="radar">${d.radar}</td>
+      <td class="wrapcell" data-col="aviation">${d.aviation}</td>
+      <td class="num" data-col="crew">${d.crew}</td>
+      <td class="wrapcell" data-col="costRep">${d.costRep}</td>
+      <td class="num" data-col="cost2026">${cost}</td>
+      <td class="num" data-col="commYear">${d.commLabel}</td>
+      <td class="wrapcell" data-col="built">${d.built}</td>
+      <td class="status" data-col="status">${statusCell(d.status)}</td>
+    </tr>`;
+  }).join('');
+
+  countEl.textContent = rows.length+' of '+D.length+' classes';
+  [...hrow.children].forEach(th=>{
+    th.classList.toggle('sorted', th.dataset.key===sortKey);
+    const ar=th.querySelector('.ar');
+    if(th.dataset.key===sortKey) ar.textContent = sortDir>0?'▲':'▼';
+    else ar.textContent='▲';
+  });
+
+  applyCols();
+}
+
+document.getElementById('typeSeg').addEventListener('click',e=>{
+  const b=e.target.closest('button'); if(!b) return;
+  typeFilter=b.dataset.type;
+  [...e.currentTarget.children].forEach(x=>x.classList.toggle('on',x===b));
+  render();
+});
+document.getElementById('statusSel').addEventListener('change',e=>{statusFilter=e.target.value;render();});
+document.getElementById('q').addEventListener('input',e=>{query=e.target.value;render();});
+
+render();
+</script>
