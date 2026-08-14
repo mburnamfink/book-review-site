@@ -3,8 +3,10 @@ authors:
 - first: J. Zachary
   last: Pike
   role: author
+cover: ./cover.jpg
 date_reviewed: '2026-08-14'
 isbn: 978-0990859611
+og_cover: ./og-cover.jpg
 page_count: 364
 publication_year: 2014
 publisher: Gnomish Press, LLC
@@ -20,6 +22,7 @@ tags:
 title: 'Orconomics: A Satire'
 type: book
 ---
+
 *Orconomics* is generic dungeon fantasy, buttressed by load-bearing puns. In this world, adventuring is big business, with adventurer support services and horde-backed securities making up a major part of the kingdom's GDP. Heroes are part of a guild, which organizes the violence and looting and ensures that it is mostly directed outwards at designated Forces of Evil like orcs, goblins, and drakes. A goblin that doesn't want to run the risk of getting dismembered can put in for the Noncombatant Paper Carrier status and get a little green booklet protecting them from arbitrary murder.
 
 Gorm is a washed up Dwarven berserker who spares a Goblin's life out of arbitrary pique and finds himself drawn back into one last quest with a party consisting of tropey fuck-ups. The Elven Marbles, a set of orc funerary stones named after the elves who "recovered" them, have gone missing, and the legendary Seventh Hero is prophesied to recover them. Gorm has to figure out how to get his companions: an Elven ranger addicted to potions, a very spoony bard, two wizards who can't stand each other, a silent weaponmaster, and a hapless scribe, to fight together or die separately. They wander around the Freedlands, looking for the marbles, fighting various creatures and thugs, learning to overcome their weaknesses, and eventually realize that Capitalism Was The Real Monster All Along. 
