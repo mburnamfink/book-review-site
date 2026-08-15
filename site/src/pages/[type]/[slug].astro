@@ -81,9 +81,35 @@ const ogCoverUrl = `/${type}/${slug}/og-cover.jpg`;
 const description = d.authors.length
   ? `A review of ${d.title} by ${authorLine(d.authors)}.`
   : `A review of ${d.title}.`;
+
+const origin = new URL(Astro.site!).origin;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+
+const bookAuthors = d.authors
+  .filter(a => a.role === 'author')
+  .map(a => ({ '@type': 'Person', name: [a.first, a.last].filter(Boolean).join(' ') }));
+
+const reviewSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Review',
+  '@id': `${canonical}#review`,
+  url: canonical,
+  name: `Review of ${d.title}`,
+  author: { '@id': `${origin}/#person` },
+  datePublished: d.date_reviewed.toISOString().slice(0, 10),
+  itemReviewed: {
+    '@type': 'Book',
+    name: d.title,
+    ...(bookAuthors.length ? { author: bookAuthors } : {}),
+    ...(d.isbn ? { isbn: d.isbn } : {}),
+  },
+  ...(d.rating !== undefined
+    ? { reviewRating: { '@type': 'Rating', ratingValue: d.rating, bestRating: 5, worstRating: 1 } }
+    : {}),
+};
 ---
 
-<Base title={d.title} description={description} ogImage={hasOgCover ? ogCoverUrl : undefined}>
+<Base title={d.title} description={description} ogImage={hasOgCover ? ogCoverUrl : undefined} jsonLd={reviewSchema}>
   <h1 class="review-title">{d.title}</h1>
   <p class="review-byline">by {authorLine(d.authors)}</p>
 
