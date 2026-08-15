@@ -1,7 +1,8 @@
 ---
 layout: ../layouts/Page.astro
-title: About
-description: About this book review site.
+title: About Michael Burnam-Fink
+heading: About
+description: Burrowed Books is the book review site of Michael Burnam-Fink, a data scientist and machine learning engineer.
 ---
 
 Reading without incorporating the words is empty consumption. Writing book reviews is a way to recall what I have learned and share the books that stand out. Like my Hershele, I hope you'll sink your teeth into a book.

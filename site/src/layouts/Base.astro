@@ -16,6 +16,43 @@ const latestBoty = (await getCollection('booksOfYear'))
   .sort((a, b) => b.data.year - a.data.year)[0];
 const siteTitle = 'Burrowed Books';
 const pageTitle = title === siteTitle ? siteTitle : `${title} — ${siteTitle}`;
+
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const ogImageUrl = ogImage
+  ? (ogImage.startsWith('http') ? ogImage : new URL(ogImage, Astro.site).href)
+  : undefined;
+
+const origin = new URL(Astro.site!).origin;
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${origin}/#website`,
+      url: `${origin}/`,
+      name: siteTitle,
+      author: { '@id': `${origin}/#person` },
+    },
+    {
+      '@type': 'Person',
+      '@id': `${origin}/#person`,
+      name: 'Michael Burnam-Fink',
+      url: `${origin}/about/`,
+      jobTitle: 'Machine Learning Engineer',
+      sameAs: [
+        'https://www.linkedin.com/in/mburnamfink/',
+        'https://www.goodreads.com/user/show/4828849-michael-burnam-fink',
+        'https://medium.com/@mburnamfink',
+        'https://bsky.app/profile/mburnamfink.bsky.social',
+        'https://github.com/mburnamfink',
+        'https://x.com/mburnamfink',
+        'https://asu.academia.edu/MichaelBurnamFink',
+        'https://www.researchgate.net/profile/Michael-Burnam-Fink',
+        'https://www.facebook.com/mburnamfink/',
+      ],
+    },
+  ],
+};
 ---
 
 <!doctype html>
@@ -35,9 +72,16 @@ const pageTitle = title === siteTitle ? siteTitle : `${title} — ${siteTitle}`;
     </script>
     <title>{pageTitle}</title>
     {description && <meta name="description" content={description} />}
+    <meta name="author" content="Michael Burnam-Fink" />
+    <link rel="canonical" href={canonical} />
     <meta property="og:title" content={pageTitle} />
     {description && <meta property="og:description" content={description} />}
-    {ogImage && <meta property="og:image" content={ogImage} />}
+    {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={siteTitle} />
+    <meta name="twitter:card" content={ogImageUrl ? 'summary_large_image' : 'summary'} />
+    <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
