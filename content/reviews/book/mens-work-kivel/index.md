@@ -21,6 +21,7 @@ tags:
 title: 'Men''s Work: How to Stop the Violence That Tears Our Lives Apart'
 type: book
 ---
+
 *Men's Work* is a foundational text for modern male self-help, which has important insights. Unfortunately, its impact has been lessened by 30 years of social transformation mostly along the lines it advocates, and a narrow grounding in the Oakland Men's Project rather than a broader theoretical perspective.
 
 Kivel's major theoretical object is the Act Like a Man Box, a cluster of behaviors and attitudes which describe the socially acceptable way to be a man, and which imply an emotionally stunted life characterized by alienation and pain.
